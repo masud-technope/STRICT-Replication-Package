@@ -1,0 +1,1 @@
+resplit method Restore split configuration unsplitting j Edit jEdit pre resplit last Split Config lastSplitConfig javax swing UIManager get Look And Feel getLookAndFeel provide Error Feedback provideErrorFeedback set Split Config setSplitConfig last Split Config lastSplitConfig

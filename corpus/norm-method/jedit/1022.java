@@ -1,0 +1,1 @@
+Clear caches Bsh Class Manager BshClassManager clear Caches clearCaches absolute Non Classes absoluteNonClasses Hashtable absolute Class Cache absoluteClassCache Hashtable resolved Object Methods resolvedObjectMethods Hashtable resolved Static Methods resolvedStaticMethods Hashtable

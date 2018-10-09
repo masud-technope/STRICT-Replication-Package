@@ -1,0 +1,1 @@
+get Start getStart method Returns portion selection falling manipulate selection text basis param buffer buffer param number j Edit jEdit pre get Start getStart JEdit Buffer JEditBuffer buffer

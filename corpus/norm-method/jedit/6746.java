@@ -1,0 +1,1 @@
+get Tool Tip Text getToolTipText method String get Tool Tip Text getToolTipText Entry extension extensions Text Area Extension TextAreaExtension ext extension ext String tool Tip toolTip ext get Tool Tip Text getToolTipText tool Tip toolTip tool Tip toolTip

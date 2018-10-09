@@ -1,0 +1,1 @@
+get Macro Hierarchy getMacroHierarchy method Returns vector hierarchy macros element vector macro string vector vector element string label macro strings vectors j Edit jEdit pre Vector get Macro Hierarchy getMacroHierarchy macro Hierarchy macroHierarchy

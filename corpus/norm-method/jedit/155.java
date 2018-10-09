@@ -1,0 +1,1 @@
+Files Contents Resources directory process Resource File Sets processResourceFileSets process Copying File Sets processCopyingFileSets m Resource File Sets mResourceFileSets m Resources Dir mResourcesDir

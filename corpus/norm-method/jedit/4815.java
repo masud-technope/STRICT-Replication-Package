@@ -1,0 +1,1 @@
+Opens file Note j Edit jEdit pre buffer opened param view view open file param path file path buffer j Edit jEdit unable load j Edit jEdit pre Buffer open File openFile View view String path open File openFile view path Hashtable String Object

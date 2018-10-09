@@ -1,0 +1,1 @@
+get Line Count getLineCount method number physical lines buffer method thread safe j Edit jEdit pre get Line Count getLineCount lock returns line Mgr lineMgr get Line Count getLineCount

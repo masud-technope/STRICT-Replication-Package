@@ -1,0 +1,1 @@
+Adds method reference constant pool build constant pool item param owner internal method owner param method param desc method descriptor existing method reference item Item new Method newMethod String owner String String desc key set METH owner desc Item result key result METH new Class newClass owner new Name Type newNameType desc result Item key result result

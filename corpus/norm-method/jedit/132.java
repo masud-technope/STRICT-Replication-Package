@@ -1,0 +1,1 @@
+Setter version attribute optional property CFBundle Version CFBundleVersion receive version string http developer apple documentation Mac OSX MacOSX Conceptual BPRuntime Config BPRuntimeConfig set Version setVersion String bundle Properties bundleProperties set CFBundle Short Version String setCFBundleShortVersionString

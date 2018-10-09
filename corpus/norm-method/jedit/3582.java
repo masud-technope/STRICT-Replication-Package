@@ -1,0 +1,1 @@
+is Assigned isAssigned shortcut shortcut length

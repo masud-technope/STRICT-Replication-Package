@@ -1,0 +1,1 @@
+History Entry HistoryEntry constructor History Entry HistoryEntry String url String title scroll Position scrollPosition url url title title scroll Position scrollPosition scroll Position scrollPosition

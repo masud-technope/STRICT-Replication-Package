@@ -1,0 +1,1 @@
+get Border Insets getBorderInsets method Insets get Border Insets getBorderInsets Component insets

@@ -1,0 +1,1 @@
+set Default Max Size setDefaultMaxSize method Sets max size characters history models change max size history call link set Max Size setMaxSize j Edit jEdit pre set Default Max Size setDefaultMaxSize new Max newMax History Model HistoryModel default Max Size defaultMaxSize new Max newMax

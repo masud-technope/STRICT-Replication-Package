@@ -1,0 +1,1 @@
+update Line Number Width updateLineNumberWidth method update Line Number Width updateLineNumberWidth Font get Font getFont set Font setFont get Font getFont

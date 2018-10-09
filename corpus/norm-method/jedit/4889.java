@@ -1,0 +1,1 @@
+get Boolean Property getBooleanProperty method Returns property param property get Boolean Property getBooleanProperty String get Boolean Property getBooleanProperty

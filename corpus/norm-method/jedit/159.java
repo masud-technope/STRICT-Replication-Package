@@ -1,0 +1,1 @@
+Michael Bader nufan Setter LSArchitecture Priority LSArchitecturePriority attribute optional set LSArchitecture Priority setLSArchitecturePriority String bundle Properties bundleProperties set LSArchitecture Priority setLSArchitecturePriority

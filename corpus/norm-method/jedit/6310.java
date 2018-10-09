@@ -1,0 +1,1 @@
+Override key Pressed keyPressed Key Event KeyEvent evt evt get Key Code getKeyCode Key Event KeyEvent ESCAPE is Removable isRemovable view remove Tool Bar removeToolBar Search Bar SearchBar evt consume view get Edit Pane getEditPane focus On Text Area focusOnTextArea Key Event KeyEvent ENTER evt is Shift Down isShiftDown evt consume find

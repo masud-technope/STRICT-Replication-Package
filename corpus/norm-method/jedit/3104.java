@@ -1,0 +1,1 @@
+method Stops animation resets frame current timer timer timer set Image setImage icon host repaint

@@ -1,0 +1,1 @@
+next Tab Stop nextTabStop method Implementation Tab Expander TabExpander Returns tab point param ordinate param tab Offset tabOffset tab next Tab Stop nextTabStop tab Offset tabOffset ntabs text Area textArea tab Size tabSize ntabs text Area textArea tab Size tabSize

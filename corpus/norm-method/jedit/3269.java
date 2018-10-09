@@ -1,0 +1,1 @@
+get Dockable Window Iterator getDockableWindowIterator method Iterator Window get Dockable Window Iterator getDockableWindowIterator dockable Window Factories dockableWindowFactories values iterator

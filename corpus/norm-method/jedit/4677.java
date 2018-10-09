@@ -1,0 +1,1 @@
+method starts requires session object canon Path canonPath method Returns canonical form path code code expanded user directory param session session param path path param comp component parent error dialog boxes exception IOException error occurred j Edit jEdit pre String canon Path canonPath Object session String path Component comp IOException path

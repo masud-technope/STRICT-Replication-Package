@@ -1,0 +1,1 @@
+get Shortcut getShortcut method String get Shortcut getShortcut shortcut String shortcut Prefix shortcutPrefix j Edit jEdit get Property getProperty shortcut Prop shortcutProp shortcut Prefix shortcutPrefix shortcut Prefix shortcutPrefix shortcut

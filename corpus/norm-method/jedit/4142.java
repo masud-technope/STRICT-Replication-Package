@@ -1,0 +1,1 @@
+get Message getMessage method Returns current message current message j Edit jEdit pre String get Message getMessage message get Text getText

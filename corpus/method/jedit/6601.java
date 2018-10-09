@@ -1,0 +1,4 @@
+//}}}
+int getPhysicalLine() {
+    return physicalLine;
+}

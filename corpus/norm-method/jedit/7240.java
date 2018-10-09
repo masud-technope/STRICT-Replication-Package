@@ -1,0 +1,1 @@
+AWT stuff add Left Of Scroll Bar addLeftOfScrollBar method Adds component left side box left vertical scroll bar Error List ErrorList plugin global error overview component left side box turn Adding left ensures scrollbar components param comp component j Edit jEdit pre add Left Of Scroll Bar addLeftOfScrollBar Component comp vertical Box verticalBox add comp

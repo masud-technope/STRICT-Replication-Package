@@ -1,0 +1,1 @@
+need Full Repaint needFullRepaint method need Full Repaint needFullRepaint variable number screen lines physical Text Area TextArea full repaint need Full Repaint needFullRepaint ret Val retVal need Full Repaint needFullRepaint need Full Repaint needFullRepaint ret Val retVal

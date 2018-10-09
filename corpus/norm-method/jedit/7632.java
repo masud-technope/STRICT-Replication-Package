@@ -1,0 +1,1 @@
+Segment Buffer SegmentBuffer constructor Segment Buffer SegmentBuffer capacity ensure Capacity ensureCapacity capacity

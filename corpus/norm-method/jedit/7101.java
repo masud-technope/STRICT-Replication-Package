@@ -1,0 +1,1 @@
+is Caret Blink Enabled isCaretBlinkEnabled method caret blinking is Caret Blink Enabled isCaretBlinkEnabled caret Blinks caretBlinks

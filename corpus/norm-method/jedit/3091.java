@@ -1,0 +1,1 @@
+String get First Line Glob getFirstLineGlob first Line Glob firstLineGlob get Text getText

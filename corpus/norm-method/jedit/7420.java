@@ -1,0 +1,1 @@
+Edit Pane EditPane edit Pane editPane Edit Pane EditPane text Area textArea j Edit jEdit open File openFile edit Pane editPane url

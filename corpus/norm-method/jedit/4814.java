@@ -1,0 +1,1 @@
+open File openFile methods Opens file application finished starting view created param path file path buffer succesfully loaded j Edit jEdit pre Buffer open File After Startup openFileAfterStartup String path is Startup Done isStartupDone open File openFile get Active View getActiveView path additional file names treated passed command additional Files additionalFiles add path

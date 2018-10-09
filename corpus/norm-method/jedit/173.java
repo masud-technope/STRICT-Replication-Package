@@ -1,0 +1,1 @@
+Setter NSSupports Automatic Graphics Switching NSSupportsAutomaticGraphicsSwitching attribute optional set Supports Automatic Graphics Switching setSupportsAutomaticGraphicsSwitching bundle Properties bundleProperties set NSSupports Automatic Graphics Switching setNSSupportsAutomaticGraphicsSwitching

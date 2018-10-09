@@ -1,0 +1,1 @@
+Re Init ReInit Java Char Stream JavaCharStream stream jjmatched Pos jjmatchedPos jjnew State Cnt jjnewStateCnt cur Lex State curLexState default Lex State defaultLexState input stream stream Re Init Rounds ReInitRounds

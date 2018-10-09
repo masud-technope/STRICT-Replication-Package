@@ -1,0 +1,1 @@
+error method Reports error urgency code Log ERROR code param comp component param path path caused error param message Prop messageProp error message property param args Positional parameters j Edit jEdit pre error Component comp String path String message Prop messageProp Object args error comp path message Prop messageProp args Log ERROR

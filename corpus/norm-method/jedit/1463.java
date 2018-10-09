@@ -1,0 +1,1 @@
+Java Char Stream JavaCharStream java Reader dstream startline startcolumn buffersize input Stream inputStream dstream startline column startcolumn bufsize buffersize buffer buffersize bufline buffersize bufcolumn buffersize next Char Buf nextCharBuf

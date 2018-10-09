@@ -1,0 +1,1 @@
+get Anti Alias getAntiAlias method Anti Alias AntiAlias Text Areas TextAreas jedit pre Anti Alias AntiAlias get Anti Alias getAntiAlias anti Alias antiAlias

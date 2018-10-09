@@ -1,0 +1,1 @@
+get Boolean Property getBooleanProperty method Returns property param property param def get Boolean Property getBooleanProperty String def String get Property getProperty Standard Utilities StandardUtilities get Boolean getBoolean def

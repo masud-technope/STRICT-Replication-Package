@@ -1,0 +1,1 @@
+constructor Plugin Res URLConnection PluginResURLConnection URL url IOException url String file url get File getFile file index Of indexOf plugin resource file start file char At charAt start start plugin file substring start resource file substring plugin resource starts With startsWith resource resource substring

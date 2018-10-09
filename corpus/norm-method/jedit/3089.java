@@ -1,0 +1,1 @@
+String get Mode File getModeFile mode File modeFile get Text getText

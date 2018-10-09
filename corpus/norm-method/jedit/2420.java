@@ -1,0 +1,1 @@
+transaction Complete transactionComplete method Called undo compound edit finished text area event queue collapse cleanup operations transaction Replace operation param buffer buffer question j Edit jEdit pre transaction Complete transactionComplete JEdit Buffer JEditBuffer buffer

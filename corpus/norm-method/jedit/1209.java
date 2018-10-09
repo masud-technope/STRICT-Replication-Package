@@ -1,0 +1,1 @@
+array object type remove prefix suffix factored adding String descriptor To Class Name descriptorToClassName String starts With startsWith starts With startsWith substring length

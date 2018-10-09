@@ -1,0 +1,1 @@
+want Two Stage Save wantTwoStageSave method want Two Stage Save wantTwoStageSave Buffer buffer buffer get Boolean Property getBooleanProperty forbid Two Stage Save forbidTwoStageSave buffer get Boolean Property getBooleanProperty overwrite Readonly overwriteReadonly j Edit jEdit get Boolean Property getBooleanProperty two Stage Save twoStageSave

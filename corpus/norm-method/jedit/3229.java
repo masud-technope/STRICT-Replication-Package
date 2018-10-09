@@ -1,0 +1,1 @@
+mouse Released mouseReleased method mouse Released mouseReleased Mouse Event MouseEvent evt can Drag canDrag continuous Layout continuousLayout panel set Dimension setDimension resize Pos resizePos Panel Window Container PanelWindowContainer SPLITTER WIDTH finish Resizing finishResizing drag Start dragStart revalidate

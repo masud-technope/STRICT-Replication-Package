@@ -1,0 +1,1 @@
+is Selection Area Enabled isSelectionAreaEnabled method is Selection Area Enabled isSelectionAreaEnabled selection Area Enabled selectionAreaEnabled

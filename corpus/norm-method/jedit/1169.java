@@ -1,0 +1,1 @@
+can Generate Interfaces canGenerateInterfaces class Exists classExists caches info class Exists classExists java lang reflect Proxy

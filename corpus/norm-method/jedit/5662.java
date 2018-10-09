@@ -1,0 +1,1 @@
+Choose Plugin Set ChoosePluginSet constructor Choose Plugin Set ChoosePluginSet set Icon setIcon GUIUtilities load Icon loadIcon j Edit jEdit get Property getProperty install plugins choose plugin set icon add Action Listener addActionListener update UI updateUI

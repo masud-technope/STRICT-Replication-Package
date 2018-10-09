@@ -1,0 +1,1 @@
+get Status getStatus method Returns status bar link org gjt jedit gui Status Bar StatusBar set Message setMessage String link org gjt jedit gui Status Bar StatusBar set Message And Clear setMessageAndClear String methods called method display status user j Edit jEdit pre Status Bar StatusBar get Status getStatus status

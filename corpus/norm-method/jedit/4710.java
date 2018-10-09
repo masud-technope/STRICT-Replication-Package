@@ -1,0 +1,1 @@
+is Writeable isWriteable method is Writeable isWriteable can Write canWrite

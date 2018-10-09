@@ -1,0 +1,4 @@
+//{{{ Rect constructor
+public  Rect() {
+//}}}
+}

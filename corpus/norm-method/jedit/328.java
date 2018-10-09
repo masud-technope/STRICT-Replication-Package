@@ -1,0 +1,1 @@
+read Unsigned Char readUnsignedChar bs R bsR

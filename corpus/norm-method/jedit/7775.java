@@ -1,0 +1,1 @@
+get Mark getMark Buffer buffer String prop Name propName make Buffer Property Name makeBufferPropertyName emacs mark mark get Cardinal Property getCardinalProperty prop Name propName mark mark buffer get Length getLength mark buffer get Length getLength mark

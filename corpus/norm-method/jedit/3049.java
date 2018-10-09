@@ -1,0 +1,1 @@
+Adds widget buttons panel bottom component button row separated normal buttons j Edit jEdit pre add Button addButton JComponent buttons add

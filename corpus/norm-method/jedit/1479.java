@@ -1,0 +1,1 @@
+Returns number children stack current node scope node Arity nodeArity

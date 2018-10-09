@@ -1,0 +1,1 @@
+properties Changed propertiesChanged method properties Changed propertiesChanged show Icons showIcons j Edit jEdit get Boolean Property getBooleanProperty vfs browser show Icons showIcons default Icons defaultIcons j Edit jEdit get Boolean Property getBooleanProperty vfs browser use Default Icons useDefaultIcons

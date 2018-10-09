@@ -1,0 +1,1 @@
+parent namespace reference namespace reference top get Super getSuper Interpreter declaring Interpreter declaringInterpreter parent parent get This getThis declaring Interpreter declaringInterpreter get This getThis declaring Interpreter declaringInterpreter

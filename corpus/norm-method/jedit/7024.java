@@ -1,0 +1,1 @@
+Converts offset point text area painter ordinate space param param offset offset location offset screen code code offset visible Point offset To XY offsetToXY offset offset To XY offsetToXY offset Point

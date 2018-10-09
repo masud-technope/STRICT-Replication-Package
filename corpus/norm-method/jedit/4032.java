@@ -1,0 +1,1 @@
+update Buffer buffer view get Buffer getBuffer buffer is Loaded isLoaded fold set Text setText String view get Buffer getBuffer get Property getProperty folding

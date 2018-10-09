@@ -1,0 +1,1 @@
+get Flag getFlag method is Autoreload Property Overriden isAutoreloadPropertyOverriden get Flag getFlag AUTORELOAD j Edit jEdit get Boolean Property getBooleanProperty auto Reload autoReload get Flag getFlag AUTORELOAD DIALOG j Edit jEdit get Boolean Property getBooleanProperty auto Reload Dialog autoReloadDialog

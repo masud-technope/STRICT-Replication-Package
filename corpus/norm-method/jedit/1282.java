@@ -1,0 +1,1 @@
+is Class File Name isClassFileName String to Lower Case toLowerCase ends With endsWith index Of indexOf

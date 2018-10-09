@@ -1,0 +1,1 @@
+parent Interpreter interpreter relationship implies Parent child share Bsh Class Manager BshClassManager Children parent source file error reporting created source eval child shares parent namespace general Interpreter get Parent getParent parent

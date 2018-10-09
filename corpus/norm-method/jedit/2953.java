@@ -1,0 +1,1 @@
+Text Area TextArea method Returns Edit Pane EditPane Text Area TextArea param text Area textArea Edit Pane EditPane Text Area TextArea Edit Pane EditPane Text Area TextArea Edit Pane EditPane Swing Utilities SwingUtilities get Ancestor Of Class getAncestorOfClass Edit Pane EditPane

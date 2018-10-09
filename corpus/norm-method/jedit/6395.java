@@ -1,0 +1,1 @@
+finish method Perform step saving finish IOException close j Edit jEdit backup Settings File backupSettingsFile file file delete two Stage Save File twoStageSaveFile rename To renameTo file known Last Modified knownLastModified file last Modified lastModified

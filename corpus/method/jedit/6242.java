@@ -1,0 +1,1 @@
+void visit(Buffer buffer, HyperSearchResult result);

@@ -1,0 +1,1 @@
+Called text inserted buffer param buffer buffer question param start Line startLine param start start offset buffer param num Lines numLines number lines inserted param length number characters inserted code code selection changed content Inserted contentInserted JEdit Buffer JEditBuffer buffer start Line startLine start num Lines numLines length

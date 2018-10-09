@@ -1,0 +1,1 @@
+Test type converted type Bean Shell BeanShell extended syntax rules superset Java conversion rules is Bsh Assignable isBshAssignable to Type toType from Type fromType cast Object castObject to Type toType from Value fromValue from Type fromType ASSIGNMENT check Only checkOnly VALID Util Eval Error UtilEvalError Interpreter Error InterpreterError err check

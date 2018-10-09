@@ -1,0 +1,1 @@
+set Buffer setBuffer method set Buffer setBuffer JEdit Buffer JEditBuffer new Buffer newBuffer buffer buffer remove Buffer Listener removeBufferListener buffer Listener bufferListener buffer new Buffer newBuffer buffer buffer add Buffer Listener addBufferListener buffer Listener bufferListener update Line Number Width updateLineNumberWidth

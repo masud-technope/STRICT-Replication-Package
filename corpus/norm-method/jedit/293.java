@@ -1,0 +1,1 @@
+Write array param write param buf array write param offset offset buffer write param length number header bytes write number bytes written buffer get Name Bytes getNameBytes String Buffer StringBuffer buf offset length length length buf offset char At charAt length buf offset offset length

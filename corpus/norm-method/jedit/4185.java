@@ -1,0 +1,1 @@
+Text Area Dialog TextAreaDialog constructor Text Area Dialog TextAreaDialog Frame frame String Throwable frame j Edit jEdit get Property getProperty title j Edit jEdit get Property getProperty message UIManager get Icon getIcon Option Pane OptionPane error Icon errorIcon Misc Utilities MiscUtilities throwable To String throwableToString

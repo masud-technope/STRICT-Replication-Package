@@ -1,0 +1,1 @@
+load Tool Button loadToolButton method Loads tool bar button tooltip constructed code label code code shortcut code properties icon loaded resource named org gjt jedit icons suffixed code icon code property param button button Enhanced Button EnhancedButton load Tool Button loadToolButton String load Tool Button loadToolButton j Edit jEdit get Action Context getActionContext

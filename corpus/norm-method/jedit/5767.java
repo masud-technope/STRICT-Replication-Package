@@ -1,0 +1,1 @@
+add Plugin addPlugin method add Plugin addPlugin Plugin plugin plugins add plugin plugin Hash pluginHash plugin plugin

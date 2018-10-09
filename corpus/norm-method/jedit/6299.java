@@ -1,0 +1,1 @@
+timer Incremental Search timerIncrementalSearch method timer Incremental Search timerIncrementalSearch start reverse search Start searchStart start search Reverse searchReverse reverse timer timer set Repeats setRepeats timer set Initial Delay setInitialDelay timer start

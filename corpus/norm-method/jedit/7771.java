@@ -1,0 +1,1 @@
+add To Clipboard And History addToClipboardAndHistory String string set Clipboard setClipboard string History Model HistoryModel get Model getModel clipboard add Item addItem string

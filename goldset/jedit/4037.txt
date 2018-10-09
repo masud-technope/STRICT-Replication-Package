@@ -1,0 +1,7 @@
+org/gjt/sp/jedit/print/BufferPrintable1_7.java
+org/gjt/sp/jedit/print/BufferPrinter1_7.java
+org/gjt/sp/jedit/print/PageBreakExtension.java
+org/gjt/sp/jedit/print/PrintPreviewModel.java
+org/gjt/sp/jedit/print/PrintRangeType.java
+org/gjt/sp/jedit/print/PrinterDialog.java
+org/gjt/sp/jedit/print/Reverse.java

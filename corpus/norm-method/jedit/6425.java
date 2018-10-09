@@ -1,0 +1,1 @@
+draw Glyphs drawGlyphs method Draws internal list glyph vectors graphics object param gfx draw glyphs param Starting horizontal position param Vertical position draw Glyphs drawGlyphs Graphics gfx Glyph Vector GlyphVector glyphs gfx draw Glyph Vector drawGlyphVector get Logical Bounds getLogicalBounds get Width getWidth

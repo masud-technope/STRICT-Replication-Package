@@ -1,0 +1,1 @@
+get Bottom Docking Area getBottomDockingArea method Panel Window Container PanelWindowContainer get Bottom Docking Area getBottomDockingArea bottom

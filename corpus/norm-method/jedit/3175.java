@@ -1,0 +1,1 @@
+Returns number candidates get Size getSize

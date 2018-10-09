@@ -1,0 +1,1 @@
+Offset conversion xy To Offset xyToOffset methods Converts point offset Note previous j Edit jEdit versions method returns ordinate bounds param ordinate point param ordinate point xy To Offset xyToOffset xy To Offset xyToOffset

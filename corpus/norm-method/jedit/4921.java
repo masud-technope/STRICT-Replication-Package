@@ -1,0 +1,1 @@
+invoke method Invokes action implementation Command pattern concrete actions override param arg argument invoke arg

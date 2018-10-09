@@ -1,0 +1,1 @@
+save Selection saveSelection method Save selection list list filled jar names selected entries param saved Selection savedSelection list save selection save Selection saveSelection List String saved Selection savedSelection table rows table get Selected Rows getSelectedRows row rows saved Selection savedSelection add entries row jar

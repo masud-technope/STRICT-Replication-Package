@@ -1,0 +1,1 @@
+get Mode getMode method Returns edit mode param edit mode j Edit jEdit pre Mode get Mode getMode String modes

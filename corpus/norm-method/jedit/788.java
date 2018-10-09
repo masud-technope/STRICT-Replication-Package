@@ -1,0 +1,1 @@
+get VFSFile Filter getVFSFileFilter method Returns active VFSFile Filter VFSFileFilter j Edit jEdit pre VFSFile Filter VFSFileFilter get VFSFile Filter getVFSFileFilter mode CHOOSE DIRECTORY DIALOG Directories Only Filter DirectoriesOnlyFilter VFSFile Filter VFSFileFilter filter Field filterField get Selected Item getSelectedItem

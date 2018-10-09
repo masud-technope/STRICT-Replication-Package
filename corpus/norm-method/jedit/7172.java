@@ -1,0 +1,1 @@
+get Line Text getLineText methods Returns text param line Index lineIndex number text line Index lineIndex invalid String get Line Text getLineText line Index lineIndex buffer get Line Text getLineText line Index lineIndex

@@ -1,0 +1,1 @@
+DockableWindowManager create(View view, DockableWindowFactory instance, ViewConfig config);

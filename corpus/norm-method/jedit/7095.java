@@ -1,0 +1,1 @@
+set Electric Scroll setElectricScroll method Sets number lines top bottom text area visible param electric Scroll electricScroll number lines visible top bottom set Electric Scroll setElectricScroll electric Scroll electricScroll electric Scroll electricScroll electric Scroll electricScroll

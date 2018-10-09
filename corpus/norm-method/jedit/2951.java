@@ -1,0 +1,1 @@
+set Buffer setBuffer methods Sets current buffer param buffer buffer edit j Edit jEdit pre set Buffer setBuffer Nonnull Buffer buffer set Buffer setBuffer buffer

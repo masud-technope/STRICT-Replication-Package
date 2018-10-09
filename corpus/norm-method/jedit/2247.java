@@ -1,0 +1,1 @@
+double Unary Operation doubleUnaryOperation kind operand double Value doubleValue kind operand operand Interpreter Error InterpreterError bad unary Operation unaryOperation

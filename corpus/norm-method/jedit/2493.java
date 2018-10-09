@@ -1,0 +1,1 @@
+get Line Of Offset getLineOfOffset method Returns offset method thread safe param offset offset offset j Edit jEdit pre get Line Of Offset getLineOfOffset offset read Lock readLock offset offset get Length getLength Array Index Out Of Bounds Exception ArrayIndexOutOfBoundsException offset line Mgr lineMgr get Line Of Offset getLineOfOffset offset read Unlock readUnlock

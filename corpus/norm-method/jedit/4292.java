@@ -1,0 +1,1 @@
+load Menu loadMenu method Creates menu menu label set code label code property menu contents code code property whitespace separated list action names action code code inserts separator menu param menu menu load Menu Item loadMenuItem String j Edit jEdit pre JMenu load Menu loadMenu String load Menu loadMenu j Edit jEdit get Action Context getActionContext

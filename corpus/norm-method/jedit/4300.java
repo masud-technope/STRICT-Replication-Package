@@ -1,0 +1,1 @@
+load Geometry loadGeometry method Loads windows geometry properties geometry loaded code code code code code width code code height code properties param win window load geometry param window load Geometry loadGeometry Window win String load Geometry loadGeometry win win get Parent getParent

@@ -1,0 +1,1 @@
+get Minimum Size getMinimumSize method Returns split pane compatibility Override Dimension get Minimum Size getMinimumSize Dimension

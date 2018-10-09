@@ -1,0 +1,3 @@
+#4037 Print preview of selection not working
+
+Print preview for 'selection' is not working correctly. Open a buffer, select some text, File - Print - General tab, select "Selection", click Preview, and the entire buffer is shown.

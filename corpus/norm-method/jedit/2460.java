@@ -1,0 +1,1 @@
+Returns fold handler registered handler param desired fold handler Fold Handler FoldHandler doesn exist j Edit jEdit pre Fold Handler FoldHandler get Fold Handler getFoldHandler String folds

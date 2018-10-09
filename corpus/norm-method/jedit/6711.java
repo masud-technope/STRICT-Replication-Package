@@ -1,0 +1,1 @@
+get First Visible Line getFirstVisibleLine method Returns physical number visible j Edit jEdit pre get First Visible Line getFirstVisibleLine folds

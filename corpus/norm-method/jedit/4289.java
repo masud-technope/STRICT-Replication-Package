@@ -1,0 +1,1 @@
+get Plugin Icon getPluginIcon method plugin window image Image get Plugin Icon getPluginIcon get Editor Icon getEditorIcon

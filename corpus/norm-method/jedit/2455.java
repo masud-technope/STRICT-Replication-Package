@@ -1,0 +1,1 @@
+get Text getText methods String get Text getText start len start gap Start gapStart String text start gap Length gapLength len start len gap Start gapStart String text start len String text start gap Start gapStart start concat String text gap End gapEnd start len gap Start gapStart

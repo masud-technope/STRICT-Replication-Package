@@ -1,0 +1,1 @@
+Override paint Fold Shape paintFoldShape Graphics gfx top bottom gfx draw Arc drawArc top bottom top

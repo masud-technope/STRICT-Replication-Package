@@ -1,0 +1,1 @@
+reset Last Action Count resetLastActionCount method Resets action count called editing operation action invoked mouse click j Edit jEdit pre reset Last Action Count resetLastActionCount last Action Count lastActionCount

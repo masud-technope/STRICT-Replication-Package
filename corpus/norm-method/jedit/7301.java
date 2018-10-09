@@ -1,0 +1,1 @@
+set Caret Position setCaretPosition methods Sets caret position deactivates selection param new Caret newCaret caret position set Caret Position setCaretPosition new Caret newCaret select None selectNone move Caret Position moveCaretPosition new Caret newCaret

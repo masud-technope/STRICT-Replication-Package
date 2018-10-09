@@ -1,0 +1,1 @@
+Returns objects code code method object has Next hasNext iterator has Next hasNext

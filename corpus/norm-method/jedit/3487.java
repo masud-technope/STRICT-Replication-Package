@@ -1,0 +1,1 @@
+method Override name Text Field nameTextField VFSFile vfs File vfsFile browser get Selected Files getSelectedFiles vfs File vfsFile get VFS getVFS get Capabilities getCapabilities VFS RENAME CAP browser rename vfs File vfsFile name Text Field nameTextField get Text getText GUIUtilities save Geometry saveGeometry propdialog set Visible setVisible

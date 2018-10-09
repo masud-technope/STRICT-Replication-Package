@@ -1,0 +1,1 @@
+set Highlighted Foreground setHighlightedForeground method set Highlighted Foreground setHighlightedForeground Color highlight interval Highlight intervalHighlight highlight

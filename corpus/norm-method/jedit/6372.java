@@ -1,0 +1,1 @@
+Object get Instance getInstance instance Is Null instanceIsNull instance lazy instantiation instance Bean Shell BeanShell eval Bean Shell BeanShell get Name Space getNameSpace code instance avoid running script instance Is Null instanceIsNull instance

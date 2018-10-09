@@ -1,0 +1,1 @@
+get Selection Area Bg Color getSelectionAreaBgColor method Color get Selection Area Background getSelectionAreaBackground String color j Edit jEdit get Property getProperty SELECTION AREA BGCOLOR PROPERTY color j Edit jEdit get Color Property getColorProperty view gutter bg Color bgColor Syntax Utilities SyntaxUtilities parse Color parseColor color Color black

@@ -1,0 +1,1 @@
+get VFSFor Path getVFSForPath method Returns VFS path param path path j Edit jEdit pre VFS get VFSFor Path getVFSForPath String path Misc Utilities MiscUtilities is URL isURL path get VFSFor Protocol getVFSForProtocol Misc Utilities MiscUtilities get Protocol Of URL getProtocolOfURL path file VFS fileVFS

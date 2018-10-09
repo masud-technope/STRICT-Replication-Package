@@ -1,0 +1,1 @@
+append method append text len ensure Capacity ensureCapacity count len System arraycopy text array count len count len

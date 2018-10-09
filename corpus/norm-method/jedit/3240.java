@@ -1,0 +1,1 @@
+Move notification Notifies dockable window docking position changed param new Position newPosition docking position window moving j Edit jEdit pre move String new Position newPosition

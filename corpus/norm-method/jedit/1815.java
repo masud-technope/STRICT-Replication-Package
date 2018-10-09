@@ -1,0 +1,1 @@
+Direct conversion classes type descriptors intermediate Type objects Returns internal internal fully qualified replaced param object internal String get Internal Name getInternalName get Name getName replace

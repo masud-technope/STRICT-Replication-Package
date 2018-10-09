@@ -1,0 +1,1 @@
+unregister Handler unregisterHandler method Removes macro handler handlers list j Edit jEdit unregister Handler unregisterHandler Handler handler macro Handlers macroHandlers remove handler Log log Log DEBUG Macros Unregistered handler get Name getName macro handler Log log Log ERROR Macros unregister handler get Name getName macro handler registered

@@ -1,0 +1,1 @@
+toggle Overwrite Enabled toggleOverwriteEnabled method Toggles overwrite mode j Edit jEdit pre toggle Overwrite Enabled toggleOverwriteEnabled set Overwrite Enabled setOverwriteEnabled overwrite

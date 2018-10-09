@@ -1,0 +1,1 @@
+remove method remove Dockable Window Manager Impl DockableWindowManagerImpl Entry entry entry factory equals most Recent mostRecent most Recent mostRecent entry win dockable Panel dockablePanel remove entry win entry win current entry current current revalidate dockable Panel dockablePanel repaint

@@ -1,0 +1,1 @@
+Sets buffer edit mode Note calling buffer loaded set mode property mode bit inelegant param mode mode set Mode setMode Mode mode set Mode setMode mode

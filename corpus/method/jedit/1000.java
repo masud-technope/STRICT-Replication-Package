@@ -1,0 +1,1 @@
+public boolean isVisible(SimpleNode node);

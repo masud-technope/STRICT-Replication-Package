@@ -1,0 +1,1 @@
+get Prev getPrev method Returns previous view list preview view View get Prev getPrev prev

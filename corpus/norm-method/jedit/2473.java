@@ -1,0 +1,1 @@
+get Fold Handler getFoldHandler method Returns fold handler registered handler param desired fold handler j Edit jEdit pre Fold Handler FoldHandler get Fold Handler getFoldHandler String fold Handler Provider foldHandlerProvider get Fold Handler getFoldHandler

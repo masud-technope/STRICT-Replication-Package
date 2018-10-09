@@ -1,0 +1,1 @@
+redo method Override Selection redo Undo Manager UndoManager mgr mgr buffer remove offset str Remove strRemove length mgr buffer insert offset str Insert strInsert mgr redo Clear Dirty redoClearDirty mgr buffer set Dirty setDirty caret offset str Insert strInsert length Selection Selection Range caret caret

@@ -1,0 +1,1 @@
+bsd is Bsd Mode isBsdMode BSD equals Ignore Case equalsIgnoreCase get Value getValue

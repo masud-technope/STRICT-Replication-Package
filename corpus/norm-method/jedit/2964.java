@@ -1,0 +1,1 @@
+get Buffer Set getBufferSet method Returns current buffer set changed set Buffer Set Scope setBufferSetScope buffer set Edit Pane EditPane j Edit jEdit pre Buffer Set BufferSet get Buffer Set getBufferSet buffer Set bufferSet

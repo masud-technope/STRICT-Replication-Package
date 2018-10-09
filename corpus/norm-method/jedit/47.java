@@ -1,0 +1,1 @@
+Bundle setters getters set CFBundle Name setCFBundleName String length System err println WARNING shortname recommeded charaters usage notes m CFBundle Name mCFBundleName

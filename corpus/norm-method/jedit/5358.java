@@ -1,0 +1,1 @@
+value Changed valueChanged List Selection Event ListSelectionEvent List Mode modes ping Pong List pingPongList get Right Selected Values getRightSelectedValues enabled Mode modes is User Mode isUserMode enabled delete Selected Button deleteSelectedButton set Enabled setEnabled enabled

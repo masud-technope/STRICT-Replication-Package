@@ -1,0 +1,1 @@
+set Terminate Char setTerminateChar method set Terminate Char setTerminateChar at Char atChar terminate Char terminateChar at Char atChar at Char atChar

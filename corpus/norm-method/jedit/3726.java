@@ -1,0 +1,1 @@
+set Is From Global Context setIsFromGlobalContext is From Global Context isFromGlobalContext

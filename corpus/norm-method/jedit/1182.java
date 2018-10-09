@@ -1,0 +1,1 @@
+is Visible isVisible Simple Node SimpleNode node context CLASSES node BSHClass Declaration BSHClassDeclaration decs CLASSES node BSHClass Declaration BSHClassDeclaration context is Static isStatic node context INSTANCE is Static isStatic node

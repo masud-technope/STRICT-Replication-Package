@@ -1,0 +1,1 @@
+set String GUIUtilities set Icon Path setIconPath jeditresource org gjt jedit icons themes j Edit jEdit set Property setProperty icon theme

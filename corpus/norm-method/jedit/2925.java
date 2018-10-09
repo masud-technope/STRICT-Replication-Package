@@ -1,0 +1,1 @@
+get Tool Tip getToolTip method action tooltip text returns property named link get Name getName suffixed code tooltip code String get Tool Tip getToolTip j Edit jEdit get Property getProperty tooltip

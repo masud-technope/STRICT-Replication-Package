@@ -1,0 +1,1 @@
+Set strict Java mode mode attempts Bean Shell BeanShell syntax behave Java syntax eliminating conveniences loose variables enabled variables required declared initialized method arguments reqired types mode strict release classes interpreted alternative scripting objects method closures set Strict Java setStrictJava strict Java strictJava

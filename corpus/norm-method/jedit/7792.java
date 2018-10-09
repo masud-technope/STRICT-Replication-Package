@@ -1,0 +1,1 @@
+Returns shortcut param shortcut action code code shortcut String get Shortcut getShortcut String

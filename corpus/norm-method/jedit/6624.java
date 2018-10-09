@@ -1,0 +1,1 @@
+Buffer Change Handler BufferChangeHandler constructor Buffer Handler BufferHandler Display Manager DisplayManager display Manager displayManager Text Area TextArea text Area textArea JEdit Buffer JEditBuffer buffer display Manager displayManager display Manager displayManager text Area textArea text Area textArea buffer buffer

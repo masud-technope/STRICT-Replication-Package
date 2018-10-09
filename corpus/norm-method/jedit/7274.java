@@ -1,0 +1,1 @@
+is Caret Visible isCaretVisible method Returns caret visible is Caret Visible isCaretVisible blink has Focus hasFocus

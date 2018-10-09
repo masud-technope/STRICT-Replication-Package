@@ -1,0 +1,1 @@
+insert methods Inserts string buffer param offset offset param str string j Edit jEdit pre insert offset String str insert offset Char Sequence CharSequence str

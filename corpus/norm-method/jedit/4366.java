@@ -1,0 +1,1 @@
+get Icon Height getIconHeight

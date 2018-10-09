@@ -1,0 +1,1 @@
+Override String prepare Filter prepareFilter String filter filter to Lower Case toLowerCase

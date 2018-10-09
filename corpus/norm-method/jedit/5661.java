@@ -1,0 +1,1 @@
+update UI updateUI method Override update UI updateUI path j Edit jEdit get Property getProperty Plugin Manager PluginManager PROPERTY PLUGINSET path length set Tool Tip Text setToolTipText Click choose predefined plugin set set Tool Tip Text setToolTipText Choose pluginset path update UI updateUI

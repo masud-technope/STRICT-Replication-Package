@@ -1,0 +1,1 @@
+Style Option Pane StyleOptionPane constructor Syntax Hilite Option Pane SyntaxHiliteOptionPane syntax

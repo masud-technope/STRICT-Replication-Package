@@ -1,0 +1,1 @@
+Getters setters set Gutter Enabled setGutterEnabled method Enables showing hiding gutter set Gutter Enabled setGutterEnabled enabled enabled enabled revalidate

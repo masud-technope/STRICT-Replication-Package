@@ -1,0 +1,1 @@
+get Class Name getClassName method plugin actual code Edit Plugin EditPlugin code instance plugin loaded j Edit jEdit pre String get Class Name getClassName get Class getClass get Name getName

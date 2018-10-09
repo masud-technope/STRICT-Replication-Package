@@ -1,0 +1,1 @@
+Getters setter methods buffer meta data get Last Modified getLastModified method time j Edit jEdit modified file disk method thread safe get Last Modified getLastModified mod Time modTime

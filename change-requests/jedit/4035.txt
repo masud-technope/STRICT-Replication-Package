@@ -1,0 +1,3 @@
+#4035 print - only monochrome
+
+I'm not able to get a colored print output. Even after changing the Ink setting at "Advanced" tab to "Color", both the preview and real output are monochrome.

@@ -1,0 +1,1 @@
+set Mode setMode methods Sets buffer edit mode Note calling buffer loaded set mode property mode bit inelegant param mode mode j Edit jEdit pre set Mode setMode String mode set Mode setMode Mode Provider ModeProvider instance get Mode getMode mode

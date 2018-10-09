@@ -1,0 +1,1 @@
+has Object Property Setter hasObjectPropertySetter clas String prop Name propName String setter Name setterName accessor Name accessorName set prop Name propName Method methods clas get Methods getMethods setter methods length methods get Name getName equals setter Name setterName

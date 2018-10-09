@@ -1,0 +1,1 @@
+String get Mode Name getModeName mode Name modeName get Text getText

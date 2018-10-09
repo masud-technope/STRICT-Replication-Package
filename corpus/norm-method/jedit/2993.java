@@ -1,0 +1,1 @@
+next Buffer nextBuffer method Selects buffer j Edit jEdit pre next Buffer nextBuffer Buffer buffer buffer Set bufferSet get Next Buffer getNextBuffer buffer Set bufferSet index Of indexOf buffer set Buffer setBuffer buffer

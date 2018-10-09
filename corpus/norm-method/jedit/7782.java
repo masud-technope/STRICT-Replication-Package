@@ -1,0 +1,1 @@
+eat Non Alphanums eatNonAlphanums eat eat char At Caret charAtCaret text Area textArea go To Next Line goToNextLine text Area textArea go To Start Of Line goToStartOfLine Character is Letter Or Digit isLetterOrDigit eat text Area textArea go To Next Character goToNextCharacter text Area textArea get Caret Position getCaretPosition

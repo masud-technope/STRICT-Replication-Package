@@ -1,0 +1,1 @@
+method ok Clicked okClicked dispose

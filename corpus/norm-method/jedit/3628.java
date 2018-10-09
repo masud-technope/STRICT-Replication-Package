@@ -1,0 +1,1 @@
+history Next historyNext method history Next historyNext history Model historyModel javax swing UIManager get Look And Feel getLookAndFeel provide Error Feedback provideErrorFeedback set Text setText current set Text setText sets new Index newIndex set Text setText history Model historyModel get Item getItem new Index newIndex new Index newIndex

@@ -1,0 +1,1 @@
+set CFBundle Short Version String setCFBundleShortVersionString String m CFBundle Short Version String mCFBundleShortVersionString

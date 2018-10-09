@@ -1,0 +1,1 @@
+set Current Line Foreground setCurrentLineForeground method set Current Line Foreground setCurrentLineForeground Color highlight current Line Highlight currentLineHighlight highlight

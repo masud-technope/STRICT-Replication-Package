@@ -1,0 +1,1 @@
+Directory Stack operations jedit pre previous Directory previousDirectory history Stack historyStack size history Stack historyStack pop next Directory Stack nextDirectoryStack push path set Directory setDirectory history Stack historyStack peek history Stack historyStack pop

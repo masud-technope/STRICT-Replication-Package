@@ -1,0 +1,1 @@
+paint Valid Line paintValidLine Graphics gfx screen Line screenLine physical Line physicalLine start text Area textArea get Painter getPainter is Structure Highlight Enabled isStructureHighlightEnabled Match match text Area textArea get Structure Match getStructureMatch match paint Highlight paintHighlight gfx screen Line screenLine start match

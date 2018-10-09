@@ -1,0 +1,1 @@
+Setter liveresize attribute optional set Liveresize setLiveresize m Live Resize mLiveResize

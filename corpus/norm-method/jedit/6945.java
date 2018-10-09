@@ -1,0 +1,1 @@
+get Text getText JEdit Buffer JEditBuffer buffer String Builder StringBuilder buf

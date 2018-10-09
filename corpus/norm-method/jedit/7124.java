@@ -1,0 +1,1 @@
+set Magic Caret Position setMagicCaretPosition method Sets magic caret position preserve column position moving lines param magic Caret magicCaret magic caret position j Edit jEdit pre set Magic Caret Position setMagicCaretPosition magic Caret magicCaret magic Caret magicCaret magic Caret magicCaret

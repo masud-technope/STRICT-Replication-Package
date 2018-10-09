@@ -1,0 +1,1 @@
+is Closed isClosed method buffer closed link org gjt jedit j Edit jEdit close Buffer closeBuffer View Buffer method thread safe is Closed isClosed get Flag getFlag CLOSED

@@ -1,0 +1,1 @@
+Note implement consistency Bsh Class Loader BshClassLoader natively load JAR URLClass Loader URLClassLoader get Code getCode String class Name className Error Unimplemented

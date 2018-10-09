@@ -1,0 +1,1 @@
+set Left Title setLeftTitle method set Left Title setLeftTitle String left Title leftTitle left Title leftTitle remove Left Title removeLeftTitle left Label leftLabel left Label leftLabel JLabel left Label leftLabel set Text setText left Title leftTitle left Panel leftPanel add left Label leftLabel Border Layout BorderLayout NORTH

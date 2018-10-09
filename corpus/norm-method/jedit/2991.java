@@ -1,0 +1,1 @@
+focus On Text Area focusOnTextArea method Sets focus text area j Edit jEdit pre focus On Text Area focusOnTextArea Swing Utilities SwingUtilities invoke Later invokeLater Runnable text Area textArea request Focus requestFocus

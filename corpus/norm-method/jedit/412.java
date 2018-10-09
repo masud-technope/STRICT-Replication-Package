@@ -1,0 +1,1 @@
+perform String install Dir installDir Vector filesets IOException enabled mkdirs directory String installer get Property getProperty app install man String manpage installer get Property getProperty ostask unix man manpage Input Stream InputStream get Class getClass get Resource As Stream getResourceAsStream manpage installer copy File directory manpage get Path getPath

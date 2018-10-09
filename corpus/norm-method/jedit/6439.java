@@ -1,0 +1,1 @@
+snippet Before snippetBefore method Returns shorten uninitialized chunk specific offset Chunk snippet Before snippetBefore snip Offset snipOffset snip Offset snipOffset snip Offset snipOffset length Chunk offset snip Offset snipOffset rules style background

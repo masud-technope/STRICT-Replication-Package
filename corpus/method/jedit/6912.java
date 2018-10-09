@@ -1,0 +1,1 @@
+void scrolledVertically(TextArea textArea);

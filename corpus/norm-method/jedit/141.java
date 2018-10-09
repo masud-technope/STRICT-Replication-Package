@@ -1,0 +1,1 @@
+set LSApplication Category Type setLSApplicationCategoryType String type bundle Properties bundleProperties set LSApplication Category Type setLSApplicationCategoryType type

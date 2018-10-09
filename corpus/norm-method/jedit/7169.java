@@ -1,0 +1,1 @@
+line In Structure Scope lineInStructureScope method Returns contained matched structure scope j Edit jEdit pre line In Structure Scope lineInStructureScope match match start Line startLine caret Line caretLine match start Line startLine caret Line caretLine match end Line endLine caret Line caretLine

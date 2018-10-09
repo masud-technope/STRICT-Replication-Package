@@ -1,0 +1,1 @@
+EBHandler handle Properties Changed handlePropertiesChanged Properties Changed PropertiesChanged msg update Buffer List updateBufferList

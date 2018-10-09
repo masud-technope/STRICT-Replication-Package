@@ -1,0 +1,1 @@
+go To Prev Word goToPrevWord method Moves caret start previous word param select extend selection j Edit jEdit pre go To Prev Word goToPrevWord select go To Prev Word goToPrevWord select

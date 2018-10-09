@@ -1,0 +1,1 @@
+go To Buffer End goToBufferEnd method Moves caret buffer param select extend selection j Edit jEdit pre go To Buffer End goToBufferEnd select buffer get Line End Offset getLineEndOffset display Manager displayManager get Last Visible Line getLastVisibleLine select extend Selection extendSelection caret multi select None selectNone move Caret Position moveCaretPosition

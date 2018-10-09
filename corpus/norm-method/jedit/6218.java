@@ -1,0 +1,1 @@
+trim Search String trimSearchString method String trim Search String trimSearchString String Search And Replace SearchAndReplace get Search String getSearchString length j Edit jEdit get Integer Property getIntegerProperty hypersearch display Query Length displayQueryLength length length substring length

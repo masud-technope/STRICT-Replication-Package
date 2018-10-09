@@ -1,0 +1,1 @@
+handle Message handleMessage method handle Message handleMessage EBMessage message message Properties Changed PropertiesChanged Properties Changed PropertiesChanged properties Changed propertiesChanged Properties Changed PropertiesChanged message properties Changed propertiesChanged get Source getSource Buffer Set Manager BufferSetManager update

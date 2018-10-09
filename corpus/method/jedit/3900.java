@@ -1,0 +1,41 @@
+public  PingPongList(int newOrientation, List<E> leftData, List<E> rightData) {
+    super(new BorderLayout());
+    JSplitPane splitPane = new JSplitPane(newOrientation);
+    leftModel = new MyListModel<E>(leftData);
+    left = new JList(leftModel);
+    rightModel = new MyListModel<E>(rightData);
+    right = new JList<E>(rightModel);
+    leftPanel = new JPanel(new BorderLayout());
+    rightPanel = new JPanel(new BorderLayout());
+    JScrollPane leftScroll = new JScrollPane(left);
+    JScrollPane rightScroll = new JScrollPane(right);
+    leftPanel.add(leftScroll);
+    rightPanel.add(rightScroll);
+    splitPane.setLeftComponent(leftPanel);
+    splitPane.setRightComponent(rightPanel);
+    left.setDragEnabled(true);
+    right.setDragEnabled(true);
+    MyTransferHandler myTransferHandler = new MyTransferHandler();
+    left.setTransferHandler(myTransferHandler);
+    right.setTransferHandler(myTransferHandler);
+    splitPane.setDividerLocation(0.5);
+    // Select All/None Buttons
+    buttonsBox = createHorizontalBox();
+    buttonsBox.add(createHorizontalStrut(12));
+    ActionListener actionHandler = new ActionHandler();
+    selectAllButton = new JButton(getProperty("common.selectAll"));
+    selectAllButton.addActionListener(actionHandler);
+    selectAllButton.setEnabled(getLeftSize() != 0);
+    buttonsBox.add(selectAllButton);
+    buttonsBox.add(createHorizontalStrut(12));
+    selectNoneButton = new JButton(getProperty("common.selectNone"));
+    selectNoneButton.addActionListener(actionHandler);
+    selectNoneButton.setEnabled(getRightSize() != 0);
+    buttonsBox.add(selectNoneButton);
+    buttonsBox.add(createHorizontalStrut(12));
+    add(splitPane, BorderLayout.CENTER);
+    add(buttonsBox, BorderLayout.SOUTH);
+    ListDataListener listDataListener = new MyListDataListener();
+    leftModel.addListDataListener(listDataListener);
+    rightModel.addListDataListener(listDataListener);
+}

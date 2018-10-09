@@ -1,0 +1,1 @@
+String win unix String win Path winPath String unix Path unixPath win Path winPath replace Matcher win Pattern winPattern matcher unix Path unixPath find String var Name varName group String expansion System getenv var Name varName expansion replace First replaceFirst expansion unix Path unixPath

@@ -1,0 +1,1 @@
+Style Renderer StyleRenderer constructor Style Renderer StyleRenderer set Opaque setOpaque set Border setBorder Syntax Hilite Option Pane SyntaxHiliteOptionPane no Focus Border noFocusBorder set Text setText

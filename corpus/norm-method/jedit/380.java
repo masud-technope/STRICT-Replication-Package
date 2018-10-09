@@ -1,0 +1,1 @@
+initialize IOException Write magic bytes indicating file format huffmanised digit indicating block Size blockSize bs Put UChar bsPutUChar bs Put UChar bsPutUChar block Size blockSize combined CRC combinedCRC

@@ -1,0 +1,1 @@
+add Dockable Window addDockableWindow method Opens dockable window j Edit jEdit pre calling show Dockable Window showDockableWindow param dockable window j Edit jEdit pre add Dockable Window addDockableWindow String show Dockable Window showDockableWindow

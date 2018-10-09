@@ -1,0 +1,1 @@
+Returns fold handler registered handler param desired fold handler Fold Handler FoldHandler doesn exist j Edit jEdit pre Override Fold Handler FoldHandler get Fold Handler getFoldHandler String Fold Handler FoldHandler handler Fold Handler FoldHandler get Service getService SERVICE handler

@@ -1,0 +1,1 @@
+resource stream Bean Shell BeanShell classpath param path absolute path Input Stream InputStream get Resource As Stream getResourceAsStream String path Input Stream InputStream base Loader baseLoader classloader leading slash base Loader baseLoader get Resource As Stream getResourceAsStream path substring get Resource As Stream getResourceAsStream path

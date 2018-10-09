@@ -1,0 +1,1 @@
+get Ctrl For Rectangular Selection getCtrlForRectangularSelection method set CTRL enables rectangular selection mode pressed j Edit jEdit pre is Ctrl For Rectangular Selection isCtrlForRectangularSelection ctrl For Rectangular Selection ctrlForRectangularSelection

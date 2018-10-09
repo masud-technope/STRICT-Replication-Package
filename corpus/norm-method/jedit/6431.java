@@ -1,0 +1,1 @@
+get Glyph Cache getGlyphCache method Glyph Cache GlyphCache get Glyph Cache getGlyphCache glyph Cache glyphCache Glyph Cache GlyphCache cache glyph Cache glyphCache cache cache Glyph Cache GlyphCache new One newOne Glyph Cache GlyphCache glyph Cache Capacity glyphCacheCapacity glyph Cache glyphCache Soft Reference SoftReference Glyph Cache GlyphCache new One newOne new One newOne

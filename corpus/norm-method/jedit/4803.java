@@ -1,0 +1,1 @@
+get All Modes getAllModes method Returns array installed edit modes modes array sorted mode Mode get All Modes getAllModes Mode modes Mode Provider ModeProvider instance get Modes getModes Arrays sort modes Standard Utilities StandardUtilities String Compare StringCompare Mode modes

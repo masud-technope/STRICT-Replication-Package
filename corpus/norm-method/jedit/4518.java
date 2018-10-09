@@ -1,0 +1,1 @@
+get Last Action Count getLastActionCount method Returns number times action executed smart Home smartHome smart End smartEnd number times action executed j Edit jEdit pre get Last Action Count getLastActionCount last Action Count lastActionCount

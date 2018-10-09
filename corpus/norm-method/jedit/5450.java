@@ -1,0 +1,1 @@
+action Performed actionPerformed Action Event ActionEvent String choosen Folder choosenFolder GUIUtilities show VFSFile Dialog showVFSFileDialog backup Directory backupDirectory get Text getText VFSBrowser CHOOSE DIRECTORY DIALOG choosen Folder choosenFolder backup Directory backupDirectory set Text setText choosen Folder choosenFolder

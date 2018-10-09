@@ -1,0 +1,1 @@
+handle Properties Changed handlePropertiesChanged EBHandler handle Properties Changed handlePropertiesChanged Properties Changed PropertiesChanged msg properties Changed propertiesChanged

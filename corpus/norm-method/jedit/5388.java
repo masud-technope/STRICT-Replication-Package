@@ -1,0 +1,1 @@
+Global Options GlobalOptions constructor Global Options GlobalOptions Frame frame String pane frame options pane

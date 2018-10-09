@@ -1,0 +1,1 @@
+Returns internal object type internal fully qualified replaced method object type internal object type String get Internal Name getInternalName String buf len

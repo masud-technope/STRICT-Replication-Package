@@ -1,0 +1,1 @@
+Console Interface ConsoleInterface interpreter reflexively console clean implement console input stream interpreter stdin GUI console Reader get In getIn

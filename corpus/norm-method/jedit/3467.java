@@ -1,0 +1,1 @@
+Creates code Extended Grid Layout Constraints ExtendedGridLayoutConstraints object fields set values link Extended Grid Layout Constraints ExtendedGridLayoutConstraints java awt Component param component code Component constraints object describes Extended Grid Layout Constraints ExtendedGridLayoutConstraints Component component component

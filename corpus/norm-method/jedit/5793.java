@@ -1,0 +1,1 @@
+attribute method attribute String aname String is Specified isSpecified aname aname JAR jar aname VERSION version aname aname OBSOLETE obsolete equals aname dep What depWhat aname dep From depFrom aname dep To depTo aname PLUGIN dep Plugin depPlugin aname SIZE size Integer parse Int parseInt size Log log Log WARNING SIZE

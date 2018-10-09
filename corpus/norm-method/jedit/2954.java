@@ -1,0 +1,1 @@
+get Buffer getBuffer method Returns current buffer current buffer j Edit jEdit pre Buffer get Buffer getBuffer buffer

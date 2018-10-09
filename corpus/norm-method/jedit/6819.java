@@ -1,0 +1,1 @@
+get Highlight Interval getHighlightInterval method Sets number lines highlighted numbers number lines highlighted numbers highlighting disabled get Highlight Interval getHighlightInterval interval

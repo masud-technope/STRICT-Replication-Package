@@ -1,0 +1,1 @@
+method dumb action start whitespace start param select select cursor jedit pre select get Input Handler getInputHandler get Last Action Count getLastActionCount go To Start Of White Space goToStartOfWhiteSpace select go To Start Of Line goToStartOfLine select

@@ -1,0 +1,1 @@
+Scrolling get First Line getFirstLine method Returns vertical scroll bar position j Edit jEdit pre get First Line getFirstLine display Manager displayManager first Line firstLine get Scroll Line getScrollLine display Manager displayManager first Line firstLine get Skew getSkew

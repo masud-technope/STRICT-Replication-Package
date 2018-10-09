@@ -1,0 +1,1 @@
+flush Stream flushStream method Flushes log stream j Edit jEdit pre flush Stream flushStream stream stream flush IOException print Stack Trace printStackTrace real Err realErr

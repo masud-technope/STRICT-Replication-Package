@@ -1,0 +1,1 @@
+Creates variable grid layout manager mode FIXED NUM ROWS number rows horizontal vertical gap distance borders minimum maximum Component sizes account distributing free space Variable Grid Layout VariableGridLayout FIXED NUM ROWS Insets

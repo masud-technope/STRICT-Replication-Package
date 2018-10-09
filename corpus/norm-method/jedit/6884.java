@@ -1,0 +1,1 @@
+reset method reset screen Lines screenLines buffer get Line Count getLineCount

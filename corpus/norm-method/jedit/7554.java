@@ -1,0 +1,1 @@
+is Popup Trigger isPopupTrigger method Returns event popup trigger event precisely defined behavior opposed Mouse Event MouseEvent is Popup Trigger isPopupTrigger param evt event j Edit jEdit is Popup Trigger isPopupTrigger Mouse Event MouseEvent evt Text Area Mouse Handler TextAreaMouseHandler is Right Button isRightButton evt get Modifiers Ex getModifiersEx

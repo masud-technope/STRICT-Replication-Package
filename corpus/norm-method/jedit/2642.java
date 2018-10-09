@@ -1,0 +1,1 @@
+Line Manager LineManager constructor Line Manager LineManager end Offsets endOffsets end Offsets endOffsets fold Levels foldLevels line Context lineContext Token Marker TokenMarker Line Context LineContext line Count lineCount

@@ -1,0 +1,1 @@
+Mode get Default Mode getDefaultMode Mode default Mode defaultMode j Edit jEdit get Mode getMode j Edit jEdit get Property getProperty buffer default Mode defaultMode default Mode defaultMode default Mode defaultMode j Edit jEdit get Mode getMode text default Mode defaultMode

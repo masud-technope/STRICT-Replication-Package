@@ -1,0 +1,1 @@
+Saves j Edit jEdit context menu configuration j Edit jEdit pre Override save Context Menu saveContextMenu String menu j Edit jEdit set Property setProperty browser custom context menu

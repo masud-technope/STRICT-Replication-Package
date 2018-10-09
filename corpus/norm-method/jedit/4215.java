@@ -1,0 +1,1 @@
+remove Tray Icon removeTrayIcon method remove Tray Icon removeTrayIcon tray Icon trayIcon System Tray SystemTray get System Tray getSystemTray remove tray Icon trayIcon tray Icon trayIcon EBComponent Edit Bus EditBus remove From Bus removeFromBus tray Icon trayIcon tray Icon trayIcon

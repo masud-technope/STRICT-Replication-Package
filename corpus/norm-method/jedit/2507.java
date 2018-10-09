@@ -1,0 +1,1 @@
+set Undo Limit setUndoLimit method Set undo limit Undo Manager param limit limit j Edit jEdit pre set Undo Limit setUndoLimit limit undo Mgr undoMgr undo Mgr undoMgr set Limit setLimit limit

@@ -1,0 +1,1 @@
+Tobias Fisher Setter NSHuman Readable Copyright NSHumanReadableCopyright attribute optional set Copyright setCopyright String bundle Properties bundleProperties set NSHuman Readable Copyright setNSHumanReadableCopyright

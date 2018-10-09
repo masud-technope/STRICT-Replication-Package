@@ -1,0 +1,1 @@
+add Extension addExtension method Adds text area extension perform custom painting tool handling param layer layer add extension Note extension share layer param extension extension j Edit jEdit pre add Extension addExtension layer Text Area Extension TextAreaExtension extension extension Mgr extensionMgr add Extension addExtension layer extension repaint

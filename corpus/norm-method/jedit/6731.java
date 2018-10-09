@@ -1,0 +1,1 @@
+reset Anchors resetAnchors method reset Anchors resetAnchors first Line firstLine set Call Reset setCallReset scroll Line Count scrollLineCount set Call Reset setCallReset notify Screen Line Changes notifyScreenLineChanges

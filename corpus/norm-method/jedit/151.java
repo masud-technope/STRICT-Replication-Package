@@ -1,0 +1,1 @@
+Setter type attribute optional set Type setType String bundle Properties bundleProperties set CFBundle Package Type setCFBundlePackageType

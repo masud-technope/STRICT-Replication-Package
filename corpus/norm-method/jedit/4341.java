@@ -1,0 +1,1 @@
+set Current Entry setCurrentEntry method set Current Entry setCurrentEntry History Entry HistoryEntry entry history length history history equals entry history Pos historyPos fire Update fireUpdate

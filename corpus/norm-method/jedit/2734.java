@@ -1,0 +1,1 @@
+set Autosave File setAutosaveFile method Set autosave file based autosettings dir j Edit jEdit pre set Autosave File setAutosaveFile File autosave Dir autosaveDir Misc Utilities MiscUtilities prepare Autosave Directory prepareAutosaveDirectory symlink Path symlinkPath autosave File autosaveFile File autosave Dir autosaveDir

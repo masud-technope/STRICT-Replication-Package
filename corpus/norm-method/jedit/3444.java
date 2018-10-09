@@ -1,0 +1,1 @@
+Override Dimension get Preferred Scrollable Viewport Size getPreferredScrollableViewportSize Font Metrics FontMetrics metrics get Font Metrics getFontMetrics get Font getFont width metrics char Width charWidth height metrics get Height getHeight Dimension width height

@@ -1,0 +1,1 @@
+is Mac OSLF isMacOSLF method Returns running Mac OS MacOS feel is Mac OSLF isMacOSLF is Mac OS isMacOS UIManager get Look And Feel getLookAndFeel is Native Look And Feel isNativeLookAndFeel

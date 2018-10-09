@@ -1,0 +1,1 @@
+void addChild(Node node);

@@ -1,0 +1,1 @@
+update Enabled updateEnabled method update Enabled updateEnabled selected Row selectedRow abbrevs Table abbrevsTable get Selected Row getSelectedRow edit set Enabled setEnabled selected Row selectedRow remove set Enabled setEnabled selected Row selectedRow

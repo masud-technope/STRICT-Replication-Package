@@ -1,0 +1,1 @@
+cache Dockable Windows cacheDockableWindows method j Edit jEdit pre cache Dockable Windows cacheDockableWindows Plugin JAR PluginJAR plugin String actions movable length Window factory Window plugin actions movable dockable Window Factories dockableWindowFactories factory

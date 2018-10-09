@@ -1,0 +1,1 @@
+get Property getProperty method Fetches property returning defined param property String get Property getProperty String prop Mgr propMgr get Property getProperty

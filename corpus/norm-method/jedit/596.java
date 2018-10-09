@@ -1,0 +1,1 @@
+get Global Abbrevs getGlobalAbbrevs method global abbreviation set j Edit jEdit pre Hashtable String String get Global Abbrevs getGlobalAbbrevs loaded load global Abbrevs globalAbbrevs

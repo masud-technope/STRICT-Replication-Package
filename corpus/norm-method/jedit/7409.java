@@ -1,0 +1,1 @@
+get Fold Line Style getFoldLineStyle method Returns fold style element style lines fold level greater remaining elements fold levels Syntax Style SyntaxStyle get Fold Line Style getFoldLineStyle fold Line Style foldLineStyle

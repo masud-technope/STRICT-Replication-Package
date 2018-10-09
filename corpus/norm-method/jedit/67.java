@@ -1,0 +1,1 @@
+set CFBundle Allow Mixed Localizations setCFBundleAllowMixedLocalizations m CFBundle Allow Mixed Localizations mCFBundleAllowMixedLocalizations

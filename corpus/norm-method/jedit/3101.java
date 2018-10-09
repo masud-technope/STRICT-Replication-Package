@@ -1,0 +1,1 @@
+start method Starts animation rolling start timer timer Timer delay Animator timer start

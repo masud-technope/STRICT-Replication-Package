@@ -1,0 +1,1 @@
+get Line Start Offset getLineStartOffset method Returns start offset param physical start offset invalid get Line Start Offset getLineStartOffset buffer get Line Start Offset getLineStartOffset

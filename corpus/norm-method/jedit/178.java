@@ -1,0 +1,1 @@
+Setter vmoptions attribute optional set Vmoptions setVmoptions String bundle Properties bundleProperties set VMOptions setVMOptions

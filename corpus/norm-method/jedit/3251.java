@@ -1,0 +1,1 @@
+is Selected isSelected method is Selected isSelected View view view get Dockable Window Manager getDockableWindowManager is Dockable Window Visible isDockableWindowVisible dockable

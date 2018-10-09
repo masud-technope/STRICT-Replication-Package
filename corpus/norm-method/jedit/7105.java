@@ -1,0 +1,1 @@
+is Drag Enabled isDragEnabled method Returns drag drop text enabled j Edit jEdit pre is Drag Enabled isDragEnabled dnd Enabled dndEnabled

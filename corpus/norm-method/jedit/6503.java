@@ -1,0 +1,1 @@
+create Mark Previous Rule createMarkPreviousRule method Parser Rule ParserRule create Mark Previous Rule createMarkPreviousRule pos Match posMatch String seq match Type matchType rule Action ruleAction MARK PREVIOUS Parser Rule ParserRule rule Action ruleAction seq substring pos Match posMatch seq to Char Array toCharArray match Type matchType

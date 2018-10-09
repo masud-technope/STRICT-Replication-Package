@@ -1,0 +1,1 @@
+Variable String type LHS lhs lhs lhs type type

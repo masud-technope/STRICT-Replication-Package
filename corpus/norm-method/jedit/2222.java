@@ -1,0 +1,1 @@
+jj Start Nfa With States jjStartNfaWithStates pos kind jjmatched Kind jjmatchedKind kind jjmatched Pos jjmatchedPos pos cur Char curChar input stream read Char readChar java IOException pos jj Move Nfa jjMoveNfa pos

@@ -1,0 +1,1 @@
+add Entry addEntry method add Entry addEntry Entry entry history Lock historyLock write Lock writeLock lock history add First addFirst entry trim To Limit trimToLimit history history Lock historyLock write Lock writeLock unlock

@@ -1,0 +1,3 @@
+public  QualityCellRenderer() {
+    setOpaque(true);
+}

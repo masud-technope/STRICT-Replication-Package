@@ -1,0 +1,1 @@
+Returns description text selected popup description String get Description getDescription

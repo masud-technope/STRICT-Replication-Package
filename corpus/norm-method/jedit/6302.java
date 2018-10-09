@@ -1,0 +1,1 @@
+set Hyper Search setHyperSearch method set Hyper Search setHyperSearch hyper Search hyperSearch j Edit jEdit set Boolean Property setBooleanProperty view search hypersearch toggle hyper Search hyperSearch hyper Search hyperSearch set Selected setSelected hyper Search hyperSearch

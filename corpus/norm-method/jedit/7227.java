@@ -1,0 +1,1 @@
+set Overwrite Enabled setOverwriteEnabled method Sets overwrite mode set Overwrite Enabled setOverwriteEnabled overwrite blink caret Timer caretTimer restart overwrite overwrite invalidate Line invalidateLine caret Line caretLine fire Status Changed fireStatusChanged Status Listener StatusListener OVERWRITE CHANGED overwrite

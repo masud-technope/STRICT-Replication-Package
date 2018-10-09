@@ -1,0 +1,1 @@
+Transferable get Transferable getTransferable Text Area TextArea text Area textArea String text String Selection StringSelection text

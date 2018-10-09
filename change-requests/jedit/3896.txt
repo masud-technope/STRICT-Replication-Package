@@ -1,0 +1,3 @@
+#3896 jEdit help index ignores .txt files
+
+Would be nice if the CHANGES.txt files in plugins were also included in the help search results.

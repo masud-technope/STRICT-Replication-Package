@@ -1,0 +1,1 @@
+hb Create Decode Tables hbCreateDecodeTables limit base perm length min Len minLen max Len maxLen alpha Size alphaSize min Len minLen max Len maxLen alpha Size alphaSize length perm MAX CODE LEN base alpha Size alphaSize base length MAX CODE LEN base base MAX CODE LEN limit vec min Len minLen max Len maxLen vec base base limit vec vec min Len minLen max Len maxLen base limit base

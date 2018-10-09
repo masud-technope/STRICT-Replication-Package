@@ -1,0 +1,1 @@
+get Jars getJars method jars listed plugin full paths jars full paths empty collection plugin j Edit jEdit pre Collection String get Jars getJars plugin String jars j Edit jEdit get Property getProperty plugin plugin get Class Name getClassName jars jars parse Jars Files String parseJarsFilesString path jars Collections empty List emptyList

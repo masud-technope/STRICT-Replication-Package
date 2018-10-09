@@ -1,0 +1,1 @@
+add Size Saver addSizeSaver method Adds Size Saver SizeSaver Frame Frame link save Geometry saveGeometry Window String param frame Frame save size param prefix settings j Edit jEdit pre save Geometry saveGeometry Window String add Size Saver addSizeSaver Frame frame String add Size Saver addSizeSaver frame frame get Parent getParent

@@ -1,0 +1,1 @@
+Creates untitled file param view view create file param dir directory create file buffer j Edit jEdit pre Buffer new File newFile View view String dir Edit Pane EditPane edit Pane editPane view edit Pane editPane view get Edit Pane getEditPane View get Active View getActiveView edit Pane editPane get Edit Pane getEditPane new File newFile edit Pane editPane dir

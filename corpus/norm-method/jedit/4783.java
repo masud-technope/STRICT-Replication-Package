@@ -1,0 +1,1 @@
+new File newFile methods Creates untitled file param view view create file buffer Buffer new File newFile View view new File newFile view view get Edit Pane getEditPane

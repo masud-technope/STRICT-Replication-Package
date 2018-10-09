@@ -1,0 +1,1 @@
+handle Register Changed handleRegisterChanged method EBHandler handle Register Changed handleRegisterChanged Register Changed RegisterChanged msg msg get Register Name getRegisterName refresh List refreshList

@@ -1,0 +1,1 @@
+scan token scan token STAR scan token SEMICOLON

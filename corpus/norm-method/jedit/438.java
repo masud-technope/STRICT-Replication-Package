@@ -1,0 +1,1 @@
+String get Install Directory getInstallDirectory String String version String program Dir programDir System getenv Program Files ProgramFiles JRE JRE doesn support Windows program Dir programDir hint needed program Dir programDir Program Files ProgramFiles program Dir programDir version

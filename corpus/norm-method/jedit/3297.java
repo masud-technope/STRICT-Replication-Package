@@ -1,0 +1,1 @@
+get View getView method Returns dockable window manager view j Edit jEdit pre View get View getView view

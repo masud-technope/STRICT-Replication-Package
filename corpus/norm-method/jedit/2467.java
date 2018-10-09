@@ -1,0 +1,1 @@
+equals method Returns fold handler equal param object equals Object implementation subclasses extend get Class getClass get Class getClass

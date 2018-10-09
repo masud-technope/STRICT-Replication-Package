@@ -1,0 +1,1 @@
+Determine entries equal Equality determined header names equal Entry checked equality entries equal equals Tar Entry TarEntry header to String toString equals header to String toString

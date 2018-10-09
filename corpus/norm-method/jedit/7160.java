@@ -1,0 +1,1 @@
+get Selection getSelection methods Returns current selection j Edit jEdit pre Nonnull Selection get Selection getSelection selection Manager selectionManager get Selection getSelection

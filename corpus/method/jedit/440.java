@@ -1,0 +1,1 @@
+public void message(String message);

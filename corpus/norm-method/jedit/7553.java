@@ -1,0 +1,1 @@
+is Middle Button isMiddleButton method param modifiers modifiers flag mouse event j Edit jEdit is Middle Button isMiddleButton modifiers Text Area Mouse Handler TextAreaMouseHandler is Middle Button isMiddleButton modifiers

@@ -1,0 +1,1 @@
+line Matches lineMatches method line Matches lineMatches JEdit Buffer JEditBuffer buffer line Index lineIndex Token Filter TokenFilter filter Token Filter TokenFilter buffer get Line Length getLineLength line Index lineIndex buffer mark Tokens markTokens line Index lineIndex filter regexp matcher filter result matches

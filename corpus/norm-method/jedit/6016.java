@@ -1,0 +1,1 @@
+update UI updateUI UIManager get UIClass ID getUIClassID set UI setUI Print Preview Pane UI PrintPreviewPaneUI UIManager get UI getUI set UI setUI Basic Print Preview Pane UI BasicPrintPreviewPaneUI fire State Changed fireStateChanged

@@ -1,0 +1,1 @@
+get End Column getEndColumn bufcolumn bufpos

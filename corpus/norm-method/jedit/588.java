@@ -1,0 +1,1 @@
+count Newlines countNewlines method count Newlines countNewlines String counter char At charAt counter counter

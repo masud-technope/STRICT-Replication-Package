@@ -1,0 +1,1 @@
+get Browser getBrowser method Returns code VFSBrowser code instance j Edit jEdit pre VFSBrowser get Browser getBrowser browser

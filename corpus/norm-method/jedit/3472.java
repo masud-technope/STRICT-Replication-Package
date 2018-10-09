@@ -1,0 +1,1 @@
+column component starts display area get Col getCol col

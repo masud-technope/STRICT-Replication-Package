@@ -1,0 +1,1 @@
+complete Word completeWord method String complete Word completeWord Char Sequence CharSequence offset String no Word Sep noWordSep find Word End findWordEnd doesn pick space start word End wordEnd Text Utilities TextUtilities find Word End findWordEnd offset no Word Sep noWordSep sub Sequence subSequence offset word End wordEnd to String toString

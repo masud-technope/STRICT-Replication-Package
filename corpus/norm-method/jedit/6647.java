@@ -1,0 +1,1 @@
+x To Subregion Offset xToSubregionOffset method Converts ordinate subregion offset start subregion param info info object param ordinate param character middle character offset start subregion x To Subregion Offset xToSubregionOffset Line Info LineInfo info offset Chunk x To Offset xToOffset info chunks offset offset info offset info length offset info offset info length offset

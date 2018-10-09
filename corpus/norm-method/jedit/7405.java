@@ -1,0 +1,1 @@
+set Fractional Font Metrics Enabled setFractionalFontMetricsEnabled method Sets fractional font metrics enabled running Java j Edit jEdit pre set Fractional Font Metrics Enabled setFractionalFontMetricsEnabled frac Font Metrics fracFontMetrics frac Font Metrics fracFontMetrics frac Font Metrics fracFontMetrics update Rendering Hints updateRenderingHints

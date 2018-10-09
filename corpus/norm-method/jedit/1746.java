@@ -1,0 +1,1 @@
+Visits maximum stack size maximum number local variables method param max Stack maxStack maximum stack size method param max Locals maxLocals maximum number local variables method visit Maxs visitMaxs max Stack maxStack max Locals maxLocals

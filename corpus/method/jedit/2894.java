@@ -1,0 +1,1 @@
+Transferable getTransferable(TextArea textArea, String text);

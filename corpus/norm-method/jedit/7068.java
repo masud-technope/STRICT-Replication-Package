@@ -1,0 +1,1 @@
+collapse Fold collapseFold methods link Display Manager DisplayManager collapse Fold collapseFold moves caret fold j Edit jEdit pre collapse Fold collapseFold collapse Fold collapseFold caret Line caretLine

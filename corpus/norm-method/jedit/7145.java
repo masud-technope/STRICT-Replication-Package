@@ -1,0 +1,1 @@
+Selects bracket caret position bracket j Edit jEdit pre select To Matching Bracket selectToMatchingBracket select To Matching Bracket selectToMatchingBracket caret

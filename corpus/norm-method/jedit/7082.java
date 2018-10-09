@@ -1,0 +1,1 @@
+get Last Physical Line getLastPhysicalLine method Returns visible physical j Edit jEdit pre get Last Physical Line getLastPhysicalLine phys Last Line physLastLine

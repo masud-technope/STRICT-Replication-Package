@@ -1,0 +1,1 @@
+offset To XY offsetToXY methods Converts offset point text area painter ordinate space param offset offset location offset screen code code offset visible Point offset To XY offsetToXY offset buffer get Line Of Offset getLineOfOffset offset offset buffer get Line Start Offset getLineStartOffset Point ret Val retVal Point offset To XY offsetToXY offset ret Val retVal

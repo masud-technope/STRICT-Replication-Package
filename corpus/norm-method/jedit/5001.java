@@ -1,0 +1,1 @@
+invoke method Override invoke View view set Last Macro setLastMacro view handler run Macro runMacro view get Buffer getBuffer begin Compound Edit beginCompoundEdit handler run Macro runMacro view view get Buffer getBuffer end Compound Edit endCompoundEdit

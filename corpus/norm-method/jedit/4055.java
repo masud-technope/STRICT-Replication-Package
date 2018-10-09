@@ -1,0 +1,1 @@
+update method update Buffer buffer view get Buffer getBuffer String line Sep lineSep buffer get String Property getStringProperty JEdit Buffer JEditBuffer LINESEP equals line Sep lineSep line Sep lineSep set Text setText equals line Sep lineSep line Sep lineSep set Text setText equals line Sep lineSep line Sep lineSep set Text setText

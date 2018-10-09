@@ -1,0 +1,1 @@
+read URI readURI method URL read URI readURI Data Input Stream DataInputStream din IOException String str read String readString din str URL str

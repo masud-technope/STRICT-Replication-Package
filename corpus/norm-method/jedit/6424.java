@@ -1,0 +1,1 @@
+finish add Glyph Vector Of Last Range addGlyphVectorOfLastRange range Font rangeFont range Start rangeStart range Length rangeLength range Length rangeLength

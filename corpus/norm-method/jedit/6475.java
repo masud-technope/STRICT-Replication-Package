@@ -1,0 +1,1 @@
+get Keywords getKeywords method Returns array keywords keyword map j Edit jEdit pre String get Keywords getKeywords List String vector Array List ArrayList String Keyword map Keyword keyword keyword vector add String keyword keyword keyword keyword String ret Val retVal String vector size vector to Array toArray ret Val retVal ret Val retVal

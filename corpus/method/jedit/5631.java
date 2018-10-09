@@ -1,0 +1,3 @@
+ StringMapHandler() {
+    pluginSet.clear();
+}

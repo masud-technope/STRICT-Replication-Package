@@ -1,0 +1,1 @@
+class To File classToFile method Converts file periods replaced slashes extension param String class To File classToFile String replace concat

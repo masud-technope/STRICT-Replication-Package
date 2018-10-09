@@ -1,0 +1,1 @@
+get Mode getMode method buffer edit mode method thread safe Mode get Mode getMode mode

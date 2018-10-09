@@ -1,0 +1,1 @@
+computational delay Simulates heavy computations period time force conditions hard reproduce deadlock cases param time Required delay integer comp Delay compDelay time start System current Time Millis currentTimeMillis elapsed elapsed elapsed time compiler doesn optimize elapsed System current Time Millis currentTimeMillis start

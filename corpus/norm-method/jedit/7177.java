@@ -1,0 +1,1 @@
+Copies text Segment line Index lineIndex invalid segment string param line Index lineIndex number physical param segment segment data stored get Line Text getLineText line Index lineIndex Segment segment buffer get Line Text getLineText line Index lineIndex segment

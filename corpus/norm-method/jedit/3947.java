@@ -1,0 +1,1 @@
+focus Gained focusGained Focus Event FocusEvent content Text Area contentTextArea get Document getDocument add Document Listener addDocumentListener document Handler documentHandler

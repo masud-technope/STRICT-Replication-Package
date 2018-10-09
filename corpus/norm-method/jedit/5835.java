@@ -1,0 +1,1 @@
+perform Operations In Work Thread performOperationsInWorkThread method perform Operations In Work Thread performOperationsInWorkThread Plugin Manager Progress PluginManagerProgress progress Operation operations run In Work Thread runInWorkThread progress progress Thread interrupted

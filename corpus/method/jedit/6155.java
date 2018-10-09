@@ -1,0 +1,1 @@
+void goTo(EditPane editPane);

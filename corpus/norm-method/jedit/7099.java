@@ -1,0 +1,1 @@
+set Caret Blink Enabled setCaretBlinkEnabled method Toggles caret blinking param caret Blinks caretBlinks caret blink set Caret Blink Enabled setCaretBlinkEnabled caret Blinks caretBlinks caret Blinks caretBlinks caret Blinks caretBlinks caret Blinks caretBlinks blink buffer invalidate Line invalidateLine caret Line caretLine

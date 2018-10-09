@@ -1,0 +1,1 @@
+get Wrap Guide Color getWrapGuideColor method Returns wrap guide color Color get Wrap Guide Color getWrapGuideColor wrap Guide Color wrapGuideColor

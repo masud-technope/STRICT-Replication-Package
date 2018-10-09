@@ -1,0 +1,1 @@
+default Column Width defaultColumnWidth method Column width JTable based global defaults j Edit jEdit default Column Width defaultColumnWidth default Table Cell Size defaultTableCellSize width

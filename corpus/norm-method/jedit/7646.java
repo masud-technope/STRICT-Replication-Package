@@ -1,0 +1,1 @@
+get Leading White Space getLeadingWhiteSpace Char Sequence CharSequence str whitespace loop whitespace str length str char At charAt whitespace whitespace loop whitespace

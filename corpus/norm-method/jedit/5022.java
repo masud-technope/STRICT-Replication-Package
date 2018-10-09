@@ -1,0 +1,1 @@
+dispose method dispose flush Input flushInput buffer get Line Count getLineCount buffer indent Line indentLine Edit Bus EditBus remove From Bus removeFromBus setting message status bar check recording progress view get Status getStatus set Message setMessage

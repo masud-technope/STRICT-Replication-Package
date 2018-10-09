@@ -1,0 +1,1 @@
+invalidate Screen Line Counts invalidateScreenLineCounts method invalidate Screen Line Counts invalidateScreenLineCounts screen Line Mgr screenLineMgr invalidate Screen Line Counts invalidateScreenLineCounts first Line firstLine set Call Reset setCallReset scroll Line Count scrollLineCount set Call Reset setCallReset

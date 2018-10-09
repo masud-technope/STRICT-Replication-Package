@@ -1,0 +1,1 @@
+Commands Menu Button CommandsMenuButton constructor Commands Menu Button CommandsMenuButton set Text setText j Edit jEdit get Property getProperty vfs browser commands label Generic GUIUtilities GenericGUIUtilities set Auto Mnemonic setAutoMnemonic set Name setName commands popup Browser Commands Menu BrowserCommandsMenu VFSBrowser

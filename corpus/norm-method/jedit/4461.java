@@ -1,0 +1,1 @@
+sentinel code Open Bracket Indent Rule OpenBracketIndentRule code calculate Indent calculateIndent JEdit Buffer JEditBuffer buffer old Indent oldIndent new Indent newIndent new Indent newIndent

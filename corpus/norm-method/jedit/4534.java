@@ -1,0 +1,1 @@
+get Rewinded Stream getRewindedStream Returns stream read contents original stream bytes ware read original stream auto detections rewinded method Buffered Input Stream BufferedInputStream get Rewinded Stream getRewindedStream IOException marked Stream markedStream reset marked Stream markedStream

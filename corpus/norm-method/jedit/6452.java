@@ -1,0 +1,1 @@
+x To Offset xToOffset method Converts ordinate chunk list offset param chunks chunk list param ordinate param letter middle letter offset ordinate j Edit jEdit pre x To Offset xToOffset Chunk chunks chunks chunks is Accessible isAccessible chunks width chunks x To Offset xToOffset chunks width chunks Chunk chunks

@@ -1,0 +1,1 @@
+Deletes word caret param eat Whitespace eatWhitespace eat whitespace j Edit jEdit pre backspace Word backspaceWord eat Whitespace eatWhitespace backspace Word backspaceWord eat Whitespace eatWhitespace

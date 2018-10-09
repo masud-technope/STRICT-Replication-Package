@@ -1,0 +1,1 @@
+get First Separator Index getFirstSeparatorIndex String path start get Path Start getPathStart path path index Of indexOf start path index Of indexOf File separator Char separatorChar start

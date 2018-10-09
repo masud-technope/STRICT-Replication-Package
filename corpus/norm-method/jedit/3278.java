@@ -1,0 +1,1 @@
+boolean List To Array booleanListToArray method method transforms List array param list List convert array boolean List To Array booleanListToArray java util List list return Value returnValue list size list return Value returnValue boolean Value booleanValue return Value returnValue

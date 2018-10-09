@@ -1,0 +1,1 @@
+Returns array names registered fold handlers j Edit jEdit pre String get Fold Modes getFoldModes

@@ -1,0 +1,1 @@
+is Multiple Selection Enabled isMultipleSelectionEnabled method is Multiple Selection Enabled isMultipleSelectionEnabled multiple Selection multipleSelection

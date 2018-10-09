@@ -1,0 +1,1 @@
+Sets caret position deactivates selection param new Caret newCaret caret position param do Electric Scroll doElectricScroll electric scrolling set Caret Position setCaretPosition new Caret newCaret do Electric Scroll doElectricScroll select None selectNone move Caret Position moveCaretPosition new Caret newCaret do Electric Scroll doElectricScroll

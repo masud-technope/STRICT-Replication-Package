@@ -1,0 +1,1 @@
+generate Class generateClass String Modifiers modifiers interfaces super Class superClass BSHBlock block is Interface isInterface Call Stack CallStack callstack Interpreter interpreter Eval Error EvalError Delegate method generate Class Impl generateClassImpl modifiers interfaces super Class superClass block is Interface isInterface callstack interpreter

@@ -1,0 +1,1 @@
+set Auto Wrap setAutoWrap method Sets auto wrap flag param wrap search start dialog displayed j Edit jEdit pre set Auto Wrap Around setAutoWrapAround wrap wrap Search And Replace SearchAndReplace wrap Search And Replace SearchAndReplace wrap wrap Edit Bus EditBus send Search Settings Changed SearchSettingsChanged

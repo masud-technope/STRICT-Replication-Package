@@ -1,0 +1,1 @@
+get Shortcut getShortcut method Returns shortcut current shortcut removed dialog cancelled is OK isOK determine String get Shortcut getShortcut is OK isOK shortcut get Shortcut getShortcut

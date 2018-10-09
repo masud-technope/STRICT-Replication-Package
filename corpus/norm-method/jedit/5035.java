@@ -1,0 +1,1 @@
+get Handler For File Name getHandlerForFileName method Returns macro handler suitable running file suitable handler j Edit jEdit pre Handler get Handler For Path Name getHandlerForPathName String path Name pathName Handler handler macro Handlers macroHandlers handler accept path Name pathName handler

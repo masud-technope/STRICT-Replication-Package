@@ -1,0 +1,1 @@
+send Shortcut Prefix Off sendShortcutPrefixOff method send Shortcut Prefix Off sendShortcutPrefixOff shortcut On shortcutOn Shortcut Prefix Active Event ShortcutPrefixActiveEvent fire Prefix State Change firePrefixStateChange shortcut On shortcutOn

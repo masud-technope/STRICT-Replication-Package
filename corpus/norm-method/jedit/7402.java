@@ -1,0 +1,1 @@
+is Fractional Font Metrics Enabled isFractionalFontMetricsEnabled method Returns fractional font metrics enabled j Edit jEdit pre is Fractional Font Metrics Enabled isFractionalFontMetricsEnabled frac Font Metrics fracFontMetrics

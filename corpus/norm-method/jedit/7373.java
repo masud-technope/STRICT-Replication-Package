@@ -1,0 +1,1 @@
+get EOLMarkers Painted getEOLMarkersPainted method Returns EOL markers drawn get EOLMarkers Painted getEOLMarkersPainted eol Markers eolMarkers

@@ -1,0 +1,1 @@
+Determine primitive numeric type including is Number isNumber

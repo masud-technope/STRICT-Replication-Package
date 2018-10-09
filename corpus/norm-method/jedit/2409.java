@@ -1,0 +1,1 @@
+type loosely typed variable get Type getType type

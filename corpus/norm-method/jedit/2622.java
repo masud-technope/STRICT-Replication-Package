@@ -1,0 +1,1 @@
+get Instance getInstance method Kill Ring KillRing get Instance getInstance kill Ring killRing

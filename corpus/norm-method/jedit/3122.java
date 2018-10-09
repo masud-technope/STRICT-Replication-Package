@@ -1,0 +1,1 @@
+Override Transferable create Transferable createTransferable JComponent JList list JList Buffer buffer Buffer list get Selected Value getSelectedValue buffer Buffer Switcher Transferable BufferSwitcherTransferable buffer

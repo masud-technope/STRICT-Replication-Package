@@ -1,0 +1,1 @@
+get Icon For File getIconForFile method Icon get Icon For File getIconForFile VFSFile file expanded open Buffer openBuffer default Icons defaultIcons file get Default Icon getDefaultIcon expanded open Buffer openBuffer file get Icon getIcon expanded open Buffer openBuffer

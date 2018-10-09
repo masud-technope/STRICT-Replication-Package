@@ -1,0 +1,1 @@
+load method load recent XML recentXML recent XML recentXML file Exists fileExists Log log Log MESSAGE Buffer History BufferHistory Loading recent XML recentXML Recent Handler RecentHandler handler Recent Handler RecentHandler recent XML recentXML load handler IOException Log log Log ERROR Buffer History BufferHistory trim To Limit trimToLimit handler result history handler result

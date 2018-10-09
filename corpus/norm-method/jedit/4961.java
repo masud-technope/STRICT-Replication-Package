@@ -1,0 +1,1 @@
+Override handle Exception handleException Text Area TextArea text Area textArea String path Throwable Log log Log ERROR Bean Shell Error Dialog BeanShellErrorDialog

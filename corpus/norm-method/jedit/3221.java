@@ -1,0 +1,1 @@
+is Alternate Layout isAlternateLayout method j Edit jEdit View option wide horizontal docking areas tall vertical docking areas alternate layout is Alternate Layout isAlternateLayout alternate Layout alternateLayout

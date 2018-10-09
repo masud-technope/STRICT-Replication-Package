@@ -1,0 +1,1 @@
+save method save j Edit jEdit set Integer Property setIntegerProperty view dock position dimension dimension current j Edit jEdit unset Property unsetProperty view dock position j Edit jEdit set Property setProperty view dock position current factory

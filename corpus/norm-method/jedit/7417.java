@@ -1,0 +1,1 @@
+Text Area Selection TextAreaSelection JEdit Text Area JEditTextArea text Area textArea text Area textArea get Selected Text getSelectedText text Area textArea text Area textArea

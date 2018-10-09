@@ -1,0 +1,40 @@
+@Test
+public void permissiveReadShouldAcceptMalformedInput() throws IOException {
+    Reader reader = getPermissiveReader("asdf\\: \\u21a/asdf");
+    int c = reader.read();
+    assertThat((char) c, is(equalTo('a')));
+    c = reader.read();
+    assertThat((char) c, is(equalTo('s')));
+    c = reader.read();
+    assertThat((char) c, is(equalTo('d')));
+    c = reader.read();
+    assertThat((char) c, is(equalTo('f')));
+    c = reader.read();
+    assertThat((char) c, is(equalTo('\\')));
+    c = reader.read();
+    assertThat((char) c, is(equalTo(':')));
+    c = reader.read();
+    assertThat((char) c, is(equalTo(' ')));
+    c = reader.read();
+    assertThat((char) c, is(equalTo('\\')));
+    c = reader.read();
+    assertThat((char) c, is(equalTo('u')));
+    c = reader.read();
+    assertThat((char) c, is(equalTo('2')));
+    c = reader.read();
+    assertThat((char) c, is(equalTo('1')));
+    c = reader.read();
+    assertThat((char) c, is(equalTo('a')));
+    c = reader.read();
+    assertThat((char) c, is(equalTo('/')));
+    c = reader.read();
+    assertThat((char) c, is(equalTo('a')));
+    c = reader.read();
+    assertThat((char) c, is(equalTo('s')));
+    c = reader.read();
+    assertThat((char) c, is(equalTo('d')));
+    c = reader.read();
+    assertThat((char) c, is(equalTo('f')));
+    c = reader.read();
+    assertThat(c, is(equalTo(-1)));
+}

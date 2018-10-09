@@ -1,0 +1,1 @@
+break Plugin breakPlugin method break Plugin breakPlugin plugin Edit Plugin EditPlugin Broken plugin get Class Name getClassName remove action sets dockables user doesn broken plugin uninit properties hang j Edit jEdit add Plugin Props addPluginProps properties

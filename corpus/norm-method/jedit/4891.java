@@ -1,0 +1,1 @@
+get Property getProperty method Fetches property returning defined param property param def String get Property getProperty String String def String prop Mgr propMgr get Property getProperty def

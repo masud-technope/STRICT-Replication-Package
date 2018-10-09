@@ -1,0 +1,1 @@
+get Input Start getInputStart method Subclasses override provide funky history behavior JText Panes JTextPanes get Input Start getInputStart

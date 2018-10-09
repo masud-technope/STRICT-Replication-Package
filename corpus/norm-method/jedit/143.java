@@ -1,0 +1,1 @@
+Setter extraclasspath attribute optional set Extraclasspath setExtraclasspath String trim equals Pattern Set PatternSet patset Pattern Set PatternSet patset set Includes setIncludes String cp Names cpNames patset get Include Patterns getIncludePatterns get Project getProject cp Names cpNames length File File cp Names cpNames m Extra Class Path Attrs mExtraClassPathAttrs add

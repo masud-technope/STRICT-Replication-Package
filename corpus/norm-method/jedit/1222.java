@@ -1,0 +1,1 @@
+param bcp URLs JARClass Loader JARClassLoader require absolute paths Bsh Class Loader BshClassLoader Bsh Class Manager BshClassManager class Manager classManager Bsh Class Path BshClassPath bcp class Manager classManager bcp get Path Components getPathComponents

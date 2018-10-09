@@ -1,0 +1,1 @@
+generate Suffix Array generateSuffixArray method XXX hairy code basically functional port code barely understood generate Suffix Array generateSuffixArray reverse pattern length suffix tmp tmp pattern reverse pattern pattern reverse pattern suffix suffix tmp tmp tmp original element suffix suffix suffix tmp suffix

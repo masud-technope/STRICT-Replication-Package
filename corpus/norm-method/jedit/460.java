@@ -1,0 +1,1 @@
+Select Components SelectComponents Border Layout BorderLayout comp create Comp Panel createCompPanel Select Components SelectComponents add Border Layout BorderLayout NORTH comp size Label sizeLabel JLabel Swing Constants SwingConstants LEFT Select Components SelectComponents add Border Layout BorderLayout SOUTH size Label sizeLabel update Size updateSize

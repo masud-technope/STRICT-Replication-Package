@@ -1,0 +1,3 @@
+TextArea getTextArea() {
+    return textArea;
+}

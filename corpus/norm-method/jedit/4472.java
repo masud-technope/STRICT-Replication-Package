@@ -1,0 +1,1 @@
+calculate Indent calculateIndent JEdit Buffer JEditBuffer buffer old Indent oldIndent new Indent newIndent open Parens Column openParensColumn

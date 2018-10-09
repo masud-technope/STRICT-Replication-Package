@@ -1,0 +1,1 @@
+Called token marker syntax token parsed param seg segment text param token type constants link Token param offset start offset token param length number characters token param context context j Edit jEdit pre handle Token handleToken Segment seg offset length Token Marker TokenMarker Line Context LineContext context

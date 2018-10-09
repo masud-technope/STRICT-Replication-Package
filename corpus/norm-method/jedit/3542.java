@@ -1,0 +1,1 @@
+is Cell Editable isCellEditable method Override is Cell Editable isCellEditable row Index rowIndex column Index columnIndex true Row Index trueRowIndex get True Row getTrueRow row Index rowIndex delegated is Cell Editable isCellEditable true Row Index trueRowIndex column Index columnIndex

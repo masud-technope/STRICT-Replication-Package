@@ -1,0 +1,1 @@
+Creates properties changed message param source message source Properties Changed PropertiesChanged EBComponent source source

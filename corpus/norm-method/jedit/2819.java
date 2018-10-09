@@ -1,0 +1,1 @@
+get First Guilty Character Index getFirstGuiltyCharacterIndex method character encoding error get First Guilty Character Index getFirstGuiltyCharacterIndex Encoding encoding Segment IOException count count Writer tester encoding get Text Writer getTextWriter Output Stream OutputStream write count tester write array offset Character Coding Exception CharacterCodingException

@@ -1,0 +1,1 @@
+invalidate Screen Line Counts invalidateScreenLineCounts method invalidate Screen Line Count invalidateScreenLineCount physical Line No physicalLineNo screen Lines screenLines physical Line No physicalLineNo

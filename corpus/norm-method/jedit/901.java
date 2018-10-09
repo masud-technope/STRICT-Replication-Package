@@ -1,0 +1,1 @@
+get Column Width getColumnWidth method param column saved column width j Edit jEdit pre get Column Width getColumnWidth String ext Attr extAttr get Extended Attribute getExtendedAttribute j Edit jEdit get Integer Property getIntegerProperty vfs browser ext Attr extAttr width

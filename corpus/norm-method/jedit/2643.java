@@ -1,0 +1,1 @@
+get Line Count getLineCount method get Line Count getLineCount line Count lineCount

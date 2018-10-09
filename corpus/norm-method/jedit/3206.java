@@ -1,0 +1,1 @@
+Sets focus component j Edit jEdit pre focus On Default Component focusOnDefaultComponent

@@ -1,0 +1,1 @@
+get Tool Tip Location getToolTipLocation method Override Point get Tool Tip Location getToolTipLocation Mouse Event MouseEvent event Point event get X getX

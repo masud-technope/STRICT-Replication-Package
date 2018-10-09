@@ -1,0 +1,1 @@
+get VFS getVFS method Returns virtual filesystem responsible loading saving buffer method thread safe VFS VFS get VFS getVFS VFSManager get VFSFor Path getVFSForPath path

@@ -1,0 +1,1 @@
+inside Compound Edit insideCompoundEdit method compound edit active j Edit jEdit pre inside Compound Edit insideCompoundEdit undo Mgr undoMgr inside Compound Edit insideCompoundEdit

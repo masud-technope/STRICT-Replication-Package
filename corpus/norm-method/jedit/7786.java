@@ -1,0 +1,1 @@
+char At charAt buffer get Length getLength buffer get Text getText char At charAt

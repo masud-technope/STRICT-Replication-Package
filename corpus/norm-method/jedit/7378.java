@@ -1,0 +1,1 @@
+set EOLMarker Char setEOLMarkerChar String emc eol Marker Char eolMarkerChar emc

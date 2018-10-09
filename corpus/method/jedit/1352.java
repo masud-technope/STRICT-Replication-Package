@@ -1,0 +1,1 @@
+public PrintStream getErr();

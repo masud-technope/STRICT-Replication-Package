@@ -1,0 +1,1 @@
+set Caret Color setCaretColor method Sets caret color param caret Color caretColor caret color set Caret Color setCaretColor Color caret Color caretColor caret Color caretColor caret Color caretColor text Area textArea get Buffer getBuffer text Area textArea invalidate Line invalidateLine text Area textArea get Caret Line getCaretLine

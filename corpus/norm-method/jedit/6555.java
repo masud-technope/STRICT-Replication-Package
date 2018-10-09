@@ -1,0 +1,1 @@
+clone method Override Object clone Line Context LineContext Line Context LineContext in Rule inRule in Rule inRule rules rules parent parent Line Context LineContext parent clone span End Subst spanEndSubst span End Subst spanEndSubst span End Subst Regex spanEndSubstRegex span End Subst Regex spanEndSubstRegex escape Rule escapeRule escape Rule escapeRule

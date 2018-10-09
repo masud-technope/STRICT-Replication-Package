@@ -1,0 +1,1 @@
+stop Thread stopThread do Work doWork

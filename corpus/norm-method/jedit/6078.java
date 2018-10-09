@@ -1,0 +1,1 @@
+Sets clipboard contents Override set Value setValue String Transferable selection String Selection StringSelection clipboard set Contents setContents selection

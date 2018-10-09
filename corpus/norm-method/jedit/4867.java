@@ -1,0 +1,1 @@
+get JARCache Directory getJARCacheDirectory method Returns directory plugin cache files stored j Edit jEdit pre String get JARCache Directory getJARCacheDirectory jar Cache Directory jarCacheDirectory

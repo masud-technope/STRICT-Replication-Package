@@ -1,0 +1,1 @@
+Font Selector Dialog FontSelectorDialog constructor Font Selector Dialog FontSelectorDialog Dialog parent Font font parent j Edit jEdit get Property getProperty font selector title init font

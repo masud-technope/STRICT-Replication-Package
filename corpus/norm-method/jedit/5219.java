@@ -1,0 +1,1 @@
+param source View considered source event param is Directory isDirectory path pointing folder regular file param path selected path VFSPath Selected VFSPathSelected View source String path is Directory isDirectory source path path is Dir isDir is Directory isDirectory

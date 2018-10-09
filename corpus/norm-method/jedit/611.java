@@ -1,0 +1,1 @@
+get Component getComponent method Returns component displayed option pane Component simply returns Override Component get Component getComponent

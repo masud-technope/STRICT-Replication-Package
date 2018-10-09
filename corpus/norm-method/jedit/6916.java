@@ -1,0 +1,1 @@
+get End Line getEndLine method Returns number selection get End Line getEndLine end Line endLine

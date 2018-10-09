@@ -1,0 +1,1 @@
+Override is Cell Editable isCellEditable row col JCheck Box List JCheckBoxList Entry entry items row col entry

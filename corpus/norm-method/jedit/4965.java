@@ -1,0 +1,1 @@
+Override end Element endElement String uri String local Name localName String equals ENTRY list add char Data charData to String toString in Entry inEntry char Data charData set Length setLength

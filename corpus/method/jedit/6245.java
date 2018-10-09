@@ -1,0 +1,1 @@
+public boolean processNode(DefaultMutableTreeNode node);

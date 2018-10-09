@@ -1,0 +1,1 @@
+get End getEnd method Returns offset selection get End getEnd

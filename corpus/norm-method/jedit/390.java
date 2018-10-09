@@ -1,0 +1,1 @@
+initialise CRC initialiseCRC global Crc globalCrc xffffffff

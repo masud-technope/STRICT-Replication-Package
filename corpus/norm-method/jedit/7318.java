@@ -1,0 +1,1 @@
+is Right Button isRightButton method param modifiers modifiers flag mouse event modifier match button j Edit jEdit pre is Right Button isRightButton modifiers Operating System OperatingSystem is Mac OS isMacOS modifiers BUTTON MASK BUTTON MASK modifiers CTRL MASK CTRL MASK modifiers BUTTON MASK BUTTON MASK modifiers BUTTON MASK BUTTON MASK

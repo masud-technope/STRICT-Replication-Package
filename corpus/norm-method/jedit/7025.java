@@ -1,0 +1,1 @@
+delete To End Of Line deleteToEndOfLine method Deletes caret current j Edit jEdit pre delete To End Of Line deleteToEndOfLine buffer is Editable isEditable javax swing UIManager get Look And Feel getLookAndFeel provide Error Feedback provideErrorFeedback buffer remove caret get Line End Offset getLineEndOffset caret Line caretLine caret

@@ -1,0 +1,1 @@
+to Hashtable toHashtable method Hashtable String String to Hashtable toHashtable Hashtable String String hash Hashtable String String Abbrev abbrev abbrevs abbrev abbrev length abbrev expand length hash abbrev abbrev abbrev expand hash

@@ -1,0 +1,1 @@
+get Tab Stop Position getTabStopPosition Segment seg seg count seg array seg offset

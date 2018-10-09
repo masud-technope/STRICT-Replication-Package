@@ -1,0 +1,1 @@
+is Line Highlight Enabled isLineHighlightEnabled method Returns highlight enabled is Line Highlight Enabled isLineHighlightEnabled line Highlight lineHighlight

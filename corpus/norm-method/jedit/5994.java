@@ -1,0 +1,1 @@
+Returns buffer Buffer get Buffer getBuffer buffer

@@ -1,0 +1,4 @@
+//{{{ ModeProperties constructor
+ ModeProperties() {
+//}}}
+}

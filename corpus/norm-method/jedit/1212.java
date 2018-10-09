@@ -1,0 +1,1 @@
+get Char getChar Character char Value charValue

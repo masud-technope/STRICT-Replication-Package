@@ -1,0 +1,1 @@
+cancel method Override cancel GUIUtilities save Geometry saveGeometry propdialog set Visible setVisible

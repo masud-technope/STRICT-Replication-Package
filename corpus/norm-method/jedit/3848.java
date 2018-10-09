@@ -1,0 +1,1 @@
+sort Dockables sortDockables method sort Dockables sortDockables button Panel buttonPanel remove All removeAll button Panel buttonPanel add close Box closeBox button Panel buttonPanel add menu Btn menuBtn Collections sort buttons Dockable Window Compare DockableWindowCompare Abstract Button AbstractButton button buttons button Panel buttonPanel add button

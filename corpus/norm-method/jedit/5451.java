@@ -1,0 +1,1 @@
+action Performed actionPerformed Action Event ActionEvent String choosen Folder choosenFolder GUIUtilities show VFSFile Dialog showVFSFileDialog autosave Directory autosaveDirectory get Text getText VFSBrowser CHOOSE DIRECTORY DIALOG choosen Folder choosenFolder autosave Directory autosaveDirectory set Text setText choosen Folder choosenFolder

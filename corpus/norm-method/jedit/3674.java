@@ -1,0 +1,1 @@
+get Last Action getLastAction method Returns executed action j Edit jEdit pre Edit Action EditAction get Last Action getLastAction last Action lastAction

@@ -1,0 +1,1 @@
+scan token INTEGER LITERAL

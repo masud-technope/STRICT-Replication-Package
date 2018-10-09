@@ -1,0 +1,1 @@
+Setter mainclass attribute required set Main Class setMainClass String bundle Properties bundleProperties set Main Class setMainClass

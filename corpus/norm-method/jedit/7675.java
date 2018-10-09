@@ -1,0 +1,1 @@
+set Text setText String new Text newText the Text theText new Text newText fire Text Changed fireTextChanged

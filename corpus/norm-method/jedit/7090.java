@@ -1,0 +1,1 @@
+get Buffer getBuffer method Returns buffer text area editing jedit pre Prior pre function returned Buffer type code calling view get Buffer getBuffer view get Text Area getTextArea get Buffer getBuffer JEdit Buffer JEditBuffer get Buffer getBuffer buffer

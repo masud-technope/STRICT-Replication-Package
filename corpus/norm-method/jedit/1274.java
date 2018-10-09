@@ -1,0 +1,1 @@
+Collection remove Inner Class Names removeInnerClassNames Collection col List list Array List ArrayList list add All addAll col Iterator list iterator has Next hasNext String String index Of indexOf remove list

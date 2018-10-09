@@ -1,0 +1,1 @@
+calculate Indent calculateIndent JEdit Buffer JEditBuffer buffer old Indent oldIndent new Indent newIndent current Standard Utilities StandardUtilities get Leading White Space Width getLeadingWhiteSpaceWidth buffer get Line Segment getLineSegment buffer get Tab Size getTabSize current new Indent newIndent current new Indent newIndent

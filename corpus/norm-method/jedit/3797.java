@@ -1,0 +1,1 @@
+text field Integer depending text field Integers Floats Number get Value getValue integer Only integerOnly Integer value Of valueOf get Text getText value Of valueOf get Text getText

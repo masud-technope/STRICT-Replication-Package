@@ -1,0 +1,1 @@
+set Active View setActiveView method set Active View setActiveView View view j Edit jEdit active View activeView view

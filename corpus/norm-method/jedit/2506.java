@@ -1,0 +1,1 @@
+is Editable isEditable method file editable file uneditable read progress method thread safe j Edit jEdit pre is Editable isEditable is Performing IO isPerformingIO editable

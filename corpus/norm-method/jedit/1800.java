@@ -1,0 +1,1 @@
+Returns type elements array type method array type Returns type elements array type Type get Element Type getElementType get Type getType buf get Dimensions getDimensions

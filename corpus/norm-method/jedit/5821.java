@@ -1,0 +1,1 @@
+set Status setStatus method method unused plugin manager param status status j Edit jEdit pre set Status setStatus String status Swing Utilities SwingUtilities invoke Later invokeLater progress set String setString status

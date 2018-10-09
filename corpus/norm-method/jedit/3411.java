@@ -1,0 +1,1 @@
+implementation returns Insets instance top left bottom fields border width param component border insets applies Insets object initialized stated Insets get Border Insets getBorderInsets Component Insets width width

@@ -1,0 +1,1 @@
+get Tool Tip Text getToolTipText method Returns tool display location param evt mouse event String get Tool Tip Text getToolTipText Mouse Event MouseEvent evt text Area textArea get Buffer getBuffer is Loading isLoading extension Mgr extensionMgr get Tool Tip Text getToolTipText evt get X getX evt get Y getY

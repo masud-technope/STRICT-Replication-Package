@@ -1,0 +1,1 @@
+close Stream closeStream method Closes log stream program exits j Edit jEdit pre close Stream closeStream stream stream close stream IOException print Stack Trace printStackTrace real Err realErr

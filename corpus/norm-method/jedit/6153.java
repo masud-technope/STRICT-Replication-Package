@@ -1,0 +1,1 @@
+Hyper Search Folder Node HyperSearchFolderNode File node File nodeFile show Full Path showFullPath node File nodeFile node File nodeFile show Full Path showFullPath show Full Path showFullPath

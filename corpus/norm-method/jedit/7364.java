@@ -1,0 +1,1 @@
+set Cursor setCursor method Change mouse cursor cursor hidden Cursor hiddenCursor TEXT CURSOR cursor cursor disappear typing link reset Cursor resetCursor called param cursor cursor j Edit jEdit pre set Cursor setCursor Cursor cursor default Cursor defaultCursor cursor hidden Cursor hiddenCursor cursor get Type getType Cursor TEXT CURSOR set Cursor setCursor cursor

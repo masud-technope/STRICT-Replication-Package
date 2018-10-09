@@ -1,0 +1,1 @@
+invocation toggle docked areas hide dockables will Toggle Hide willToggleHide close Toggle closeToggle

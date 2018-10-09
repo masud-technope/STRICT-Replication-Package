@@ -1,0 +1,1 @@
+get Dockables URI getDockablesURI method Returns location plugin code dockables xml code file j Edit jEdit pre URL get Dockables URI getDockablesURI dockables URI dockablesURI

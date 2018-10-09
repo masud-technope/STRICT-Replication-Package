@@ -1,0 +1,1 @@
+Read text file Name fileName eval Convenience method global namespace Object source String filename File Not Found Exception FileNotFoundException IOException Eval Error EvalError source filename global Name Space globalNameSpace

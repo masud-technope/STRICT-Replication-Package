@@ -1,0 +1,1 @@
+get Start getStart method Override get Start getStart JEdit Buffer JEditBuffer buffer start Line startLine start buffer get Line Start Offset getLineStartOffset

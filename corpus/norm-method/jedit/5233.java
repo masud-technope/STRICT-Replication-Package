@@ -1,0 +1,1 @@
+is VMS isVMS method Returns running VMS is VMS isVMS VMS

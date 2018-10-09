@@ -1,0 +1,1 @@
+get Dockable Window getDockableWindow method Returns dockable window Note method dockable call link add Dockable Window addDockableWindow String param dockable window j Edit jEdit pre JComponent get Dockable Window getDockableWindow String get Dockable getDockable

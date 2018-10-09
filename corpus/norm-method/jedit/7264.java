@@ -1,0 +1,1 @@
+invalidate Structure Match invalidateStructureMatch method invalidate Structure Match invalidateStructureMatch match invalidate Line Range invalidateLineRange match start Line startLine match end Line endLine

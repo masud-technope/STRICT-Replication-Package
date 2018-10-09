@@ -1,0 +1,1 @@
+clear method Clear Buffer History BufferHistory pre clear history Lock historyLock write Lock writeLock lock history clear history Lock historyLock write Lock writeLock unlock notify Change notifyChange

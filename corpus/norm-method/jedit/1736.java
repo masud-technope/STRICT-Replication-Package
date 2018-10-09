@@ -1,0 +1,1 @@
+Visits local variable instruction local variable instruction instruction loads stores local variable param opcode opcode local variable instruction visited opcode ILOAD LLOAD FLOAD DLOAD ALOAD ISTORE LSTORE FSTORE DSTORE ASTORE RET param operand instruction visited operand local variable visit Var Insn visitVarInsn opcode

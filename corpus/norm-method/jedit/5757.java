@@ -1,0 +1,1 @@
+String push Element pushElement String intern state Stack stateStack push

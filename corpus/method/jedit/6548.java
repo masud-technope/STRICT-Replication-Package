@@ -1,0 +1,4 @@
+//{{{ LineContext constructor
+public  LineContext() {
+//}}}
+}

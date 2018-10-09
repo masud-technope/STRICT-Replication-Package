@@ -1,0 +1,1 @@
+set EOLMarker Color setEOLMarkerColor method Sets EOL marker color param eol Marker Color eolMarkerColor EOL marker color set EOLMarker Color setEOLMarkerColor Color eol Marker Color eolMarkerColor eol Marker Color eolMarkerColor eol Marker Color eolMarkerColor repaint

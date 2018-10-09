@@ -1,0 +1,1 @@
+Returns descriptor Java type param object primitive array descriptor String get Descriptor getDescriptor String Builder StringBuilder buf String Builder StringBuilder get Descriptor getDescriptor buf buf to String toString

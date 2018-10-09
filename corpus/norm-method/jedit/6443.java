@@ -1,0 +1,1 @@
+Chunk constructor Chunk offset length Parser Rule Set ParserRuleSet rules Syntax Style SyntaxStyle style Color background offset length rules style style background background is Accessible isAccessible is Initialized isInitialized

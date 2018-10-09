@@ -1,0 +1,1 @@
+save method Override save j Edit jEdit set Property setProperty keymap current selected Keymap selectedKeymap to String toString key Table keyTable get Cell Editor getCellEditor key Table keyTable get Cell Editor getCellEditor stop Cell Editing stopCellEditing Shortcuts Model ShortcutsModel model models model save Macros load Macros loadMacros selected Keymap selectedKeymap save

@@ -1,0 +1,1 @@
+variables declared namespace Variable get Declared Variables getDeclaredVariables variables Variable Variable vars Variable variables size Enumeration variables elements has More Elements hasMoreElements vars Variable next Element nextElement vars

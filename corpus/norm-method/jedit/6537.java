@@ -1,0 +1,1 @@
+get Background Color getBackgroundColor method Returns background color Color get Background Color getBackgroundColor bg Color bgColor

@@ -1,0 +1,1 @@
+Help Button HelpButton j Edit jEdit get Property getProperty manage plugins table get Selection Model getSelectionModel add List Selection Listener addListSelectionListener add Action Listener addActionListener set Enabled setEnabled

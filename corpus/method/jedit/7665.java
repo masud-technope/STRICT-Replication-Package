@@ -1,0 +1,3 @@
+// {{{ Constructors
+public  StringList() {
+}

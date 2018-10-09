@@ -1,0 +1,1 @@
+can Be Installed canBeInstalled Branch branch get Compatible Branch getCompatibleBranch branch branch obsolete branch can Satisfy Dependencies canSatisfyDependencies

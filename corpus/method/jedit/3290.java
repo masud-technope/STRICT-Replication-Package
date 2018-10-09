@@ -1,0 +1,1 @@
+public abstract DockingLayout getDockingLayout(ViewConfig config);

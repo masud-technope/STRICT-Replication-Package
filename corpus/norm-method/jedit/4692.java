@@ -1,0 +1,1 @@
+get Name getName method String get Name getName

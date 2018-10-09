@@ -1,0 +1,1 @@
+String to String toString Name Space NameSpace ns Name nsName to String toString ns Name nsName to String toString is Class isClass is Class isClass is Method isMethod method class Static classStatic class Instance classInstance instance

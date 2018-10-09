@@ -1,0 +1,1 @@
+read stream End streamEnd ret Char retChar current Char currentChar current State currentState START BLOCK RAND RAND setup Rand Part B setupRandPartB RAND setup Rand Part C setupRandPartC RAND RAND setup No Rand Part B setupNoRandPartB RAND setup No Rand Part C setupNoRandPartC ret Char retChar

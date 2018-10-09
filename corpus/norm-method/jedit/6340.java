@@ -1,0 +1,1 @@
+handle Search Settings Changed handleSearchSettingsChanged method EBHandler handle Search Settings Changed handleSearchSettingsChanged EBMessage msg saving load

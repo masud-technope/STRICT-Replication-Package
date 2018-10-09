@@ -1,0 +1,1 @@
+check Exist Not Empty checkExistNotEmpty String dir File File dir String cnt list cnt cnt length message set Foreground setForeground Color orange message set Text setText installer get Property getProperty dir empty

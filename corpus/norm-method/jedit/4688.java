@@ -1,0 +1,1 @@
+get Default Icon getDefaultIcon method Returns icon file icon file j Edit jEdit pre Icon get Default Icon getDefaultIcon expanded get Default Icon getDefaultIcon expanded j Edit jEdit get Buffer getBuffer get Symlink Path getSymlinkPath

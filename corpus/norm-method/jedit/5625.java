@@ -1,0 +1,1 @@
+read Map readMap method Properties read Map readMap Data Input Stream DataInputStream din IOException Properties return Value returnValue Properties count din read Int readInt count String key read String readString din String read String readString din return Value returnValue set Property setProperty key return Value returnValue

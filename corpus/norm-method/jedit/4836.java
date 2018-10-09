@@ -1,0 +1,1 @@
+version method version System println j Edit jEdit get Version getVersion

@@ -1,0 +1,1 @@
+Appends descriptor Java type string buffer param buf string buffer descriptor appended get Descriptor getDescriptor String Builder StringBuilder buf sort buf append buf append buf append buf append buf append buf append buf append buf append buf append OBJECT buf append buf len

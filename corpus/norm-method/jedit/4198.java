@@ -1,0 +1,1 @@
+add Tool Bar addToolBar method add Tool Bar addToolBar group layer Component toolbar Entry entry Entry layer toolbar group View TOP GROUP add Tool Bar addToolBar top top Tool Bars topToolBars entry group View BOTTOM GROUP add Tool Bar addToolBar bottom bottom Tool Bars bottomToolBars entry Internal Error InternalError Invalid tool bar group

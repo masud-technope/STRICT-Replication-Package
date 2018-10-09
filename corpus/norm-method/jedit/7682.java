@@ -1,0 +1,1 @@
+get Color Hex String getColorHexString method Converts color object hex hex prefixed param color object j Edit jEdit pre String get Color Hex String getColorHexString Color String mask String col String colString Integer to Hex String toHexString get RGB getRGB mask substring mask length col String colString length concat col String colString

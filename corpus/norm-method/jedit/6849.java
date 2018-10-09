@@ -1,0 +1,1 @@
+overrides base Edit Bus EditBus aware go To Buffer End goToBufferEnd select Edit Bus EditBus send Position Changing PositionChanging go To Buffer End goToBufferEnd select

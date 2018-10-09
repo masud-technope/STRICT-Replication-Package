@@ -1,0 +1,1 @@
+JText Area JTextArea get Before Caret Text Area getBeforeCaretTextArea before Caret beforeCaret

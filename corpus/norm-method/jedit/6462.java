@@ -1,0 +1,1 @@
+get Tokens getTokens method Returns syntax token j Edit jEdit pre Token get Tokens getTokens first Token firstToken

@@ -1,0 +1,1 @@
+add Buffer Undo Listener addBufferUndoListener method Adds buffer undo listener param listener listener j Edit jEdit pre add Buffer Undo Listener addBufferUndoListener Buffer Undo Listener BufferUndoListener listener undo Listeners undoListeners add listener

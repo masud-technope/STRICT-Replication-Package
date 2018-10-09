@@ -1,0 +1,1 @@
+set NSHuman Readable Copyright setNSHumanReadableCopyright String m NSHuman Readable Copyright mNSHumanReadableCopyright

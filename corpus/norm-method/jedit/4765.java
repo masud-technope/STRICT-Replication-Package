@@ -1,0 +1,1 @@
+View methods get Input Handler getInputHandler method Returns current input handler key binding action mapping org gjt jedit gui Input Handler InputHandler Input Handler InputHandler get Input Handler getInputHandler input Handler inputHandler

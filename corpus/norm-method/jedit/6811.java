@@ -1,0 +1,1 @@
+set Current Line Highlight Enabled setCurrentLineHighlightEnabled method set Current Line Highlight Enabled setCurrentLineHighlightEnabled enabled current Line Highlight Enabled currentLineHighlightEnabled enabled current Line Highlight Enabled currentLineHighlightEnabled enabled repaint

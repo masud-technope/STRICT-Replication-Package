@@ -1,0 +1,1 @@
+set Whole Word setWholeWord method Sets word flag param whole Word wholeWord searched pre set Whole Word setWholeWord whole Word wholeWord whole Word wholeWord Search And Replace SearchAndReplace whole Word wholeWord Search And Replace SearchAndReplace whole Word wholeWord whole Word wholeWord matcher Edit Bus EditBus send Search Settings Changed SearchSettingsChanged

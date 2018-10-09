@@ -1,0 +1,1 @@
+Override compare obj obj compare Strings compareStrings obj to String toString obj to String toString icase

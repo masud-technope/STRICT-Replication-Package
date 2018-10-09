@@ -1,0 +1,1 @@
+get Mode getMode method Returns edit mode param edit mode Mode get Mode getMode String Mode Provider ModeProvider instance get Mode getMode

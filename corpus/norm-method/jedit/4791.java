@@ -1,0 +1,1 @@
+save All Buffers saveAllBuffers method Saves open buffers param view view j Edit jEdit pre save All Buffers saveAllBuffers View view save All Buffers saveAllBuffers view j Edit jEdit get Boolean Property getBooleanProperty confirm Save All confirmSaveAll

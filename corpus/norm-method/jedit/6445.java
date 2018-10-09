@@ -1,0 +1,1 @@
+is Initialized isInitialized method Returns chunk ready painting is Initialized isInitialized virtual indent is Accessible isAccessible normal text glyphs tab width

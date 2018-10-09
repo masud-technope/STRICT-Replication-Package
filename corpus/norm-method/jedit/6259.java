@@ -1,0 +1,1 @@
+set Regexp setRegexp method Sets regular expression flag param regexp regular expression searches performed set Regexp setRegexp regexp regexp Search And Replace SearchAndReplace regexp Search And Replace SearchAndReplace regexp regexp regexp reverse reverse matcher Edit Bus EditBus send Search Settings Changed SearchSettingsChanged

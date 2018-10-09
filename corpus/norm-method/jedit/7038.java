@@ -1,0 +1,1 @@
+adjustment Value Changed adjustmentValueChanged method Override adjustment Value Changed adjustmentValueChanged Adjustment Event AdjustmentEvent evt scroll Bars Initialized scrollBarsInitialized evt get Adjustable getAdjustable vertical set First Line setFirstLine vertical get Value getValue set Horizontal Offset setHorizontalOffset horizontal get Value getValue

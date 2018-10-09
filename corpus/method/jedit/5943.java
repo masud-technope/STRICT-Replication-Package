@@ -1,0 +1,3 @@
+public  FinishingCellRenderer() {
+    setOpaque(true);
+}

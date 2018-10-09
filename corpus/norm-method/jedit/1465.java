@@ -1,0 +1,1 @@
+get Line getLine bufline bufpos

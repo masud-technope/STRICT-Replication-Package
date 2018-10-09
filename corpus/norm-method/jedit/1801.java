@@ -1,0 +1,1 @@
+Returns Java type type descriptor param buf buffer type descriptor param offset descriptor previous buffer Java type type descriptor Type get Type getType buf len buf TYPE TYPE TYPE TYPE TYPE TYPE TYPE TYPE TYPE len buf len len buf len len buf len len Type ARRAY buf len len buf len len Type OBJECT buf len

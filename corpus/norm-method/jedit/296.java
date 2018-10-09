@@ -1,0 +1,1 @@
+Write octal array param write param buf array write param offset offset buffer write param length number header bytes write number bytes written buffer get Octal Bytes getOctalBytes buf offset length String tmp to Octal String toOctalString tmp length length buf offset tmp char At charAt length buf offset offset length

@@ -1,0 +1,1 @@
+window State Changed windowStateChanged method Override window State Changed windowStateChanged Window Event WindowEvent wse extended State extendedState wse get New State getNewState j Edit jEdit set Integer Property setIntegerProperty extended State extendedState extended State extendedState Rectangle bounds frame get Bounds getBounds save extended State extendedState bounds

@@ -1,0 +1,1 @@
+variable namespace param recurse recurse recursively search parent namespaces variable Note method intended internally method bsh Primitive unwrap primitive values Primitive unwrap Object variable Primitive defined Object get Variable getVariable String recurse Util Eval Error UtilEvalError Variable get Variable Impl getVariableImpl recurse unwrap Variable unwrapVariable

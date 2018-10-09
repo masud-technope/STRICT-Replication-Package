@@ -1,0 +1,1 @@
+get Cardinal Property getCardinalProperty String default Value defaultValue result j Edit jEdit get Integer Property getIntegerProperty default Value defaultValue result result default Value defaultValue result

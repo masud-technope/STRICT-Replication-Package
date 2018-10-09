@@ -1,0 +1,1 @@
+close View closeView method Closes view j Edit jEdit exit open view close View closeView View view close View closeView view

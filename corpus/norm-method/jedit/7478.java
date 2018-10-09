@@ -1,0 +1,1 @@
+Forwards key events input handler faster Key Listener KeyListener Swing overhead avoided process Key Event processKeyEvent Key Event KeyEvent evt input Handler inputHandler process Key Event processKeyEvent evt evt is Consumed isConsumed process Key Event processKeyEvent evt

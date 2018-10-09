@@ -1,0 +1,1 @@
+get Files getFiles method files listed plugin full paths files full paths empty collection plugin j Edit jEdit pre Collection String get Files getFiles plugin String files j Edit jEdit get Property getProperty plugin plugin get Class Name getClassName files files parse Jars Files String parseJarsFilesString path files Collections empty List emptyList

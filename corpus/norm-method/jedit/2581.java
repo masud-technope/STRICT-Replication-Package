@@ -1,0 +1,1 @@
+set Property setProperty method Sets buffer local property param property param property j Edit jEdit pre set Property setProperty String Object properties remove Prop Value PropValue test properties test properties Prop Value PropValue test equals test test default Value defaultValue

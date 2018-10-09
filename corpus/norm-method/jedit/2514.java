@@ -1,0 +1,1 @@
+is Context Insensitive isContextInsensitive method Returns buffer highlight sensitive context highlight insensitive context j Edit jEdit pre is Context Insensitive isContextInsensitive context Insensitive contextInsensitive

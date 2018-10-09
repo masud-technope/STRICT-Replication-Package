@@ -1,0 +1,1 @@
+implementation returns is Border Opaque isBorderOpaque

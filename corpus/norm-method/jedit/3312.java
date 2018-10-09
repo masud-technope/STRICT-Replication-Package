@@ -1,0 +1,1 @@
+close Current Area closeCurrentArea

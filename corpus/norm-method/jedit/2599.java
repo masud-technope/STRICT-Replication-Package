@@ -1,0 +1,1 @@
+full buffer content method thread safe String get Text getText read Lock readLock content Mgr contentMgr get Text getText get Length getLength read Unlock readUnlock

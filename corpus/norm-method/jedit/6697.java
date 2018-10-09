@@ -1,0 +1,1 @@
+expand All Folds expandAllFolds method Expands folds j Edit jEdit pre expand All Folds expandAllFolds show Line Range showLineRange buffer get Line Count getLineCount notify Screen Line Changes notifyScreenLineChanges text Area textArea fold Structure Changed foldStructureChanged

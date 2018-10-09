@@ -1,0 +1,1 @@
+dispose method Disposes browser dialog dockable dispose mode BROWSER view get Dockable Window Manager getDockableWindowManager hide Dockable Window hideDockableWindow Generic GUIUtilities GenericGUIUtilities get Parent Dialog getParentDialog dispose

@@ -1,0 +1,1 @@
+Determine archive record Archive archive record consists bytes param record record data check is EOFRecord isEOFRecord record get Record Size getRecordSize record

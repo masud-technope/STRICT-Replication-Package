@@ -1,0 +1,1 @@
+Override accept File pathname pathname is File isFile pathname get Name getName ends With endsWith props

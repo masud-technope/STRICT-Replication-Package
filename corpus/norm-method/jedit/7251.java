@@ -1,0 +1,1 @@
+get Mark Position getMarkPosition method deprecated Deprecated get Mark Position getMarkPosition Selection get Selection At Offset getSelectionAtOffset caret caret start caret caret start caret

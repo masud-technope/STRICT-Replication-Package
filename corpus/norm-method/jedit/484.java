@@ -1,0 +1,1 @@
+current record number current block based current offset current Block Num currentBlockNum recs Per Blk recsPerBlk current Rec Num currentRecNum current based record number get Current Record Num getCurrentRecordNum curr Rec Idx currRecIdx

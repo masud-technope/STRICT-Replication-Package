@@ -1,0 +1,1 @@
+invalidate Cached Fold Levels invalidateCachedFoldLevels method Invalidates cached fold level j Edit jEdit pre invalidate Cached Fold Levels invalidateCachedFoldLevels line Mgr lineMgr set First Invalid Fold Level setFirstInvalidFoldLevel fire Fold Level Changed fireFoldLevelChanged get Line Count getLineCount

@@ -1,0 +1,1 @@
+accept VFSFile file file get Type getType VFSFile DIRECTORY file get Type getType VFSFile FILESYSTEM accept file get Name getName

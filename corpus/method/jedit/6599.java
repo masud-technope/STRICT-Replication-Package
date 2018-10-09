@@ -1,0 +1,3 @@
+int getScrollLine() {
+    return scrollLine;
+}

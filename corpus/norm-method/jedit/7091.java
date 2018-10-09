@@ -1,0 +1,1 @@
+set Quick Copy Enabled setQuickCopyEnabled method Sets clicking middle mouse button pastes selection register Control dragging inserts selection caret param quick Copy quickCopy flag set Quick Copy Enabled setQuickCopyEnabled quick Copy quickCopy quick Copy quickCopy quick Copy quickCopy

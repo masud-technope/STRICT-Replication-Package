@@ -1,0 +1,1 @@
+set CFBundle Version setCFBundleVersion String m CFBundle Version mCFBundleVersion

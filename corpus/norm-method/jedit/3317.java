@@ -1,0 +1,1 @@
+handle Dockable Window Update handleDockableWindowUpdate method EBHandler handle Dockable Window Update handleDockableWindowUpdate Dockable Window Update DockableWindowUpdate msg msg get What getWhat Dockable Window Update DockableWindowUpdate PROPERTIES CHANGED properties Changed propertiesChanged

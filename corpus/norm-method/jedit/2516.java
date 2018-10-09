@@ -1,0 +1,1 @@
+Event firing methods fire Fold Level Changed fireFoldLevelChanged method fire Fold Level Changed fireFoldLevelChanged start buffer Listeners bufferListeners size Buffer Listener BufferListener listener get Listener getListener listener fold Level Changed foldLevelChanged start Throwable Log log Log ERROR Exception sending buffer event listener Log log Log ERROR

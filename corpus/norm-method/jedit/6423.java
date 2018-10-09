@@ -1,0 +1,1 @@
+add Range addRange Font font length length length font range Font rangeFont range Length rangeLength length add Glyph Vector Of Last Range addGlyphVectorOfLastRange range Font rangeFont font range Start rangeStart range Length rangeLength range Length rangeLength length

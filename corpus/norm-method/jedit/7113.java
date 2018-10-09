@@ -1,0 +1,1 @@
+delete Next Character deleteNextCharacter method Delete code point combining character sequence delete Next Character deleteNextCharacter offset offset buffer get Length getLength length get Next Character Offset getNextCharacterOffset offset offset buffer remove offset length

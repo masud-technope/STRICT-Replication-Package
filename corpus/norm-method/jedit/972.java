@@ -1,0 +1,1 @@
+get Name getName Name Space NameSpace namespace namespace get Name Resolver getNameResolver text

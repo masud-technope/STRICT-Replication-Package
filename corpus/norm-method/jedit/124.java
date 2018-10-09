@@ -1,0 +1,1 @@
+Setter bundleid attribute optional key specifies unique identifier string bundle identifier form Java style mycompany myapp bundle identifier locate bundle runtime preferences system string identify applications uniquely set Bundleid setBundleid String bundle Properties bundleProperties set CFBundle Identifier setCFBundleIdentifier

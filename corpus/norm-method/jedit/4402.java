@@ -1,0 +1,1 @@
+dispose method Override dispose Edit Bus EditBus remove From Bus removeFromBus j Edit jEdit set Integer Property setIntegerProperty helpviewer splitter splitter get Divider Location getDividerLocation dispose

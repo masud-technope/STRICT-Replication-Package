@@ -1,0 +1,1 @@
+is Selection Area Enabled isSelectionAreaEnabled method is Selection Area Enabled isSelectionAreaEnabled j Edit jEdit get Boolean Property getBooleanProperty SELECTION AREA ENABLED PROPERTY

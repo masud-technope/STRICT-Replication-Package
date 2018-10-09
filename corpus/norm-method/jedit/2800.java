@@ -1,0 +1,1 @@
+trim To Limit trimToLimit method trim To Limit trimToLimit Deque Entry list max j Edit jEdit get Integer Property getIntegerProperty recent Files recentFiles list size max list remove Last removeLast

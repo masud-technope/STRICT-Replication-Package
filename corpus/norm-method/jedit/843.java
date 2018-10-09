@@ -1,0 +1,1 @@
+Override Object get Item getItem current current Glob VFSFile Filter GlobVFSFileFilter get Text getText current get Glob getGlob equals get Text getText current set Glob setGlob get Text getText current

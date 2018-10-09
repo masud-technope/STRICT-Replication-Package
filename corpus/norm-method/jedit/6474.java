@@ -1,0 +1,1 @@
+add method Adds key mapping param keyword key param add String keyword add keyword to Char Array toCharArray

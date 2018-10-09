@@ -1,0 +1,1 @@
+equals method Override equals Object Pos Bottom Half PosBottomHalf Pos Bottom Half PosBottomHalf offset offset

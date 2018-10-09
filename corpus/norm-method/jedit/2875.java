@@ -1,0 +1,1 @@
+Buffer Set Manager BufferSetManager constructor Buffer Set Manager BufferSetManager Edit Bus EditBus add To Bus addToBus scope Buffer Set BufferSet Scope value Of valueOf j Edit jEdit get Property getProperty bufferset scope global Illegal Argument Exception IllegalArgumentException Log log Log ERROR scope Buffer Set BufferSet Scope global

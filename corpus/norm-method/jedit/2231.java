@@ -1,0 +1,1 @@
+bsh Primitive bsh Primitive numeric type cases include boolen object type remains Attempting exception param to Type toType java object primitive TYPE Primitive cast To Type castToType to Type toType operation Util Eval Error UtilEvalError cast Primitive castPrimitive to Type toType from Type fromType get Type getType from Value fromValue check Only checkOnly operation

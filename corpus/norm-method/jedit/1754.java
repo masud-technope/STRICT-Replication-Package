@@ -1,0 +1,1 @@
+visit Multi ANew Array Insn visitMultiANewArrayInsn String desc dims compute Maxs computeMaxs updates current stack size max stack size unchanged stack size variation negative stack Size stackSize dims adds instruction bytecode method Item class Item classItem new Class newClass desc code Constants MULTIANEWARRAY class Item classItem dims

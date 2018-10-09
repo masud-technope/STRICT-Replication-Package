@@ -1,0 +1,1 @@
+get Caret Color getCaretColor method Returns caret color Color get Caret Color getCaretColor caret Color caretColor

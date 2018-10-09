@@ -1,0 +1,1 @@
+fold Handler Changed foldHandlerChanged method Called notify text area folds collapsed collapse Folds collapseFolds property set method called buffer loaded user fold handler param buffer buffer question j Edit jEdit pre fold Handler Changed foldHandlerChanged JEdit Buffer JEditBuffer buffer

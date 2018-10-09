@@ -1,0 +1,1 @@
+Appends text selected text area register param text Area textArea text area param register register param separator separator insert text append Text Area TextArea text Area textArea register String separator append text Area textArea register separator

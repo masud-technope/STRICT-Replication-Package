@@ -1,0 +1,1 @@
+mouse Exited mouseExited method mouse Exited mouseExited Mouse Event MouseEvent evt Tool Tip Manager ToolTipManager ttm Tool Tip Manager ToolTipManager shared Instance sharedInstance ttm set Initial Delay setInitialDelay tool Tip Initial Delay toolTipInitialDelay ttm set Reshow Delay setReshowDelay tool Tip Reshow Delay toolTipReshowDelay

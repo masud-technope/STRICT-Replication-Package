@@ -1,0 +1,1 @@
+handle Message handleMessage EBMessage msg msg Properties Changed PropertiesChanged lock colors

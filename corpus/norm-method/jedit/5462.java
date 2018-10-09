@@ -1,0 +1,1 @@
+Override String get Column Name getColumnName j Edit jEdit get Property getProperty options shortcuts j Edit jEdit get Property getProperty options shortcuts shortcut j Edit jEdit get Property getProperty options shortcuts shortcut j Edit jEdit get Property getProperty options shortcuts actionset

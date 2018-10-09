@@ -1,0 +1,1 @@
+global namespace interpreter Note completeness lot indication work caching interpreter instance namespace add overhead debug status stored interpreter features namespace accessed interpreter eval script variable namespace global namespace Name Space NameSpace get Name Space getNameSpace global Name Space globalNameSpace

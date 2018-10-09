@@ -1,0 +1,1 @@
+short Title shortTitle method String short Title shortTitle String String title j Edit jEdit get Property getProperty title title TITLE PROPERTY title

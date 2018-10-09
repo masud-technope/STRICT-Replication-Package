@@ -1,0 +1,1 @@
+get End getEnd method Override get End getEnd JEdit Buffer JEditBuffer buffer get Column On Other Line getColumnOnOtherLine buffer get End Column getEndColumn buffer

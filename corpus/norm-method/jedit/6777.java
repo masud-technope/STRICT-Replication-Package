@@ -1,0 +1,1 @@
+update Border updateBorder method Sets border differently text area focus update Border updateBorder text Area textArea has Focus hasFocus set Border setBorder focus Border focusBorder set Border setBorder no Focus Border noFocusBorder

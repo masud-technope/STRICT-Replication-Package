@@ -1,0 +1,1 @@
+get Buffer Set Manager getBufferSetManager method Returns buffer Set bufferSet manager buffer Set Manager bufferSetManager j Edit jEdit pre Buffer Set Manager BufferSetManager get Buffer Set Manager getBufferSetManager buffer Set Manager bufferSetManager

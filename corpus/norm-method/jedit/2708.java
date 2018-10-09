@@ -1,0 +1,1 @@
+remove All Markers removeAllMarkers method Removes defined markers j Edit jEdit pre remove All Markers removeAllMarkers set Flag setFlag MARKERS CHANGED Marker marker markers marker remove Position removePosition markers remove All Elements removeAllElements is Loaded isLoaded Edit Bus EditBus send Buffer Update BufferUpdate Buffer Update BufferUpdate MARKERS CHANGED

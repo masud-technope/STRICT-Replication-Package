@@ -1,0 +1,1 @@
+marker created constructor link create Position createPosition called marker reflect place text editions position maintained link org gjt jedit buffer Position Manager PositionManager maintained link org gjt jedit buffer JEdit Buffer JEditBuffer Marker Buffer buffer shortcut position buffer buffer shortcut shortcut pos position

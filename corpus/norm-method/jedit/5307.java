@@ -1,0 +1,1 @@
+get Column Name getColumnName method String get Column Name getColumnName j Edit jEdit get Property getProperty options browser colors glob j Edit jEdit get Property getProperty options browser colors color

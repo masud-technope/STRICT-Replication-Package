@@ -1,0 +1,1 @@
+is Data Flavor Supported isDataFlavorSupported method is Data Flavor Supported isDataFlavorSupported Data Flavor DataFlavor flavor j Edit File List jEditFileList equals flavor Data Flavor DataFlavor string Flavor stringFlavor equals flavor

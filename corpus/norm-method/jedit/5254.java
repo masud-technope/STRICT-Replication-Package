@@ -1,0 +1,1 @@
+add Option Pane addOptionPane method add Option Pane addOptionPane Option Pane OptionPane pane String label j Edit jEdit get Property getProperty options pane get Name getName label LABEL PROPERTY pane get Name getName insertion Sort insertionSort label pane

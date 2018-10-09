@@ -1,0 +1,1 @@
+set Ignore Case setIgnoreCase method set Ignore Case setIgnoreCase ignore Case ignoreCase

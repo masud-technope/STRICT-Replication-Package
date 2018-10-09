@@ -1,0 +1,1 @@
+remove Dockable Window removeDockableWindow method Hides dockable window j Edit jEdit pre calling hide Dockable Window hideDockableWindow param dockable window j Edit jEdit pre remove Dockable Window removeDockableWindow String hide Dockable Window hideDockableWindow

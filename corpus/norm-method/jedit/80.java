@@ -1,0 +1,1 @@
+set NSSupports Automatic Graphics Switching setNSSupportsAutomaticGraphicsSwitching m NSSupports Automatic Graphics Switching mNSSupportsAutomaticGraphicsSwitching

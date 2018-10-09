@@ -1,0 +1,1 @@
+add To Favorites addToFavorites method add To Favorites addToFavorites String path type lock favorites load Favorites loadFavorites Favorite favorite favorites favorite get Path getPath equals path favorites add Favorite path type VFSManager send VFSUpdate sendVFSUpdate instance PROTOCOL Edit Bus EditBus send Dynamic Menu Changed DynamicMenuChanged favorites

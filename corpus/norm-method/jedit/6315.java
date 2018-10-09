@@ -1,0 +1,1 @@
+close Or Keep Dialog closeOrKeepDialog method close Or Keep Dialog closeOrKeepDialog keep Dialog keepDialog is Selected isSelected workaround problems hyper Search hyperSearch is Selected isSelected to Front toFront request Focus requestFocus find request Focus requestFocus GUIUtilities save Geometry saveGeometry search set Visible setVisible

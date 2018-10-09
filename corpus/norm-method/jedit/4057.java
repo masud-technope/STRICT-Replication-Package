@@ -1,0 +1,1 @@
+update Buffer buffer view get Buffer getBuffer locked buffer is Locked isLocked cmp set Text setText locked cmp set Enabled setEnabled locked cmp set Tool Tip Text setToolTipText j Edit jEdit get Property getProperty view status locked tooltip Integer locked

@@ -1,0 +1,1 @@
+add Style Choice addStyleChoice method add Style Choice addStyleChoice String label String property Font font JLabel get Font getFont style Choices styleChoices add Style Choice StyleChoice label property Syntax Utilities SyntaxUtilities parse Style parseStyle j Edit jEdit get Property getProperty property font get Family getFamily font get Size getSize

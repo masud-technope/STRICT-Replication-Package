@@ -1,0 +1,3 @@
+//{{{ Selection constructor
+protected  Selection() {
+}

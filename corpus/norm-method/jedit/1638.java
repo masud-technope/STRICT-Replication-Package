@@ -1,0 +1,1 @@
+get Invocation Line getInvocationLine Simple Node SimpleNode node get Node getNode node node get Line Number getLineNumber

@@ -1,0 +1,1 @@
+do Selected Completion doSelectedCompletion method completion current selection quit do Selected Completion doSelectedCompletion selected list get Selected Index getSelectedIndex candidates selected selected candidates get Size getSize candidates complete selected dispose

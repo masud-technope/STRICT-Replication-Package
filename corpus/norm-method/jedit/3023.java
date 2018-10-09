@@ -1,0 +1,1 @@
+method abort Socket client client socket accept script kiddies opening edit server port leaving open Do S DoS client set So Timeout setSoTimeout Log log Log MESSAGE client connected Data Input Stream DataInputStream Data Input Stream DataInputStream client get Input Stream getInputStream handle Client handleClient client abort Exception abort Log log Log ERROR abort

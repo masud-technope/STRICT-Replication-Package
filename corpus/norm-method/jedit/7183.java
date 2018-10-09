@@ -1,0 +1,1 @@
+method dumb action whitespace param select select cursor jedit pre select get Input Handler getInputHandler get Last Action Count getLastActionCount go To End Of White Space goToEndOfWhiteSpace select go To End Of Line goToEndOfLine select

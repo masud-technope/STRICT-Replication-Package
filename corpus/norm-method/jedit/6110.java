@@ -1,0 +1,1 @@
+Creates view buffer set param glob filename glob param view view check open buffers j Edit jEdit pre All Buffer Set AllBufferSet String glob View view glob glob view view

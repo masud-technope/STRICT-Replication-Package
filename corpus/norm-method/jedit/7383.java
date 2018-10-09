@@ -1,0 +1,1 @@
+is Block Caret Enabled isBlockCaretEnabled method Returns caret drawn block is Block Caret Enabled isBlockCaretEnabled block Caret blockCaret

@@ -1,0 +1,1 @@
+Retreive task attributes Arguments param arguments pass application launched set Arguments setArguments String bundle Properties bundleProperties set Arguments setArguments

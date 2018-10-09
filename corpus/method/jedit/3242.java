@@ -1,0 +1,1 @@
+void remove(DockableWindowManagerImpl.Entry entry);

@@ -1,0 +1,1 @@
+is Dockable Window Visible isDockableWindowVisible String

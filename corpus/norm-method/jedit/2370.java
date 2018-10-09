@@ -1,0 +1,1 @@
+version scripted object implementing type complain don proxy mechanism Object get Interface getInterface clas Util Eval Error UtilEvalError clas is Instance isInstance Util Eval Error UtilEvalError Dynamic proxy mechanism construct type clas

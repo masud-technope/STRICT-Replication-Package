@@ -1,0 +1,1 @@
+stop Recording stopRecording method Stops recording progress param view view j Edit jEdit pre stop Recording stopRecording View view Recorder recorder view get Macro Recorder getMacroRecorder recorder GUIUtilities error view macro recording view set Macro Recorder setMacroRecorder recorder temporary view set Buffer setBuffer recorder buffer recorder dispose

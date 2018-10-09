@@ -1,0 +1,62 @@
+//{{{ ManagePanel constructor
+public  ManagePanel(PluginManager window) {
+    super(new BorderLayout(12, 12));
+    this.window = window;
+    setBorder(new EmptyBorder(12, 12, 12, 12));
+    Box topBox = new Box(BoxLayout.X_AXIS);
+    topBox.add(hideLibraries = new HideLibrariesButton());
+    add(BorderLayout.NORTH, topBox);
+    /* Create the plugin table */
+    table = new JTable(pluginModel = new PluginTableModel());
+    table.setShowGrid(false);
+    table.setIntercellSpacing(new Dimension(0, 0));
+    table.setRowHeight(GenericGUIUtilities.defaultRowHeight() + 2);
+    table.setPreferredScrollableViewportSize(new Dimension(500, 300));
+    table.setDefaultRenderer(Object.class, new TextRenderer((DefaultTableCellRenderer) table.getDefaultRenderer(Object.class)));
+    table.addFocusListener(new TableFocusHandler());
+    table.getSelectionModel().addListSelectionListener(new TableSelectionListener());
+    InputMap tableInputMap = table.getInputMap(JComponent.WHEN_FOCUSED);
+    ActionMap tableActionMap = table.getActionMap();
+    tableInputMap.put(KeyStroke.getKeyStroke(KeyEvent.VK_TAB, 0), "tabOutForward");
+    tableActionMap.put("tabOutForward", new KeyboardAction(KeyboardCommand.TAB_OUT_FORWARD));
+    tableInputMap.put(KeyStroke.getKeyStroke(KeyEvent.VK_TAB, InputEvent.SHIFT_DOWN_MASK), "tabOutBack");
+    tableActionMap.put("tabOutBack", new KeyboardAction(KeyboardCommand.TAB_OUT_BACK));
+    tableInputMap.put(KeyStroke.getKeyStroke(KeyEvent.VK_SPACE, 0), "editPlugin");
+    tableActionMap.put("editPlugin", new KeyboardAction(KeyboardCommand.EDIT_PLUGIN));
+    tableInputMap.put(KeyStroke.getKeyStroke(KeyEvent.VK_ENTER, 0), "closePluginManager");
+    tableActionMap.put("closePluginManager", new KeyboardAction(KeyboardCommand.CLOSE_PLUGIN_MANAGER));
+    TableColumn col1 = table.getColumnModel().getColumn(0);
+    TableColumn col2 = table.getColumnModel().getColumn(1);
+    TableColumn col3 = table.getColumnModel().getColumn(2);
+    TableColumn col4 = table.getColumnModel().getColumn(3);
+    col1.setPreferredWidth(30);
+    col1.setMinWidth(30);
+    col1.setMaxWidth(30);
+    col1.setResizable(false);
+    col2.setPreferredWidth(300);
+    col3.setPreferredWidth(100);
+    col4.setPreferredWidth(100);
+    JTableHeader header = table.getTableHeader();
+    header.setReorderingAllowed(false);
+    header.setDefaultRenderer(new HeaderRenderer((DefaultTableCellRenderer) header.getDefaultRenderer()));
+    HeaderMouseHandler mouseHandler = new HeaderMouseHandler();
+    header.addMouseListener(mouseHandler);
+    table.addMouseListener(mouseHandler);
+    scrollpane = new JScrollPane(table);
+    scrollpane.getViewport().setBackground(table.getBackground());
+    pluginDetailPanel = new PluginDetailPanel();
+    scrollpane.setPreferredSize(new Dimension(400, 400));
+    JSplitPane split = new JSplitPane(JSplitPane.VERTICAL_SPLIT, true, scrollpane, pluginDetailPanel);
+    add(BorderLayout.CENTER, split);
+    split.setResizeWeight(0.75);
+    /* Create button panel */
+    Box buttons = new Box(BoxLayout.X_AXIS);
+    buttons.add(new RemoveButton());
+    buttons.add(new SaveButton());
+    buttons.add(new RestoreButton());
+    buttons.add(new FindOrphan());
+    buttons.add(Box.createGlue());
+    buttons.add(new HelpButton());
+    add(BorderLayout.SOUTH, buttons);
+    pluginModel.update();
+}

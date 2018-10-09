@@ -1,0 +1,1 @@
+Color Chooser Dialog ColorChooserDialog Color Chooser Dialog ColorChooserDialog Window owner Color initial Color initialColor owner set Modal setModal initial Color initialColor initial Color initialColor init

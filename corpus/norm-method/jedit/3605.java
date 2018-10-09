@@ -1,0 +1,1 @@
+set Max Size setMaxSize method Sets maximum size characters history model param max maximum size history model restore j Edit jEdit pre set Max Size setMaxSize max max Size maxSize max

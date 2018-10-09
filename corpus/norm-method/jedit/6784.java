@@ -1,0 +1,1 @@
+get Highlighted Foreground getHighlightedForeground method foreground color highlighted numbers highlight color Color get Highlighted Foreground getHighlightedForeground interval Highlight intervalHighlight

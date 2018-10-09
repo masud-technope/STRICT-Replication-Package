@@ -1,0 +1,1 @@
+to String toString method Override String to String toString get Class getClass get Name getName mode Name modeName set Name setName

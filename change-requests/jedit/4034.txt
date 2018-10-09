@@ -1,0 +1,3 @@
+#4034 print preview shows first page only
+
+For me, the print preview shows the first page, but after changing the page number (with dropdown box or arrow buttons) the preview keeps showing first page.

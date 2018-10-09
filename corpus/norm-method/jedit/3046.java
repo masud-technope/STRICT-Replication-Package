@@ -1,0 +1,1 @@
+close Dialog closeDialog method close Dialog closeDialog About Panel AboutPanel stop Thread stopThread dispose

@@ -1,0 +1,1 @@
+Constructor Shortcut Prefix Active Event ShortcutPrefixActiveEvent object param bindings Description Parameter param active Description Parameter Shortcut Prefix Active Event ShortcutPrefixActiveEvent Hashtable bindings active Object bindings bindings active active

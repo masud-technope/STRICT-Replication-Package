@@ -1,0 +1,1 @@
+get Active View getActiveView method Returns focused view j Edit jEdit pre View get Active View getActiveView active View activeView user closed view didn focus views First viewsFirst active View activeView

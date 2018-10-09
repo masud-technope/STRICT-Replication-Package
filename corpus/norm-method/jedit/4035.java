@@ -1,0 +1,1 @@
+cleanup Status Bar cleanupStatusBar Mouse Event MouseEvent evt msg Set msgSet Status Bar StatusBar status Bar statusBar GUIUtilities get View getView Component evt get Source getSource get Status getStatus msg status Bar statusBar get Message getMessage status Bar statusBar set Message setMessage msg Set msgSet msg

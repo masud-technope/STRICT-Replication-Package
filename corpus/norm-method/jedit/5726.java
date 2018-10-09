@@ -1,0 +1,1 @@
+Restore Button RestoreButton set Icon setIcon GUIUtilities load Icon loadIcon j Edit jEdit get Property getProperty manage plugins restore icon add Action Listener addActionListener set Tool Tip Text setToolTipText Choose Plugin Set PluginSet select deselect plugins based set

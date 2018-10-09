@@ -1,0 +1,1 @@
+Override is Data Flavor Supported isDataFlavorSupported Data Flavor DataFlavor flavor Buffer Switcher BufferSwitcher Buffer Data Flavor BufferDataFlavor equals flavor

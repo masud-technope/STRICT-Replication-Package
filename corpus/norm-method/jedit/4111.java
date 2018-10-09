@@ -1,0 +1,1 @@
+Override JComponent get Component getComponent

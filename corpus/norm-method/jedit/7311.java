@@ -1,0 +1,1 @@
+get Tool Tip Text getToolTipText method Called text area mouse hovers location mouse event param ordinate param ordinate j Edit jEdit pre String get Tool Tip Text getToolTipText

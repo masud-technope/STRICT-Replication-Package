@@ -1,0 +1,1 @@
+Occur constructor Occur start start start buffer buffer is Temporary isTemporary buffer Opened bufferOpened

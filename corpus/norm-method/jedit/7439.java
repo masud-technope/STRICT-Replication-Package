@@ -1,0 +1,1 @@
+to String toString method Override String to String toString get Class getClass get Name getName j Edit jEdit get Active View getActiveView active inactive

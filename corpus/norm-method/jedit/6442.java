@@ -1,0 +1,1 @@
+offset To X offsetToX method offset To X offsetToX offset glyphs Glyph Vector GlyphVector glyphs offset get Num Glyphs getNumGlyphs get Glyph Position getGlyphPosition offset get X getX get Logical Bounds getLogicalBounds get Width getWidth offset get Num Glyphs getNumGlyphs Shouldn reach Shouldn reach

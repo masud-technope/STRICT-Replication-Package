@@ -1,0 +1,4 @@
+//}}}
+int getSkew() {
+    return skew;
+}

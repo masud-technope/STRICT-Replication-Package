@@ -1,0 +1,1 @@
+is Exiting isExiting method Returns plugin unloaded shutdown process components viewer plugin manager ignore event j Edit jEdit pre is Exiting isExiting exit

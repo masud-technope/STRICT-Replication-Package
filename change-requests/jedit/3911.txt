@@ -1,0 +1,12 @@
+#3911 When saving a buffer, the text area scrolls to left
+
+Sometimes on it's own (maybe during cyclic saving), and when saving a buffer the text area scrolls to left, I have the feeling, especially when some text is selected. It's a strange behaviour when you working 'somewhere on the right side' of the buffer, and the window scrolls to left from time to time.
+
+I use jedit 5.3pre1, newest updates, reproducable with all plugins disabled, java 1.7.0_60, Suse Linux.
+
+Activity log - simply go to the end, select something, waiting or save buffer, even if it is not changed:
+
+textArea.goToEndOfWhiteSpace(false);
+textArea.goToPrevCharacter(true);
+textArea.goToPrevCharacter(true);
+buffer.save(view,null,true);

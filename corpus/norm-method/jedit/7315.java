@@ -1,0 +1,1 @@
+show Cursor showCursor method show Cursor showCursor text Area textArea get Painter getPainter show Cursor showCursor

@@ -1,0 +1,1 @@
+Creates regular expression compiled java util regex Pattern param compiled regex param ignore Case ignoreCase code code ignore j Edit jEdit pre Pattern Search Matcher PatternSearchMatcher Pattern ignore Case ignoreCase ignore Case ignoreCase

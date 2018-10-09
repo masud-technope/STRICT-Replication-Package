@@ -1,0 +1,1 @@
+is OK isOK install Dir installDir get Text getText length File File install Dir installDir get Text getText exists is Directory isDirectory

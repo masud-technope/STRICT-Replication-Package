@@ -1,0 +1,1 @@
+set Dirty setDirty method param Sets dirty changed save flag buffer set Dirty setDirty editable is Editable isEditable editable dirty dirty save insert undo redo undo is Undo In Progress isUndoInProgress ensures undo clear dirty flag properly edits save undone undo Mgr undoMgr reset Clear Dirty resetClearDirty

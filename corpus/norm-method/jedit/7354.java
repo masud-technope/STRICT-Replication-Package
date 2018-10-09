@@ -1,0 +1,1 @@
+should Paint Line Highlight shouldPaintLineHighlight method should Paint Line Highlight shouldPaintLineHighlight caret start is Line Highlight Enabled isLineHighlightEnabled caret start caret count text Area textArea get Selection Count getSelectionCount count Selection text Area textArea get Selection getSelection get Start Line getStartLine get End Line getEndLine count

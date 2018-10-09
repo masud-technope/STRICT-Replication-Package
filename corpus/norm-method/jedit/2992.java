@@ -1,0 +1,1 @@
+prev Buffer prevBuffer method Selects previous buffer j Edit jEdit pre prev Buffer prevBuffer Buffer buffer buffer Set bufferSet get Previous Buffer getPreviousBuffer buffer Set bufferSet index Of indexOf buffer set Buffer setBuffer buffer

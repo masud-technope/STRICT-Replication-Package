@@ -1,0 +1,1 @@
+hide Cursor hideCursor method Hide cursor cursor hide Cursor hideCursor default Cursor defaultCursor set Cursor setCursor hidden Cursor hiddenCursor

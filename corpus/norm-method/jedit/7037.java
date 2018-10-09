@@ -1,0 +1,1 @@
+delete Word deleteWord methods Deletes word front caret j Edit jEdit pre delete Word deleteWord delete Word deleteWord

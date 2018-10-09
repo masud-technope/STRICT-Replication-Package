@@ -1,0 +1,1 @@
+send Async sendAsync method Schedules message edit bus AWT thread processing current events method returns message param message message j Edit jEdit pre send Async sendAsync EBMessage message Event Queue EventQueue invoke Later invokeLater Send Message SendMessage message

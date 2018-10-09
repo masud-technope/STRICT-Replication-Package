@@ -1,0 +1,1 @@
+Sets selection Nested overlapping selections merged param selection selection j Edit jEdit pre set Selection setSelection Selection selection invalidate Selected Lines invalidateSelectedLines selection Manager selectionManager set Selection setSelection selection finish Caret Update finishCaretUpdate caret Line caretLine SCROLL

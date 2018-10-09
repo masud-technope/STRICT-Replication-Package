@@ -1,0 +1,1 @@
+Test write String Should Encode Non ASCIICharacters Correctly ShouldEncodeNonASCIICharactersCorrectly IOException Byte Array Output Stream ByteArrayOutputStream baos Byte Array Output Stream ByteArrayOutputStream writer ASCIIEncoding get Text Writer getTextWriter baos writer write writer flush assert That assertThat baos to String toString ISO equal To equalTo

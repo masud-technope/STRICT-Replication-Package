@@ -1,0 +1,1 @@
+get Dockable getDockable method j Edit jEdit pre JComponent get Dockable getDockable String windows

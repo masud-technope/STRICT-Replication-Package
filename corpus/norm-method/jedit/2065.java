@@ -1,0 +1,1 @@
+scan token DOT scan token IDENTIFIER

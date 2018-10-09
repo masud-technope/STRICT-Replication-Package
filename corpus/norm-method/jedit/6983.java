@@ -1,0 +1,1 @@
+Override JEdit Bean Shell Action JEditBeanShellAction get Array getArray size JEdit Bean Shell Action JEditBeanShellAction size

@@ -1,0 +1,1 @@
+split Vertically splitVertically method Splits view vertically edit Pane editPane j Edit jEdit pre Edit Pane EditPane split Vertically splitVertically split JSplit Pane JSplitPane HORIZONTAL SPLIT

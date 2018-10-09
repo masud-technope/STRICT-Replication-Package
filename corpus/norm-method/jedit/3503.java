@@ -1,0 +1,1 @@
+Renderer entry Font entryFont UIManager get Font getFont Tree font entry Font entryFont entry Font entryFont j Edit jEdit get Font Property getFontProperty metal secondary font group Font groupFont entry Font entryFont derive Font deriveFont Font BOLD

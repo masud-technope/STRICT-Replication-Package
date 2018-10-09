@@ -1,0 +1,1 @@
+Conversion type descriptors Returns descriptor Java type descriptor Java type String get Descriptor getDescriptor String Builder StringBuilder buf String Builder StringBuilder get Descriptor getDescriptor buf buf to String toString

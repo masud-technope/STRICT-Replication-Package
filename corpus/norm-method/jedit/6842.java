@@ -1,0 +1,1 @@
+Getters setters get View getView method Returns text area view j Edit jEdit pre View get View getView view

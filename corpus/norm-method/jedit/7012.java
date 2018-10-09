@@ -1,0 +1,1 @@
+get Prev Character Offset getPrevCharacterOffset offset Line Character Breaker LineCharacterBreaker offset previous Of previousOf offset

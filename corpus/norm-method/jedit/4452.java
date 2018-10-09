@@ -1,0 +1,1 @@
+Parens JEdit Buffer JEditBuffer pos search Pos searchPos pos open Stack Integer close Stack Integer mark Tokens markTokens open Offset openOffset open is Empty isEmpty open pop close Offset closeOffset close is Empty isEmpty close pop

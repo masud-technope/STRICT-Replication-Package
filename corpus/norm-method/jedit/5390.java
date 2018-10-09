@@ -1,0 +1,1 @@
+get Selection Area Width getSelectionAreaWidth method get Selection Area Width getSelectionAreaWidth j Edit jEdit get Integer Property getIntegerProperty view gutter selection Area Width selectionAreaWidth SELECTION GUTTER WIDTH SELECTION GUTTER WIDTH

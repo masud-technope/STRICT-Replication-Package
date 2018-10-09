@@ -1,0 +1,1 @@
+is Fold End isFoldEnd method ends fold param j Edit jEdit pre is Fold End isFoldEnd fold Level foldLevel get Fold Level getFoldLevel next Line Fold Level nextLineFoldLevel get Line Count getLineCount get Fold Level getFoldLevel fold Level foldLevel next Line Fold Level nextLineFoldLevel

@@ -1,0 +1,1 @@
+Override mouse Clicked mouseClicked Mouse Event MouseEvent evt Object source evt get Source getSource source caret Status caretStatus evt get Click Count getClickCount view get Text Area getTextArea show Go To Line Dialog showGoToLineDialog

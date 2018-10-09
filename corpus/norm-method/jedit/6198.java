@@ -1,0 +1,1 @@
+Collapse Child Tree Nodes Action CollapseChildTreeNodesAction j Edit jEdit get Property getProperty hypersearch collapse child nodes

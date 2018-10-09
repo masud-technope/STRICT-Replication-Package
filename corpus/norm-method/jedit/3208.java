@@ -1,0 +1,1 @@
+is Prefix Active isPrefixActive method Returns prefix key pressed Override is Prefix Active isPrefixActive bindings current Bindings currentBindings is Prefix Active isPrefixActive

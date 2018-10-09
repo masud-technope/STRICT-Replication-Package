@@ -1,0 +1,1 @@
+get Last Macro getLastMacro method j Edit jEdit pre Macro get Last Macro getLastMacro last Macro lastMacro

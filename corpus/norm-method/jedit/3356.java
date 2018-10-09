@@ -1,0 +1,1 @@
+close method Called view closed j Edit jEdit pre close close Entry entry windows values entry win entry container unregister entry Entry clone clones clone win clone container unregister clone

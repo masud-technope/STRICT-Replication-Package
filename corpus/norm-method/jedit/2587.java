@@ -1,0 +1,1 @@
+get String Property getStringProperty method string property method thread safe param property j Edit jEdit pre String get String Property getStringProperty String Object obj get Property getProperty obj obj to String toString

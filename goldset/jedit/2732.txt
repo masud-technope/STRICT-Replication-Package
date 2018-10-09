@@ -1,0 +1,3 @@
+doc/CHANGES.txt
+keymaps/Alan_keys.props
+org/gjt/sp/jedit/buffer/LineManager.java

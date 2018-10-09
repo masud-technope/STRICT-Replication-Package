@@ -1,0 +1,1 @@
+omit is Omit Mode isOmitMode OMIT equals Ignore Case equalsIgnoreCase get Value getValue

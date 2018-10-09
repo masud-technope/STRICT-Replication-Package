@@ -1,0 +1,1 @@
+can Satisfy canSatisfy is Satisfied isSatisfied equals plugin plugin can Be Installed canBeInstalled

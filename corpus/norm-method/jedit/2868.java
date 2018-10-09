@@ -1,0 +1,1 @@
+move Buffer moveBuffer method Moves buffer position position Buffer Set BufferSet Edit Pane EditPane move Buffer moveBuffer Edit Pane EditPane edit Pane editPane old Position oldPosition new Position newPosition edit Pane editPane get Buffer Set getBufferSet move Buffer moveBuffer old Position oldPosition new Position newPosition

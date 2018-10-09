@@ -1,0 +1,1 @@
+can Undo canUndo method undo operation performed j Edit jEdit pre can Undo canUndo undo Mgr undoMgr undo Mgr undoMgr can Undo canUndo

@@ -1,0 +1,1 @@
+move All To Left moveAllToLeft method move All To Left moveAllToLeft left Model leftModel add All addAll right Model rightModel data right Model rightModel clear

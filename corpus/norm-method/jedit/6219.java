@@ -1,0 +1,1 @@
+hide Dockable hideDockable method hide Dockable hideDockable view get Dockable Window Manager getDockableWindowManager hide Dockable Window hideDockableWindow

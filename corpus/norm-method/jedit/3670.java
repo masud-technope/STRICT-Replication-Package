@@ -1,0 +1,1 @@
+read Next Char readNextChar method Invokes Bean Shell BeanShell code replacing code input character param msg prompt display status bar param code code j Edit jEdit pre read Next Char readNextChar String msg String code view get Status getStatus set Message setMessage msg read Next Char readNextChar code

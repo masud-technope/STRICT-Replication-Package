@@ -1,0 +1,1 @@
+is File Read Only isFileReadOnly method is File Read Only isFileReadOnly read Only readOnly

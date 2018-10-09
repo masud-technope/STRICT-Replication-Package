@@ -1,0 +1,1 @@
+characters method Override characters start length in Register inRegister char Data charData append start length

@@ -1,0 +1,1 @@
+get Integer Property getIntegerProperty method Returns integer property param property get Integer Property getIntegerProperty String get Integer Property getIntegerProperty

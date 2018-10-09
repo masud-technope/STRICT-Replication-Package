@@ -1,0 +1,1 @@
+fire Begin Undo fireBeginUndo method fire Begin Undo fireBeginUndo Buffer Undo Listener BufferUndoListener listener undo Listeners undoListeners listener begin Undo beginUndo Throwable Log log Log ERROR Exception sending buffer undo event listener Log log Log ERROR

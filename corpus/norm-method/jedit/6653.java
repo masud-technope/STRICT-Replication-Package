@@ -1,0 +1,1 @@
+set Buffer setBuffer method set Buffer setBuffer JEdit Buffer JEditBuffer buffer buffer buffer last Screen Line lastScreenLine last Screen Line P lastScreenLineP

@@ -1,0 +1,1 @@
+Rename file param full path file renamed param newname filename full path rename String String newname VFS vfs VFSManager get VFSFor Path getVFSForPath rename vfs newname

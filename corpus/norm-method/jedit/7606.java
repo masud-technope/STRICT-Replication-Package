@@ -1,0 +1,1 @@
+get Size getSize method get Size getSize wrap MAXLINES log Line Count logLineCount

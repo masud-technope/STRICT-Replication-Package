@@ -1,0 +1,1 @@
+invoke method invoke View view view get Dockable Window Manager getDockableWindowManager toggle Dockable Window toggleDockableWindow dockable

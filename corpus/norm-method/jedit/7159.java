@@ -1,0 +1,1 @@
+shift Tall Caret Left shiftTallCaretLeft method shift Tall Caret Left shiftTallCaretLeft Selection Rect remove From Selection removeFromSelection add To Selection addToSelection Selection Rect buffer get Start Line getStartLine get Start Column getStartColumn buffer get End Line getEndLine get End Column getEndColumn buffer

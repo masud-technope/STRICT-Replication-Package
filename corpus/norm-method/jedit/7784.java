@@ -1,0 +1,1 @@
+at End Of Buffer atEndOfBuffer Text Area TextArea text Area textArea j Edit jEdit get Active View getActiveView get Text Area getTextArea at End Of Buffer atEndOfBuffer text Area textArea get Caret Position getCaretPosition

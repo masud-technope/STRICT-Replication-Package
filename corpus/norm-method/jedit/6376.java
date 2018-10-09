@@ -1,0 +1,1 @@
+Returns instance service time called service Bean Shell BeanShell code evaluated result cached invocations services singletons param clazz service param service service instance j Edit jEdit pre Suppress Warnings SuppressWarnings unchecked get Service getService clazz String get Service getService clazz get Name getName

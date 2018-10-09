@@ -1,0 +1,1 @@
+get Selection Count getSelectionCount method Returns number selections test existence selections get Selection Count getSelectionCount selection size

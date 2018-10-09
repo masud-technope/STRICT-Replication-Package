@@ -1,0 +1,1 @@
+save Font j Edit jEdit get Font Property getFontProperty view font Subst List fontSubstList j Edit jEdit unset Property unsetProperty view font Subst List fontSubstList fonts Model fontsModel size Font fonts Model fontsModel get Element At getElementAt j Edit jEdit set Font Property setFontProperty view font Subst List fontSubstList

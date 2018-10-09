@@ -1,0 +1,1 @@
+Override table Changed tableChanged Table Model Event TableModelEvent get Type getType Table Model Event TableModelEvent UPDATE is Downloading List isDownloadingList size nb Plugins nbPlugins length plugin Model pluginModel entries size length Entry entry Entry plugin Model pluginModel entries entry install nb Plugins nbPlugins size entry size update

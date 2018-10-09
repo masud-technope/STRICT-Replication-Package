@@ -1,0 +1,1 @@
+get Parent Dialog getParentDialog method Traverses component parent tree instance JDialog param component deprecated link Generic GUIUtilities GenericGUIUtilities get Parent Dialog getParentDialog Component JDialog get Parent Dialog getParentDialog Component Generic GUIUtilities GenericGUIUtilities get Parent Dialog getParentDialog

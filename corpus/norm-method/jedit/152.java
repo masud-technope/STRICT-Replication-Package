@@ -1,0 +1,1 @@
+Setter signature attribute optional set Signature setSignature String bundle Properties bundleProperties set CFBundle Signature setCFBundleSignature

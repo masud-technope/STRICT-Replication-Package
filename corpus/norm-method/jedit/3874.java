@@ -1,0 +1,1 @@
+value Changed valueChanged method value Changed valueChanged List Selection Event ListSelectionEvent evt show Clip Text showClipText update Buttons updateButtons

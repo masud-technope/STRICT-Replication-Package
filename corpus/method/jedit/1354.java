@@ -1,0 +1,1 @@
+public void print(Object o);

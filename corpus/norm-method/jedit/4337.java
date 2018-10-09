@@ -1,0 +1,1 @@
+has Next hasNext method has Next hasNext history length history Pos historyPos history history Pos historyPos

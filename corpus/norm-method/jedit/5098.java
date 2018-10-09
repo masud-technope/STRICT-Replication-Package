@@ -1,0 +1,1 @@
+String get Longest Prefix getLongestPrefix String str ignore Case ignoreCase get Longest Prefix getLongestPrefix Object str ignore Case ignoreCase

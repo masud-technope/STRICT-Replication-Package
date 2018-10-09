@@ -1,0 +1,1 @@
+Cancels exit process plugin calls method j Edit jEdit exit cancel Exit cancelExit has Been Exit Cancelled hasBeenExitCancelled

@@ -1,0 +1,1 @@
+perform String install Dir installDir Vector filesets enabled filesets jedit windows File executable File install Dir installDir jedit exe executable exists String args executable get Path getPath System get Property getProperty java File separator bin Runtime get Runtime getRuntime exec args wait For waitFor IOException Interrupted Exception InterruptedException

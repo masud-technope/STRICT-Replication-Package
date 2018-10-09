@@ -1,0 +1,1 @@
+List get LSArchitecture Priority getLSArchitecturePriority m LSArchitecture Priority mLSArchitecturePriority

@@ -1,0 +1,1 @@
+returns dimensionality returns array get Array Dimensions getArrayDimensions array Class arrayClass array Class arrayClass is Array isArray cute array Class arrayClass get Name getName last Index Of lastIndexOf

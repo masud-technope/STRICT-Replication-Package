@@ -1,0 +1,1 @@
+migrate j Edit jEdit get Integer Property getIntegerProperty check File Status checkFileStatus General Option Pane GeneralOptionPane check File Status checkFileStatus focus j Edit jEdit set Integer Property setIntegerProperty check File Status checkFileStatus General Option Pane GeneralOptionPane check File Status checkFileStatus focus

@@ -1,0 +1,1 @@
+get Min Line Number Digits getMinLineNumberDigits method get Min Line Number Digits getMinLineNumberDigits j Edit jEdit get Integer Property getIntegerProperty view gutter min Digit Count minDigitCount

@@ -1,0 +1,1 @@
+visit Type Insn visitTypeInsn opcode String desc compute Maxs computeMaxs opcode Constants updates current max stack sizes opcode stack size variation ANEWARRAY CHECKCAST size stack Size stackSize size max Stack Size maxStackSize max Stack Size maxStackSize size stack Size stackSize size adds instruction bytecode method code opcode new Class newClass desc

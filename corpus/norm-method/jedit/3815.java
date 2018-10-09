@@ -1,0 +1,1 @@
+cancel method Override cancel current Pane currentPane j Edit jEdit set Property setProperty current Pane currentPane get Name getName dispose

@@ -1,0 +1,1 @@
+paint Icon paintIcon Component Graphics color set Color setColor color fill Rect fillRect get Icon Width getIconWidth get Icon Height getIconHeight set Color setColor color darker draw Rect drawRect get Icon Width getIconWidth get Icon Height getIconHeight

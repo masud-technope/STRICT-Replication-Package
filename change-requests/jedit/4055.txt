@@ -1,0 +1,15 @@
+#4055 Odd default colors for StyleEditor and thus SyntaxHiliteOptionPane
+
+The change r24372 | daleanson | 2016-05-05 introduces an oddity in the default fg/bg colors of the StyleEditor using the following values:
+
+fg = jEdit.getActiveView().getForeground();
+bg = jEdit.getActiveView().getBackground();
+
+This is quite different from the regular TextArea colors, e.g. on Linux with L&F Gtk+ or Windows with native L&F.
+
+Maybe the following works better:
+
+fg = jEdit.getColorProperty("view.fgColor");
+bg = jEdit.getColorProperty("view.bgColor");
+
+On the other hand, only the wrong color value made me aware that the StyleEditor in SyntaxHiliteOptionPane enforced a background color for styles that were previously transparent. So the whole approach may require rethinking.

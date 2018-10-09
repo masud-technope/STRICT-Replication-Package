@@ -1,0 +1,1 @@
+content Removed contentRemoved method Called text removed buffer param buffer buffer question param start Line startLine param offset start offset buffer param num Lines numLines number lines removed param length number characters removed j Edit jEdit pre content Removed contentRemoved JEdit Buffer JEditBuffer buffer start Line startLine offset num Lines numLines length

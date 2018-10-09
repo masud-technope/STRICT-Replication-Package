@@ -1,0 +1,1 @@
+boolean isVisible(DockableWindowManagerImpl.Entry entry);

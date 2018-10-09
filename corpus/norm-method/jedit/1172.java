@@ -1,0 +1,1 @@
+Parse BSHBlock definition generate generate Class generateClass String Modifiers modifiers interfaces super Class superClass BSHBlock block is Interface isInterface Call Stack CallStack callstack Interpreter interpreter Eval Error EvalError

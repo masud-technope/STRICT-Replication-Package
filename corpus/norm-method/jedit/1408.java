@@ -1,0 +1,1 @@
+invoke Main invokeMain clas String args Exception Method main Reflect resolve Java Method resolveJavaMethod Bsh Class Manager BshClassManager clas main String only Static onlyStatic main main invoke Object args

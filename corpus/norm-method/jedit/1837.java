@@ -1,0 +1,1 @@
+For Init ForInit Parse Exception ParseException Token Typed Variable Declaration TypedVariableDeclaration ntk ntk ntk INTEGER LITERAL FLOATING POINT LITERAL CHARACTER LITERAL STRING LITERAL IDENTIFIER LPAREN BANG TILDE INCR DECR Statement Expression List StatementExpressionList consume token Parse Exception ParseException

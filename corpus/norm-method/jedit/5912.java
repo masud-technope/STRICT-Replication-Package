@@ -1,0 +1,1 @@
+Override print Job Failed printJobFailed Print Job Event PrintJobEvent pje JOption Pane JOptionPane show Message Dialog showMessageDialog view j Edit jEdit get Property getProperty print error message String Print job failed j Edit jEdit get Property getProperty print error title JOption Pane JOptionPane ERROR MESSAGE

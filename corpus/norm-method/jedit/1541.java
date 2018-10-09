@@ -1,0 +1,1 @@
+column Removed columnRemoved Table Column Model Event TableColumnModelEvent event column Removed columnRemoved

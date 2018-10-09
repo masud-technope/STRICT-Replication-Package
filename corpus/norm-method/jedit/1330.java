@@ -1,0 +1,1 @@
+is Map isMap Object obj obj Map is Map isMap obj

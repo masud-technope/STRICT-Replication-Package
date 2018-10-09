@@ -1,0 +1,1 @@
+used Font Substitution usedFontSubstitution method Returns font substitution layout chunk substitution chunk assumed composed glyph single font used Font Substitution usedFontSubstitution font Subst Enabled fontSubstEnabled glyphs glyphs length glyphs length glyphs get Font getFont style get Font getFont

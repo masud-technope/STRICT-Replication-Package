@@ -1,0 +1,1 @@
+String Dockable Window Manager Impl DockableWindowManagerImpl Entry entry show Dockable Window showDockableWindow hide Dockable Window hideDockableWindow entry

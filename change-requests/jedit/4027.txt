@@ -1,0 +1,48 @@
+#4027 Sorting files in the file system browser not working
+
+When I start jEdit (even with a clean profile) and try to sort files in the file system browser, it does not work (until I refresh the directory) and errors appear in the activity log. When I go to global options and press OK without changing anything, the sorting works (and no errors). When I close jEdit and start it again, it does not work again. 
+I also tried jEdit 5.3.1. Same behaviour.
+
+from activity log:
+
+[AWT-EventQueue-0] [debug] VFSDirectoryEntryTable$MouseHandler: VFSDirectoryEntryTable sorted by Name descending
+[AWT-EventQueue-0] [error] AWT-EventQueue-0: Exception in thread "AWT-EventQueue-0" 
+[AWT-EventQueue-0] [error] AWT-EventQueue-0: java.lang.ArrayIndexOutOfBoundsException: -1
+[AWT-EventQueue-0] [error] AWT-EventQueue-0: at java.util.Vector.elementData(Vector.java:734)
+[AWT-EventQueue-0] [error] AWT-EventQueue-0: at java.util.Vector.elementAt(Vector.java:477)
+[AWT-EventQueue-0] [error] AWT-EventQueue-0: at javax.swing.table.DefaultTableColumnModel.getColumn(DefaultTableColumnModel.java:294)
+[AWT-EventQueue-0] [error] AWT-EventQueue-0: at javax.swing.plaf.basic.BasicTableHeaderUI.getHeaderRenderer(BasicTableHeaderUI.java:693)
+[AWT-EventQueue-0] [error] AWT-EventQueue-0: at javax.swing.plaf.basic.BasicTableHeaderUI.paintCell(BasicTableHeaderUI.java:709)
+[AWT-EventQueue-0] [error] AWT-EventQueue-0: at javax.swing.plaf.basic.BasicTableHeaderUI.paint(BasicTableHeaderUI.java:685)
+[AWT-EventQueue-0] [error] AWT-EventQueue-0: at javax.swing.plaf.ComponentUI.update(ComponentUI.java:161)
+[AWT-EventQueue-0] [error] AWT-EventQueue-0: at javax.swing.JComponent.paintComponent(JComponent.java:780)
+[AWT-EventQueue-0] [error] AWT-EventQueue-0: at javax.swing.JComponent.paint(JComponent.java:1056)
+[AWT-EventQueue-0] [error] AWT-EventQueue-0: at javax.swing.JComponent.paintToOffscreen(JComponent.java:5210)
+[AWT-EventQueue-0] [error] AWT-EventQueue-0: at javax.swing.RepaintManager$PaintManager.paintDoubleBuffered(RepaintManager.java:1579)
+[AWT-EventQueue-0] [error] AWT-EventQueue-0: at javax.swing.RepaintManager$PaintManager.paint(RepaintManager.java:1502)
+[AWT-EventQueue-0] [error] AWT-EventQueue-0: at javax.swing.RepaintManager.paint(RepaintManager.java:1272)
+[AWT-EventQueue-0] [error] AWT-EventQueue-0: at javax.swing.JComponent._paintImmediately(JComponent.java:5158)
+[AWT-EventQueue-0] [error] AWT-EventQueue-0: at javax.swing.JComponent.paintImmediately(JComponent.java:4969)
+[AWT-EventQueue-0] [error] AWT-EventQueue-0: at javax.swing.RepaintManager$4.run(RepaintManager.java:831)
+[AWT-EventQueue-0] [error] AWT-EventQueue-0: at javax.swing.RepaintManager$4.run(RepaintManager.java:814)
+[AWT-EventQueue-0] [error] AWT-EventQueue-0: at java.security.AccessController.doPrivileged(Native Method)
+[AWT-EventQueue-0] [error] AWT-EventQueue-0: at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:76)
+[AWT-EventQueue-0] [error] AWT-EventQueue-0: at javax.swing.RepaintManager.paintDirtyRegions(RepaintManager.java:814)
+[AWT-EventQueue-0] [error] AWT-EventQueue-0: at javax.swing.RepaintManager.paintDirtyRegions(RepaintManager.java:789)
+[AWT-EventQueue-0] [error] AWT-EventQueue-0: at javax.swing.RepaintManager.prePaintDirtyRegions(RepaintManager.java:738)
+[AWT-EventQueue-0] [error] AWT-EventQueue-0: at javax.swing.RepaintManager.access$1200(RepaintManager.java:64)
+[AWT-EventQueue-0] [error] AWT-EventQueue-0: at javax.swing.RepaintManager$ProcessingRunnable.run(RepaintManager.java:1732)
+[AWT-EventQueue-0] [error] AWT-EventQueue-0: at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
+[AWT-EventQueue-0] [error] AWT-EventQueue-0: at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:756)
+[AWT-EventQueue-0] [error] AWT-EventQueue-0: at java.awt.EventQueue.access$500(EventQueue.java:97)
+[AWT-EventQueue-0] [error] AWT-EventQueue-0: at java.awt.EventQueue$3.run(EventQueue.java:709)
+[AWT-EventQueue-0] [error] AWT-EventQueue-0: at java.awt.EventQueue$3.run(EventQueue.java:703)
+[AWT-EventQueue-0] [error] AWT-EventQueue-0: at java.security.AccessController.doPrivileged(Native Method)
+[AWT-EventQueue-0] [error] AWT-EventQueue-0: at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:76)
+[AWT-EventQueue-0] [error] AWT-EventQueue-0: at java.awt.EventQueue.dispatchEvent(EventQueue.java:726)
+[AWT-EventQueue-0] [error] AWT-EventQueue-0: at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+[AWT-EventQueue-0] [error] AWT-EventQueue-0: at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+[AWT-EventQueue-0] [error] AWT-EventQueue-0: at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+[AWT-EventQueue-0] [error] AWT-EventQueue-0: at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+[AWT-EventQueue-0] [error] AWT-EventQueue-0: at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+[AWT-EventQueue-0] [error] AWT-EventQueue-0: at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)

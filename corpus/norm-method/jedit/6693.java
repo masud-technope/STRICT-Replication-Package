@@ -1,0 +1,1 @@
+get Line Length getLineLength method get Line Length getLineLength line Length lineLength

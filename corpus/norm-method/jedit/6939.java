@@ -1,0 +1,1 @@
+get Start getStart method Override get Start getStart JEdit Buffer JEditBuffer buffer get Column On Other Line getColumnOnOtherLine buffer get Start Column getStartColumn buffer

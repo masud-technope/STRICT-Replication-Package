@@ -1,0 +1,1 @@
+get Selection Count getSelectionCount method Returns number selections test existence selections j Edit jEdit pre get Selection Count getSelectionCount selection Manager selectionManager get Selection Count getSelectionCount

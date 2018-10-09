@@ -1,0 +1,1 @@
+write Array writeArray List string List stringList Node append To appendTo Node array Node arrayNode create Node createNode array append To appendTo Iterator string List stringList iterator has Next hasNext write String writeString String array Node arrayNode

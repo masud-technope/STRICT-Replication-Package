@@ -1,0 +1,1 @@
+get Standard Rule Set getStandardRuleSet method Returns parser rule set highlights token type param token type Parser Rule Set ParserRuleSet get Standard Rule Set getStandardRuleSet standard

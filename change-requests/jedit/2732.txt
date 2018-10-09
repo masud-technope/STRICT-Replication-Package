@@ -1,0 +1,10 @@
+#2732 syntax highlighting broken if commenting starts in non-visib
+
+If you use the action "range-comment" on a selection 
+whose beginning is not in the visible area, the 
+syntax highlighting isn't updated until the textArea 
+is scrolled.
+
+Sorry if this is a dupe, but I have many bugs to post 
+and am too lazy to check them all for dupes 
+currently. :-)

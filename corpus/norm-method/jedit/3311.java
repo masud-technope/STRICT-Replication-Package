@@ -1,0 +1,1 @@
+Completely dispose dockable called plugin unloaded remove references dockables dispose Dockable Window disposeDockableWindow String

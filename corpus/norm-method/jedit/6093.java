@@ -1,0 +1,1 @@
+paste methods Insets contents register text area param text Area textArea text area param register register j Edit jEdit pre paste Text Area TextArea text Area textArea register paste text Area textArea register

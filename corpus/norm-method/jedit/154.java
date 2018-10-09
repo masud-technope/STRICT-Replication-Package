@@ -1,0 +1,1 @@
+Jar Bundler JarBundler Tobias Bley Setter JVMArchs attribute optional set Jvm Archs setJvmArchs String bundle Properties bundleProperties set JVMArchs setJVMArchs

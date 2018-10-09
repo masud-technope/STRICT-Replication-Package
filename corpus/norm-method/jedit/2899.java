@@ -1,0 +1,1 @@
+Transferable get Transferable getTransferable Text Area TextArea text Area textArea String text Rich Text Transferable RichTextTransferable text text Area textArea get Buffer getBuffer get Mode getMode get Name getName

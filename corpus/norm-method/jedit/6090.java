@@ -1,0 +1,1 @@
+apply Mode applyMode method apply Mode applyMode Mode mode JEdit Buffer JEditBuffer buffer mode text equals buffer get Mode getMode get Name getName mode equals buffer get Mode getMode buffer get Length getLength buffer set Mode setMode mode

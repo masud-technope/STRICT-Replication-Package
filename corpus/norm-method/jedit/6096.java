@@ -1,0 +1,1 @@
+append methods Appends text selected text area register newline text param text Area textArea text area param register register append Text Area TextArea text Area textArea register append text Area textArea register

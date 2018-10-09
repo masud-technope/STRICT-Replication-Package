@@ -1,0 +1,1 @@
+get Marker Status Prompt getMarkerStatusPrompt method param action action status prompt marker action intended called code actions xml code j Edit jEdit pre String get Marker Status Prompt getMarkerStatusPrompt String action j Edit jEdit get Property getProperty view status action String get Marker Name String getMarkerNameString

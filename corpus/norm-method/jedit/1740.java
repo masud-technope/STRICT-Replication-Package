@@ -1,0 +1,1 @@
+Visits jump instruction jump instruction instruction jump instruction param opcode opcode type instruction visited opcode IFEQ IFNE IFLT IFGE IFGT IFLE ICMPEQ ICMPNE ICMPLT ICMPGE ICMPGT ICMPLE ACMPEQ ACMPNE JSR IFNULL IFNONNULL param label operand instruction visited operand label designates instruction jump instruction jump visit Jump Insn visitJumpInsn opcode Label label

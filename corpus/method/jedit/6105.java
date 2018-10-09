@@ -1,0 +1,1 @@
+void registerChanged(char name);

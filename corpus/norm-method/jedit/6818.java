@@ -1,0 +1,1 @@
+toggle Expanded toggleExpanded method Toggles gutter collapsed expanded toggle Expanded toggleExpanded set Expanded setExpanded expanded

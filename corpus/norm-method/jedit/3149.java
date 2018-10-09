@@ -1,0 +1,1 @@
+get Icon Width getIconWidth Math ceil bounds get Width getWidth

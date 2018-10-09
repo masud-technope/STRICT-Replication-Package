@@ -1,0 +1,1 @@
+Inserts string buffer param offset offset param seg segment j Edit jEdit pre insert offset Segment seg insert offset Char Sequence CharSequence seg

@@ -1,0 +1,1 @@
+Calls migrate installation do Migration doMigration j Edit jEdit get Boolean Property getBooleanProperty migration step Log log Log MESSAGE Performing migration step migrate j Edit jEdit set Boolean Property setBooleanProperty migration step

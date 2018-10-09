@@ -1,0 +1,1 @@
+Token consume token kind Parse Exception ParseException Token old Token oldToken old Token oldToken token token token token token token source get Next Token getNextToken ntk token kind kind token token old Token oldToken generate Parse Exception generateParseException

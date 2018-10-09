@@ -1,0 +1,1 @@
+get Mouse Over Text getMouseOverText method action mouse message returns property named link get Name getName suffixed code mouse code String get Mouse Over Text getMouseOverText j Edit jEdit get Property getProperty mouse

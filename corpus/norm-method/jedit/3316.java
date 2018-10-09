@@ -1,0 +1,1 @@
+long Title longTitle method String long Title longTitle String String title j Edit jEdit get Property getProperty get Long Title Property Name getLongTitlePropertyName title short Title shortTitle title

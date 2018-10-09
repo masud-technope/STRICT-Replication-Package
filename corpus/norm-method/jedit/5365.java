@@ -1,0 +1,1 @@
+returns modes Mode load All Modes loadAllModes Mode modes j Edit jEdit get All Modes getAllModes Arrays sort modes Standard Utilities StandardUtilities String Compare StringCompare Mode modes

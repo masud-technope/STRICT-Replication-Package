@@ -1,0 +1,1 @@
+History Entry HistoryEntry constructor History Entry HistoryEntry String url String title url title

@@ -1,0 +1,1 @@
+center Caret centerCaret method Centers caret screen j Edit jEdit pre center Caret centerCaret offset get Screen Line Start Offset getScreenLineStartOffset visible Lines visibleLines offset javax swing UIManager get Look And Feel getLookAndFeel provide Error Feedback provideErrorFeedback set Caret Position setCaretPosition offset

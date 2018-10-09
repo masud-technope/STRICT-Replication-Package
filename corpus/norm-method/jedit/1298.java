@@ -1,0 +1,1 @@
+resource URL Bean Shell BeanShell classpath param path absolute path URL get Resource getResource String path URL url base Loader baseLoader classloader leading slash url base Loader baseLoader get Resource getResource path substring url url get Resource getResource path url

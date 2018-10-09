@@ -1,0 +1,1 @@
+get Column Class getColumnClass method get Column Class getColumnClass col col String Color Internal Error InternalError

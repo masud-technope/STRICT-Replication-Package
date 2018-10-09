@@ -1,0 +1,1 @@
+state Changed stateChanged state Changed stateChanged Change Event ChangeEvent Option Pane OptionPane Option Pane OptionPane tabs get Selected Component getSelectedComponent shown Panes shownPanes add j Edit jEdit set Integer Property setIntegerProperty optional tab tabs get Selected Index getSelectedIndex set Title setTitle get Name getName

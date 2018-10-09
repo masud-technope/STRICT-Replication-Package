@@ -1,0 +1,1 @@
+is Plain View isPlainView method Returns auxilliary view dockable windows view plain j Edit jEdit pre is Plain View isPlainView plain View plainView

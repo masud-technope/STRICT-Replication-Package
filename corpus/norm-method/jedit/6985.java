@@ -1,0 +1,1 @@
+Returns color property param property param def j Edit jEdit pre Color get Color Property getColorProperty String Color def String get Property getProperty def Syntax Utilities SyntaxUtilities parse Color parseColor def

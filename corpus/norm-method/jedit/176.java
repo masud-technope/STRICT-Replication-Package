@@ -1,0 +1,1 @@
+Tobias Fischer Setter alternative Java X JavaX dictionary key set Use Java XKey setUseJavaXKey bundle Properties bundleProperties get Java Version getJavaVersion Build Exception BuildException Setting usejavaxkey useless jvmversion Oracle PList format bundle Properties bundleProperties set Java XKey setJavaXKey

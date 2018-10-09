@@ -1,0 +1,1 @@
+remove Plugin Cache removePluginCache method remove Plugin Cache removePluginCache cache Path cachePath File cache Path cachePath delete

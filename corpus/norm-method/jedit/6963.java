@@ -1,0 +1,1 @@
+get Selection At Offset getSelectionAtOffset method Returns selection specific offset code code selection offset param offset offset j Edit jEdit pre Selection get Selection At Offset getSelectionAtOffset offset selection Selection selection offset start offset

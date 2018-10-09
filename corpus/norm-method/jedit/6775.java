@@ -1,0 +1,1 @@
+get Extensions getExtensions method Returns array registered text area extensions debugging purposes j Edit jEdit pre Text Area Extension TextAreaExtension get Extensions getExtensions extension Mgr extensionMgr get Extensions getExtensions

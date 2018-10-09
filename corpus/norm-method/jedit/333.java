@@ -1,0 +1,1 @@
+setup Rand Part A setupRandPartA ch Prev chPrev t Pos tPos t Pos tPos t Pos tPos r NTo Go rNToGo r NTo Go rNToGo RAND NUMS r TPos rTPos r TPos rTPos r TPos rTPos r TPos rTPos r NTo Go rNToGo r NTo Go rNToGo current Char currentChar current State currentState RAND crc update CRC updateCRC end Block endBlock init Block initBlock setup Block setupBlock

@@ -1,0 +1,1 @@
+update Buffer Status updateBufferStatus method update Buffer Status updateBufferStatus wrap Widget wrapWidget update indent Widget indentWidget update line Sep Widget lineSepWidget update mode Widget modeWidget update fold Widget foldWidget update encoding Widget encodingWidget update locked Widget lockedWidget update

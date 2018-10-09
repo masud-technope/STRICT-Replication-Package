@@ -1,0 +1,1 @@
+get Default Max Size getDefaultMaxSize method maximum size characters history models j Edit jEdit pre get Default Max Size getDefaultMaxSize History Model HistoryModel default Max Size defaultMaxSize

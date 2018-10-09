@@ -1,0 +1,1 @@
+Menus tool bars load Menu Bar loadMenuBar method Creates menubar Plugins call method param menu bar menu bar j Edit jEdit pre JMenu Bar JMenuBar load Menu Bar loadMenuBar String load Menu Bar loadMenuBar j Edit jEdit get Action Context getActionContext

@@ -1,0 +1,1 @@
+Override setup Default Variables setupDefaultVariables Name Space NameSpace namespace Text Area TextArea text Area textArea Util Eval Error UtilEvalError text Area textArea set Variable setVariable namespace buffer text Area textArea get Buffer getBuffer set Variable setVariable namespace text Area textArea text Area textArea

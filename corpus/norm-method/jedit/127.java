@@ -1,0 +1,1 @@
+add Configured Java Property addConfiguredJavaProperty Java Property JavaProperty java Property javaProperty Build Exception BuildException String java Property javaProperty get Name getName String java Property javaProperty get Value getValue Build Exception BuildException javaproperty attibutes bundle Properties bundleProperties add Java Property addJavaProperty

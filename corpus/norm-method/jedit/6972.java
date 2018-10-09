@@ -1,0 +1,1 @@
+methods copied j Edit jEdit java refer property Manager propertyManager passed constructor get Property getProperty method String get Property getProperty String property Manager propertyManager get Property getProperty

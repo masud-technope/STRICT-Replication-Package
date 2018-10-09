@@ -1,0 +1,1 @@
+undo method Override Selection undo Undo Manager UndoManager mgr Selection offsets get Size getSize offset offsets undo mgr

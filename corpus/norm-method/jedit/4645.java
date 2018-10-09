@@ -1,0 +1,1 @@
+get Default Color For getDefaultColorFor method Returns color file matching user regular expressions j Edit jEdit pre Color get Default Color For getDefaultColorFor String lock colors load Colors loadColors Color Entry ColorEntry entry colors entry matcher matches entry color

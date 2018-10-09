@@ -1,0 +1,1 @@
+serialization setup err streams stdout stderr read Object readObject Object Input Stream ObjectInputStream stream java IOException Class Not Found Exception ClassNotFoundException stream default Read Object defaultReadObject set fields console set Out setOut console get Out getOut set Err setErr console get Err getErr set Out setOut System set Err setErr System err

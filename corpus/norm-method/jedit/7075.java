@@ -1,0 +1,1 @@
+select Fold selectFold methods Selects fold caret number j Edit jEdit pre select Fold selectFold select Fold selectFold caret Line caretLine

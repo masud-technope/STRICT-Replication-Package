@@ -1,0 +1,1 @@
+Chromaticity Cell Renderer ChromaticityCellRenderer set Opaque setOpaque

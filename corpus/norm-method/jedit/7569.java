@@ -1,0 +1,1 @@
+is Empty isEmpty method Returns code collection elements code collection elements j Edit jEdit pre is Empty isEmpty len

@@ -1,0 +1,1 @@
+prettify Menu Label prettifyMenuLabel method Prettifies menu item label removing sign process contents action label property param label label pretty label j Edit jEdit String prettify Menu Label prettifyMenuLabel String label label index Of indexOf label label substring concat label substring label

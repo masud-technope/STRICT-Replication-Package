@@ -1,0 +1,1 @@
+start method call start Awt Runnable Queue AwtRunnableQueue INSTANCE start

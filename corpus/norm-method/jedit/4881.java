@@ -1,0 +1,1 @@
+set Color Property setColorProperty method Sets color property param property param j Edit jEdit pre set Color Property setColorProperty String Color set Property setProperty Syntax Utilities SyntaxUtilities get Color Hex String getColorHexString

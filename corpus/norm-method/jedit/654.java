@@ -1,0 +1,1 @@
+is Script Running isScriptRunning method Bean Shell BeanShell script macro running j Edit jEdit pre is Script Running isScriptRunning running

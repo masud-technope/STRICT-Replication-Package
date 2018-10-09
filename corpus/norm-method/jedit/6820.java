@@ -1,0 +1,1 @@
+set Highlight Interval setHighlightInterval method Sets number lines highlighted numbers equal result highlighting disabled param interval number lines highlighted numbers set Highlight Interval setHighlightInterval interval interval interval interval interval repaint

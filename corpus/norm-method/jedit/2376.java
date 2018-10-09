@@ -1,0 +1,1 @@
+Token Mgr Error TokenMgrError EOFSeen lex State lexState error Line errorLine error Column errorColumn String error After errorAfter cur Char curChar reason Lexical Error LexicalError EOFSeen lex State lexState error Line errorLine error Column errorColumn error After errorAfter cur Char curChar reason

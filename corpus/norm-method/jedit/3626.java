@@ -1,0 +1,1 @@
+add Current To History addCurrentToHistory method Adds entered item history add Current To History addCurrentToHistory history Model historyModel history Model historyModel add Item addItem get Text getText

@@ -1,0 +1,1 @@
+is DOSDerived isDOSDerived method Returns running Windows Vista Win deprecated link is Windows isWindows Deprecated is DOSDerived isDOSDerived is Windows isWindows is OS isOS

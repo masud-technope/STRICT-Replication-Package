@@ -1,0 +1,1 @@
+compare Edit Plugin EditPlugin Edit Plugin EditPlugin Standard Utilities StandardUtilities compare Strings compareStrings j Edit jEdit get Property getProperty plugin get Class Name getClassName j Edit jEdit get Property getProperty plugin get Class Name getClassName

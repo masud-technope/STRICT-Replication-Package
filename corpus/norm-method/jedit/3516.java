@@ -1,0 +1,1 @@
+save Selection saveSelection Set Integer save Selection saveSelection list rows list get Selected Indices getSelectedIndices rows length Set Integer selected Rows selectedRows Hash Set HashSet Integer rows length row rows selected Rows selectedRows add get True Row getTrueRow row selected Rows selectedRows

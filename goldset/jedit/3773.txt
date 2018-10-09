@@ -1,0 +1,2 @@
+org/gjt/sp/jedit/gui/NumericTextField.java
+org/gjt/sp/jedit/options/PrintOptionPane.java

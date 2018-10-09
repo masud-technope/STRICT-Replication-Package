@@ -1,0 +1,1 @@
+Returns Token object create subclass objects based of Kind ofKind Simply add cases special cases subclass Token called IDToken create of Kind ofKind simlpy add My Parser Constants MyParserConstants IDToken statement matched Token matchedToken variable type lexical actions Token new Token newToken of Kind ofKind of Kind ofKind Token

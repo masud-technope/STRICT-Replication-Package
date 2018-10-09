@@ -1,0 +1,1 @@
+void bracketSelected(TextArea textArea, int line, String text);

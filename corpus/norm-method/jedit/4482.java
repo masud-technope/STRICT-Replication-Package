@@ -1,0 +1,1 @@
+Indent Rule IndentRule indent Open Bracket indentOpenBracket bracket Pattern Syntax Exception PatternSyntaxException Open Bracket Indent Rule OpenBracketIndentRule bracket

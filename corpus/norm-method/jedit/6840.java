@@ -1,0 +1,1 @@
+do Word Count doWordCount method Suppress Warnings SuppressWarnings fallthrough do Word Count doWordCount View view String text chars text to Char Array toCharArray characters chars length lines word a Char aChar chars a Char aChar lines word word word Object args characters lines GUIUtilities message view wordcount args

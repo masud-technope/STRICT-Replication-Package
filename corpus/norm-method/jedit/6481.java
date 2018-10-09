@@ -1,0 +1,1 @@
+get Mode For File getModeForFile method mode file param filename filename param first Line firstLine file edit mode mode match file j Edit jEdit pre Mode get Mode For File getModeForFile String filename String first Line firstLine get Mode For File getModeForFile filename first Line firstLine

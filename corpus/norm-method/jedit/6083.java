@@ -1,0 +1,1 @@
+get Register Name String getRegisterNameString method Returns string defined registers status bar j Edit jEdit pre String get Register Name String getRegisterNameString loaded load Registers loadRegisters String Builder StringBuilder buf String Builder StringBuilder registers length registers length registers buf length buf append buf append buf length buf to String toString

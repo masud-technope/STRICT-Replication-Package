@@ -1,0 +1,1 @@
+get Boolean Property getBooleanProperty methods property method thread safe param property j Edit jEdit pre get Boolean Property getBooleanProperty String get Boolean Property getBooleanProperty

@@ -1,0 +1,1 @@
+create Bracket Indent Rules createBracketIndentRules String prop Collection Indent Rule IndentRule rules String String get Property getProperty prop length char At charAt Method Indent Rule Factory IndentRuleFactory get Method getMethod prop rules add Indent Rule IndentRule invoke Exception Log log Log ERROR Bad indent rule prop Log log Log ERROR

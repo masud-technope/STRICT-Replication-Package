@@ -1,0 +1,1 @@
+get Icon getIcon method buffer icon j Edit jEdit pre Icon get Icon getIcon is Dirty isDirty GUIUtilities load Icon loadIcon dirty gif is Read Only isReadOnly is Locked isLocked GUIUtilities load Icon loadIcon readonly gif get Flag getFlag FILE GUIUtilities load Icon loadIcon gif GUIUtilities load Icon loadIcon normal gif

@@ -1,0 +1,1 @@
+get Instance getInstance method Dockable Window Factory DockableWindowFactory get Instance getInstance instance instance Dockable Window Factory DockableWindowFactory instance

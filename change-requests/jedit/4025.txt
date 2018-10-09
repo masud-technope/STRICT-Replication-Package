@@ -1,0 +1,5 @@
+#4025 SEARCH FAILS TO FIND SOME FILES
+
+Using JEDIT 5.3.0 create a file called "#JustCapture#.TriageTemplate", create other files with same file extension. Perform directory search on "*.TriageTemplate" the file "#JustCapture#.TriageTemplate" will NEVER BE FOUND.
+
+The leading "#" seems to be the problem, so I'm guessing this is a bug in the detection of autosave files and that the impact of this may be much larger.

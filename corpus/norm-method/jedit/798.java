@@ -1,0 +1,1 @@
+get Mode getMode method get Mode getMode mode

@@ -1,0 +1,1 @@
+get Active getActive active attribute Shortcut Prefix Active Event ShortcutPrefixActiveEvent object active get Active getActive active

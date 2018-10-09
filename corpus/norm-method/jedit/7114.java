@@ -1,0 +1,1 @@
+add To Selection addToSelection methods Adds selection Nested overlapping selections merged param selection selection j Edit jEdit pre add To Selection addToSelection Selection selection invalidate Selected Lines invalidateSelectedLines selection Manager selectionManager add To Selection addToSelection selection finish Caret Update finishCaretUpdate caret Line caretLine SCROLL

@@ -1,0 +1,1 @@
+Clock constructor Clock set Foreground setForeground j Edit jEdit get Color Property getColorProperty view status foreground set Background setBackground j Edit jEdit get Color Property getColorProperty view status background

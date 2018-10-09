@@ -1,0 +1,1 @@
+set Main Panel setMainPanel method set Main Panel setMainPanel JPanel panel add panel

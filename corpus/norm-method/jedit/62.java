@@ -1,0 +1,1 @@
+Jar Bundler JarBundler Tobias Bley param archs space separated archs ppc set JVMArchs setJVMArchs String archs compatability String tokens archs split tokens length m JVMArchs mJVMArchs add tokens java util Scanner JDK Scanner Scanner archs use Delimiter useDelimiter has Next hasNext m JVMArchs mJVMArchs add

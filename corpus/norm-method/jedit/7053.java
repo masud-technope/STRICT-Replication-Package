@@ -1,0 +1,1 @@
+is Rectangular Selection Enabled isRectangularSelectionEnabled method Returns rectangular selection enabled j Edit jEdit pre is Rectangular Selection Enabled isRectangularSelectionEnabled rectangular Selection Mode rectangularSelectionMode

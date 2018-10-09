@@ -1,0 +1,1 @@
+Action Text Field ActionTextField action set Select All On Focus setSelectAllOnFocus

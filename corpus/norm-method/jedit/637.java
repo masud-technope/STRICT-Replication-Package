@@ -1,0 +1,1 @@
+get Plugin JAR getPluginJAR method plugin action set loaded j Edit jEdit pre Plugin JAR PluginJAR get Plugin JAR getPluginJAR plugin

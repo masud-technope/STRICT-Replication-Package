@@ -1,0 +1,1 @@
+add Listener addListener Listener listeners add Element addElement Weak Reference WeakReference ref Queue refQueue clean listeners Reference deadref deadref ref Queue refQueue poll listeners remove Element removeElement deadref System err println cleaned weak deadref Interpreter DEBUG Interpreter debug remove existent weak deadref

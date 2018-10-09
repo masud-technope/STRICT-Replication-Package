@@ -1,0 +1,1 @@
+get Model getModel method Returns underlying history controller j Edit jEdit pre History Model HistoryModel get Model getModel history Model historyModel

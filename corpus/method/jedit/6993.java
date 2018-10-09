@@ -1,0 +1,1 @@
+void narrowActive(TextArea textArea);

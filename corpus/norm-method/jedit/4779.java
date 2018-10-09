@@ -1,0 +1,1 @@
+is Background Mode isBackgroundMode method Returns j Edit jEdit started code background code command j Edit jEdit pre is Background Mode Enabled isBackgroundModeEnabled background

@@ -1,0 +1,1 @@
+is Editable isEditable respects locked property is Editable isEditable is Locked isLocked

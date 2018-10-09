@@ -1,0 +1,1 @@
+Override String to String toString ignore Case ignoreCase flags Pattern INSENSITIVE Pattern Search Matcher PatternSearchMatcher pattern ignore Case ignoreCase

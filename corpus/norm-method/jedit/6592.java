@@ -1,0 +1,1 @@
+method recalculates scroll Line scrollLine reset

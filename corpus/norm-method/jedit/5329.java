@@ -1,0 +1,1 @@
+Returns j Edit jEdit context menu configuration j Edit jEdit pre Override String get Context Menu getContextMenu j Edit jEdit get Property getProperty view context

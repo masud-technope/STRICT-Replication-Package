@@ -1,0 +1,1 @@
+add method Adds content keyword map j Edit jEdit pre add Keyword Map KeywordMap map map map length Keyword map map add keyword

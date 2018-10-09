@@ -1,0 +1,1 @@
+set Application Name setApplicationName String m Application Name mApplicationName

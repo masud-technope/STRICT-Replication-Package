@@ -1,0 +1,1 @@
+get Leading White Space Width getLeadingWhiteSpaceWidth Char Sequence CharSequence str tab Size tabSize whitespace loop str length str char At charAt whitespace whitespace tab Size tabSize whitespace tab Size tabSize loop whitespace

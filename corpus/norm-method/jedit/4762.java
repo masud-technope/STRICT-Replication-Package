@@ -1,0 +1,1 @@
+get Property Manager getPropertyManager method property Manager propertyManager j Edit jEdit pre JEdit Property Manager JEditPropertyManager get Property Manager getPropertyManager property Manager propertyManager

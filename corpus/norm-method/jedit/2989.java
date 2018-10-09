@@ -1,0 +1,1 @@
+close method close save Caret Info saveCaretInfo Edit Bus EditBus send Edit Pane Update EditPaneUpdate Edit Pane Update EditPaneUpdate DESTROYED Edit Bus EditBus remove From Bus removeFromBus text Area textArea dispose

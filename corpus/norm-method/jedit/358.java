@@ -1,0 +1,1 @@
+simple Sort simpleSort big N bigN big N bigN big N bigN incs big N bigN incs copy zptr full Gt U fullGtU zptr zptr zptr zptr copy zptr full Gt U fullGtU zptr zptr zptr zptr copy zptr full Gt U fullGtU zptr zptr zptr zptr work Done workDone work Limit workLimit first Attempt firstAttempt

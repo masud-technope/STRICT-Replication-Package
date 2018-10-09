@@ -1,0 +1,1 @@
+is Editable isEditable method Returns text area editable is Editable isEditable buffer is Editable isEditable

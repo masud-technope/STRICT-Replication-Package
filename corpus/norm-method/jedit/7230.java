@@ -1,0 +1,1 @@
+backspace Word backspaceWord methods Deletes word caret j Edit jEdit pre backspace Word backspaceWord backspace Word backspaceWord

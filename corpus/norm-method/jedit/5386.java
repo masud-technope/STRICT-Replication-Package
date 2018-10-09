@@ -1,0 +1,1 @@
+Global Options GlobalOptions constructor Global Options GlobalOptions Dialog dialog String pane dialog options pane

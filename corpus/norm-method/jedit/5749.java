@@ -1,0 +1,1 @@
+compare Mirror Mirror result result continent compare To Ignore Case compareToIgnoreCase continent result country compare To Ignore Case compareToIgnoreCase country result location compare To Ignore Case compareToIgnoreCase location description compare To Ignore Case compareToIgnoreCase description result

@@ -1,0 +1,1 @@
+set Text setText method Subclasses override provide funky history behavior JText Panes JTextPanes set Text setText String text text set Text setText text

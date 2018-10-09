@@ -1,0 +1,1 @@
+is Line Visible isLineVisible method Returns physical visible param physical j Edit jEdit pre is Line Visible isLineVisible folds search

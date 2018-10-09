@@ -1,0 +1,1 @@
+String bundle Path bundlePath File bundle File bundleFile String root Path rootPath bundle Dir bundleDir get Absolute Path getAbsolutePath String this Path thisPath bundle File bundleFile get Absolute Path getAbsolutePath this Path thisPath substring root Path rootPath length

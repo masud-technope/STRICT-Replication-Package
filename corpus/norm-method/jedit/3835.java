@@ -1,0 +1,1 @@
+paint Horiz Border paintHorizBorder method paint Horiz Border paintHorizBorder Graphics width set Color setColor color fill Rect fillRect width SPLITTER WIDTH width set Color setColor color draw Line drawLine set Color setColor color draw Line drawLine set Color setColor color draw Line drawLine set Color setColor color draw Line drawLine

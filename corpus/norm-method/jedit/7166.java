@@ -1,0 +1,1 @@
+invert Selection invertSelection method Inverts selection j Edit jEdit pre invert Selection invertSelection selection Manager selectionManager invert Selection invertSelection

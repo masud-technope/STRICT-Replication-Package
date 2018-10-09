@@ -1,0 +1,1 @@
+get Text Area getTextArea method Returns current edit pane text area current edit pane text area edit pane JEdit Text Area JEditTextArea get Text Area getTextArea edit Pane editPane edit Pane editPane get Text Area getTextArea

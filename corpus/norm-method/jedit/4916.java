@@ -1,0 +1,1 @@
+get Version getVersion method Returns j Edit jEdit version human readable string String get Version getVersion Misc Utilities MiscUtilities build To Version buildToVersion get Build getBuild

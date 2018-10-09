@@ -1,0 +1,1 @@
+get First Screen Line getFirstScreenLine method Find valid closest screen get First Screen Line getFirstScreenLine first Invalid Line firstInvalidLine line Info lineInfo last Subregion lastSubregion

@@ -1,0 +1,1 @@
+get Shortcut getShortcut method Override String get Shortcut getShortcut String String property props get Property getProperty property

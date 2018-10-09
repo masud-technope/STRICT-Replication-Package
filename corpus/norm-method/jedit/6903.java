@@ -1,0 +1,1 @@
+get Insets getInsets method Insets get Insets getInsets Component parent Border border JComponent parent get Border getBorder border Insets border get Border Insets getBorderInsets parent

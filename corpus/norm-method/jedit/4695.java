@@ -1,0 +1,1 @@
+get Type getType method get Type getType type

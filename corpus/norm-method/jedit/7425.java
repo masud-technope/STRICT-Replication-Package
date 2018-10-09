@@ -1,0 +1,1 @@
+paint Fold End paintFoldEnd paint Fold End paintFoldEnd Gutter gutter Graphics gfx screen Line screenLine physical Line physicalLine line Height lineHeight JEdit Buffer JEditBuffer buffer gfx set Color setColor gutter get Fold Color getFoldColor line Height lineHeight gfx draw Line drawLine gfx draw Line drawLine

@@ -1,0 +1,1 @@
+set Min Line Number Digit Count setMinLineNumberDigitCount method set Min Line Number Digit Count setMinLineNumberDigitCount min min min Line Number Digits minLineNumberDigits min Line Number Digits minLineNumberDigits min text Area textArea get Buffer getBuffer update Line Number Width updateLineNumberWidth

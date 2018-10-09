@@ -1,0 +1,1 @@
+dispose method dispose real Splash realSplash win dispose real Splash realSplash is Visible isVisible real Splash realSplash close

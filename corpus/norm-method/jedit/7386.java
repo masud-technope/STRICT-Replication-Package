@@ -1,0 +1,1 @@
+set Selection Fg Color Enabled setSelectionFgColorEnabled method Enables disables selection foreground color param selection Fg selectionFg selection foreground enabled j Edit jEdit set Selection Fg Color Enabled setSelectionFgColorEnabled selection Fg selectionFg selection Fg selectionFg selection Fg selectionFg text Area textArea repaint

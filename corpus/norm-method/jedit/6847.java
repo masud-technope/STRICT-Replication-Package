@@ -1,0 +1,1 @@
+user Input userInput method Handles insertion character performs operations addition Text Area TextArea user Input userInput Inserting space automatic abbrev expansion enabled expand abbrev param character j Edit jEdit pre Override user Input userInput Abbrevs get Expand On Input getExpandOnInput Abbrevs expand Abbrev expandAbbrev view user Input userInput

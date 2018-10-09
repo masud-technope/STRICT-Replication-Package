@@ -1,0 +1,1 @@
+Setter jvmversion attribute optional set Jvmversion setJvmversion String bundle Properties bundleProperties set JVMVersion setJVMVersion bundle Properties bundleProperties get Java XKey getJavaXKey bundle Properties bundleProperties get Java Version getJavaVersion Build Exception BuildException Setting usejavaxkey useless jvmversion Oracle PList format

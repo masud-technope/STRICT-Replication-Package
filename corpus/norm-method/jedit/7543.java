@@ -1,0 +1,1 @@
+is Ancestor Of isAncestorOf method Returns component ancestor traversing component hierarchy param comp ancestor param comp component check j Edit jEdit is Ancestor Of isAncestorOf Component comp Component comp comp comp comp comp comp get Parent getParent

@@ -1,0 +1,1 @@
+insert start Segment seg prepare Gap For Insertion prepareGapForInsertion start seg count System arraycopy seg array seg offset text start seg count gap Start gapStart seg count length seg count

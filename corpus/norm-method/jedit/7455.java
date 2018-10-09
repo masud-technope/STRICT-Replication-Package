@@ -1,0 +1,1 @@
+is Full Screen Mode isFullScreenMode method is Full Screen Mode isFullScreenMode full Screen Mode fullScreenMode

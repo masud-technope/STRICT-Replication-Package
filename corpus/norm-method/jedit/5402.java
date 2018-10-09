@@ -1,0 +1,1 @@
+String j Edit jEdit get Property getProperty icon theme tango

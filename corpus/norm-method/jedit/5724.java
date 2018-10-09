@@ -1,0 +1,1 @@
+Remove Button RemoveButton j Edit jEdit get Property getProperty manage plugins remove table get Selection Model getSelectionModel add List Selection Listener addListSelectionListener add Action Listener addActionListener set Enabled setEnabled

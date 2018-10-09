@@ -1,0 +1,1 @@
+update Register updateRegister String register List registerList get Selected Value getSelectedValue length char At charAt Registers set Register setRegister content Text Area contentTextArea get Text getText

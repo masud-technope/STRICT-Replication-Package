@@ -1,0 +1,1 @@
+scroll Up Page scrollUpPage method Scrolls j Edit jEdit pre scroll Up Page scrollUpPage set First Line setFirstLine get First Line getFirstLine get Visible Lines getVisibleLines last Line Partial lastLinePartial

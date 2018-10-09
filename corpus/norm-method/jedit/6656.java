@@ -1,0 +1,1 @@
+get Max Horizontal Scroll Width getMaxHorizontalScrollWidth method Returns max width textarea check lines info array max width get Max Horizontal Scroll Width getMaxHorizontalScrollWidth max line Info lineInfo length Line Info LineInfo info line Info lineInfo info width max max info width max

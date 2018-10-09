@@ -1,0 +1,1 @@
+save method Override save j Edit jEdit set Property setProperty buffer undo Count undoCount undo Count undoCount get Text getText j Edit jEdit set Boolean Property setBooleanProperty reset Undo On Save resetUndoOnSave reset Undo On Save resetUndoOnSave is Selected isSelected

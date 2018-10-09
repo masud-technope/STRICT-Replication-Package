@@ -1,0 +1,1 @@
+Special instructions Visits LDC instruction param cst constant loaded stack parameter link java lang Integer Integer link java lang link java lang link java lang link String String visit Ldc Insn visitLdcInsn Object cst

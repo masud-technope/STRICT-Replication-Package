@@ -1,0 +1,1 @@
+get Digit Regexp getDigitRegexp method Pattern get Digit Regexp getDigitRegexp digit RE digitRE

@@ -1,0 +1,1 @@
+is New File isNewFile method buffer lacks version disk method thread safe is New File isNewFile get Flag getFlag FILE

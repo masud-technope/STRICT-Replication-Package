@@ -1,0 +1,1 @@
+effective number cells row component display area get Effective Colspan getEffectiveColspan main Constraints mainConstraints effective Colspan effectiveColspan main Constraints mainConstraints effective Colspan effectiveColspan

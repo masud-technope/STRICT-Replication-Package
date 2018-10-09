@@ -1,0 +1,1 @@
+fine grain notification tells listeners exact range cells rows columns changed Override table Changed tableChanged Table Model Event TableModelEvent set Filter setFilter filter

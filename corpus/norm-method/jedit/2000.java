@@ -1,0 +1,1 @@
+scan token LBRACKET scan token RBRACKET

@@ -1,0 +1,1 @@
+write Map writeMap method write Map writeMap Data Output Stream DataOutputStream dout Properties properties IOException dout write Int writeInt properties size Set Map Entry Object Object set properties entry Set entrySet Map Entry Object Object entry set write String writeString dout entry get Key getKey write String writeString dout entry get Value getValue

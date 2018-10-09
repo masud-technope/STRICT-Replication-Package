@@ -1,0 +1,1 @@
+Returns no Word Sep noWordSep Hyper Search Operation Node HyperSearchOperationNode remember property restore no Word Sep noWordSep property String get No Word Sep getNoWordSep no Word Sep noWordSep

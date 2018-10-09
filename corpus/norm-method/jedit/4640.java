@@ -1,0 +1,1 @@
+get Extended Attributes getExtendedAttributes method Returns extended attributes supported VFS j Edit jEdit pre String get Extended Attributes getExtendedAttributes ext Attrs extAttrs

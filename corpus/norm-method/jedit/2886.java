@@ -1,0 +1,1 @@
+Mode get Mode getMode Mode Provider ModeProvider instance get Mode getMode mode

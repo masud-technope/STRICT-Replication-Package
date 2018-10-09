@@ -1,0 +1,1 @@
+Override process Focus Event processFocusEvent Focus Event FocusEvent happen ignore lost focus events get ID getID Focus Event FocusEvent FOCUS LOST process Focus Event processFocusEvent set Caret Position setCaretPosition get Caret getCaret set Visible setVisible

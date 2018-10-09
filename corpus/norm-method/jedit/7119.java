@@ -1,0 +1,1 @@
+get Caret Line getCaretLine method Returns number caret get Caret Line getCaretLine caret Line caretLine

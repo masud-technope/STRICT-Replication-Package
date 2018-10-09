@@ -1,0 +1,1 @@
+components size finding largest width height components setting components width height making JButtons size param components components size deprecated link Generic GUIUtilities GenericGUIUtilities make Same Size makeSameSize Component make Same Size makeSameSize Component components Generic GUIUtilities GenericGUIUtilities make Same Size makeSameSize components

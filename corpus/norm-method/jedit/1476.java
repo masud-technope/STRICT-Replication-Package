@@ -1,0 +1,1 @@
+Update Line Column UpdateLineColumn column prev Char Is LF prevCharIsLF prev Char Is LF prevCharIsLF column prev Char Is CR prevCharIsCR prev Char Is CR prevCharIsCR prev Char Is LF prevCharIsLF column prev Char Is CR prevCharIsCR prev Char Is LF prevCharIsLF column column column bufline bufpos bufcolumn bufpos column

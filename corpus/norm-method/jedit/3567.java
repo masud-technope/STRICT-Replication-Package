@@ -1,0 +1,1 @@
+get Selected Font getSelectedFont method Font get Selected Font getSelectedFont is OK isOK size size Integer parse Int parseInt size Field sizeField get Text getText Exception size Font family Field familyField get Text getText style List styleList get Selected Index getSelectedIndex size

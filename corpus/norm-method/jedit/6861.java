@@ -1,0 +1,1 @@
+Mouse Handler MouseHandler constructor Mouse Handler MouseHandler JEdit Text Area JEditTextArea text Area textArea text Area textArea text Area textArea text Area textArea

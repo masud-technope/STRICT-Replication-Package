@@ -1,0 +1,1 @@
+record Input recordInput method j Edit jEdit pre record Input recordInput repeat overwrite place record repeat text Area textArea user Input userInput record repeat text Area textArea user Input userInput String Builder StringBuilder buf String Builder StringBuilder repeat repeat buf append record Input recordInput buf to String toString overwrite

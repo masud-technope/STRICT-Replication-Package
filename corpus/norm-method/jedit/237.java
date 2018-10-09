@@ -1,0 +1,1 @@
+warn is Warn Mode isWarnMode WARN equals Ignore Case equalsIgnoreCase get Value getValue

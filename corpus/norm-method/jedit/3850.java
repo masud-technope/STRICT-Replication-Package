@@ -1,0 +1,1 @@
+get Dimension getDimension method Returns width height depending position dockable window container j Edit jEdit pre get Dimension getDimension dimension

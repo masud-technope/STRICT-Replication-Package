@@ -1,0 +1,1 @@
+Browser Colors Option Pane BrowserColorsOptionPane constructor Browser Colors Option Pane BrowserColorsOptionPane browser colors

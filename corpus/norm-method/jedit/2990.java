@@ -1,0 +1,1 @@
+recent Buffer recentBuffer method Selects edited buffer j Edit jEdit pre recent Buffer recentBuffer recent Buffer recentBuffer set Buffer setBuffer recent Buffer recentBuffer javax swing UIManager get Look And Feel getLookAndFeel provide Error Feedback provideErrorFeedback

@@ -1,0 +1,1 @@
+Global Options GlobalOptions constructor Global Options GlobalOptions Dialog dialog dialog options j Edit jEdit get Property getProperty options

@@ -1,0 +1,1 @@
+paint Border paintBorder method paint Border paintBorder Component Graphics width height paint icon COLLAPSED EXPAND ICON paint Icon paintIcon level LEVEL WIDTH height EXPAND ICON get Icon Height getIconHeight EXPANDED COLLAPSE ICON paint Icon paintIcon level LEVEL WIDTH height COLLAPSE ICON get Icon Height getIconHeight

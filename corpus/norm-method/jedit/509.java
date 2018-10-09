@@ -1,0 +1,1 @@
+Determine entry descendant entry Descendancy determined descendant starting entry param desc Entry checked descendent entry descendant is Descendent isDescendent Tar Entry TarEntry desc desc header to String toString starts With startsWith header to String toString

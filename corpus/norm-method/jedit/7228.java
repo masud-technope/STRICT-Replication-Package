@@ -1,0 +1,1 @@
+Override get Begin Index getBeginIndex

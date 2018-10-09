@@ -1,0 +1,1 @@
+save View view String layout Name layoutName j Edit jEdit get Settings Directory getSettingsDirectory GUIUtilities error view settings Docking Layout DockingLayout docking view get View Config getViewConfig docking docking ret docking save Layout saveLayout layout Name layoutName Docking Layout DockingLayout VIEW ret add Action addAction layout Name layoutName

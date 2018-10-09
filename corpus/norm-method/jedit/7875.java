@@ -1,0 +1,1 @@
+add Option Pane addOptionPane add Option Pane addOptionPane Option Pane OptionPane pane panes add pane JPanel panel JPanel pane tabs add Tab addTab pane get Name getName panel

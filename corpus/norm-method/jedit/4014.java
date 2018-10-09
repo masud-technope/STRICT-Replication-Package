@@ -1,0 +1,1 @@
+add Notify addNotify method Override add Notify addNotify add Notify addNotify update milliseconds Per Minute millisecondsPerMinute timer Timer milliseconds Per Minute millisecondsPerMinute timer start Tool Tip Manager ToolTipManager shared Instance sharedInstance register Component registerComponent

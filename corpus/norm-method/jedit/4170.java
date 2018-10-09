@@ -1,0 +1,1 @@
+is Cell Editable isCellEditable method Override is Cell Editable isCellEditable row Index rowIndex column Index columnIndex column Index columnIndex

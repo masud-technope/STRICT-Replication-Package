@@ -1,0 +1,1 @@
+friendly Name Space NameSpace Name Space NameSpace namespace String namespace namespace

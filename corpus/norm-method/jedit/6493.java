@@ -1,0 +1,1 @@
+create EOLSpan Rule createEOLSpanRule method Parser Rule ParserRule create EOLSpan Rule createEOLSpanRule pos Match posMatch String seq Parser Rule Set ParserRuleSet delegate match Type matchType rule Action ruleAction EOL SPAN Parser Rule ParserRule rule Action ruleAction seq substring pos Match posMatch seq to Char Array toCharArray delegate match Type matchType

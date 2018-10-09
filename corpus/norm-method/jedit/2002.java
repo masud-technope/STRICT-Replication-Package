@@ -1,0 +1,1 @@
+scan token CHARACTER LITERAL

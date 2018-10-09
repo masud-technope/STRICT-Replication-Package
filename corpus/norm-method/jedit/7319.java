@@ -1,0 +1,1 @@
+is Middle Button isMiddleButton method param modifiers modifiers flag mouse event modifier match middle button j Edit jEdit pre is Middle Button isMiddleButton modifiers Operating System OperatingSystem is Mac OS isMacOS modifiers BUTTON MASK BUTTON MASK modifiers ALT MASK ALT MASK modifiers BUTTON MASK BUTTON MASK modifiers BUTTON MASK BUTTON MASK

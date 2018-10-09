@@ -1,0 +1,1 @@
+get View Count getViewCount method Returns number open views get View Count getViewCount view Count viewCount

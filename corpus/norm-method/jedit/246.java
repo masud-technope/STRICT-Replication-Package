@@ -1,0 +1,1 @@
+fail is Fail Mode isFailMode FAIL equals Ignore Case equalsIgnoreCase get Value getValue

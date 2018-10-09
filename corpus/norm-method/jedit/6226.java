@@ -1,0 +1,1 @@
+update Multi Status updateMultiStatus method update Multi Status updateMultiStatus multi Status multiStatus multi set Icon setIcon GUIUtilities load Icon loadIcon j Edit jEdit get Property getProperty hypersearch multi multiple icon multi set Icon setIcon GUIUtilities load Icon loadIcon j Edit jEdit get Property getProperty hypersearch multi single icon

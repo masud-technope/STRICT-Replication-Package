@@ -1,0 +1,1 @@
+Override current sequence length sequence char At charAt

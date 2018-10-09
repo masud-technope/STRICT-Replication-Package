@@ -1,0 +1,1 @@
+update Preview updatePreview method update Preview updatePreview String family family Field familyField get Text getText size size Integer parse Int parseInt size Field sizeField get Text getText Exception size style style List styleList get Selected Index getSelectedIndex preview set Font setFont Font family style size

@@ -1,0 +1,1 @@
+set Styles setStyles method Sets syntax styles paint colorized text Entry paint tokens param styles syntax styles org gjt jedit syntax Token set Styles setStyles Syntax Style SyntaxStyle styles styles styles styles Token Syntax Style SyntaxStyle get Foreground getForeground get Font getFont text Area textArea chunk Cache chunkCache reset repaint

@@ -1,0 +1,1 @@
+get Screen Line Of Offset getScreenLineOfOffset method Returns screen wrapped offset Returns visible screen param offset offset j Edit jEdit pre get Screen Line Of Offset getScreenLineOfOffset offset buffer get Line Of Offset getLineOfOffset offset offset buffer get Line Start Offset getLineStartOffset chunk Cache chunkCache get Screen Line Of Offset getScreenLineOfOffset offset

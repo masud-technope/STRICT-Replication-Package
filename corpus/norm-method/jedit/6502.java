@@ -1,0 +1,1 @@
+create Escape Rule createEscapeRule method Parser Rule ParserRule create Escape Rule createEscapeRule String seq rule Action ruleAction ESCAPE Parser Rule ParserRule rule Action ruleAction seq substring seq to Char Array toCharArray Token MATCH TYPE CONTEXT

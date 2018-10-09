@@ -1,0 +1,1 @@
+unload Services unloadServices method Removes services belonging plugin param plugin plugin j Edit jEdit pre unload Services unloadServices Plugin JAR PluginJAR plugin Iterator Descriptor descriptors service Map serviceMap key Set keySet iterator descriptors has Next hasNext Descriptor descriptors plugin plugin descriptors remove

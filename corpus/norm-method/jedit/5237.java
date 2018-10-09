@@ -1,0 +1,1 @@
+is Windows isWindows method Returns running Windows is Windows isWindows WINDOWS

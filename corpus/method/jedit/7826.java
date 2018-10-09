@@ -1,0 +1,3 @@
+public  CheckFileStatus() {
+    super("checkFileStatus");
+}

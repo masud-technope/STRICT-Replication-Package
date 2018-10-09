@@ -1,0 +1,1 @@
+Key Binding KeyBinding String String label String tooltip String shortcut is Prefix isPrefix label label tooltip tooltip shortcut shortcut is Prefix isPrefix is Prefix isPrefix

@@ -1,0 +1,1 @@
+public TarEntry createEntry(byte[] headerBuf) throws InvalidHeaderException;
