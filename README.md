@@ -67,7 +67,7 @@ Required parameters for the operations
 -  **-repoName** : expects the repository name (Optional). The default is ```jedit```.
 -  **-bugID** : expects a bugID from the ```./change-requests``` folder.
 -  **-task** : expects a task to be performed.
--  **-baseline** : expects the type of baseline query from the change request. It takes two values ```T`` and ```W```. Here, T stands for title, and W stands for the whole texts of the request.
+-  **-baseline** : expects the type of baseline query from the change request. It takes two values ```T``` and ```W```. Here, ```T``` stands for title, and ```W``` stands for the whole texts of the request.
 -  **-saveOutput** : expects ```true``` or ```false``` whether the query output should be saved or not.
 -  **-userQuery** : expects a query from the user for a given bug ID.
 
