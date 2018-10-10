@@ -36,8 +36,8 @@ Materials Included
 
 - ```strict-runner``` is the functional prototype of STRICT, our proposed query reformulation technique. 
 We also include ```strict-running-snapshot``` for STRICT.
-- ```change-requests/``` contains the change requests from [JEdit Issue Repository]{https://sourceforge.net/p/jedit/bugs}
-- ```corpus/``` contains the raw and normalized source code files from [JEdit]{https://github.com/vanzin/jEdit}
+- ```change-requests/``` contains the change requests from [**JEdit Issue Repository**](https://sourceforge.net/p/jedit/bugs)
+- ```corpus/``` contains the raw and normalized source code files from [**JEdit**](https://github.com/vanzin/jEdit)
 - ```goldset/``` contains the ground truth source code files for the change requests.  
 - ```lucene``` contains the Lucene index for JEdit corpus
 - ```models``` contains the Stanford models for POS tagging.
@@ -143,7 +143,11 @@ year={2015},
 pages={540-544} }
 ```
 --------------------------------------------
-Please contact **Masud Rahman** (masud.rahman@usask.ca) or [create a new issue]{https://github.com/masud-technope/STRICT-Replication-Package/issues/new} for further information.
+Please contact **Masud Rahman** (masud.rahman@usask.ca) 
+
+or 
+
+[**Create a new issue**](https://github.com/masud-technope/STRICT-Replication-Package/issues/new) for further information.
 
 
 
