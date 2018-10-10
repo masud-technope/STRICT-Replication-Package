@@ -1,0 +1,3 @@
+protocols/bundles/org.apache.zookeeper/about.html
+protocols/bundles/org.apache.zookeeper/asl-v20.txt
+protocols/bundles/org.apache.zookeeper/build.properties

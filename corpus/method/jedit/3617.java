@@ -1,1 +1,0 @@
-Map<String, HistoryModel> load(Map<String, HistoryModel> models);

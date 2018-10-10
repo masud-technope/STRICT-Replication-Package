@@ -1,1 +1,0 @@
-equals Object Increase Increase amount amount

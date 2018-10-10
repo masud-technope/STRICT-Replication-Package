@@ -1,1 +1,0 @@
-set Line Highlight Enabled setLineHighlightEnabled method Enables disables current highlighting param line Highlight lineHighlight current highlight enabled set Line Highlight Enabled setLineHighlightEnabled line Highlight lineHighlight line Highlight lineHighlight line Highlight lineHighlight text Area textArea repaint

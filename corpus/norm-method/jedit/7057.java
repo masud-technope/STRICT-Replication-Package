@@ -1,1 +1,0 @@
-Tab Expander TabExpander get Tab Expander getTabExpander buffer get Boolean Property getBooleanProperty elastic Tabstops elasticTabstops elastic Tabstops Expander elasticTabstopsExpander painter

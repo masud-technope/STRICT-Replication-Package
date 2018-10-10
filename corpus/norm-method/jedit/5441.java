@@ -1,1 +1,0 @@
-Plugin Options PluginOptions constructor Plugin Options PluginOptions Dialog dialog dialog plugin options j Edit jEdit get Property getProperty plugin options

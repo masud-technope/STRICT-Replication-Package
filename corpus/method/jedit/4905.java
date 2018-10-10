@@ -1,3 +1,0 @@
- MyFocusManager() {
-    setDefaultFocusTraversalPolicy(new LayoutFocusTraversalPolicy());
-}

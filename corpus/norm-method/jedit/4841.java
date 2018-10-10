@@ -1,1 +1,0 @@
-set Double Property setDoubleProperty method set Double Property setDoubleProperty String set Property setProperty String value Of valueOf

@@ -36,8 +36,8 @@ Materials Included
 
 - ```strict-runner``` is the functional prototype of STRICT, our proposed query reformulation technique. 
 We also include ```strict-running-snapshot``` for STRICT.
-- ```change-requests/``` contains the change requests from [**JEdit Issue Repository**](https://sourceforge.net/p/jedit/bugs)
-- ```corpus/``` contains the raw and normalized source code files from [**JEdit**](https://github.com/vanzin/jEdit)
+- ```change-requests/``` contains the change requests from [**ECF Issue Repository**](https://bugs.eclipse.org/bugs/describecomponents.cgi?product=ECF)
+- ```corpus/``` contains the raw and normalized source code files from [**ECF**](https://github.com/eclipse/ecf)
 - ```goldset/``` contains the ground truth source code files for the change requests.  
 - ```lucene``` contains the Lucene index for JEdit corpus
 - ```models``` contains the Stanford models for POS tagging.
@@ -64,7 +64,7 @@ Required parameters for the operations
 -----------------------------------------------
 -  **-requestDir** : expects the directory containing the change requests (e.g., ```./change-requests``` )
 -  **-outputFile** : expects a file name to write the output of the queries.
--  **-repoName** : expects the repository name (Optional). The default is ```jedit```.
+-  **-repoName** : expects the repository name (Optional). The default is ```ecf```.
 -  **-bugID** : expects a bugID from the ```./change-requests``` folder.
 -  **-task** : expects a task to be performed.
 -  **-baseline** : expects the type of baseline query from the change request. It takes two values ```T``` and ```W```. Here, ```T``` stands for title, and ```W``` stands for the whole texts of the request.
@@ -85,7 +85,7 @@ Q.2: How to execute your own query for a specific change request?
 -----------------------------------------------------------------------------------
 Execute a single query
 ```
-java -jar strict-runner.jar -task execute -repoName jedit -bugID 4027 -userQuery Sorting files in the file system browser not working
+java -jar strict-runner.jar -task execute -repoName ecf -bugID 194981 -userQuery Do not automatically scroll when message received
 ```
 When executing a single query, ```-userQuery``` should always be the last parameter. Otherwise, the tool will fail to parse the arguments.
 
@@ -95,31 +95,31 @@ Q.3: How to execute the baseline queries for a specific change request?
 Execute the ```title``` of a change request as the search query.
 
 ```
-java -jar strict-runner.jar -task execute -repoName jedit -bugID 4037 -baseline T
+java -jar strict-runner.jar -task execute -repoName ecf -bugID 194981 -baseline T
 ```
 
 Execute the ```whole texts``` of a change request as the search query.
 ```
-java -jar strict-runner.jar -task execute -repoName jedit -bugID 4037 -baseline W
+java -jar strict-runner.jar -task execute -repoName ecf -bugID 194981 -baseline W
 ```
 
 Q.4: How to get suggested queries from STRICT for a single change request?
 -------------------------------------------------------
 ```
-java -jar strict-runner.jar -task suggest+execute -repoName jedit -bugID 4037
+java -jar strict-runner.jar -task suggest+execute -repoName ecf -bugID 194981
 ```
 This command will produce three queries and their QEs as follows:
 ```
-===========4037===========
-TR: 1	select buffer Print working selection Print preview selection working
-POSR: 2	Selection General Print preview selection working
-STRICT: 1	buffer Selection General preview selection Print preview selection working
+===========194981===========
+TR: QE=3	Q:scrollback message Don view Bug Don automatically scroll message received
+POSR: QE=62	Q:message Bug Don automatically scroll message received
+STRICT: QE=3	Q:message scrollback Don view Bug Don automatically scroll message received
 ```
 
 Q.5: How to get suggested queries from STRICT for all the change requests?
 --------------------------------------------------------------------------
 ```
-java -jar strict-runner.jar -task suggest+execute -repoName jedit -outputFile ./sample-output-Oct10.txt
+java -jar strict-runner.jar -task suggest+execute -repoName ecf -outputFile ./sample-output-Oct10.txt
 ```
 This command collects the queries from STRICT and their results, and then save in the output file.
 

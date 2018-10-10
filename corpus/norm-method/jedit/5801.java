@@ -1,1 +1,0 @@
-handle Properties Changed handlePropertiesChanged method EBHandler handle Properties Changed handlePropertiesChanged Properties Changed PropertiesChanged message plugin List pluginList should Update Plugin List shouldUpdatePluginList plugin List pluginList update Plugin List updatePluginList

@@ -1,1 +1,0 @@
-Insets get Border Insets getBorderInsets Component Insets WIDTH

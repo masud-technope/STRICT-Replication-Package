@@ -1,1 +1,0 @@
-Adrien Quillet Setter NSPreferences Content Size NSPreferencesContentSize attribute optional set Content Size setContentSize String Check input consistency String pattern matches pattern Build Exception BuildException Invalid content size format expected width height bundle Properties bundleProperties set NSPreferences Content Size setNSPreferencesContentSize

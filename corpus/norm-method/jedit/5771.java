@@ -1,1 +1,0 @@
-Plugin List PluginList Task task j Edit jEdit get Property getProperty plugin manager mirror task task read Plugin List readPluginList

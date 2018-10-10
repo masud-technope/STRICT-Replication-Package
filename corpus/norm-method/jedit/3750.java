@@ -1,1 +1,0 @@
-Colorizer Cell Renderer ColorizerCellRenderer JList list list list update Colors updateColors list

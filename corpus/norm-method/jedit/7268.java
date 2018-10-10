@@ -1,1 +1,0 @@
-fire Narrow Active fireNarrowActive method fire Narrow Active fireNarrowActive Object listeners listener List listenerList get Listener List getListenerList listeners length listeners Status Listener StatusListener Status Listener StatusListener listeners narrow Active narrowActive Throwable Log log Log ERROR

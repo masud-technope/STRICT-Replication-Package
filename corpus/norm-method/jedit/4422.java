@@ -1,1 +1,0 @@
-root pane viewer Component get Component getComponent

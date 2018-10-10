@@ -1,3 +1,0 @@
-public  ChromaticityCellRenderer() {
-    setOpaque(true);
-}

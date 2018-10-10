@@ -1,0 +1,1 @@
+tests/bundles/org.eclipse.ecf.tests.provider.jslp/org.eclipse.ecf.tests.provider.jslp.AllTests.launch

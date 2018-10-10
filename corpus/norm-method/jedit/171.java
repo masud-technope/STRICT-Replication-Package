@@ -1,1 +1,0 @@
-Tobias Fischer Setter NSHigh Resolution Capable NSHighResolutionCapable attribute optional set High Resolution Capable setHighResolutionCapable bundle Properties bundleProperties set NSHigh Resolution Capable setNSHighResolutionCapable

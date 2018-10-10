@@ -1,1 +1,0 @@
-compare Abstract Button AbstractButton Abstract Button AbstractButton String get Action Command getActionCommand String get Action Command getActionCommand Standard Utilities StandardUtilities compare Strings compareStrings j Edit jEdit get Property getProperty title j Edit jEdit get Property getProperty title

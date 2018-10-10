@@ -1,1 +1,0 @@
-get Resources getResources method String get Resources getResources resources

@@ -1,1 +1,0 @@
-Emacs Util EmacsUtil buffer j Edit jEdit get Active View getActiveView get Buffer getBuffer text Area textArea j Edit jEdit get Active View getActiveView get Text Area getTextArea

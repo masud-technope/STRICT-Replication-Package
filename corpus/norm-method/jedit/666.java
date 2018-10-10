@@ -1,1 +1,0 @@
-init Log log Log MESSAGE Bean Shell BeanShell Beanshell Init

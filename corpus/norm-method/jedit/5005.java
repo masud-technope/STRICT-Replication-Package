@@ -1,1 +1,0 @@
-record Macro recordMacro method Starts recording macro param view view param buffer buffer record param temporary temporary macro j Edit jEdit pre record Macro recordMacro View view Buffer buffer temporary view set Macro Recorder setMacroRecorder Recorder view buffer temporary setting message status bar check recording progress view get Status getStatus set Message setMessage

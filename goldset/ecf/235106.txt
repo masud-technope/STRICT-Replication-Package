@@ -1,0 +1,7 @@
+framework/bundles/org.eclipse.ecf.discovery/.options
+framework/bundles/org.eclipse.ecf.discovery/build.properties
+providers/bundles/org.eclipse.ecf.provider.jslp/.options
+providers/bundles/org.eclipse.ecf.provider.jslp/build.properties
+tests/bundles/org.eclipse.ecf.tests.provider.jslp/tracing
+providers/bundles/org.eclipse.ecf.provider.discovery/.options
+providers/bundles/org.eclipse.ecf.provider.discovery/build.properties

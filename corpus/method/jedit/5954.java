@@ -1,1 +1,0 @@
-abstract AttributeSet getAttributes();

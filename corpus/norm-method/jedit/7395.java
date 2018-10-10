@@ -1,1 +1,0 @@
-get Font Metrics getFontMetrics method Returns font metrics component Font Metrics FontMetrics get Font Metrics getFontMetrics

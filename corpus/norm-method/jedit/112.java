@@ -1,1 +1,0 @@
-Setter shortname attribute optional key identifies bundle characters suitable displaying menu box silently cropped set Short Name setShortName String bundle Properties bundleProperties set CFBundle Name setCFBundleName

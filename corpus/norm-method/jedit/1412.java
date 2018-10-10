@@ -1,1 +1,0 @@
-verbose printing status command Bean Shell BeanShell command interpreter parent call delegated get Show Results getShowResults show Results showResults

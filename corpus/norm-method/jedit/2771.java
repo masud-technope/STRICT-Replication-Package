@@ -1,1 +1,0 @@
-set Locked setLocked method locked buffer param locked lock unlock set Locked setLocked locked set Boolean Property setBooleanProperty locked locked properties Changed propertiesChanged

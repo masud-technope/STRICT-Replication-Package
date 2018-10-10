@@ -1,1 +1,0 @@
-set Expand On Input setExpandOnInput method Sets abbreviations expanded user finishes typing word param expand On Input expandOnInput typing alphanumeric character automatically attempt expand current abbrev set Expand On Input setExpandOnInput expand On Input expandOnInput Abbrevs expand On Input expandOnInput expand On Input expandOnInput

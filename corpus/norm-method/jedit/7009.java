@@ -1,1 +1,0 @@
-get Painter getPainter method Returns object responsible painting text area Text Area Painter TextAreaPainter get Painter getPainter painter

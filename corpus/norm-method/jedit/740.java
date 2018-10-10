@@ -1,1 +1,0 @@
-get Icon For File getIconForFile method j Edit jEdit pre Icon get Icon For File getIconForFile VFSFile file expanded get Icon For File getIconForFile file expanded j Edit jEdit get Buffer getBuffer file get Symlink Path getSymlinkPath

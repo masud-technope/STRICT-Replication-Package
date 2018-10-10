@@ -1,1 +1,0 @@
-Cleans entries object object clean Properties Property Descriptor PropertyDescriptor props get Property Descriptors getPropertyDescriptors Property Descriptor PropertyDescriptor prop props equals prop get Name getName String pname root prop get Name getName remove pname Exception Log log Log ERROR

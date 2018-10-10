@@ -1,1 +1,0 @@
-My Mouse Adapter MyMouseAdapter View view view view

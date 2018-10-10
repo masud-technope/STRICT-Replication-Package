@@ -1,1 +1,0 @@
-Edit Abbrev Dialog EditAbbrevDialog constructor Edit Abbrev Dialog EditAbbrevDialog Dialog dialog String abbrev String expansion Map abbrevs dialog j Edit jEdit get Property getProperty edit abbrev title init abbrev expansion abbrevs

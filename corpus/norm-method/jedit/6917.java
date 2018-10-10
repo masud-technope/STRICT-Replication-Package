@@ -1,1 +1,0 @@
-get Start getStart method Returns start offset selection get Start getStart start

@@ -1,1 +1,0 @@
-Attribute Set AttributeSet get Attributes getAttributes Attribute Set AttributeSet Hash Attribute Set HashAttributeSet add Chromaticity chromaticity get Selected Item getSelectedItem add Print Quality PrintQuality quality get Selected Item getSelectedItem

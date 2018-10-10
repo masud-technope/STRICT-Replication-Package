@@ -1,1 +1,0 @@
-Saves j Edit jEdit context menu configuration j Edit jEdit pre Override save Context Menu saveContextMenu String menu j Edit jEdit set Property setProperty view context menu j Edit jEdit set Boolean Property setBooleanProperty options context include Options Link includeOptionsLink include Options Link includeOptionsLink is Selected isSelected

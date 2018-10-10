@@ -1,1 +1,0 @@
-Creates dockable window update message param dockable window manager param happened param dockable dockable window question Dockable Window Update DockableWindowUpdate Dockable Window Manager DockableWindowManager Object String dockable Null Pointer Exception NullPointerException dockable dockable

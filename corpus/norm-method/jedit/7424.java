@@ -1,1 +1,0 @@
-paint Fold Middle paintFoldMiddle paint Fold Middle paintFoldMiddle Gutter gutter Graphics gfx screen Line screenLine physical Line physicalLine line Height lineHeight JEdit Buffer JEditBuffer buffer

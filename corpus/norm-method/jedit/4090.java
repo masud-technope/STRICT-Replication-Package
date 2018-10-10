@@ -1,1 +1,0 @@
-update JEdit Text Area JEditTextArea text Area textArea view get Text Area getTextArea text Area textArea text Area textArea is Rectangular Selection Enabled isRectangularSelectionEnabled rect Select rectSelect set Text setText rect Select rectSelect set Enabled setEnabled rect Select rectSelect set Text setText rect Select rectSelect set Enabled setEnabled

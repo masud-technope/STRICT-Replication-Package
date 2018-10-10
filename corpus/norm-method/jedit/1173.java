@@ -1,1 +1,0 @@
-Change parent instance namespace support Note method removed set Instance Name Space Parent setInstanceNameSpaceParent Object instance String class Name className Name Space NameSpace parent

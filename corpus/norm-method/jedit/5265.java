@@ -1,1 +1,0 @@
-get Column Name getColumnName method Override String get Column Name getColumnName j Edit jEdit get Property getProperty options abbrevs abbrev j Edit jEdit get Property getProperty options abbrevs expand

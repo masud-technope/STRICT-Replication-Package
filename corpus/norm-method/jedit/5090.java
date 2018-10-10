@@ -1,1 +1,0 @@
-Text methods escapes To Chars escapesToChars method Converts escapes string newlines tabs param str string j Edit jEdit pre String escapes To Chars escapesToChars String str String Builder StringBuilder buf String Builder StringBuilder str length str char At charAt str length buf append str char At charAt buf append buf append buf append buf append buf to String toString

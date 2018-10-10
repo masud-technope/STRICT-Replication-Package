@@ -1,1 +1,0 @@
-JText Area JTextArea get After Caret Text Area getAfterCaretTextArea after Caret afterCaret

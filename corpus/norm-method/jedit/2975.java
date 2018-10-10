@@ -1,1 +1,0 @@
-get Buffer Switcher getBufferSwitcher method Returns buffer switcher combo box instance buffer switcher j Edit jEdit pre Buffer Switcher BufferSwitcher get Buffer Switcher getBufferSwitcher buffer Switcher bufferSwitcher

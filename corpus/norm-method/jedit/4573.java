@@ -1,1 +1,0 @@
-delete method Rename favorite param session session needed param path param param comp component parent error dialog boxes favorite path exists Override rename Object session String String Component comp VFSFile favorites get Favorites getFavorites VFSFile fav favorites Favorite favorite Favorite fav favorite get Path getPath equals favorite label

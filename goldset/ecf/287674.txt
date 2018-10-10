@@ -1,0 +1,5 @@
+releng/features/org.eclipse.ecf.tests-platform-feature/feature.xml
+releng/org.eclipse.ecf.releng.maps/ecf.platform.map
+releng/features/org.eclipse.ecf.tests-platform-feature/feature.xml
+releng/features/org.eclipse.ecf.tests-platform-feature/org.eclipse.ecf.tests-platform.cquery
+releng/features/org.eclipse.ecf.tests-platform-feature/org.eclipse.ecf.tests-platform.mspec

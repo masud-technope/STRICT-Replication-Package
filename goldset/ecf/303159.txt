@@ -1,0 +1,1 @@
+providers/bundles/org.eclipse.ecf.provider.localdiscovery/META-INF/MANIFEST.MF

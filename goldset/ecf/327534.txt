@@ -1,0 +1,15 @@
+releng/features/org.eclipse.ecf.discovery.dnssd.feature/org.eclipse.ecf.dnssd.cquery
+releng/features/org.eclipse.ecf.discovery.dnssd.feature/buckminster.cspex
+releng/features/org.eclipse.ecf.discovery.dnssd.feature/feature.xml
+releng/features/org.eclipse.ecf.sdk-feature/org.eclipse.ecf.sdk.mspec
+releng/org.eclipse.ecf.releng.bm/ecf.rmap
+releng/features/org.eclipse.ecf.sdk-feature/org.eclipse.ecf.sdk.mspec
+releng/org.eclipse.ecf.releng.bm/ecf.rmap
+releng/features/org.eclipse.ecf.discovery.dnssd.feature/buckminster.cspex
+releng/features/org.eclipse.ecf.discovery.dnssd.feature/feature.xml
+releng/org.eclipse.ecf.releng.bm/ecf.rmap
+releng/features/org.eclipse.ecf.sdk-feature/org.eclipse.ecf.sdk.mspec
+releng/features/org.eclipse.ecf.sdk-feature/org.eclipse.ecf.sdk.mspec
+releng/features/org.eclipse.ecf.remoteservice.sdk.feature/feature.xml
+releng/features/org.eclipse.ecf.sdk-feature/org.eclipse.ecf.sdk.mspec
+releng/org.eclipse.ecf.releng.bm/ecf.rmap

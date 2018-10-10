@@ -1,1 +1,0 @@
-is Markers File Supported isMarkersFileSupported method Returns additional markers file saved VFS code j Edit jEdit pre is Markers File Supported isMarkersFileSupported

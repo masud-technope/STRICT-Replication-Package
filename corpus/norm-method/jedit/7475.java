@@ -1,1 +1,0 @@
-get Action Bar getActionBar method Returns action bar j Edit jEdit pre Action Bar ActionBar get Action Bar getActionBar action Bar actionBar

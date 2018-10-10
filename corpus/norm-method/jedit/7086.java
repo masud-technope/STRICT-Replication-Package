@@ -1,1 +1,0 @@
-set First Physical Line setFirstPhysicalLine methods Sets vertical scroll bar position param phys First Line physFirstLine physical display j Edit jEdit pre set First Physical Line setFirstPhysicalLine phys First Line physFirstLine phys First Line physFirstLine phys First Line physFirstLine set First Physical Line setFirstPhysicalLine phys First Line physFirstLine

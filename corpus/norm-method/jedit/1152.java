@@ -1,1 +1,0 @@
-kind crazy set Name Space setNameSpace command based set depth Name Space NameSpace stack set Element At setElementAt depth

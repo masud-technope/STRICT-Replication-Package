@@ -1,1 +1,0 @@
-action Performed actionPerformed Action Event ActionEvent evt ind Integer parse Int parseInt evt get Action Command getActionCommand ind set Text setText current set Text setText history Model historyModel get Item getItem ind ind instant Popups instantPopups add Current To History addCurrentToHistory fire Action Performed fireActionPerformed

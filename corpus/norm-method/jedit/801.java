@@ -1,1 +1,0 @@
-create Tool Bar createToolBar method Container create Tool Bar createToolBar mode BROWSER GUIUtilities load Tool Bar loadToolBar action Context actionContext vfs browser toolbar browser GUIUtilities load Tool Bar loadToolBar action Context actionContext vfs browser toolbar dialog

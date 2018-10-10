@@ -1,1 +1,0 @@
-is Visible isVisible method is Visible isVisible Dockable Window Manager Impl DockableWindowManagerImpl Entry entry current entry

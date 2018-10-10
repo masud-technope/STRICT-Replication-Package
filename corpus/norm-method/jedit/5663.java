@@ -1,1 +1,0 @@
-Clear Plugin Set ClearPluginSet constructor Clear Plugin Set ClearPluginSet set Icon setIcon GUIUtilities load Icon loadIcon j Edit jEdit get Property getProperty install plugins clear plugin set icon set Tool Tip Text setToolTipText clear plugin set add Action Listener addActionListener

@@ -1,1 +1,0 @@
-String get Type Descriptor getTypeDescriptor type Descriptor typeDescriptor

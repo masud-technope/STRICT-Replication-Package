@@ -1,1 +1,0 @@
-Fold painters handle Popup Trigger handlePopupTrigger method clicking text area Gestures plugin API j Edit jEdit pre Override handle Popup Trigger handlePopupTrigger Mouse Event MouseEvent evt popup is Visible isVisible popup set Visible setVisible handle Popup Trigger handlePopupTrigger evt

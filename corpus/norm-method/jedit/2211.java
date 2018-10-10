@@ -1,1 +1,0 @@
-Re Init ReInit Java Char Stream JavaCharStream stream lex State lexState Re Init ReInit stream Switch To SwitchTo lex State lexState

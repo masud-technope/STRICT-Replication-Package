@@ -1,1 +1,0 @@
-Buffers edit panes split panes split Horizontally splitHorizontally method Splits view horizontally edit Pane editPane j Edit jEdit pre Edit Pane EditPane split Horizontally splitHorizontally split JSplit Pane JSplitPane VERTICAL SPLIT

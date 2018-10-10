@@ -1,1 +1,0 @@
-Setter Working Directory WorkingDirectory attribute optional set Working Directory setWorkingDirectory String bundle Properties bundleProperties set Working Directory setWorkingDirectory

@@ -1,1 +1,0 @@
-get Instant Popups getInstantPopups method Returns selecting popup fire Action Event ActionEvent j Edit jEdit pre get Instant Popups getInstantPopups controller get Instant Popups getInstantPopups

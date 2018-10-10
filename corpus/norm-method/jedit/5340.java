@@ -1,1 +1,0 @@
-save method save windows size Entry windows save

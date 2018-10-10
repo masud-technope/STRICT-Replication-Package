@@ -1,1 +1,0 @@
-Update buffer members current hash length comparison update Hash updateHash initial Length initialLength get Length getLength hash calculate Hash calculateHash

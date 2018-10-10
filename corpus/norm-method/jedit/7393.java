@@ -1,1 +1,0 @@
-get Font Height getFontHeight method Returns font height font metrics get Font Height getFontHeight get Height getHeight

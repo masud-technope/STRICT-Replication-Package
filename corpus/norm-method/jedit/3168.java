@@ -1,1 +1,0 @@
-Complete Word CompleteWord constructor Complete Word CompleteWord View view String word Completion completions Point location String no Word Sep noWordSep view location no Word Sep noWordSep no Word Sep noWordSep view view text Area textArea view get Text Area getTextArea buffer view get Buffer getBuffer word word reset completions

@@ -1,1 +1,0 @@
-method Override Swing Worker SwingWorker State Value StateValue STARTED Task Manager TaskManager instance fire Running fireRunning thread Thread current Thread currentThread thread Throwable Log log Log ERROR Swing Worker SwingWorker State Value StateValue Task Manager TaskManager instance fire Done fireDone

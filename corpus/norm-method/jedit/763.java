@@ -1,1 +1,0 @@
-handle Plugin Update handlePluginUpdate method EBHandler handle Plugin Update handlePluginUpdate Plugin Update PluginUpdate pmsg pmsg get What getWhat Plugin Update PluginUpdate LOADED pmsg get What getWhat Plugin Update PluginUpdate UNLOADED plugins plugins VFSBrowser menu bar hidden plugins update Popup Menu updatePopupMenu

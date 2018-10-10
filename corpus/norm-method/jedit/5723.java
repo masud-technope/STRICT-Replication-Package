@@ -1,1 +1,0 @@
-Find Orphan FindOrphan j Edit jEdit get Property getProperty plugin manager find Orphan findOrphan label add Action Listener addActionListener

@@ -1,1 +1,0 @@
-get Integer Property getIntegerProperty method Returns integer property param property param def j Edit jEdit pre get Integer Property getIntegerProperty String def String get Property getProperty def Integer parse Int parseInt trim Number Format Exception NumberFormatException def

@@ -1,1 +1,0 @@
-visit Iinc Insn visitIincInsn increment compute Maxs computeMaxs updates max locals stack change max Locals maxLocals max Locals maxLocals adds instruction bytecode method increment increment code Constants IINC increment code Constants IINC increment

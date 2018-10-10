@@ -1,1 +1,0 @@
-Entry constructor Entry Dockable Window Factory DockableWindowFactory Window factory String position factory factory position position title factory constructor factory created plugin props loaded

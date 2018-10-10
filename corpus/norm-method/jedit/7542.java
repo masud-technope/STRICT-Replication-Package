@@ -1,1 +1,0 @@
-new Instance newInstance method Creates instance tree cell renderer invocation object Saving reference returning instance calls method time initializations constructor method simplest implementation method call constructor result instance method instance set current instance initialized instance Tree Cell Renderer TreeCellRenderer new Instance newInstance

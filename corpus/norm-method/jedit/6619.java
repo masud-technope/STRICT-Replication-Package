@@ -1,1 +1,0 @@
-get Ready To Break Fold getReadyToBreakFold method black hole bug modify folded lines fold removed expanded text remains invisible get Ready To Break Fold getReadyToBreakFold display Manager displayManager expand Fold expandFold

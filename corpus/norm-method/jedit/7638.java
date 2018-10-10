@@ -1,1 +1,0 @@
-Char Sequence CharSequence sub Sequence subSequence start Segment Char Sequence SegmentCharSequence seg offset start start

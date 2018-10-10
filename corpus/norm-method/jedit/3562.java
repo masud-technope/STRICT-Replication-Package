@@ -1,1 +1,0 @@
-is Anti Alias Enabled isAntiAliasEnabled method is Anti Alias Enabled isAntiAliasEnabled anti Alias antiAlias

@@ -1,1 +1,0 @@
-Swap top stack Name Space NameSpace swap Name Space NameSpace new Top newTop Name Space NameSpace old Top oldTop Name Space NameSpace stack element At elementAt stack set Element At setElementAt new Top newTop old Top oldTop

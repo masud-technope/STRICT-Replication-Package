@@ -1,1 +1,0 @@
-number starting token get End Line Number getEndLineNumber last Token lastToken end Line endLine text tokens comprising node String get Text getText String Builder StringBuilder text String Builder StringBuilder Token first Token firstToken text append image image equals text append last Token lastToken image equals image equals text to String toString

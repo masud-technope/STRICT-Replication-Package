@@ -1,1 +1,0 @@
-set Line Number Alignment setLineNumberAlignment method Sets horizontal alignment numbers param alignment Gutter Gutter CENTER Gutter LEFT set Line Number Alignment setLineNumberAlignment alignment alignment alignment alignment alignment repaint

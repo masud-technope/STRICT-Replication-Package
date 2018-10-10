@@ -1,1 +1,0 @@
-Font Selector Dialog FontSelectorDialog constructor Font Selector Dialog FontSelectorDialog Frame parent Font font Font Selector FontSelector font Selector fontSelector parent j Edit jEdit get Property getProperty font selector title font Selector fontSelector font Selector fontSelector init font

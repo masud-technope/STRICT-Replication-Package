@@ -1,1 +1,0 @@
-set Selection Area Background setSelectionAreaBackground method set Selection Area Background setSelectionAreaBackground Color bg Color bgColor selection Area Bg Color selectionAreaBgColor bg Color bgColor repaint

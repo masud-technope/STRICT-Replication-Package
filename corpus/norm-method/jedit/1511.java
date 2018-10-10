@@ -1,1 +1,0 @@
-component Hidden componentHidden Component Event ComponentEvent event component Hidden componentHidden

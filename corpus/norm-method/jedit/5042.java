@@ -1,1 +1,0 @@
-set Shortcut setShortcut method Sets marker shortcut param shortcut shortcut j Edit jEdit pre set Shortcut setShortcut shortcut shortcut shortcut

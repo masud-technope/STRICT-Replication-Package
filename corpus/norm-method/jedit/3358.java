@@ -1,1 +1,0 @@
-is Dockable Window Docked isDockableWindowDocked method Returns dockable window docked view param dockable j Edit jEdit pre is Dockable Window Docked isDockableWindowDocked String Entry entry windows entry entry position equals FLOATING

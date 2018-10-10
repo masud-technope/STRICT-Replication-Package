@@ -1,1 +1,0 @@
-set Perspective Dirty setPerspectiveDirty method autosave perspective changed avoid spinning disk laptops j Edit jEdit pre set Perspective Dirty setPerspectiveDirty dirty Perspective Manager PerspectiveManager dirty dirty

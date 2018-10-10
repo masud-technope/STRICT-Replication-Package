@@ -1,1 +1,0 @@
-get Visible Lines getVisibleLines method Returns number lines visible text area number visible lines textarea get Visible Lines getVisibleLines visible Lines visibleLines

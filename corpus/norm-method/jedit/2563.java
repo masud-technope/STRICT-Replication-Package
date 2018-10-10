@@ -1,1 +1,0 @@
-Folding methods is Fold Start isFoldStart method param fold j Edit jEdit pre is Fold Start isFoldStart get Line Count getLineCount get Fold Level getFoldLevel get Fold Level getFoldLevel

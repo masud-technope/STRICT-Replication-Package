@@ -1,1 +1,0 @@
-get Buffer getBuffer method j Edit jEdit pre JEdit Buffer JEditBuffer get Buffer getBuffer buffer

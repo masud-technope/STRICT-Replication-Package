@@ -1,1 +1,0 @@
-fire Begin Redo fireBeginRedo method fire Begin Redo fireBeginRedo Buffer Undo Listener BufferUndoListener listener undo Listeners undoListeners listener begin Redo beginRedo Throwable Log log Log ERROR Exception sending buffer redo event listener Log log Log ERROR

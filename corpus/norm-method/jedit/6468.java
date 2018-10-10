@@ -1,1 +1,0 @@
-get Segment Map Key getSegmentMapKey method get Segment Map Key getSegmentMapKey Segment len Character to Upper Case toUpperCase array Character to Upper Case toUpperCase array len map Length mapLength

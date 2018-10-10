@@ -1,1 +1,0 @@
-get End Line getEndLine method Override get End Line getEndLine end Line endLine

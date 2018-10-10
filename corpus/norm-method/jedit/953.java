@@ -1,1 +1,0 @@
-reference parent object closure reference Block Name Space BlockNameSpace resolves parent namespace namespace statement get Block This getBlockThis Interpreter get This getThis Interpreter declaring Interpreter declaringInterpreter get Non Block Parent getNonBlockParent get This getThis declaring Interpreter declaringInterpreter

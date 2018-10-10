@@ -1,1 +1,0 @@
-cancel task j Edit jEdit pre cancel Tasks By Class cancelTasksByClass Task clazz tasks Task task tasks task get Class getClass equals clazz task cancel

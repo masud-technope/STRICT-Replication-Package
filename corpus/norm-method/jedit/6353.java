@@ -1,1 +1,0 @@
-param no Word Sep noWordSep chars considered word chars search j Edit jEdit pre set No Word Sep setNoWordSep String no Word Sep noWordSep no Word Sep noWordSep no Word Sep noWordSep no Word Sep noWordSep no Word Sep noWordSep

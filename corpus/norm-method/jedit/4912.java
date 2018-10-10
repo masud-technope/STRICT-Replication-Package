@@ -1,1 +1,0 @@
-get Properties getProperties method Returns properties object j Edit jEdit properties Note j Edit jEdit pre returns collection existing properties instance j Edit jEdit pre Properties get Properties getProperties prop Mgr propMgr get Properties getProperties

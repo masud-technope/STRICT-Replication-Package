@@ -1,1 +1,0 @@
-get Dockable Window Manager getDockableWindowManager method j Edit jEdit pre Dockable Window Manager Impl DockableWindowManagerImpl get Dockable Window Manager getDockableWindowManager

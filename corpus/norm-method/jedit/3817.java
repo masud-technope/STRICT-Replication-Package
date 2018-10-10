@@ -1,1 +1,0 @@
-Options Dialog OptionsDialog constructor Options Dialog OptionsDialog Dialog dialog String String pane dialog j Edit jEdit get Property getProperty title init pane

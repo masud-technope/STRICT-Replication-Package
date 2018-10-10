@@ -1,1 +1,0 @@
-float Unary Operation floatUnaryOperation kind operand float Value floatValue kind operand operand Interpreter Error InterpreterError bad unary Operation unaryOperation

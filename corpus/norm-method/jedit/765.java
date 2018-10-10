@@ -1,1 +1,0 @@
-handle Buffer Update handleBufferUpdate method EBHandler handle Buffer Update handleBufferUpdate Buffer Update BufferUpdate bmsg bmsg get What getWhat Buffer Update BufferUpdate CREATED bmsg get What getWhat Buffer Update BufferUpdate CLOSED browser View browserView update File View updateFileView

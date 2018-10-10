@@ -1,1 +1,0 @@
-Getters setters get Styles getStyles method Returns syntax styles paint colorized text Entry paint tokens array Syntax Styles SyntaxStyles org gjt jedit syntax Token Syntax Style SyntaxStyle get Styles getStyles styles

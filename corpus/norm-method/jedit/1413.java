@@ -1,1 +1,0 @@
-Evaluate inputstream interpreter global namespace Object eval Reader Eval Error EvalError eval global Name Space globalNameSpace eval stream

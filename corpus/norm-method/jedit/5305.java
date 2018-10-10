@@ -1,1 +1,0 @@
-Entry String glob Color color glob glob color color

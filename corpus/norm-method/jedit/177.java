@@ -1,1 +1,0 @@
-Setter smalltabs attribute optional set Small Tabs setSmallTabs bundle Properties bundleProperties add Java Property addJavaProperty apple small Tabs smallTabs to String toString

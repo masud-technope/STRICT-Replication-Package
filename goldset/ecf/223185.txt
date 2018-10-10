@@ -1,0 +1,3 @@
+providers/bundles/org.eclipse.ecf.provider.filetransfer.httpclient/src/org/eclipse/ecf/internal/provider/filetransfer/httpclient/Messages.java
+providers/bundles/org.eclipse.ecf.provider.filetransfer.httpclient/src/org/eclipse/ecf/internal/provider/filetransfer/httpclient/messages.properties
+providers/bundles/org.eclipse.ecf.provider.filetransfer.httpclient/src/org/eclipse/ecf/provider/filetransfer/httpclient/HttpClientRetrieveFileTransfer.java

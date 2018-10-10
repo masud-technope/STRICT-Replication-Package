@@ -1,1 +1,0 @@
-set Main Class setMainClass String m Main Class mMainClass

@@ -1,1 +1,0 @@
-find Parent findParent method Finds element tag matches tag Name tagName searching stack Tag Decl TagDecl find Parent findParent String tag Name tagName idx state Stack stateStack size idx idx Tag Decl TagDecl tag state Stack stateStack idx tag tag Name tagName equals tag Name tagName tag

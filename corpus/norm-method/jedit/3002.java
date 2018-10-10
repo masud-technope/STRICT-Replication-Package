@@ -1,1 +1,0 @@
-get Plugin Home getPluginHome method Returns plugin plugin settings directory pre get Resource As Stream getResourceAsStream get Resource As Output Stream getResourceAsOutputStream get Resource Path getResourcePath Nullable File get Plugin Home getPluginHome get Plugin Home getPluginHome get Class Name getClassName

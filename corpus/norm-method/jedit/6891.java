@@ -1,1 +1,0 @@
-invalidate Screen Line Counts invalidateScreenLineCounts method invalidate Screen Line Counts invalidateScreenLineCounts line Count lineCount buffer get Line Count getLineCount line Count lineCount invalidate Screen Line Count invalidateScreenLineCount

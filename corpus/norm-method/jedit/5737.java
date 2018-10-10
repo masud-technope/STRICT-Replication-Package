@@ -1,1 +1,0 @@
-Override value Changed valueChanged List Selection Event ListSelectionEvent row table get Selected Row getSelectedRow row Entry entry plugin Model pluginModel get Entry getEntry row plugin Detail Panel pluginDetailPanel set Plugin setPlugin entry

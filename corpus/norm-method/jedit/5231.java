@@ -1,1 +1,0 @@
-is X isX method Returns graphics system j Edit jEdit pre is X isX UNIX

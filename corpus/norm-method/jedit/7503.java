@@ -1,1 +1,0 @@
-get Docking Framework Name getDockingFrameworkName method String get Docking Framework Name getDockingFrameworkName String framework j Edit jEdit get Property getProperty VIEW DOCKING FRAMEWORK PROPERTY ORIGINAL DOCKING FRAMEWORK framework

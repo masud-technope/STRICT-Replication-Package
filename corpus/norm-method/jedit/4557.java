@@ -1,1 +1,0 @@
-has Encoding hasEncoding method Returns supported Encoding has Encoding hasEncoding String Charset is Supported isSupported Illegal Charset Name Exception IllegalCharsetNameException Arrays as List asList Service Manager ServiceManager get Service Names getServiceNames service Class serviceClass

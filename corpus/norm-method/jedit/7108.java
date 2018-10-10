@@ -1,1 +1,0 @@
-shift Indent Right shiftIndentRight method Shifts indent j Edit jEdit pre shift Indent Right shiftIndentRight buffer is Editable isEditable javax swing UIManager get Look And Feel getLookAndFeel provide Error Feedback provideErrorFeedback buffer shift Indent Right shiftIndentRight get Selected Lines getSelectedLines

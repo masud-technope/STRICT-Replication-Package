@@ -1,1 +1,0 @@
-get VFSFor Protocol getVFSForProtocol method Returns VFS protocol param protocol protocol j Edit jEdit pre VFS get VFSFor Protocol getVFSForProtocol String protocol protocol equals file file VFS fileVFS VFS vfs VFS Service Manager ServiceManager get Service getService SERVICE protocol vfs vfs url VFS urlVFS

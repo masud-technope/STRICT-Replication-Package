@@ -1,1 +1,0 @@
-set Clipboard setClipboard String string Registers set Register setRegister string

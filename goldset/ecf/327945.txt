@@ -1,0 +1,3 @@
+releng/features/org.eclipse.ecf.tests.feature/org.eclipse.ecf.tests.cquery
+releng/features/org.eclipse.ecf.tests.feature/org.eclipse.ecf.tests.mspec
+releng/features/org.eclipse.ecf.tests.feature/buckminster.cspex

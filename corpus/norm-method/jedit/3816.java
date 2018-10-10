@@ -1,1 +1,0 @@
-param frame parent frame dialogs created param option pane title code property defined order instantiate param pane initial pane created Options Dialog OptionsDialog Frame frame String String pane frame j Edit jEdit get Property getProperty title init pane

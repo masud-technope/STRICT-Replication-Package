@@ -1,1 +1,0 @@
-set Rate setRate method set Rate setRate rate delay rate

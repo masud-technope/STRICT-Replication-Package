@@ -1,1 +1,0 @@
-remove method remove wrap String new Ring newRing String ring length new Count newCount ring length virtual To Physical Index virtualToPhysicalIndex new Ring newRing new Count newCount ring ring new Ring newRing count new Count newCount wrap System arraycopy ring ring count count

@@ -1,1 +1,0 @@
-add Explicit Fold addExplicitFold method Surrounds selection explicit fold markers j Edit jEdit pre Override add Explicit Fold addExplicitFold add Explicit Fold addExplicitFold Text Area Exception TextAreaException GUIUtilities error view folding explicit

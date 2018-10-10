@@ -1,1 +1,0 @@
-get Text getText method Subclasses override provide funky history behavior JText Panes JTextPanes String get Text getText text get Text getText

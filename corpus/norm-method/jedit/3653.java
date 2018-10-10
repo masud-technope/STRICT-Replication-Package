@@ -1,1 +1,0 @@
-set Select All On Focus setSelectAllOnFocus method Sets text selected field focus j Edit jEdit pre set Select All On Focus setSelectAllOnFocus select All On Focus selectAllOnFocus select All On Focus selectAllOnFocus select All On Focus selectAllOnFocus

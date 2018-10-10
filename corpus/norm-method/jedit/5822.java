@@ -1,1 +1,0 @@
-method count Swing Utilities SwingUtilities invoke And Wait invokeAndWait Runnable dispose Swing Utilities SwingUtilities invoke And Wait invokeAndWait Runnable value So Far valueSoFar roster get Operation getOperation get Maximum getMaximum progress set Value setValue value So Far valueSoFar Exception

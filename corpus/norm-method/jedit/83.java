@@ -1,1 +1,0 @@
-Document type set Name setName String

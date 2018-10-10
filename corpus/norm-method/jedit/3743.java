@@ -1,1 +1,0 @@
-scroll To Tail scrollToTail method Scroll tail logs scroll To Tail scrollToTail list get Model getModel get Size getSize list ensure Index Is Visible ensureIndexIsVisible

@@ -1,1 +1,0 @@
-get Name getName method Returns internal action action String get Name getName

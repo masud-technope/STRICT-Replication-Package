@@ -1,1 +1,0 @@
-Favorites VFS FavoritesVFS constructor Favorites VFS FavoritesVFS favorites DELETE CAP RENAME CAP LATENCY CAP AWT SESSION CAP String TYPE add To Favorites addToFavorites method convinience instance VFS pass VFSManager send VFSUpdate sendVFSUpdate hack instance

@@ -1,1 +1,0 @@
-is Marker Highlight Enabled isMarkerHighlightEnabled method is Marker Highlight Enabled isMarkerHighlightEnabled marker Highlight markerHighlight

@@ -1,1 +1,0 @@
-pop Element popElement method String pop Element popElement state Stack stateStack pop

@@ -1,1 +1,0 @@
-Tobias Fischer Setter allowmixedlocalizations attribute optional set Allow Mixed Localizations setAllowMixedLocalizations bundle Properties bundleProperties set CFBundle Allow Mixed Localizations setCFBundleAllowMixedLocalizations

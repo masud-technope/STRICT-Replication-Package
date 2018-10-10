@@ -1,1 +1,0 @@
-jj Can Move jjCanMove hi Byte hiByte hi Byte hiByte jjbit Vec jjbitVec jjbit Vec jjbitVec

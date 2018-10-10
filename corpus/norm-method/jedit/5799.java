@@ -1,1 +1,0 @@
-push Element pushElement method String push Element pushElement String state Stack stateStack push

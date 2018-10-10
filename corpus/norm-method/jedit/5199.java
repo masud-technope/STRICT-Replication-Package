@@ -1,1 +1,0 @@
-Creates plugin update message constructor plugin removed Plugin JAR PluginJAR longer param file file representing plugin param happened param exit editor exiting j Edit jEdit pre Plugin Update PluginUpdate File file Object exit file file file Null Pointer Exception NullPointerException exit exit

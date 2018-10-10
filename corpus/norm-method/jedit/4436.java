@@ -1,1 +1,0 @@
-Bracket Indent Rule BracketIndentRule constructor Bracket Indent Rule BracketIndentRule open Bracket openBracket close Bracket closeBracket open Bracket openBracket open Bracket openBracket close Bracket closeBracket close Bracket closeBracket

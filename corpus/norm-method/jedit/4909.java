@@ -1,1 +1,0 @@
-Override Dockable Window Manager DockableWindowManager view get Dockable Window Manager getDockableWindowManager set Docking Layout setDockingLayout config docking startup Done startupDone set startup Done Index startupDoneIndex

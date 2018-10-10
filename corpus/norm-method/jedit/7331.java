@@ -1,1 +1,0 @@
-Mouse Handler MouseHandler constructor Text Area Mouse Handler TextAreaMouseHandler Text Area TextArea text Area textArea text Area textArea text Area textArea

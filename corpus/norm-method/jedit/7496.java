@@ -1,1 +1,0 @@
-add Tool Bar addToolBar methods Adds tool bar view param tool Bar toolBar tool bar add Tool Bar addToolBar Component tool Bar toolBar add Tool Bar addToolBar GROUP LAYER tool Bar toolBar

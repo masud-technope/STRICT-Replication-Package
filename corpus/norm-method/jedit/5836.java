@@ -1,1 +1,0 @@
-is Empty isEmpty method is Empty isEmpty operations is Empty isEmpty

@@ -1,0 +1,2 @@
+tests/bundles/org.eclipse.ecf.tests.osgi.services.distribution/META-INF/MANIFEST.MF
+osgi/bundles/org.eclipse.ecf.osgi.services.remoteserviceadmin/buckminster.cspex

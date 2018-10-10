@@ -1,1 +1,0 @@
-Get File Type Request GetFileTypeRequest VFS vfs Object session String path type vfs vfs session session path path type type

@@ -1,1 +1,0 @@
-utilities Compute get Text Location getTextLocation Rectangle get Caret Rectangle getCaretRectangle Text Area Painter TextAreaPainter painter owner get Painter getPainter Point origin painter get Location On Screen getLocationOnScreen height painter get Line Height getLineHeight Rectangle origin origin height

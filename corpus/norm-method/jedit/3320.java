@@ -1,1 +1,0 @@
-add Plugin Dockable addPluginDockable add Plugin Dockable addPluginDockable Plugin JAR PluginJAR plugin String Set String dockables plugins plugin dockables dockables Hash Set HashSet String plugins plugin dockables dockables add

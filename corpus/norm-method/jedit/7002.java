@@ -1,1 +1,0 @@
-Highlight Text Area TextArea text Area textArea text Area textArea text Area textArea

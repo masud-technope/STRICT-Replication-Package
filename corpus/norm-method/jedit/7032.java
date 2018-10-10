@@ -1,1 +1,0 @@
-get Dot getDot method Override get Dot getDot get Caret Position getCaretPosition

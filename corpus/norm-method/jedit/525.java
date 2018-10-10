@@ -1,1 +1,0 @@
-entry user entry user get User Id getUserId header user Id userId

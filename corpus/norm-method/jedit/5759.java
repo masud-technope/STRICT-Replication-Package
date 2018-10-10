@@ -1,1 +1,0 @@
-pop Element popElement state Stack stateStack pop

@@ -1,1 +1,0 @@
-String get Type Descriptor getTypeDescriptor clas clas TYPE clas Character TYPE clas TYPE clas TYPE clas Integer TYPE clas TYPE clas TYPE clas TYPE clas TYPE get Name getName test String clas get Name getName replace starts With startsWith ends With endsWith replace

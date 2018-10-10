@@ -1,1 +1,0 @@
-Setter icon attribute optional set Icon setIcon File m App Icon mAppIcon bundle Properties bundleProperties set CFBundle Icon File setCFBundleIconFile get Name getName

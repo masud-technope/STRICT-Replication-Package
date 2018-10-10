@@ -1,1 +1,0 @@
-get Next getNext method Returns view list view View get Next getNext

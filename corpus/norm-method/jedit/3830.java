@@ -1,1 +1,0 @@
-get Current getCurrent method Returns dockable container j Edit jEdit pre String get Current getCurrent current current factory

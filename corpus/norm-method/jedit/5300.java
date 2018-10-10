@@ -1,1 +1,0 @@
-save method save entries size Entry entry entries j Edit jEdit set Property setProperty vfs browser colors glob entry glob j Edit jEdit set Color Property setColorProperty vfs browser colors color entry color j Edit jEdit unset Property unsetProperty vfs browser colors glob j Edit jEdit unset Property unsetProperty vfs browser colors color

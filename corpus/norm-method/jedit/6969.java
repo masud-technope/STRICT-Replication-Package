@@ -1,1 +1,0 @@
-paint Fold Shape paintFoldShape Graphics gfx top bottom

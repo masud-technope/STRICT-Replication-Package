@@ -1,3 +1,0 @@
-//{{{ Selection constructor
-protected  Selection() {
-}

@@ -1,1 +1,0 @@
-dispose GUIUtilities save Geometry saveGeometry get Name getName Option Pane OptionPane panes shown Panes shownPanes save fire PROPERTIES CHANGED event j Edit jEdit properties Changed propertiesChanged Save settings disk j Edit jEdit save Settings saveSettings rid dialog dispose dispose

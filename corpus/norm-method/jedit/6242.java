@@ -1,1 +1,0 @@
-visit Buffer buffer Hyper Search Result HyperSearchResult result

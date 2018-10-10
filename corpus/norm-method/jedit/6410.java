@@ -1,1 +1,0 @@
-error checking assumes caller send horizontal vertical set Direction setDirection String direction direction direction

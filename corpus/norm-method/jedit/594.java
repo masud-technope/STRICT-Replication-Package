@@ -1,1 +1,0 @@
-get Mode Abbrevs getModeAbbrevs method mode specific abbreviation set j Edit jEdit pre Hashtable String Hashtable String String get Mode Abbrevs getModeAbbrevs loaded load modes

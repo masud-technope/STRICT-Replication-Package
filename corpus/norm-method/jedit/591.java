@@ -1,1 +1,0 @@
-set Mode Abbrevs setModeAbbrevs method Sets mode specific abbreviation set param modes mode abbrev set j Edit jEdit pre set Mode Abbrevs setModeAbbrevs Hashtable String Hashtable String String modes abbrevs Changed abbrevsChanged Abbrevs modes modes

@@ -1,1 +1,0 @@
-is Right Click Popup Enabled isRightClickPopupEnabled method Returns click popup menu enabled Gestures plugin API j Edit jEdit pre is Right Click Popup Enabled isRightClickPopupEnabled popup Enabled popupEnabled

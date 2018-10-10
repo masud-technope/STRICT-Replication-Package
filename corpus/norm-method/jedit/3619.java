@@ -1,1 +1,0 @@
-get Index getIndex mehtod get Index getIndex

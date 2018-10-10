@@ -1,1 +1,0 @@
-Convenience method modify entry place entry header buffer array param outbuf buffer entry header modify param new Name newName place header buffer adjust Entry Name adjustEntryName outbuf String new Name newName offset offset Tar Header TarHeader get Name Bytes getNameBytes String Buffer StringBuffer new Name newName outbuf offset Tar Header TarHeader NAMELEN

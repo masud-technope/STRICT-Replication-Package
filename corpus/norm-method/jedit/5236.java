@@ -1,1 +1,0 @@
-is Case Insensitive FS isCaseInsensitiveFS method j Edit jEdit pre is Case Insensitive FS isCaseInsensitiveFS is Windows isWindows is Mac OS isMacOS

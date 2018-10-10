@@ -1,1 +1,0 @@
-source text interpreter reading Note difference file interrpeter sourcing file method originally parsed file call method sourced file Simple Node SimpleNode origination file info org gjt jedit bsh Simple Node SimpleNode get Source File getSourceFile String get Source File Info getSourceFileInfo source File Info sourceFileInfo source File Info sourceFileInfo unknown source

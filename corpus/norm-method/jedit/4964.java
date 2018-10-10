@@ -1,1 +1,0 @@
-Constructor JEdit Kill Ring JEditKillRing String settings Directory settingsDirectory j Edit jEdit get Settings Directory getSettingsDirectory settings Directory settingsDirectory killring XML killringXML Settings XML SettingsXML settings Directory settingsDirectory killring

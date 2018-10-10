@@ -1,1 +1,0 @@
-check Null checkNull String file file trim length message set Foreground setForeground Color red message set Text setText installer get Property getProperty dir

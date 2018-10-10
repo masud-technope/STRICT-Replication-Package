@@ -1,0 +1,8 @@
+protocols/bundles/ch.ethz.iks.slp/.settings/.api_filters
+framework/bundles/org.eclipse.ecf.discovery/.settings/.api_filters
+framework/bundles/org.eclipse.ecf.discovery/.project
+framework/bundles/org.eclipse.ecf.discovery/.settings/.api_filters
+providers/bundles/org.eclipse.ecf.provider.jslp/.project
+providers/bundles/org.eclipse.ecf.provider.jslp/.settings/.api_filters
+providers/bundles/org.eclipse.ecf.provider.discovery/.project
+providers/bundles/org.eclipse.ecf.provider.jmdns/.project

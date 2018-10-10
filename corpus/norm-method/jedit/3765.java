@@ -1,1 +1,0 @@
-mouse Pressed mousePressed Mouse Event MouseEvent evt evt is Consumed isConsumed marker List markerList location To Index locationToIndex evt get Point getPoint marker List markerList set Selected Index setSelectedIndex go To Selected Marker goToSelectedMarker

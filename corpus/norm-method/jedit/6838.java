@@ -1,1 +1,0 @@
-handle Properties Changed handlePropertiesChanged method EBHandler handle Properties Changed handlePropertiesChanged Properties Changed PropertiesChanged msg painter set Line Extra Spacing setLineExtraSpacing j Edit jEdit get Integer Property getIntegerProperty options textarea line Spacing lineSpacing

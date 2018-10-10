@@ -1,1 +1,0 @@
-update Size updateSize size filesets size JCheck Box JCheckBox comp get Component getComponent get Model getModel is Selected isSelected size installer get Integer Property getIntegerProperty comp filesets element At elementAt disk size size Label sizeLabel set Text setText Estimated disk usage selected components size

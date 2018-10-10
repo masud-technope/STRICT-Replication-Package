@@ -1,1 +1,0 @@
-Returns entire text text area String get Text getText buffer get Text getText buffer get Length getLength

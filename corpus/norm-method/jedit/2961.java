@@ -1,1 +1,0 @@
-buffer Moved bufferMoved method buffer moved Buffer Set BufferSet param buffer moved buffer param old Index oldIndex position param new Index newIndex position j Edit jEdit pre buffer Moved bufferMoved Buffer buffer old Index oldIndex new Index newIndex buffer Switcher bufferSwitcher buffer Switcher bufferSwitcher update Buffer List updateBufferList

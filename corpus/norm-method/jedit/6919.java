@@ -1,1 +1,0 @@
-get End getEnd method Returns portion selection falling manipulate selection text basis param buffer buffer param number j Edit jEdit pre get End getEnd JEdit Buffer JEditBuffer buffer

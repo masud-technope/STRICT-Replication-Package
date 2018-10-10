@@ -1,1 +1,0 @@
-Plugins Menu Button PluginsMenuButton constructor Plugins Menu Button PluginsMenuButton set Text setText j Edit jEdit get Property getProperty vfs browser plugins label Generic GUIUtilities GenericGUIUtilities set Auto Mnemonic setAutoMnemonic set Name setName plugins set Margin setMargin Insets popup create Popup Menu createPopupMenu

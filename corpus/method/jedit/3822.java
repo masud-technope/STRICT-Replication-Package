@@ -1,3 +1,0 @@
-public  OptionTreeModel() {
-    super();
-}

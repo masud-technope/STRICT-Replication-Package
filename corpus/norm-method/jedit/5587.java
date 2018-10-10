@@ -1,1 +1,0 @@
-get Plugin getPlugin method Returns plugin core JAR file Note plugin activated instance link Edit Plugin EditPlugin Deferred actual plugin core instance call link activate Plugin activatePlugin plugin loaded returns j Edit jEdit pre Edit Plugin EditPlugin get Plugin getPlugin plugin

@@ -1,1 +1,0 @@
-save method save Style Choice StyleChoice style Choices styleChoices j Edit jEdit set Property setProperty property GUIUtilities get Style String getStyleString style

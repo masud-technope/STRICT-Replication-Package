@@ -1,1 +1,0 @@
-backup amount in Buf inBuf amount bufpos amount bufpos bufsize

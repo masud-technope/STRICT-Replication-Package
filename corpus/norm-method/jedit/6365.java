@@ -1,1 +1,0 @@
-Service List Handler ServiceListHandler constructor Service List Handler ServiceListHandler Plugin JAR PluginJAR plugin URL uri plugin plugin uri uri code String Builder StringBuilder state Stack stateStack Stack String cached Services cachedServices Linked List LinkedList Service Manager ServiceManager Descriptor

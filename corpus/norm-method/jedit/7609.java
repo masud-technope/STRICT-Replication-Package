@@ -1,1 +1,0 @@
-write method write barray write barray

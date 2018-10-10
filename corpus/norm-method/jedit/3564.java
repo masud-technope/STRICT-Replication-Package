@@ -1,1 +1,0 @@
-Creates font selector control param font font param anti Alias antiAlias anti aliasing enabled j Edit jEdit pre Font Selector FontSelector Font font anti Alias antiAlias set Font setFont font anti Alias antiAlias anti Alias antiAlias update Text updateText set Request Focus Enabled setRequestFocusEnabled add Action Listener addActionListener Action Handler ActionHandler

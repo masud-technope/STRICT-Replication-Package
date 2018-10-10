@@ -1,1 +1,0 @@
-set Title setTitle String new Title newTitle title set Text setText new Title newTitle

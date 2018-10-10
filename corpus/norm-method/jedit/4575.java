@@ -1,1 +1,0 @@
-get File getFile method Override VFSFile get File getFile Object session String path Component comp matter doesn set type correctly Favorite path VFSFile DIRECTORY

@@ -1,1 +1,0 @@
-get Indent Size getIndentSize method indent size buffer equivalent calling code get Property getProperty indent Size indentSize code method thread safe j Edit jEdit pre get Indent Size getIndentSize indent Size indentSize get Integer Property getIntegerProperty indent Size indentSize indent Size indentSize indent Size indentSize

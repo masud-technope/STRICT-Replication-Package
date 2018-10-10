@@ -1,1 +1,0 @@
-get Sort Column Index getSortColumnIndex method get Sort Column Index getSortColumnIndex sort Column Index sortColumnIndex

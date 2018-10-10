@@ -1,1 +1,0 @@
-Returns base type array Reflect Error ReflectError array get Array Base Type getArrayBaseType array Class arrayClass Reflect Error ReflectError array Class arrayClass is Array isArray Reflect Error ReflectError array array Class arrayClass get Component Type getComponentType

@@ -1,1 +1,0 @@
-get Handlers getHandlers method Returns array list registered macro handlers j Edit jEdit pre Handler get Handlers getHandlers Handler handlers Handler macro Handlers macroHandlers size macro Handlers macroHandlers to Array toArray handlers

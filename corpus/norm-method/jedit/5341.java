@@ -1,1 +1,0 @@
-Entry String title j Edit jEdit get Property getProperty title title title dock Position dockPosition j Edit jEdit get Property getProperty dock position dock Position dockPosition dock Position dockPosition Dockable Window Manager DockableWindowManager FLOATING

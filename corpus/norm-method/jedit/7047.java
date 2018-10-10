@@ -1,1 +1,0 @@
-toggle Multiple Selection Enabled toggleMultipleSelectionEnabled method Toggles multiple selection j Edit jEdit pre toggle Multiple Selection Enabled toggleMultipleSelectionEnabled set Multiple Selection Enabled setMultipleSelectionEnabled multi

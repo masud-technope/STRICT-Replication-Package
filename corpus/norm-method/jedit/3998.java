@@ -1,1 +1,0 @@
-get Tool Tip Text getToolTipText method Override String get Tool Tip Text getToolTipText to String toString

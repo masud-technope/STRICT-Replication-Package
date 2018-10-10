@@ -1,1 +1,0 @@
-deprecated set Typed Variable setTypedVariable String Object Modifiers set Typed Variable setTypedVariable String type Object is Final isFinal Util Eval Error UtilEvalError Modifiers modifiers Modifiers is Final isFinal modifiers add Modifier addModifier Modifiers FIELD set Typed Variable setTypedVariable type modifiers

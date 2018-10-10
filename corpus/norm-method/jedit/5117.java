@@ -1,1 +1,0 @@
-get Last Separator Index getLastSeparatorIndex String path start get Path Start getPathStart path start path path substring start Math max path last Index Of lastIndexOf path last Index Of lastIndexOf File separator Char separatorChar start

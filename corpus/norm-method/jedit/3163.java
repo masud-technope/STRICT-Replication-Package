@@ -1,1 +1,0 @@
-reset Words resetWords method reset Words resetWords String new Word newWord caret text Area textArea get Caret Position getCaretPosition Completion completions get Completions getCompletions buffer new Word newWord caret completions length word new Word newWord reset completions dispose

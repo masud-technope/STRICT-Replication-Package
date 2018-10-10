@@ -1,1 +1,0 @@
-scroll Up Line scrollUpLine method Scrolls j Edit jEdit pre scroll Up Line scrollUpLine set First Line setFirstLine get First Line getFirstLine

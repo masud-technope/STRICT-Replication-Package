@@ -1,1 +1,0 @@
-go To Prev Word goToPrevWord method Moves caret start previous word param eat Whitespace eatWhitespace eat whitespace j Edit jEdit pre go To Prev Word goToPrevWord select eat Whitespace eatWhitespace go To Prev Word goToPrevWord select eat Whitespace eatWhitespace

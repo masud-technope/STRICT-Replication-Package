@@ -1,1 +1,0 @@
-Add Fold Hander FoldHander param fold Handler foldHandler fold Handler foldHandler j Edit jEdit pre add Fold Handler addFoldHandler Fold Handler FoldHandler fold Handler foldHandler folds fold Handler foldHandler get Name getName fold Handler foldHandler

@@ -1,1 +1,0 @@
-Encapsulate runnable task Threadpool receiving simple Runnable param runnable runnable encapsulate Task Task decorate Runnable runnable My Task MyTask runnable

@@ -1,1 +1,0 @@
-get Macro getMacro method Returns macro param macro macro j Edit jEdit pre Macro get Macro getMacro String macro macro Hash macroHash macro

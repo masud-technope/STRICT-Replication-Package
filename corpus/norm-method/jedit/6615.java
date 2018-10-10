@@ -1,1 +1,0 @@
-Anti Alias AntiAlias is Enabled isEnabled val is Enabled isEnabled

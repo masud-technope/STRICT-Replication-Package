@@ -1,1 +1,0 @@
-is User Mode isUserMode is User Mode isUserMode

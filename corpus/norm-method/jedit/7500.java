@@ -1,1 +1,0 @@
-remove Tool Bar removeToolBar method Removes tool bar view param tool Bar toolBar tool bar remove Tool Bar removeToolBar Component tool Bar toolBar tool Bar Manager toolBarManager tool Bar toolBar tool Bar Manager toolBarManager remove Tool Bar removeToolBar tool Bar toolBar get Root Pane getRootPane revalidate

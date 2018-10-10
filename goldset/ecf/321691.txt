@@ -1,0 +1,15 @@
+releng/features/org.eclipse.ecf.xmpp.feature/feature.xml
+releng/features/org.eclipse.ecf.xmpp.feature/org.eclipse.ecf.xmpp.cquery
+releng/features/org.eclipse.ecf.xmpp.feature/org.eclipse.ecf.xmpp.mspec
+tests/bundles/org.eclipse.ecf.tests.provider.xmpp/org.eclipse.ecf.tests.provider.xmpp.launch
+releng/features/org.eclipse.ecf.xmpp.feature/.project
+releng/features/org.eclipse.ecf.xmpp.feature/about.html
+releng/features/org.eclipse.ecf.xmpp.feature/buckminster.cspex
+releng/features/org.eclipse.ecf.xmpp.feature/build.properties
+releng/features/org.eclipse.ecf.xmpp.feature/epl-v10.html
+releng/features/org.eclipse.ecf.xmpp.feature/feature.properties
+releng/features/org.eclipse.ecf.xmpp.feature/feature.xml
+releng/features/org.eclipse.ecf.xmpp.feature/license.html
+releng/features/org.eclipse.ecf.xmpp.feature/notice.html
+releng/features/org.eclipse.ecf.xmpp.feature/org.eclipse.ecf.xmpp.cquery
+releng/features/org.eclipse.ecf.xmpp.feature/org.eclipse.ecf.xmpp.mspec

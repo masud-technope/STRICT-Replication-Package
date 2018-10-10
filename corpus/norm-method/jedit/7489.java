@@ -1,1 +1,0 @@
-get Buffer getBuffer method Returns current edit pane buffer current edit pane buffer Buffer get Buffer getBuffer edit Pane editPane edit Pane editPane get Buffer getBuffer

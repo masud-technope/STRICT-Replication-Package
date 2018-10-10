@@ -1,1 +1,0 @@
-get Offset getOffset method get Offset getOffset offset

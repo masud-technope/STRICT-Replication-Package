@@ -1,1 +1,0 @@
-set Default Focus Component setDefaultFocusComponent VFSFile Chooser Dialog VFSFileChooserDialog embeds dialog set Default Focus Component setDefaultFocusComponent JComponent default Focus Component defaultFocusComponent

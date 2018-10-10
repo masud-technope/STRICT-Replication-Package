@@ -1,1 +1,0 @@
-public void setTitle(String newTitle);

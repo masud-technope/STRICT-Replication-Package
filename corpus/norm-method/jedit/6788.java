@@ -1,1 +1,0 @@
-get Fold Color getFoldColor method Color get Fold Color getFoldColor fold Color foldColor

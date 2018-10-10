@@ -1,1 +1,0 @@
-Handles message Edit Bus EditBus method type responses plugin subclasses link EBMessage Typically code code blocks test message instance derived message component interest pre msg Buffer Update BufferUpdate buffer changed msg View Update ViewUpdate view changed pre param message message handle Message handleMessage EBMessage message

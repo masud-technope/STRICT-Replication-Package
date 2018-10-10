@@ -1,1 +1,0 @@
-window Closed windowClosed Window Event WindowEvent event window Closed windowClosed

@@ -1,1 +1,0 @@
-get Symlink Path getSymlinkPath method file symbolic link returns link destination returns file path method thread safe j Edit jEdit pre String get Symlink Path getSymlinkPath symlink Path symlinkPath

@@ -1,1 +1,0 @@
-bsh namespace field param class Name className clas superclass clas get Class Static This getClassStaticThis clas String class Name className Reflect get Static Field Value getStaticFieldValue clas BSHSTATIC class Name className Exception Interpreter Error InterpreterError Unable space

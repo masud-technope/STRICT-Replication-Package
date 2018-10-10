@@ -1,1 +1,0 @@
-get Selection Iterator getSelectionIterator method Returns current selection j Edit jEdit pre Iterator Selection get Selection Iterator getSelectionIterator selection Manager selectionManager selection iterator

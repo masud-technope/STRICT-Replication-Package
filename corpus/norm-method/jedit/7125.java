@@ -1,1 +1,0 @@
-update Structure Highlight With Delay updateStructureHighlightWithDelay method update Bracket Highlight With Delay updateBracketHighlightWithDelay structure Timer structureTimer structure Timer structureTimer start

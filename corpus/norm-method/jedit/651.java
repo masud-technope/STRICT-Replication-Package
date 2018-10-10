@@ -1,1 +1,0 @@
-My Bean Shell Facade MyBeanShellFacade class Manager classManager set Class Loader setClassLoader JARClass Loader JARClassLoader

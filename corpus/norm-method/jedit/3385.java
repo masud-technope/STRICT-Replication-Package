@@ -1,1 +1,0 @@
-Dockable Window Manager DockableWindowManager create View view Dockable Window Factory DockableWindowFactory instance View Config ViewConfig config Dockable Window Manager Impl DockableWindowManagerImpl view instance config

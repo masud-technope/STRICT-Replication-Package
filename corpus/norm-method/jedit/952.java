@@ -1,1 +1,0 @@
-Set untyped variable block namespace Block Name Space BlockNameSpace delegate set parent Typed variables naturally set locally block argument set Block Variable setBlockVariable String Object Util Eval Error UtilEvalError set Variable setVariable strict

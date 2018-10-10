@@ -1,0 +1,2 @@
+framework/bundles/org.eclipse.ecf/src/org/eclipse/ecf/core/util/SerializableMultiStatus.java
+framework/bundles/org.eclipse.ecf.identity/META-INF/MANIFEST.MF

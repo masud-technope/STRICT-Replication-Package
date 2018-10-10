@@ -1,1 +1,0 @@
-set Replace String setReplaceString method Sets current replacement string param replace replacement string set Replace String setReplaceString String replace replace equals Search And Replace SearchAndReplace replace Search And Replace SearchAndReplace replace replace Edit Bus EditBus send Search Settings Changed SearchSettingsChanged

@@ -1,1 +1,0 @@
-update method update size Log throwables size size current Size currentSize current Size currentSize size size set Text setText set Tool Tip Text setToolTipText size error set Foreground setForeground foreground Color foregroundColor set Text setText Integer to String toString size error set Tool Tip Text setToolTipText size error

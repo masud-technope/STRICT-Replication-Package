@@ -1,1 +1,0 @@
-set Cursor setCursor method Reset cursor j Edit jEdit pre reset Cursor resetCursor default Cursor defaultCursor

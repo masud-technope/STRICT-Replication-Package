@@ -1,3 +1,0 @@
-DisplayManager getDisplayManager() {
-    return displayManager;
-}

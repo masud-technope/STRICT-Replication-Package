@@ -1,1 +1,0 @@
-Construct interactive interpreter attached console parent namespace Interpreter Console Interface ConsoleInterface console Name Space NameSpace global Name Space globalNameSpace console get In getIn console get Out getOut console get Err getErr global Name Space globalNameSpace set Console setConsole console

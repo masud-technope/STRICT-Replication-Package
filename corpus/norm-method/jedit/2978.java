@@ -1,1 +1,0 @@
-is Marker Highlight Enabled isMarkerHighlightEnabled set Marker Highlight Enabled setMarkerHighlightEnabled marker Highlight markerHighlight marker Highlight markerHighlight marker Highlight markerHighlight

@@ -1,1 +1,0 @@
-Convenience methods get Buffer Length getBufferLength method Returns length buffer get Buffer Length getBufferLength buffer get Length getLength

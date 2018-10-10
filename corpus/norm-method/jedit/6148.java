@@ -1,1 +1,0 @@
-Edit Pane EditPane edit Pane editPane Buffer buffer get Buffer getBuffer edit Pane editPane get View getView buffer edit Pane editPane set Buffer setBuffer buffer

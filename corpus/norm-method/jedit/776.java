@@ -1,1 +1,0 @@
-Override accept VFSFile file file get Type getType VFSFile DIRECTORY file get Type getType VFSFile FILESYSTEM

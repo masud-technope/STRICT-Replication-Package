@@ -1,1 +1,0 @@
-Override JEdit Bean Shell Action JEditBeanShellAction create Bean Shell Action createBeanShellAction String action Name actionName String code String selected no Repeat noRepeat no Record noRecord no Remember Last noRememberLast JEdit Bean Shell Action JEditBeanShellAction action Name actionName code selected no Repeat noRepeat no Record noRecord no Remember Last noRememberLast

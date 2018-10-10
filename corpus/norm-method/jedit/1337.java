@@ -1,1 +1,0 @@
-Returns objects code code method object has Next hasNext enumeration has More Elements hasMoreElements

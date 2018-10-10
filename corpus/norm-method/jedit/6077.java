@@ -1,1 +1,0 @@
-Transferable get Transferable getTransferable

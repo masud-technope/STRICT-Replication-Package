@@ -1,1 +1,0 @@
-input method Utility method prompt input macro param comp component dialog behalf view instance param prompt prompt string j Edit jEdit pre String input Component comp String prompt GUIUtilities hide Splash Screen hideSplashScreen input comp prompt

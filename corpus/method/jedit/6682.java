@@ -1,3 +1,0 @@
-//{{{ ColumnBlock() method
-public  ColumnBlock() {
-}

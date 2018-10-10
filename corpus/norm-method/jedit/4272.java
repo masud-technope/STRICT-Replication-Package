@@ -1,1 +1,0 @@
-get View getView method Finds view parent component param comp component parent view parent view component View j Edit jEdit pre View get View getView Component comp View get Component Parent getComponentParent comp View

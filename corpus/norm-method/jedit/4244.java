@@ -1,1 +1,0 @@
-show Splash Screen showSplashScreen method show Splash Screen showSplashScreen EDT creates gui components Swing Utilities SwingUtilities invoke And Wait invokeAndWait Runnable splash Splash Screen SplashScreen Exception Log log Log ERROR GUIUtilities error displaying splash screen

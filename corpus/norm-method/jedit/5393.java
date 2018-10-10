@@ -1,1 +1,0 @@
-is Gutter Enabled isGutterEnabled method is Gutter Enabled isGutterEnabled j Edit jEdit get Boolean Property getBooleanProperty GUTTER ENABLED PROPERTY

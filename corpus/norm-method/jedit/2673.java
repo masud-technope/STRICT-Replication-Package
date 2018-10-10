@@ -1,1 +1,0 @@
-undo method Override Selection undo Undo Manager UndoManager mgr mgr buffer insert offset str mgr undo Clear Dirty undoClearDirty mgr buffer set Dirty setDirty Selection Selection Range offset offset str length

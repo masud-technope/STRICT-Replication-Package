@@ -1,1 +1,0 @@
-initialize magic read Unsigned Char readUnsignedChar magic read Unsigned Char readUnsignedChar magic magic magic bs Finished With Stream bsFinishedWithStream stream End streamEnd set Decompress Structure Sizes setDecompressStructureSizes magic computed Combined CRC computedCombinedCRC

@@ -1,1 +1,0 @@
-check For Existing Abbrev checkForExistingAbbrev method check For Existing Abbrev checkForExistingAbbrev String abbrev editor get Abbrev getAbbrev abbrevs abbrev abbrev equals original Abbrev originalAbbrev result GUIUtilities confirm edit abbrev duplicate JOption Pane JOptionPane OPTION JOption Pane JOptionPane WARNING MESSAGE result JOption Pane JOptionPane OPTION

@@ -1,1 +1,0 @@
-method called time option pane displayed init

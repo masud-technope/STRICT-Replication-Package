@@ -1,1 +1,0 @@
-characters method characters len String tag peek Element peekElement DESCRIPTION equals tag description append len LOCATION equals tag location append len COUNTRY equals tag country append len CONTINENT equals tag continent append len

@@ -1,1 +1,0 @@
-Add Bsh Class Path BshClassPath component path bcp reflected add Component addComponent Bsh Class Path BshClassPath bcp comp Paths compPaths comp Paths compPaths Array List ArrayList comp Paths compPaths add bcp bcp add Listener addListener

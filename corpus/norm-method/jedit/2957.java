@@ -1,1 +1,0 @@
-to String toString method Override String to String toString get Class getClass get Name getName view get Edit Pane getEditPane active inactive

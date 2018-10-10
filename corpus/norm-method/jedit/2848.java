@@ -1,1 +1,0 @@
-compare Buffer Buffer ret Standard Utilities StandardUtilities compare Strings compareStrings get Name getName get Name getName ret ret Standard Utilities StandardUtilities compare Strings compareStrings get Path getPath get Path getPath ret

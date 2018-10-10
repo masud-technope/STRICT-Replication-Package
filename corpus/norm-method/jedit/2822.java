@@ -1,1 +1,0 @@
-autodetect method detect stream gzipped encoding XML Reader autodetect Input Stream InputStream IOException Misc Utilities MiscUtilities autodetect buffer

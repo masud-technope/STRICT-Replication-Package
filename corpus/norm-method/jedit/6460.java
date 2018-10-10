@@ -1,1 +1,0 @@
-get Line Context getLineContext method token handler compare object object token type changed meaning subsequent lines retokenized j Edit jEdit pre Token Marker TokenMarker Line Context LineContext get Line Context getLineContext line Context lineContext

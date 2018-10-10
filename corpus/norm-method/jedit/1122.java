@@ -1,1 +1,0 @@
-BSHThrow Statement BSHThrowStatement

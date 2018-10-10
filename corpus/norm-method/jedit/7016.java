@@ -1,1 +1,0 @@
-delete method Deletes character caret j Edit jEdit pre delete delete

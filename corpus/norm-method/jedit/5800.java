@@ -1,1 +1,0 @@
-handle Plugin Update handlePluginUpdate method EBHandler handle Plugin Update handlePluginUpdate Plugin Update PluginUpdate msg queued Update queuedUpdate Swing Utilities SwingUtilities invoke Later invokeLater Runnable queued Update queuedUpdate manager update queued Update queuedUpdate

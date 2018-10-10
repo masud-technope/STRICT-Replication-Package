@@ -1,1 +1,0 @@
-remove Extension removeExtension method Removes text area extension longer asked perform custom painting tool handling param extension extension j Edit jEdit pre remove Extension removeExtension Text Area Extension TextAreaExtension extension extension Mgr extensionMgr remove Extension removeExtension extension repaint

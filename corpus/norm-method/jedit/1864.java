@@ -1,1 +1,0 @@
-Empty Statement EmptyStatement Parse Exception ParseException consume token SEMICOLON

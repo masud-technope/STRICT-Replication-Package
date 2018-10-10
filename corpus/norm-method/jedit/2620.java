@@ -1,1 +1,0 @@
-set Instance setInstance method set Instance setInstance Kill Ring KillRing kill Ring killRing Kill Ring KillRing kill Ring killRing kill Ring killRing

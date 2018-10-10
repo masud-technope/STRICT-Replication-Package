@@ -1,1 +1,0 @@
-narrow Active narrowActive Text Area TextArea text Area textArea

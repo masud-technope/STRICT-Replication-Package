@@ -1,1 +1,0 @@
-get Column Name getColumnName method String get Column Name getColumnName col col j Edit jEdit get Property getProperty vfs browser j Edit jEdit get Property getProperty vfs browser get Extended Attribute getExtendedAttribute col

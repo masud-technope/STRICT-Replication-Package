@@ -1,1 +1,0 @@
-Shortcuts Model ShortcutsModel String List Key Binding KeyBinding bindings bindings bindings sort

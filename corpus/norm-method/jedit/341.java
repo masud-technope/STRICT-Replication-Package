@@ -1,1 +1,0 @@
-bad Block Header badBlockHeader cadvise

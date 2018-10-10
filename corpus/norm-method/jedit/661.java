@@ -1,1 +1,0 @@
-eval Selection evalSelection method Evaluates text selected text area param view view param text Area textArea text area j Edit jEdit pre eval Selection evalSelection View view JEdit Text Area JEditTextArea text Area textArea bsh eval Selection evalSelection view text Area textArea

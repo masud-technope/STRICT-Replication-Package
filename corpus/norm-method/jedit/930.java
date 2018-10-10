@@ -1,1 +1,0 @@
-VFSFile entry vfs get File getFile session path browser entry existent file type VFSFile FILE type entry get Type getType IOException VFSManager error path browser vfs end VFSSession endVFSSession session browser IOException VFSManager error path browser

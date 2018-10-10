@@ -1,1 +1,0 @@
-overlaps method Returns selection selection overlap param selection j Edit jEdit pre overlaps Selection start start start start

@@ -1,1 +1,0 @@
-title dockable floating window String long Title longTitle String title j Edit jEdit get Property getProperty factory longtitle title short Title shortTitle title

@@ -1,1 +1,0 @@
-get Dockable Window Manager getDockableWindowManager method Dockable Window Manager Impl DockableWindowManagerImpl get Dockable Window Manager getDockableWindowManager dockable Window Manager dockableWindowManager

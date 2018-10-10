@@ -1,1 +1,0 @@
-Go To Node Action GoToNodeAction String label Prop labelProp mode j Edit jEdit get Property getProperty label Prop labelProp mode mode

@@ -1,1 +1,0 @@
-Deprecated String get File Name No Extension getFileNameNoExtension String path get Base Name getBaseName path

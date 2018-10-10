@@ -1,1 +1,0 @@
-root Directory rootDirectory method local drives directory j Edit jEdit pre root Directory rootDirectory set Directory setDirectory get Root Directory getRootDirectory

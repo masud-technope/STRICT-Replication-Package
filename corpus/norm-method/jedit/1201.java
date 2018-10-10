@@ -1,1 +1,0 @@
-Generate field instance generate Field generateField String field Name fieldName String type modifiers Class Writer ClassWriter visit Field visitField modifiers field Name fieldName type

@@ -1,1 +1,0 @@
-register Changed registerChanged

@@ -1,1 +1,0 @@
-abstract void setTrayIconArgs(boolean restore, String userDir, String[] args);

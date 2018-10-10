@@ -1,1 +1,0 @@
-void scrolledHorizontally(TextArea textArea);

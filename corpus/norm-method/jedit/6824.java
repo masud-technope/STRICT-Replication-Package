@@ -1,1 +1,0 @@
-get Committed Text Length getCommittedTextLength owner get Buffer Length getBufferLength

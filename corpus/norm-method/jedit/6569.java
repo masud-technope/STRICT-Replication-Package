@@ -1,1 +1,0 @@
-get Rule Sets getRuleSets method j Edit jEdit pre Parser Rule Set ParserRuleSet get Rule Sets getRuleSets rule Sets ruleSets values to Array toArray Parser Rule Set ParserRuleSet rule Sets ruleSets size

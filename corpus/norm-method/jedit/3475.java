@@ -1,1 +1,0 @@
-row component starts display area get Row getRow row

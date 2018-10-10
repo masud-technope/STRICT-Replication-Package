@@ -1,1 +1,0 @@
-Color Entry ColorEntry Pattern Color color color color

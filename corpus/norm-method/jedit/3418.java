@@ -1,1 +1,0 @@
-action Performed actionPerformed Action Event ActionEvent evt evt get Source getSource editor get Abbrev getAbbrev editor get Abbrev getAbbrev length javax swing UIManager get Look And Feel getLookAndFeel provide Error Feedback provideErrorFeedback check For Existing Abbrev checkForExistingAbbrev is OK isOK dispose

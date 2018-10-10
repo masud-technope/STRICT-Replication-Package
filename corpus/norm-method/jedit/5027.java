@@ -1,1 +1,0 @@
-set Last Macro setLastMacro method j Edit jEdit pre set Last Macro setLastMacro Macro macro last Macro lastMacro macro

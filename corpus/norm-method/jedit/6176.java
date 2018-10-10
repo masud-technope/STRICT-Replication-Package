@@ -1,1 +1,0 @@
-buffer Closed bufferClosed method buffer Closed bufferClosed start start Pos startPos get Offset getOffset end Pos endPos get Offset getOffset start Pos startPos end Pos endPos

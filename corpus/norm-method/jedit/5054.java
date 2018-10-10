@@ -1,1 +1,0 @@
-EBHandler handle Dynamic Menu Changed handleDynamicMenuChanged Dynamic Menu Changed DynamicMenuChanged msg equals msg get Menu Name getMenuName menu Out Of Date menuOutOfDate

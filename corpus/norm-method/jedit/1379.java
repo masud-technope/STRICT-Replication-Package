@@ -1,1 +1,0 @@
-Set external Map namespace synchronizes previous external map detached namespace Previous map values retained external map removed Bean Shell BeanShell namespace set Map setMap Map map Detach existing namespace preserve clear namespace set external Map externalMap clear external Map externalMap map

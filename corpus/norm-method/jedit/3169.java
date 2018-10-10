@@ -1,1 +1,0 @@
-get Visible Buffers getVisibleBuffers method Collection Buffer get Visible Buffers getVisibleBuffers Set Buffer buffers Hash Set HashSet Buffer j Edit jEdit visit JEdit Visitor Adapter JEditVisitorAdapter Override visit Edit Pane EditPane edit Pane editPane buffers add edit Pane editPane get Buffer getBuffer buffers

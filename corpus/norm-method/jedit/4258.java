@@ -1,1 +1,0 @@
-get Screen Bounds getScreenBounds method Returns screen bounds account multi screen environments j Edit jEdit pre deprecated link Generic GUIUtilities GenericGUIUtilities get Screen Bounds getScreenBounds Rectangle get Screen Bounds getScreenBounds Generic GUIUtilities GenericGUIUtilities get Screen Bounds getScreenBounds

@@ -1,1 +1,0 @@
-source eval Print error message standard format output stream interpreter GUI console red error Object console console error Error err println Error err flush

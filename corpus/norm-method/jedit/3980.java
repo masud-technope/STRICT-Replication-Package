@@ -1,1 +1,0 @@
-paint Component paintComponent method Override paint Component paintComponent Graphics Dimension size get Size getSize draw Image drawImage image do Paint Contents doPaintContents size wait advance notify

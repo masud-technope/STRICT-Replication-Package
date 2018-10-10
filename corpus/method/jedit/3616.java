@@ -1,1 +1,0 @@
-boolean save(Map<String, HistoryModel> models);

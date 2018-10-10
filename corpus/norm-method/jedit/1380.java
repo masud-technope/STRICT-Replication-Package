@@ -1,1 +1,0 @@
-map view namespace Map get Map getMap external Map externalMap

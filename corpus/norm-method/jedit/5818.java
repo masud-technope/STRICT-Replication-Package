@@ -1,1 +1,0 @@
-Plugin Manager PluginManager constructor Plugin Manager PluginManager Frame parent j Edit jEdit get Property getProperty plugin manager title parent parent init

@@ -1,1 +1,0 @@
-public abstract void hideDockableWindow(String name);

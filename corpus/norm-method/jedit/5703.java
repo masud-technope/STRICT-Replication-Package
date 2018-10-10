@@ -1,1 +1,0 @@
-get Column Name getColumnName method Override String get Column Name getColumnName column column j Edit jEdit get Property getProperty manage plugins info j Edit jEdit get Property getProperty manage plugins info version j Edit jEdit get Property getProperty manage plugins info status j Edit jEdit get Property getProperty manage plugins info data Error Column range

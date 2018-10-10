@@ -1,1 +1,0 @@
-entry represents directory entry directory is Directory isDirectory file file is Directory isDirectory header header link Flag linkFlag Tar Header TarHeader DIR header to String toString ends With endsWith

@@ -1,1 +1,0 @@
-invalidate Fold Levels invalidateFoldLevels method invalidate Fold Levels invalidateFoldLevels line Mgr lineMgr set First Invalid Fold Level setFirstInvalidFoldLevel

@@ -1,1 +1,0 @@
-get Last File getLastFile method String get Last File getLastFile View view view get Buffer getBuffer get Path getPath

@@ -1,1 +1,0 @@
-Invoke declared method arguments interpreter reference simplest form invoke Bsh Method BshMethod intended reflective style access bsh scripts Object invoke Object arg Values argValues Interpreter interpreter Eval Error EvalError invoke arg Values argValues interpreter

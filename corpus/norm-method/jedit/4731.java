@@ -1,1 +1,0 @@
-init method call init

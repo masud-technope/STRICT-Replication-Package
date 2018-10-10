@@ -1,1 +1,0 @@
-get Fold Level getFoldLevel method Returns fold level param buffer buffer question param line Index lineIndex param seg segment fold handler text buffer fold level j Edit jEdit pre Override get Fold Level getFoldLevel JEdit Buffer JEditBuffer buffer line Index lineIndex Segment seg

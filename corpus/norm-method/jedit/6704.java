@@ -1,1 +1,0 @@
-text Area Disposed textAreaDisposed method text Area Disposed textAreaDisposed Text Area TextArea text Area textArea List Display Manager DisplayManager buffer Map bufferMap values Iterator Display Manager DisplayManager liter iterator liter has Next hasNext Display Manager DisplayManager dmgr liter dmgr text Area textArea text Area textArea dmgr dispose liter remove

@@ -1,1 +1,0 @@
-title dockable button text String short Title shortTitle String title j Edit jEdit get Property getProperty factory title title TITLE PROPERTY factory title

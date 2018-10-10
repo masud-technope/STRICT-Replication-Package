@@ -1,1 +1,0 @@
-Creates string literal matcher param pattern search pattern param ignore Case ignoreCase code code ignore Boyer Moore Search Matcher BoyerMooreSearchMatcher String pattern ignore Case ignoreCase pattern ignore Case ignoreCase

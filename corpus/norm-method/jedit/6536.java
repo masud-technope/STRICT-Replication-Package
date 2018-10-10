@@ -1,1 +1,0 @@
-get Foreground Color getForegroundColor method Returns text color Color get Foreground Color getForegroundColor fg Color fgColor

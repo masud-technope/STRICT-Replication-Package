@@ -1,1 +1,0 @@
-Adds tool bar view param group tool bar group add param tool Bar toolBar tool bar org gjt jedit gui Tool Bar Manager ToolBarManager j Edit jEdit pre add Tool Bar addToolBar group Component tool Bar toolBar add Tool Bar addToolBar group LAYER tool Bar toolBar

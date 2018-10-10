@@ -1,1 +1,0 @@
-set Help Book Folder setHelpBookFolder String bundle Properties bundleProperties set CFBundle Help Book Folder setCFBundleHelpBookFolder

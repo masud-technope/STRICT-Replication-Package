@@ -1,1 +1,0 @@
-set Fold Color setFoldColor method set Fold Color setFoldColor Color fold Color foldColor fold Color foldColor fold Color foldColor

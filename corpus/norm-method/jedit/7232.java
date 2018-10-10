@@ -1,1 +1,0 @@
-backspace method Deletes character caret selection active j Edit jEdit pre backspace delete

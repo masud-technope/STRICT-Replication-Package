@@ -1,1 +1,0 @@
-members reset Class Manager resetClassManager method Bean Shell BeanShell internal structures drop references cached instances reset Class Manager resetClassManager bsh reset Class Manager resetClassManager

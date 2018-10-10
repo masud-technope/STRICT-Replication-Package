@@ -1,1 +1,0 @@
-get End Line getEndLine bufline bufpos

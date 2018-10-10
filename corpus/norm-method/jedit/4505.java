@@ -1,1 +1,0 @@
-set Bindings setBindings method Replace set key bindings j Edit jEdit pre set Bindings setBindings Hashtable bindings bindings current Bindings currentBindings bindings

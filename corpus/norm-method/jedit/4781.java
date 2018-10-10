@@ -1,1 +1,0 @@
-close All Buffers closeAllBuffers methods Closes open buffers param view view buffers closed close All Buffers closeAllBuffers View view close All Buffers closeAllBuffers view

@@ -1,1 +1,0 @@
-find End Of Sentence findEndOfSentence caret text Area textArea get Caret Position getCaretPosition at End Of Buffer atEndOfBuffer caret char At charAt caret Character is Whitespace isWhitespace char At charAt caret caret caret caret

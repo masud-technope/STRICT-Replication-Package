@@ -1,0 +1,2 @@
+protocols/bundles/ch.ethz.iks.slp/META-INF/MANIFEST.MF
+providers/bundles/org.eclipse.ecf.provider.jslp/META-INF/MANIFEST.MF

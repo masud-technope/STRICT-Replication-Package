@@ -1,1 +1,0 @@
-Context Option Pane ContextOptionPane context j Edit jEdit get Property getProperty options context

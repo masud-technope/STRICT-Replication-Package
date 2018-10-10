@@ -1,1 +1,0 @@
-session create VFSSession createVFSSession path comp

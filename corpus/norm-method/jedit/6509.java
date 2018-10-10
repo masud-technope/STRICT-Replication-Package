@@ -1,1 +1,0 @@
-get Name getName method String get Name getName mode Name modeName set Name setName

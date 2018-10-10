@@ -1,1 +1,0 @@
-get Icon getIcon method Returns icon file Implementations File system browsers override method j Edit jEdit pre Icon get Icon getIcon expanded open Buffer openBuffer get Default Icon getDefaultIcon expanded open Buffer openBuffer

@@ -1,3 +1,0 @@
-boolean isCallChanged() {
-    return callChanged;
-}

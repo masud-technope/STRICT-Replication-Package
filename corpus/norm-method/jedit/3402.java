@@ -1,1 +1,0 @@
-load Mode Layout loadModeLayout View view String mode String mode Layout modeLayout get Mode Perspective getModePerspective mode mode Layout modeLayout load view mode Layout modeLayout

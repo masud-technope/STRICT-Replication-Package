@@ -1,1 +1,0 @@
-go To Next Word goToNextWord methods Moves caret start word Note view eat Whitespace eatWhitespace propery method moves caret current word param select extend selection j Edit jEdit pre go To Next Word goToNextWord select go To Next Word goToNextWord select

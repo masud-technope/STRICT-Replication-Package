@@ -1,1 +1,0 @@
-set New File setNewFile method Sets file flag param new File newFile file flag set New File setNewFile new File newFile set Flag setFlag FILE new File newFile new File newFile set Flag setFlag UNTITLED

@@ -1,1 +1,0 @@
-get Fold Handler getFoldHandler method current buffer fold handler j Edit jEdit pre Nonnull Fold Handler FoldHandler get Fold Handler getFoldHandler fold Handler foldHandler

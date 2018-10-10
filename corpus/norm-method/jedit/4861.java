@@ -1,1 +1,0 @@
-get Plugin JAR getPluginJAR method Returns JAR path param path path j Edit jEdit pre Plugin JAR PluginJAR get Plugin JAR getPluginJAR String path jars size Plugin JAR PluginJAR jar jars element At elementAt jar get Path getPath equals path jar

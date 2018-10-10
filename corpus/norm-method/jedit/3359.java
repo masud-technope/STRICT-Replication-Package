@@ -1,1 +1,0 @@
-hide Dockable Window hideDockableWindow method Hides dockable window param dockable window j Edit jEdit pre hide Dockable Window hideDockableWindow String Entry entry windows entry Log log Log ERROR Unknown dockable window entry win entry container

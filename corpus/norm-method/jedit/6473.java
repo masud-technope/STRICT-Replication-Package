@@ -1,1 +1,0 @@
-add method Adds key mapping param keyword key param j Edit jEdit pre add keyword key get String Map Key getStringMapKey keyword characters keyword map loop keyword Character is Letter Or Digit isLetterOrDigit no Word Sep noWordSep length no Word Sep noWordSep char At charAt loop no Word Sep noWordSep append map key Keyword keyword map key

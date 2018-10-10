@@ -1,1 +1,0 @@
-get Screen Line Count getScreenLineCount method Returns screen lines physical greater soft wrap param physical screen count get Screen Line Count getScreenLineCount update Screen Line Count updateScreenLineCount screen Line Mgr screenLineMgr get Screen Line Count getScreenLineCount

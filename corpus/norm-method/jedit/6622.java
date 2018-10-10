@@ -1,1 +1,0 @@
-fold Handler Changed foldHandlerChanged method fold Handler Changed foldHandlerChanged JEdit Buffer JEditBuffer buffer display Manager displayManager fold Handler Changed foldHandlerChanged

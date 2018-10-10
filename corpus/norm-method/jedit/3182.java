@@ -1,1 +1,0 @@
-set Selected Index setSelectedIndex method Set selection set Selected Index setSelectedIndex candidates candidates get Size getSize list set Selected Index setSelectedIndex list ensure Index Is Visible ensureIndexIsVisible String description candidates get Description getDescription description view get Status getStatus set Message And Clear setMessageAndClear description

@@ -1,1 +1,0 @@
-set Marker Highlight Color setMarkerHighlightColor method set Marker Highlight Color setMarkerHighlightColor Color marker Highlight Color markerHighlightColor marker Highlight Color markerHighlightColor marker Highlight Color markerHighlightColor

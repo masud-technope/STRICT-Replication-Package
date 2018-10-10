@@ -1,1 +1,0 @@
-Icon methods set Icon Path setIconPath method Sets path j Edit jEdit icons param icon Path iconPath icon path j Edit jEdit pre set Icon Path setIconPath String icon Path iconPath GUIUtilities icon Path iconPath icon Path iconPath icon Cache iconCache

@@ -1,1 +1,0 @@
-window Opened windowOpened Window Event WindowEvent event window Opened windowOpened

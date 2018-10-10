@@ -1,1 +1,0 @@
-get File Filter getFileFilter method Returns filename filter j Edit jEdit pre String get File Filter getFileFilter glob

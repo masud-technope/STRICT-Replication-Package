@@ -1,1 +1,0 @@
-hb Assign Codes hbAssignCodes code length min Len minLen max Len maxLen alpha Size alphaSize vec vec min Len minLen max Len maxLen alpha Size alphaSize length code vec vec vec

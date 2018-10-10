@@ -1,1 +1,0 @@
-set Buffer setBuffer method Sets current edit pane buffer param buffer buffer set Buffer setBuffer Buffer buffer edit Pane editPane set Buffer setBuffer buffer

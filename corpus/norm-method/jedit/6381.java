@@ -1,1 +1,0 @@
-unregister Service unregisterService method Unregisters service param clazz service param service j Edit jEdit pre unregister Service unregisterService String clazz String Descriptor Descriptor clazz service Map serviceMap remove

@@ -1,1 +1,0 @@
-get Fold Painter getFoldPainter method Fold Painter FoldPainter get Fold Painter getFoldPainter Triangle Fold Painter TriangleFoldPainter

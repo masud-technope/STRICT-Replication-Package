@@ -1,0 +1,4 @@
+framework/bundles/org.eclipse.team.ecf.ui/about.html
+framework/bundles/org.eclipse.team.ecf.ui/build.properties
+framework/bundles/org.eclipse.team.ecf.core/about.html
+framework/bundles/org.eclipse.team.ecf.core/build.properties

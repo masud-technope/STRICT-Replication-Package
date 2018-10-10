@@ -1,1 +1,0 @@
-is Locked isLocked method buffer locked editing is Locked isLocked get Boolean Property getBooleanProperty locked

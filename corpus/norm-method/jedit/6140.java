@@ -1,1 +1,0 @@
-set File Filter setFileFilter method j Edit jEdit pre set File Filter setFileFilter String glob glob glob invalidate Cached List invalidateCachedList

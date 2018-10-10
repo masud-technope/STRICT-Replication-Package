@@ -1,1 +1,0 @@
-void statusChanged(TextArea textArea, int flag, boolean value);

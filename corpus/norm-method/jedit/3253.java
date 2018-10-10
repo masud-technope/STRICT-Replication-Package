@@ -1,1 +1,0 @@
-get Code getCode method Override String get Code getCode view get Dockable Window Manager getDockableWindowManager toggle Dockable Window toggleDockableWindow dockable

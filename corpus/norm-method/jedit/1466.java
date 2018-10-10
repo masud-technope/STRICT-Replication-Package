@@ -1,1 +1,0 @@
-get Begin Column getBeginColumn bufcolumn token Begin tokenBegin

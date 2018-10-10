@@ -1,1 +1,0 @@
-Help History Model HelpHistoryModel constructor Help History Model HelpHistoryModel size history History Entry HistoryEntry size listeners Array List ArrayList Help History Model Listener HelpHistoryModelListener

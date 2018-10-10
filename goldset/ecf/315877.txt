@@ -1,0 +1,2 @@
+releng/features/org.eclipse.ecf.discovery.zookeeper.feature/feature.xml
+releng/features/org.eclipse.ecf.discovery.local.feature/feature.xml

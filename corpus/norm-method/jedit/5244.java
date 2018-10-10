@@ -1,1 +1,0 @@
-is Windows NT isWindowsNT method Returns running Windows Vista Win is Windows NT isWindowsNT WINDOWS

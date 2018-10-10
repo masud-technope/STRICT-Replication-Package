@@ -1,1 +1,0 @@
-is Toggle isToggle method edit action displayed check box menus returns property named link get Name getName suffixed code toggle code j Edit jEdit pre is Toggle isToggle j Edit jEdit get Boolean Property getBooleanProperty toggle

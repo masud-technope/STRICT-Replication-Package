@@ -1,1 +1,0 @@
-void setTransferable(Transferable transferable);

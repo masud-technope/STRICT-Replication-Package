@@ -1,1 +1,0 @@
-property Change propertyChange Property Change Event PropertyChangeEvent evt dockable Name dockableName String evt get Property Name getPropertyName starts With startsWith dockable Name dockableName ends With endsWith title set Title setTitle evt get New Value getNewValue to String toString

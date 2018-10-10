@@ -1,1 +1,0 @@
-compare Result Result rank rank title compare To compareTo title rank rank

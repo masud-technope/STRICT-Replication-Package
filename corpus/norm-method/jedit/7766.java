@@ -1,1 +1,0 @@
-find Beginning Of Sentence findBeginningOfSentence caret text Area textArea get Caret Position getCaretPosition char At charAt caret caret caret char At charAt caret Character is Whitespace isWhitespace char At charAt caret caret Character is Upper Case isUpperCase caret caret Character is Whitespace isWhitespace char At charAt caret caret caret

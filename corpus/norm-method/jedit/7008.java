@@ -1,1 +1,0 @@
-get Gutter getGutter method Returns gutter left text area gutter disabled Gutter get Gutter getGutter gutter

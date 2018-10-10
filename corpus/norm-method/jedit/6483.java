@@ -1,1 +1,0 @@
-get Modes getModes method Returns array installed edit modes j Edit jEdit pre Mode get Modes getModes modes values to Array toArray Mode modes size

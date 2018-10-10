@@ -1,1 +1,0 @@
-properties Changed propertiesChanged method properties Changed propertiesChanged cell Renderer cellRenderer update Colors updateColors list list set Font setFont j Edit jEdit get Font Property getFontProperty view font list set Fixed Cell Height setFixedCellHeight list get Font Metrics getFontMetrics list get Font getFont get Height getHeight

@@ -1,1 +1,0 @@
-instance bsh namespace field object instance instance object object initialized get Class Instance This getClassInstanceThis Object instance String class Name className Object Reflect get Object Field Value getObjectFieldValue instance BSHTHIS class Name className unwrap Primitive Primitive unwrap Exception Interpreter Error InterpreterError Generated Error

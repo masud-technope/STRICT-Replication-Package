@@ -1,1 +1,0 @@
-defined loaded done Defining Class doneDefiningClass String class Name className String base Name baseName suffix class Name className defining Classes definingClasses remove class Name className defining Classes Base Names definingClassesBaseNames remove base Name baseName

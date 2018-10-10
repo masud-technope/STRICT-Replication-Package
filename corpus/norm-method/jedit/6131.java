@@ -1,1 +1,0 @@
-get Prev File getPrevFile method String get Prev File getPrevFile View view String file file view get Buffer getBuffer get Path getPath

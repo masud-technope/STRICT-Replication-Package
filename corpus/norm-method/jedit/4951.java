@@ -1,1 +1,0 @@
-get Array getArray method Returns empty array bad find method instantiate Array param size size array empty array get Array getArray size

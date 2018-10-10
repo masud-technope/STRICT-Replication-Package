@@ -1,1 +1,0 @@
-set Search Status setSearchStatus method set Search Status setSearchStatus String status set Text setText status

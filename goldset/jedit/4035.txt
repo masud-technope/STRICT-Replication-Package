@@ -1,2 +1,0 @@
-org/gjt/sp/jedit/print/BufferPrintable1_7.java
-org/gjt/sp/jedit/print/PrinterDialog.java

@@ -1,1 +1,0 @@
-get Column Class getColumnClass method get Column Class getColumnClass col Entry

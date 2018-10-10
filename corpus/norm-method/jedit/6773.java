@@ -1,1 +1,0 @@
-set Folder Painter setFolderPainter method set Fold Painter setFoldPainter Fold Painter FoldPainter painter painter fold Painter foldPainter Triangle Fold Painter TriangleFoldPainter fold Painter foldPainter painter

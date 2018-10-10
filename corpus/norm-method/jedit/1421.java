@@ -1,1 +1,0 @@
-Localize path file based bsh cwd interpreter working directory File path To File pathToFile String file Name fileName IOException File file File file Name fileName relative bsh cwd file is Absolute isAbsolute String cwd String getu bsh cwd file File cwd File separator file Name fileName get Absolute Path getAbsolutePath File file get Canonical Path getCanonicalPath

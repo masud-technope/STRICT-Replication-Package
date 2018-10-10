@@ -1,1 +1,0 @@
-Syntax highlighting get Line Context getLineContext method Returns context token marker Token Marker TokenMarker Line Context LineContext get Line Context getLineContext line Mgr lineMgr get Line Context getLineContext

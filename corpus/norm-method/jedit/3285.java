@@ -1,1 +1,0 @@
-apply Docking Layout applyDockingLayout apply Docking Layout applyDockingLayout Docking Layout DockingLayout docking docking positions j Edit jEdit properties Entry String String entry positions entry Set entrySet String dockable entry get Key getKey String position entry get Value getValue position equals FLOATING show Dockable Window showDockableWindow dockable

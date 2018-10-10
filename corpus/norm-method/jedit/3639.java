@@ -1,1 +1,0 @@
-add Current To History addCurrentToHistory method Adds entered item history add Current To History addCurrentToHistory controller add Current To History addCurrentToHistory

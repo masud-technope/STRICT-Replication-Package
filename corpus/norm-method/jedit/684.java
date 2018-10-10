@@ -1,1 +1,0 @@
-Bean Shell Facade BeanShellFacade constructor Bean Shell Facade BeanShellFacade class Manager classManager Class Manager Impl ClassManagerImpl global Name Space NameSpace class Manager classManager j Edit jEdit embedded Bean Shell BeanShell interpreter interp For Methods interpForMethods create Interpreter createInterpreter global init

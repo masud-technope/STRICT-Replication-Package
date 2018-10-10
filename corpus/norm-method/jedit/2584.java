@@ -1,1 +1,0 @@
-property method thread safe param property param def j Edit jEdit pre get Boolean Property getBooleanProperty String def Object obj get Property getProperty Standard Utilities StandardUtilities get Boolean getBoolean obj def

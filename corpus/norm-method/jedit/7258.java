@@ -1,1 +1,0 @@
-get Input Handler getInputHandler method j Edit jEdit pre Abstract Input Handler AbstractInputHandler get Input Handler getInputHandler input Handler Provider inputHandlerProvider get Input Handler getInputHandler

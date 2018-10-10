@@ -1,1 +1,0 @@
-get Structure Highlight Color getStructureHighlightColor method Returns structure highlight color j Edit jEdit pre Color get Structure Highlight Color getStructureHighlightColor structure Highlight Color structureHighlightColor

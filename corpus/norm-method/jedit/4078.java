@@ -1,1 +1,0 @@
-update Buffer buffer view get Buffer getBuffer buffer is Loaded isLoaded mode set Text setText buffer get Mode getMode to String toString

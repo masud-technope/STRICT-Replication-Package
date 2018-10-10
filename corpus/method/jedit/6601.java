@@ -1,4 +1,0 @@
-//}}}
-int getPhysicalLine() {
-    return physicalLine;
-}

@@ -1,1 +1,0 @@
-characters method Override characters len String tag peek Element peekElement tag equals CODE code append len tag equals SELECTED is Selected isSelected append len

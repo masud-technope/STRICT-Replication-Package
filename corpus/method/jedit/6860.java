@@ -1,1 +1,0 @@
-String getActionForEvent(MouseEvent evt, String variant);

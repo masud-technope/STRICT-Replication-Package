@@ -1,0 +1,1 @@
+examples/bundles/org.eclipse.ecf.example.collab.editor/plugin.xml

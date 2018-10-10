@@ -1,1 +1,0 @@
-Setter jars attribute required jarfileset set Jars setJars String Pattern Set PatternSet patset Pattern Set PatternSet patset set Includes setIncludes String jar Names jarNames patset get Include Patterns getIncludePatterns get Project getProject jar Names jarNames length m Jar Attrs mJarAttrs add get Project getProject resolve File resolveFile jar Names jarNames

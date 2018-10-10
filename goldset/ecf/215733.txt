@@ -1,0 +1,3 @@
+doc/bundles/org.eclipse.ecf.doc/plugin.xml
+doc/bundles/org.eclipse.ecf.doc/toc.xml
+doc/bundles/org.eclipse.ecf.doc/build.properties

@@ -1,1 +1,0 @@
-String get Filename Glob getFilenameGlob filename Glob filenameGlob get Text getText

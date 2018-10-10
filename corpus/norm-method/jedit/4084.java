@@ -1,1 +1,0 @@
-Override update JEdit Text Area JEditTextArea text Area textArea view get Text Area getTextArea text Area textArea text Area textArea is Multiple Selection Enabled isMultipleSelectionEnabled multi Select multiSelect set Text setText multi Select multiSelect set Enabled setEnabled multi Select multiSelect set Text setText multi Select multiSelect set Enabled setEnabled

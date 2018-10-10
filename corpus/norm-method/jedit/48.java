@@ -1,1 +1,0 @@
-String get Application Name getApplicationName m Application Name mApplicationName

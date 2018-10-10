@@ -1,1 +1,0 @@
-is Uri List isUriList method is Uri List isUriList Data Flavor DataFlavor flavor text equals flavor get Primary Type getPrimaryType uri list equals flavor get Sub Type getSubType flavor get Representation Class getRepresentationClass String

@@ -1,1 +1,0 @@
-from String fromString String val equals SUBPIXEL SUBPIXEL HRGB combo Choices comboChoices length combo Choices comboChoices equals val

@@ -1,0 +1,1 @@
+releng/features/org.eclipse.ecf.xmpp.feature/feature.xml

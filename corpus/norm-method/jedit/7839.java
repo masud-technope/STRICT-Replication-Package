@@ -1,1 +1,0 @@
-String get Title getTitle title to String toString

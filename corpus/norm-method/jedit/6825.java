@@ -1,1 +1,0 @@
-Input Method Support InputMethodSupport Text Area TextArea owner owner owner owner add Input Method Listener addInputMethodListener owner get Painter getPainter add Extension addExtension Text Area Painter TextAreaPainter HIGHEST LAYER

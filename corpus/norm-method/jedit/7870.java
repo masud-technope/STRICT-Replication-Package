@@ -1,1 +1,0 @@
-Tabbed Option Dialog TabbedOptionDialog constructor Tabbed Option Dialog TabbedOptionDialog Dialog dialog String dialog j Edit jEdit get Property getProperty title set Name setName setup Tabs setupTabs

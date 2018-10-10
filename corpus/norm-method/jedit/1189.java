@@ -1,1 +1,0 @@
-type descriptor string describe primitive type is Primitive isPrimitive String type Descriptor typeDescriptor type Descriptor typeDescriptor length

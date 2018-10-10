@@ -1,1 +1,0 @@
-process Key Event processKeyEvent method Process keyboard event entry point keyboard handling param evt keyboard event param source link org gjt jedit View VIEW link org gjt jedit View ACTION BAR link org gjt jedit View TEXT AREA param global event Default Keyboard Focus Manager DefaultKeyboardFocusManager process Key Event processKeyEvent Key Event KeyEvent evt global

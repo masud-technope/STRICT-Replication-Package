@@ -1,1 +1,0 @@
-add Translation addTranslation method Adds keyboard translation param key Translate key param key key j Edit jEdit pre add Translation addTranslation Key key Key key trans Map transMap key key

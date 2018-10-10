@@ -1,1 +1,0 @@
-get Color Property getColorProperty methods Returns color property param property j Edit jEdit pre Color get Color Property getColorProperty String get Color Property getColorProperty Color black

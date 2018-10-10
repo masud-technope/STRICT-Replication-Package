@@ -1,1 +1,0 @@
-get Prev Visible Line getPrevVisibleLine method Returns previous visible param physical previous visible physical visible j Edit jEdit pre get Prev Visible Line getPrevVisibleLine buffer get Line Count getLineCount Array Index Out Of Bounds Exception ArrayIndexOutOfBoundsException folds prev

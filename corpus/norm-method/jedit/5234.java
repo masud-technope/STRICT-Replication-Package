@@ -1,1 +1,0 @@
-has Java hasJava method deprecated point checking require Java Returns Java version j Edit jEdit pre Deprecated has Java hasJava

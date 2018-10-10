@@ -1,1 +1,0 @@
-set Drag Enabled setDragEnabled method Sets drag drop text enabled j Edit jEdit pre set Drag Enabled setDragEnabled dnd Enabled dndEnabled dnd Enabled dndEnabled dnd Enabled dndEnabled

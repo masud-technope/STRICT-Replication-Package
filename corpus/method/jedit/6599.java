@@ -1,3 +1,0 @@
-int getScrollLine() {
-    return scrollLine;
-}

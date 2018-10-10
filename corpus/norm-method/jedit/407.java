@@ -1,1 +1,0 @@
-Operating System OperatingSystem get Operating System getOperatingSystem System get Property getProperty mrj version Mac OS MacOS String os Name osName System get Property getProperty os Name osName index Of indexOf Windows Windows os Name osName index Of indexOf Half An OS HalfAnOS os Name osName index Of indexOf VMS VMS Unix

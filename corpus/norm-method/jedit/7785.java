@@ -1,1 +1,0 @@
-char At Caret charAtCaret caret text Area textArea get Caret Position getCaretPosition at End Of Buffer atEndOfBuffer buffer get Text getText caret char At charAt

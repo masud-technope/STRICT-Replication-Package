@@ -1,1 +1,0 @@
-buffer Opened bufferOpened method buffer Opened bufferOpened start Pos startPos buffer create Position createPosition Math min buffer get Length getLength start end Pos endPos buffer create Position createPosition Math min buffer get Length getLength

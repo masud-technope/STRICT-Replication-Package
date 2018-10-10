@@ -1,1 +1,0 @@
-get Ignore Whitespace getIgnoreWhitespace ignore Whitespace ignoreWhitespace

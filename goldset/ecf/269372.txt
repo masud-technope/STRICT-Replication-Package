@@ -1,0 +1,3 @@
+compendium/bundles/org.eclipse.ecf.osgi.services.discovery/src/org/eclipse/ecf/internal/osgi/services/discovery/Activator.java
+compendium/bundles/org.eclipse.ecf.osgi.services.discovery/src/org/eclipse/ecf/internal/osgi/services/discovery/ServicePublicationHandler.java
+compendium/bundles/org.eclipse.ecf.osgi.services.discovery/src/org/eclipse/ecf/internal/osgi/services/discovery/ServicePublicationHandler.java

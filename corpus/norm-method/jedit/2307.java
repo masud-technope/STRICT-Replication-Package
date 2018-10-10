@@ -1,1 +1,0 @@
-log Invoke Method logInvokeMethod String msg Method method Object args Interpreter DEBUG Interpreter debug msg method args args length Interpreter debug args args type args get Class getClass

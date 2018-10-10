@@ -1,1 +1,0 @@
-set minimum allowed text field Numeric Text Field NumericTextField constructed positive values set Min Value setMinValue Number positive Only positiveOnly float Value floatValue integer Only integerOnly int Value intValue max max Value maxValue int Value intValue max float Value floatValue max max Value maxValue float Value floatValue max min Value minValue

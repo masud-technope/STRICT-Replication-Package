@@ -1,1 +1,0 @@
-action Performed actionPerformed Action Event ActionEvent evt evt get Source getSource close view remove Tool Bar removeToolBar Action Bar ActionBar invoke

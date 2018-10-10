@@ -1,1 +1,0 @@
-Returns current bytecode method bytecode instructions include Exceptions Local Variable Table LocalVariableTable Line Number Table LineNumberTable Synthetic Deprecated attributes current bytecode method bytecode contained inclusive link get Code Size getCodeSize get Code Size getCodeSize exclusive get Code getCode code data

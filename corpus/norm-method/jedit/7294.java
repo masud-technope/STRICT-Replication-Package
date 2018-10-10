@@ -1,1 +1,0 @@
-invalidate Selected Lines invalidateSelectedLines method Repaints lines selection invalidate Selected Lines invalidateSelectedLines hide highlight selections invalidate Line invalidateLine caret Line caretLine Selection selection Manager selectionManager selection invalidate Line Range invalidateLineRange start Line startLine end Line endLine

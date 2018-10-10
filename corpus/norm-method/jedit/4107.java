@@ -1,1 +1,0 @@
-get Widget getWidget method Override Widget get Widget getWidget View view Widget widget Task Monitor Widget TaskMonitorWidget view widget get Component getComponent set Tool Tip Text setToolTipText j Edit jEdit get Property getProperty statusbar task monitor tooltip widget

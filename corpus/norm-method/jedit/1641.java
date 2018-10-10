@@ -1,1 +1,0 @@
-helper method working bsh scripts commands context impossible Class Identifier ClassIdentifier object Attempting access method Class Identifier ClassIdentifier method invocation method Name Space NameSpace convenience don bsh Class Identifier ClassIdentifier identifier To Class identifierToClass Class Identifier ClassIdentifier get Target Class getTargetClass

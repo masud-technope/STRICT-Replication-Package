@@ -1,1 +1,0 @@
-get Insert Position Offset getInsertPositionOffset owner get Caret Position getCaretPosition

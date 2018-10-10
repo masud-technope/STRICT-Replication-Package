@@ -1,1 +1,0 @@
-save j Edit jEdit set Property setProperty dock position dock Position dockPosition

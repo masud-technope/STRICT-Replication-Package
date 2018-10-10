@@ -1,3 +1,0 @@
-TextArea getTextArea() {
-    return textArea;
-}

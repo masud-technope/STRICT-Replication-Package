@@ -1,1 +1,0 @@
-file To Class fileToClass method Converts file slash characters replaced periods trailing removed param file String file To Class fileToClass String cls Name clsName to Char Array toCharArray cls Name clsName length cls Name clsName cls Name clsName String cls Name clsName cls Name clsName length

@@ -1,3 +1,0 @@
-// protected members
-protected  EBPlugin() {
-}

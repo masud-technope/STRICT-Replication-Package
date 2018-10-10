@@ -1,1 +1,0 @@
-String get Short URL getShortURL

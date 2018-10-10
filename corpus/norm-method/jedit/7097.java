@@ -1,1 +1,0 @@
-get Electric Scroll getElectricScroll method minimum distance number lines caret nearest edge screen top bottom edge get Electric Scroll getElectricScroll electric Scroll electricScroll

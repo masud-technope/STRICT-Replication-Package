@@ -1,1 +1,0 @@
-get Entry getEntry method Entry get Entry getEntry String classname classname classname is Empty isEmpty Entry entry entries classname equals entry clazz entry

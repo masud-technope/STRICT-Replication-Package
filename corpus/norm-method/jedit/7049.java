@@ -1,1 +1,0 @@
-get Horizontal Offset getHorizontalOffset method Returns horizontal offset drawn lines get Horizontal Offset getHorizontalOffset horizontal Offset horizontalOffset

@@ -1,1 +1,0 @@
-get Name Space getNameSpace method global namespace j Edit jEdit pre Name Space NameSpace get Name Space getNameSpace bsh get Name Space getNameSpace

@@ -1,1 +1,0 @@
-is Cell Editable isCellEditable method is Cell Editable isCellEditable row col col

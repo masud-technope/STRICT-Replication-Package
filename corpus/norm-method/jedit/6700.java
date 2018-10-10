@@ -1,1 +1,0 @@
-get Scroll Line Count getScrollLineCount method Returns number displayable lines greater number lines buffer soft wrap count lines folding foldings collapsed number displayable lines get Scroll Line Count getScrollLineCount scroll Line Count scrollLineCount get Scroll Line getScrollLine

@@ -1,1 +1,0 @@
-get Plugin Version getPluginVersion method Returns plugin version plugin version libraries pre String get Plugin Version getPluginVersion version

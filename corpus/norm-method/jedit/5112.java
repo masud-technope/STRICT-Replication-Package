@@ -1,1 +1,0 @@
-String get Protocol Of URL getProtocolOfURL String url url substring url index Of indexOf

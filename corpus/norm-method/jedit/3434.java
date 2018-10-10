@@ -1,1 +1,0 @@
-get Enter Enabled getEnterEnabled enter Enabled enterEnabled

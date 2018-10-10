@@ -1,1 +1,0 @@
-String get Scope getScope scope

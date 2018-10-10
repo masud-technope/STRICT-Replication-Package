@@ -1,1 +1,0 @@
-get View getView method Returns view edit pane view Edit Pane EditPane j Edit jEdit pre View get View getView view

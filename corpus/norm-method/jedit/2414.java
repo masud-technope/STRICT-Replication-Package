@@ -1,1 +1,0 @@
-dynamic proxy caching creates Object get Interface getInterface clas get Interface getInterface clas

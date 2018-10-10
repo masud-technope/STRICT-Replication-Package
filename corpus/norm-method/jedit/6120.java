@@ -1,1 +1,0 @@
-get Prev File getPrevFile method String get Prev File getPrevFile View view String path get Prev Or Next File getPrevOrNextFile view path Direction PREV

@@ -1,1 +1,0 @@
-resource URL Bean Shell BeanShell classpath param path absolute path URL get Resource getResource String path URL url external Class Loader externalClassLoader classloader leading slash url external Class Loader externalClassLoader get Resource getResource path substring url url Interpreter get Resource getResource path url

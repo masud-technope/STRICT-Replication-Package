@@ -1,1 +1,0 @@
-get Current Keymap Name getCurrentKeymapName method String get Current Keymap Name getCurrentKeymapName property Manager propertyManager get Property getProperty keymap current

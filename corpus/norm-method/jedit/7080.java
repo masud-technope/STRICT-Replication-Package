@@ -1,1 +1,0 @@
-get Last Screen Line getLastScreenLine method Returns screen link get Visible Lines getVisibleLines buffer lines visible lines screen j Edit jEdit pre get Last Screen Line getLastScreenLine screen Last Line screenLastLine

@@ -1,1 +1,0 @@
-JComponent get Component getComponent memory Status memoryStatus

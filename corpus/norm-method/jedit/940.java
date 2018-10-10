@@ -1,1 +1,0 @@
-get Selected Files getSelectedFiles method String get Selected Files getSelectedFiles type type List String Array List ArrayList String VFSFile selected Files selectedFiles browser get Selected Files getSelectedFiles VFSFile file selected Files selectedFiles file get Type getType type file get Type getType type add file get Path getPath to Array toArray String size

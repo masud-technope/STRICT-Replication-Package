@@ -1,1 +1,0 @@
-get Line End Offset getLineEndOffset method get Line End Offset getLineEndOffset gap Line gapLine gap Line gapLine end Offsets endOffsets gap Width gapWidth end Offsets endOffsets

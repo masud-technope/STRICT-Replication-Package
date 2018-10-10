@@ -1,1 +1,0 @@
-is Data Flavor Supported isDataFlavorSupported Data Flavor DataFlavor flavor JEdit Data Flavor JEditDataFlavor j Edit Rich Text Data Flavor jEditRichTextDataFlavor equals flavor

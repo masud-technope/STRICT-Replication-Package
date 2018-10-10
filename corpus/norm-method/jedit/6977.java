@@ -1,1 +1,0 @@
-Returns property param property param def get Boolean Property getBooleanProperty String def String get Property getProperty def equals equals equals equals equals equals def

@@ -1,0 +1,1 @@
+server-side/examples/bundles/org.eclipse.ecf.examples.remoteservices.client/src/org/eclipse/ecf/internal/examples/remoteservices/client/RemoteEnvironmentInfoServiceAccessHandler.java

@@ -1,1 +1,0 @@
-Save Button SaveButton set Icon setIcon GUIUtilities load Icon loadIcon j Edit jEdit get Property getProperty manage plugins save icon set Tool Tip Text setToolTipText Save Checked Plugins Set add Action Listener addActionListener set Enabled setEnabled

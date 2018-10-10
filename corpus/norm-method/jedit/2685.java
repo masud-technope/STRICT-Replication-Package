@@ -1,1 +1,0 @@
-reset Clear Dirty resetClearDirty method reset Clear Dirty resetClearDirty redo Clear Dirty redoClearDirty get Last Edit getLastEdit redos First redosFirst Compound Edit CompoundEdit undo Clear Dirty undoClearDirty Compound Edit CompoundEdit redos First redosFirst undo Clear Dirty undoClearDirty redos First redosFirst

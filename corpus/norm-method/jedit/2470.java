@@ -1,1 +1,0 @@
-get Name getName method Returns internal Fold Handler FoldHandler internal Fold Handler FoldHandler j Edit jEdit pre String get Name getName

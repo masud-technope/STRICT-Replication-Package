@@ -1,1 +1,0 @@
-set Perspective Enabled setPerspectiveEnabled method disable saving perspective close dialog showing j Edit jEdit pre set Perspective Enabled setPerspectiveEnabled enabled Perspective Manager PerspectiveManager enabled enabled

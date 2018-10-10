@@ -1,1 +1,0 @@
-get Open Bracket Count getOpenBracketCount method get Open Bracket Count getOpenBracketCount JEdit Buffer JEditBuffer buffer get Brackets getBrackets buffer open Count openCount

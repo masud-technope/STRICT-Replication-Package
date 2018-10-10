@@ -1,1 +1,0 @@
-get Ignore Case getIgnoreCase method Returns keyword map set insensitive get Ignore Case getIgnoreCase ignore Case ignoreCase

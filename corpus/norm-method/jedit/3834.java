@@ -1,1 +1,0 @@
-get Icon Height getIconHeight method get Icon Height getIconHeight rotate Rotated Text Icon RotatedTextIcon rotate Rotated Text Icon RotatedTextIcon CCW width height

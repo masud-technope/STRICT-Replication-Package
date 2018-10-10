@@ -1,1 +1,0 @@
-get Tool Bar getToolBar method Returns view tool bar j Edit jEdit pre Container get Tool Bar getToolBar tool Bar toolBar

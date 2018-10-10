@@ -1,1 +1,0 @@
-set String Property setStringProperty method Sets string property param property param j Edit jEdit pre set String Property setStringProperty String String set Property setProperty

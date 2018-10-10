@@ -1,1 +1,0 @@
-Replaces selection caret text selection caret text inserted caret position set Selected Text setSelectedText String selected Text selectedText new Caret newCaret replace Selection replaceSelection selected Text selectedText new Caret newCaret move Caret Position moveCaretPosition new Caret newCaret select None selectNone

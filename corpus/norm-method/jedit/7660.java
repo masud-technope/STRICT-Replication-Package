@@ -1,1 +1,0 @@
-region Matches regionMatches Char Sequence CharSequence seq toff Char Sequence CharSequence ooff len toff ooff len ret len toff seq length seq char At charAt toff ret ooff length char At charAt ooff ret ret ret

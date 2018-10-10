@@ -1,1 +1,0 @@
-visit method Visit editpanes textareas view param visitor visitor j Edit jEdit pre visit JEdit Visitor JEditVisitor visitor Edit Pane EditPane panes get Edit Panes getEditPanes Edit Pane EditPane edit Pane editPane panes visitor visit edit Pane editPane visitor visit edit Pane editPane get Text Area getTextArea

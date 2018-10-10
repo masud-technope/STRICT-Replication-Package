@@ -1,1 +1,0 @@
-get Line Highlight Color getLineHighlightColor method Returns highlight color Color get Line Highlight Color getLineHighlightColor line Highlight Color lineHighlightColor

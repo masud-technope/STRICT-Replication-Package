@@ -1,1 +1,0 @@
-Clear classloading behavior caches reset initial reset base Class Path baseClassPath Bsh Class Path BshClassPath base Class Path baseClassPath base Loader baseLoader loader Map loaderMap Hash Map HashMap calls clear Caches clearCaches class Loader Changed classLoaderChanged

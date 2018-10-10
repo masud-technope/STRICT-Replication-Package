@@ -1,1 +1,0 @@
-set Global Abbrevs setGlobalAbbrevs method Sets global abbreviation set param global Abbrevs globalAbbrevs global abbrev set j Edit jEdit pre set Global Abbrevs setGlobalAbbrevs Hashtable String String global Abbrevs globalAbbrevs abbrevs Changed abbrevsChanged Abbrevs global Abbrevs globalAbbrevs global Abbrevs globalAbbrevs

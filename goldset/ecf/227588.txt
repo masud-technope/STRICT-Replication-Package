@@ -1,0 +1,1 @@
+releng/features/org.eclipse.ecf.example-feature/feature.xml

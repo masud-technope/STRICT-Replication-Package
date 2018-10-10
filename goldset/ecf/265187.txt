@@ -1,0 +1,7 @@
+doc/tutorials/EclipseCON 2009/.project
+doc/tutorials/EclipseCON 2009/projectSet-tests.psf
+doc/tutorials/EclipseCON 2009/projectSet.psf
+doc/tutorials/EclipseCON 2009/ECF distributed Tutorial-EclipseCon09.ppt
+doc/tutorials/EclipseCON 2009/Distributed OSGi - The ECF way.fodp
+doc/tutorials/EclipseCON 2009/ECF distributed Tutorial-EclipseCon09.ppt
+doc/tutorials/EclipseCON 2009/Distributed OSGi - The ECF way.fodp

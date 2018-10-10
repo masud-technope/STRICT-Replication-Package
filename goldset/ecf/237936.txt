@@ -1,0 +1,4 @@
+framework/bundles/org.eclipse.ecf.filetransfer/META-INF/MANIFEST.MF
+providers/bundles/org.eclipse.ecf.provider.filetransfer.httpclient/META-INF/MANIFEST.MF
+providers/bundles/org.eclipse.ecf.provider.filetransfer.httpclient/src/org/eclipse/ecf/provider/filetransfer/httpclient/HttpClientRetrieveFileTransfer.java
+providers/bundles/org.eclipse.ecf.provider.filetransfer/META-INF/MANIFEST.MF

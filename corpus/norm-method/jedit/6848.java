@@ -1,1 +1,0 @@
-get Fold Painter Service getFoldPainterService method String get Fold Painter Name getFoldPainterName j Edit jEdit get Property getProperty FOLD PAINTER PROPERTY FOLD PAINTER SERVICE

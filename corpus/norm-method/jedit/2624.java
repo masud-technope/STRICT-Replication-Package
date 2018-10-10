@@ -1,1 +1,0 @@
-add method add String removed kill ring index Of indexOf removed duplicates check whitespace string all Whitespace allWhitespace removed length Character is Whitespace isWhitespace removed char At charAt all Whitespace allWhitespace all Whitespace allWhitespace ring count removed count ring length wrap count

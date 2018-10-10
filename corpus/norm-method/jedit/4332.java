@@ -1,1 +1,0 @@
-equals method equals History Entry HistoryEntry url equals url title equals title scroll Position scrollPosition scroll Position scrollPosition

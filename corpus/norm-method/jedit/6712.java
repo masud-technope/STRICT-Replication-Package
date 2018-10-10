@@ -1,1 +1,0 @@
-get Last Visible Line getLastVisibleLine method Returns physical number visible j Edit jEdit pre get Last Visible Line getLastVisibleLine folds

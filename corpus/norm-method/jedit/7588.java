@@ -1,1 +1,0 @@
-get Log List Model getLogListModel method Returns list model viewing log contents j Edit jEdit pre List Model ListModel String get Log List Model getLogListModel list Model listModel

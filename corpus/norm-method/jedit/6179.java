@@ -1,1 +1,0 @@
-equals method equals Object compare Obj compareObj compare Obj compareObj Hyper Search Result HyperSearchResult Hyper Search Result HyperSearchResult other Result otherResult Hyper Search Result HyperSearchResult compare Obj compareObj path Equals pathEquals other Result otherResult path other Result otherResult buffer equals other Result otherResult buffer

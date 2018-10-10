@@ -1,1 +1,0 @@
-get Services URI getServicesURI method Returns location plugin code services xml code file j Edit jEdit pre URL get Services URI getServicesURI services URI servicesURI

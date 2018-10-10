@@ -1,3 +1,0 @@
- ClockWidget() {
-    clock = new Clock();
-}

@@ -1,3 +1,0 @@
-public  PrintServiceCellRenderer() {
-    setOpaque(true);
-}

@@ -1,1 +1,0 @@
-is Main Thread isMainThread method Returns running thread main thread j Edit jEdit pre is Main Thread isMainThread Thread current Thread currentThread main Thread mainThread

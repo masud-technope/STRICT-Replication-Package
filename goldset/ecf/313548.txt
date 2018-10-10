@@ -1,0 +1,4 @@
+releng/features/org.eclipse.ecf.core-feature/feature.xml
+releng/features/org.eclipse.ecf.sdk-feature/feature.xml
+releng/features/org.eclipse.ecf.core.featurepatch/feature.xml
+releng/features/org.eclipse.ecf.remoteservice.sdk.feature/feature.xml

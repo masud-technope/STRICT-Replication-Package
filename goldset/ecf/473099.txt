@@ -1,0 +1,4 @@
+providers/bundles/org.eclipse.ecf.provider.xmpp.ui/.classpath
+providers/bundles/org.eclipse.ecf.provider.xmpp.ui/plugin.xml
+providers/bundles/org.eclipse.ecf.provider.xmpp.ui/.settings/org.eclipse.jdt.core.prefs
+providers/bundles/org.eclipse.ecf.provider.xmpp.ui/META-INF/MANIFEST.MF

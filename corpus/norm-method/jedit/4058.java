@@ -1,1 +1,0 @@
-properties Changed propertiesChanged retarded GTK feel Font font JLabel get Font getFont UIManager get Font getFont Label font Font Metrics FontMetrics cmp get Font Metrics getFontMetrics font Dimension dim Dimension Math max char Width charWidth char Width charWidth get Height getHeight cmp set Preferred Size setPreferredSize dim cmp set Maximum Size setMaximumSize dim

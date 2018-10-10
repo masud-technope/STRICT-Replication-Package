@@ -1,1 +1,0 @@
-large Buffer Deactivate Wrap largeBufferDeactivateWrap Buffer buffer view get Buffer getBuffer String large File Mode largeFileMode buffer get String Property getStringProperty largefilemode limited equals large File Mode largeFileMode nohighlight equals large File Mode largeFileMode

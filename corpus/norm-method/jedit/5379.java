@@ -1,1 +1,0 @@
-Override Component get List Cell Renderer Component getListCellRendererComponent JList list Object is Selected isSelected cell Has Focus cellHasFocus get List Cell Renderer Component getListCellRendererComponent list is Selected isSelected cell Has Focus cellHasFocus String label j Edit jEdit get Property getProperty options appearance lang label set Text setText label

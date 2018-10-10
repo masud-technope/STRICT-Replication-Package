@@ -1,1 +1,0 @@
-get Component getComponent method Override Component get Component getComponent get Root Pane getRootPane

@@ -1,1 +1,0 @@
-Chunk constructor Chunk offset length Parser Rule Set ParserRuleSet rules Syntax Style SyntaxStyle styles default ID defaultID offset length rules style styles background style get Background Color getBackgroundColor background background styles default ID defaultID get Background Color getBackgroundColor is Accessible isAccessible is Initialized isInitialized

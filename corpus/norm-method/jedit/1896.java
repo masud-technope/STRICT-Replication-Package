@@ -1,1 +1,0 @@
-scan token kind scanpos lastpos scanpos lastpos scanpos scanpos token source get Next Token getNextToken lastpos scanpos scanpos scanpos scanpos scanpos kind kind scanpos lastpos

@@ -1,1 +1,0 @@
-set Right Click Popup Enabled setRightClickPopupEnabled method Sets click popup menu enabled Gestures plugin API j Edit jEdit pre set Right Click Popup Enabled setRightClickPopupEnabled popup Enabled popupEnabled popup Enabled popupEnabled popup Enabled popupEnabled

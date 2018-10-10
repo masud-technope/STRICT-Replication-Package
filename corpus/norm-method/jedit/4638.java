@@ -1,1 +1,0 @@
-get Capabilities getCapabilities method Returns capabilities VFS j Edit jEdit pre get Capabilities getCapabilities caps

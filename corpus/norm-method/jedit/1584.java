@@ -1,1 +1,0 @@
-Object property LHS Constructor LHS Object object String prop Name propName object Null Pointer Exception NullPointerException constructed empty LHS type PROPERTY object object prop Name propName prop Name propName

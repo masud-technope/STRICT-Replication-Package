@@ -1,1 +1,0 @@
-fetch Attrs fetchAttrs method Fetch attributes file attributes fetched file initialization takes time fetched VFS implementation overwrite fetch Attrs fetchAttrs fetched Attrs fetchedAttrs

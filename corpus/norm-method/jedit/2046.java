@@ -1,1 +1,0 @@
-scan token scan token scan token LPAREN scan token RPAREN scan token SEMICOLON

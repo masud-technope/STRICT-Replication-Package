@@ -1,1 +1,0 @@
-Shortcuts Option Pane ShortcutsOptionPane constructor Shortcuts Option Pane ShortcutsOptionPane shortcuts

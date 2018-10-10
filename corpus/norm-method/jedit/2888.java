@@ -1,1 +1,0 @@
-JEdit Rich Text JEditRichText String text String mode text text mode mode

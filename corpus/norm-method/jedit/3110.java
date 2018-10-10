@@ -1,1 +1,0 @@
-method panel save dispose

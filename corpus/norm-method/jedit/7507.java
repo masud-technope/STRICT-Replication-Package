@@ -1,1 +1,0 @@
-Override focus Gained focusGained Focus Event FocusEvent evt walk hierarchy Edit Pane EditPane Component comp Component evt get Source getSource comp Edit Pane EditPane comp comp comp get Parent getParent comp edit Pane editPane set Edit Pane setEditPane Edit Pane EditPane comp update Gutter Borders updateGutterBorders

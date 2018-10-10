@@ -1,1 +1,0 @@
-set Shortcut setShortcut method Override set Shortcut setShortcut String String shortcut shortcut shortcut is Empty isEmpty props contains Key containsKey modified props remove String old Shortcut oldShortcut props get Property getProperty shortcut equals old Shortcut oldShortcut modified props set Property setProperty shortcut

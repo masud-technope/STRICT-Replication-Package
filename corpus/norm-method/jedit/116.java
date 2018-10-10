@@ -1,1 +1,0 @@
-Setter splashfile attribute optional jar file Splash Screen manifest entry JAVAROOT myjar jar set Splash File setSplashFile String bundle Properties bundleProperties set Splash File setSplashFile

@@ -1,1 +1,0 @@
-Creates history text field j Edit jEdit pre History Text Field HistoryTextField

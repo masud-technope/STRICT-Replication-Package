@@ -1,1 +1,0 @@
-get End getEnd method Override get End getEnd JEdit Buffer JEditBuffer buffer end Line endLine buffer get Line End Offset getLineEndOffset

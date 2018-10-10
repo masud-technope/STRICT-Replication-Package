@@ -1,1 +1,0 @@
-serialization prune class Manager classManager XXX create Class Manager createClassManager get Class Manager getClassManager axe set Class Manager setClassManager Bsh Class Manager BshClassManager create Class Manager createClassManager set Parent setParent

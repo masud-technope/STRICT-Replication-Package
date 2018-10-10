@@ -1,1 +1,0 @@
-get Regexp getRegexp method Returns regular expression flag regular expression searches performed get Regexp getRegexp regexp

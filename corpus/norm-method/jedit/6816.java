@@ -1,1 +1,0 @@
-is Expanded isExpanded method Identifies gutter collapsed expanded gutter expanded collapsed is Expanded isExpanded expanded

@@ -1,1 +1,0 @@
-Style Editor StyleEditor JFrame parent Syntax Style SyntaxStyle style String style Name styleName parent j Edit jEdit get Property getProperty style editor title initialize parent style style Name styleName

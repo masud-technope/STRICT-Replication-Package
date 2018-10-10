@@ -1,1 +1,0 @@
-show User Title Dialog showUserTitleDialog method dialog selecting user defined title view show User Title Dialog showUserTitleDialog String title JOption Pane JOptionPane show Input Dialog showInputDialog j Edit jEdit get Property getProperty view title select title set User Title setUserTitle title

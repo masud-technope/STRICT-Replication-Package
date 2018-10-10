@@ -1,1 +1,0 @@
-drop method drop Drop Target Drop Event DropTargetDropEvent dtde Log log Log DEBUG Drop text Area textArea get Buffer getBuffer end Compound Edit endCompoundEdit saved Buffer savedBuffer

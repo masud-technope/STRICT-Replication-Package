@@ -1,1 +1,0 @@
-format Paragraph formatParagraph method Formats paragraph caret j Edit jEdit pre Override format Paragraph formatParagraph format Paragraph formatParagraph Text Area Exception TextAreaException GUIUtilities error view format maxlinelen

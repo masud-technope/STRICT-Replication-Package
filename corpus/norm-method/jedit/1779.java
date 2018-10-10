@@ -1,1 +1,0 @@
-Returns current size bytecode method size includes size bytecode instructions include size Exceptions Local Variable Table LocalVariableTable Line Number Table LineNumberTable Synthetic Deprecated attributes current size bytecode method get Code Size getCodeSize code length

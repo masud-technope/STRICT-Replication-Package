@@ -1,1 +1,0 @@
-String Get Image GetImage bufpos token Begin tokenBegin String buffer token Begin tokenBegin bufpos token Begin tokenBegin String buffer token Begin tokenBegin bufsize token Begin tokenBegin String buffer bufpos

@@ -1,1 +1,0 @@
-get Minimum Size getMinimumSize method Dimension get Minimum Size getMinimumSize get Preferred Size getPreferredSize

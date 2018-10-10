@@ -1,1 +1,0 @@
-get Enter Adds To History getEnterAddsToHistory method Returns pressing Enter automatically add entered text history j Edit jEdit pre set Enter Adds To History setEnterAddsToHistory enter Adds To History enterAddsToHistory

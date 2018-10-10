@@ -1,3 +1,0 @@
-public  IndentFoldHandler() {
-    super("indent");
-}

@@ -1,1 +1,0 @@
-Creates input handler set key bindings Note input handlers share pointer key binding table adding key binding add param copy input handler copy key bindings param view view Default Input Handler DefaultInputHandler View view Default Input Handler DefaultInputHandler copy view copy bindings

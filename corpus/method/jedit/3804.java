@@ -1,2 +1,0 @@
-// }}}
-protected abstract OptionGroup getDefaultGroup();

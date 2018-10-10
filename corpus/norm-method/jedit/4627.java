@@ -1,1 +1,0 @@
-Regex Encoding Detector RegexEncodingDetector String pattern String replacement pattern Pattern compile pattern replacement replacement

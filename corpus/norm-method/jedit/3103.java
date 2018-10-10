@@ -1,1 +1,0 @@
-set Icon setIcon method set Icon setIcon Image icon icon icon

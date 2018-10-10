@@ -1,1 +1,0 @@
-get Widget getWidget method Widget get Widget getWidget View view Encoding Widget EncodingWidget mode Encoding Widget EncodingWidget view mode

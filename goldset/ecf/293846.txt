@@ -1,0 +1,4 @@
+protocols/bundles/ch.ethz.iks.slp/META-INF/MANIFEST.MF
+protocols/bundles/ch.ethz.iks.slp/META-INF/MANIFEST.MF
+releng/features/org.eclipse.ecf.core-feature/feature.xml
+providers/bundles/org.eclipse.ecf.provider.jslp/buckminster.cspex

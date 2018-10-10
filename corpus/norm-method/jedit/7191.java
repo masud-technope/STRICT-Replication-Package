@@ -1,1 +1,0 @@
-set Text setText method Sets entire text text area param text content buffer set Text setText String text buffer begin Compound Edit beginCompoundEdit buffer remove buffer get Length getLength buffer insert text buffer end Compound Edit endCompoundEdit

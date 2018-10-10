@@ -1,0 +1,2 @@
+examples/bundles/org.eclipse.ecf.example.collab/plugin.properties
+framework/bundles/org.eclipse.ecf.presence.ui/src/org/eclipse/ecf/internal/presence/ui/messages.properties

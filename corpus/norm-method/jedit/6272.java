@@ -1,1 +1,0 @@
-get Auto Wrap getAutoWrap method Returns auto wrap flag j Edit jEdit pre get Auto Wrap Around getAutoWrapAround wrap

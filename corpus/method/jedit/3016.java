@@ -1,3 +1,0 @@
-EditPlugin loadPluginClass() {
-    return null;
-}

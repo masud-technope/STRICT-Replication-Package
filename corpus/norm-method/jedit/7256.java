@@ -1,1 +1,0 @@
-dispose method Plugins macros call method j Edit jEdit pre dispose Display Manager DisplayManager text Area Disposed textAreaDisposed gutter dispose

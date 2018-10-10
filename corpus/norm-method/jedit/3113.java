@@ -1,1 +1,0 @@
-update Style updateStyle JComponent target is Backup isBackup String path String style Name styleName is Backup isBackup backup normal style Name styleName backup target set Foreground setForeground Color normal target set Foreground setForeground default Color defaultColor target set Tool Tip Text setToolTipText path make Tool Tip Text makeToolTipText path is Backup isBackup

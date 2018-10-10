@@ -1,1 +1,0 @@
-constructor creates loader loading classes plugins Bean Shell BeanShell scripts plugin classes JARClass Loader JARClassLoader

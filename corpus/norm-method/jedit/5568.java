@@ -1,1 +1,0 @@
-is Perspective Enabled isPerspectiveEnabled method disable saving perspective close dialog showing j Edit jEdit pre is Perspective Enabled isPerspectiveEnabled enabled

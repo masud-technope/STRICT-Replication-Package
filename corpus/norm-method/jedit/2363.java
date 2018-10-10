@@ -1,1 +1,0 @@
-Invoke method java code declaring interpreter current namespace call stack method invoked bsh java code Note wrap unwrap args values Primitive Primitive unwrap Bean Shell BeanShell org gjt jedit bsh Primitive Object invoke Method invokeMethod String Object args Eval Error EvalError callstack created invoke Method invokeMethod args declaring Interpreter declaringInterpreter

@@ -1,1 +1,0 @@
-update Gutter Borders updateGutterBorders method Updates borders gutters view reflect focused text area j Edit jEdit update Gutter Borders updateGutterBorders Edit Pane EditPane edit Panes editPanes get Edit Panes getEditPanes Edit Pane EditPane edit Pane editPane edit Panes editPanes edit Pane editPane get Text Area getTextArea get Gutter getGutter update Border updateBorder

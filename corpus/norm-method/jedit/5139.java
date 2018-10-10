@@ -1,1 +1,0 @@
-String abbreviate String path svc svc Var Compressor VarCompressor svc compress path

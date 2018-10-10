@@ -1,1 +1,0 @@
-Setter attribute required attribute names output application bundle asks CFBundle Name CFBundleName bundlename set Name setName String bundle Properties bundleProperties set Application Name setApplicationName

@@ -1,1 +1,0 @@
-set Writeable setWriteable method set Writeable setWriteable can Write canWrite can Write canWrite can Write canWrite

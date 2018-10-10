@@ -1,0 +1,1 @@
+providers/bundles/org.eclipse.ecf.provider.datashare.nio/META-INF/MANIFEST.MF

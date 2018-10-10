@@ -1,1 +1,0 @@
-is Dockable Window Visible isDockableWindowVisible method Returns dockable window visible param dockable window is Dockable Window Visible isDockableWindowVisible String Entry entry windows entry entry win entry container is Visible isVisible entry

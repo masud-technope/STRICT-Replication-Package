@@ -1,1 +1,0 @@
-set Message Component setMessageComponent method set Message Component setMessageComponent Component comp current Message Is IO currentMessageIsIO comp message Comp messageComp comp message Comp messageComp comp panel add Border Layout BorderLayout CENTER message Comp messageComp

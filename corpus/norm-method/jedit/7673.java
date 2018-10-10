@@ -1,1 +1,0 @@
-main main String args String teststr String List StringList split teststr String joinstr join teststr equals joinstr System println Test Passed

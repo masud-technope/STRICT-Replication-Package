@@ -1,1 +1,0 @@
-BSHTyped Variable Declaration BSHTypedVariableDeclaration

@@ -1,1 +1,0 @@
-Convenience method set entry group user names param user Name userName entry user param group Name groupName entry group set Names setNames String user Name userName String group Name groupName set User Name setUserName user Name userName set Group Name setGroupName group Name groupName

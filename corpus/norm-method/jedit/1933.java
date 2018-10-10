@@ -1,1 +1,0 @@
-scan token FLOATING POINT LITERAL

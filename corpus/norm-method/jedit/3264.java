@@ -1,1 +1,0 @@
-get Cached Dockable Movable Flags getCachedDockableMovableFlags method get Cached Dockable Movable Flags getCachedDockableMovableFlags boolean List To Array booleanListToArray cached Dockable Movable Flags cachedDockableMovableFlags

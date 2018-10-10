@@ -1,1 +1,0 @@
-show Cursor showCursor method cursor cursor show Cursor showCursor default Cursor defaultCursor set Cursor setCursor Cursor get Predefined Cursor getPredefinedCursor Cursor TEXT CURSOR

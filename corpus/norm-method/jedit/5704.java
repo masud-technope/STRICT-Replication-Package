@@ -1,1 +1,0 @@
-get Entry getEntry method Entry get Entry getEntry row Index rowIndex entries row Index rowIndex

@@ -1,1 +1,0 @@
-Override String get Name getName Dockable Window Manager DockableWindowManager

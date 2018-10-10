@@ -1,1 +1,0 @@
-Favorites Menu Button FavoritesMenuButton constructor Favorites Menu Button FavoritesMenuButton set Text setText j Edit jEdit get Property getProperty vfs browser favorites label Generic GUIUtilities GenericGUIUtilities set Auto Mnemonic setAutoMnemonic set Name setName favorites create Popup Menu createPopupMenu

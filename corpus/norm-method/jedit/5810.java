@@ -1,1 +1,0 @@
-plugin List Updated pluginListUpdated method plugin List Updated pluginListUpdated Component selected tab Pane tabPane get Selected Component getSelectedComponent selected installer selected updater installer update Model updateModel updater update Model updateModel check For Obsolete Plugins checkForObsoletePlugins

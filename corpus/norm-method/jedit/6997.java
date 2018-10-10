@@ -1,1 +1,0 @@
-get Match getMatch method Returns element matching text area caret position j Edit jEdit pre Match get Match getMatch Text Area TextArea text Area textArea

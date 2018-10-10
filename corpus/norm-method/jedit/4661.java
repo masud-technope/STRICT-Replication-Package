@@ -1,1 +1,0 @@
-compare VFSFile file VFSFile file sort Mix Files And Dirs sortMixFilesAndDirs file get Type getType file get Type getType file get Type getType file get Type getType Standard Utilities StandardUtilities compare Strings compareStrings file get Name getName file get Name getName sort Ignore Case sortIgnoreCase

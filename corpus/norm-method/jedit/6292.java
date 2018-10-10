@@ -1,1 +1,0 @@
-escape Regexp escapeRegexp method Escapes characters special meaning regexp param str string escape param multiline escaped string escaped characters j Edit jEdit pre String escape Regexp escapeRegexp String str multiline Standard Utilities StandardUtilities chars To Escapes charsToEscapes str multiline

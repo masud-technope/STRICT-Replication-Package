@@ -1,1 +1,0 @@
-get Detected Encoding getDetectedEncoding Returns auto detected encoding Returns encoding detected String get Detected Encoding getDetectedEncoding encoding

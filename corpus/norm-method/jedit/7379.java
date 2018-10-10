@@ -1,1 +1,0 @@
-is Thick Caret Enabled isThickCaretEnabled method Returns caret drawn thick j Edit jEdit pre is Thick Caret Enabled isThickCaretEnabled thick Caret thickCaret

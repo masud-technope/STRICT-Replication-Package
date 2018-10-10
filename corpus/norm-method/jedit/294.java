@@ -1,1 +1,0 @@
-Write array param write param buf array write param offset offset buffer write param length number header bytes write number bytes written buffer get Long Bytes getLongBytes buf offset length String tmp to String toString tmp length length buf offset tmp char At charAt length buf offset offset length

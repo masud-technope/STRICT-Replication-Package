@@ -1,1 +1,0 @@
-constrained component preferred width get Right Preferred Width getRightPreferredWidth get Preferred Size getPreferredSize width trw top Right topRight top Right topRight get Preferred Size getPreferredSize width get Preferred Size getPreferredSize width brw bottom Right bottomRight bottom Right bottomRight get Preferred Size getPreferredSize width Math max Math max trw brw

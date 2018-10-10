@@ -1,1 +1,0 @@
-is Windows isWindows method Returns running Windows Vista Win is Windows isWindows WINDOWS WINDOWS

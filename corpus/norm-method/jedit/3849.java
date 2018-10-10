@@ -1,1 +1,0 @@
-get Wrapped Dimension getWrappedDimension method Returns width height wrapped rows columns get Wrapped Dimension getWrappedDimension dimension Button Layout ButtonLayout button Panel buttonPanel get Layout getLayout get Wrapped Dimension getWrappedDimension button Panel buttonPanel dimension

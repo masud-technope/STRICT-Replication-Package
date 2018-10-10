@@ -1,1 +1,0 @@
-get String Width getStringWidth method Returns width string pixels text area current font j Edit jEdit get String Width getStringWidth String str text Area textArea char Width charWidth text Area textArea char Width charWidth str length get Font getFont get String Bounds getStringBounds str get Font Render Context getFontRenderContext get Width getWidth

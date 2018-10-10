@@ -1,1 +1,0 @@
-set Anti Alias Enabled setAntiAliasEnabled method j Edit jEdit subpixel antialias mode supported j Edit jEdit pre set Anti Alias setAntiAlias Anti Alias AntiAlias new Value newValue anti Alias antiAlias new Value newValue update Rendering Hints updateRenderingHints

@@ -1,1 +1,0 @@
-update CRC updateCRC in Ch inCh temp global Crc globalCrc in Ch inCh temp temp temp global Crc globalCrc global Crc globalCrc CRC TABLE temp

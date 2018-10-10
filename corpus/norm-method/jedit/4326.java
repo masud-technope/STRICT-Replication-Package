@@ -1,1 +1,0 @@
-get Previous URLs getPreviousURLs method History Entry HistoryEntry get Previous URLs getPreviousURLs history Pos historyPos Help History Model HelpHistoryModel History Entry HistoryEntry History Entry HistoryEntry previous History Entry HistoryEntry history Pos historyPos System arraycopy history previous history Pos historyPos previous

@@ -1,1 +1,0 @@
-get Brackets getBrackets method Brackets get Brackets getBrackets JEdit Buffer JEditBuffer buffer line Index lineIndex get Brackets getBrackets buffer line Index lineIndex buffer get Line Length getLineLength line Index lineIndex

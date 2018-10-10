@@ -1,1 +1,0 @@
-handle Message handleMessage methods Edit Bus EditBus EBHandler handle Message handleMessage Edit Pane Update EditPaneUpdate message message get What getWhat Edit Pane Update EditPaneUpdate BUFFER CHANGED message get Edit Pane getEditPane get View getView view update

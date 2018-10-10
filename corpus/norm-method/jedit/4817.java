@@ -1,1 +1,0 @@
-Opens file Note j Edit jEdit pre buffer opened param edit Pane editPane Edit Pane EditPane open file param path file path buffer j Edit jEdit unable load j Edit jEdit pre Buffer open File openFile Edit Pane EditPane edit Pane editPane String path open File openFile edit Pane editPane path Hashtable String Object

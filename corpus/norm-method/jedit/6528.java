@@ -1,1 +1,0 @@
-get Terminate Char getTerminateChar method Returns number chars read rule parsing stops number chars limit get Terminate Char getTerminateChar terminate Char terminateChar

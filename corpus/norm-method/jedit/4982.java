@@ -1,1 +1,0 @@
-Constructor JEdit Register Saver JEditRegisterSaver String settings Directory settingsDirectory j Edit jEdit get Settings Directory getSettingsDirectory settings Directory settingsDirectory registers XML registersXML Settings XML SettingsXML settings Directory settingsDirectory registers

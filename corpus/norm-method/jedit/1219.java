@@ -1,1 +1,0 @@
-call get Class getClass get Target Class getTargetClass clas

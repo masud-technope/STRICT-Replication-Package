@@ -1,1 +1,0 @@
-insert methods insert start String str len str length prepare Gap For Insertion prepareGapForInsertion start len str get Chars getChars len text start gap Start gapStart len length len

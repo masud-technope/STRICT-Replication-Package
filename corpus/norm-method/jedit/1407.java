@@ -1,1 +1,0 @@
-Turn verbose printing command interpreter parent call delegated Bean Shell BeanShell command set Show Results setShowResults show Results showResults show Results showResults show Results showResults

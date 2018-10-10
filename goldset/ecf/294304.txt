@@ -1,0 +1,15 @@
+releng/org.eclipse.ecf.releng.bm/build.xml
+releng/org.eclipse.ecf.releng.bm/common.properties
+releng/org.eclipse.ecf.releng.bm/common.xml
+releng/org.eclipse.ecf.releng.bm/org.eclipse.ecf.platform.cquery
+releng/org.eclipse.ecf.releng.bm/org.eclipse.ecf.platform.mspec
+releng/org.eclipse.ecf.releng.bm/org.eclipse.ecf.sdk.cquery
+releng/org.eclipse.ecf.releng.bm/org.eclipse.ecf.sdk.mspec
+releng/org.eclipse.ecf.releng.bm/org.eclipse.ecf.tests.cquery
+releng/org.eclipse.ecf.releng.bm/org.eclipse.ecf.tests.mspec
+releng/features/org.eclipse.ecf.tests-feature/org.eclipse.ecf.tests.cquery
+releng/features/org.eclipse.ecf.tests-feature/org.eclipse.ecf.tests.mspec
+releng/features/org.eclipse.ecf.sdk-feature/org.eclipse.ecf.sdk.cquery
+releng/features/org.eclipse.ecf.sdk-feature/org.eclipse.ecf.sdk.mspec
+releng/features/org.eclipse.ecf.platform-feature/org.eclipse.ecf.platform.cquery
+releng/features/org.eclipse.ecf.platform-feature/org.eclipse.ecf.platform.mspec

@@ -1,1 +1,0 @@
-set Wrap Guide Color setWrapGuideColor method Sets wrap guide color param wrap Guide Color wrapGuideColor wrap guide color set Wrap Guide Color setWrapGuideColor Color wrap Guide Color wrapGuideColor wrap Guide Color wrapGuideColor wrap Guide Color wrapGuideColor repaint

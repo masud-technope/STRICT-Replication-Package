@@ -1,1 +1,0 @@
-members get Text getText method Override get Text getText JEdit Buffer JEditBuffer buffer String Builder StringBuilder buf buf append buffer get Text getText start start

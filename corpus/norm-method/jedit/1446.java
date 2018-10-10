@@ -1,1 +1,0 @@
-Interpreter Error InterpreterError String

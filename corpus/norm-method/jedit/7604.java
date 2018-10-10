@@ -1,1 +1,0 @@
-Log Print Stream LogPrintStream constructor Log Print Stream LogPrintStream urgency Object source Log Output Stream LogOutputStream urgency source buffer Byte Array Output Stream ByteArrayOutputStream orig

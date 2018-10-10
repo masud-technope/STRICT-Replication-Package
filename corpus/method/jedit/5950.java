@@ -1,3 +1,0 @@
-public  SidesCellRenderer() {
-    setOpaque(true);
-}

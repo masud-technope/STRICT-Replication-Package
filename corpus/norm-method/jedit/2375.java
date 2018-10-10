@@ -1,1 +1,0 @@
-Returns image String to String toString image

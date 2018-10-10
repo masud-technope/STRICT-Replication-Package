@@ -1,1 +1,0 @@
-members Nonnull Reader get Text Reader getTextReader Nonnull Input Stream InputStream Nullable Pushback Reader PushbackReader clazz IOException Invocation Target Exception InvocationTargetException No Such Method Exception NoSuchMethodException Instantiation Exception InstantiationException Illegal Access Exception IllegalAccessException ASCIIReader clazz

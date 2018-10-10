@@ -1,1 +1,0 @@
-rename String VFS vfs VFSManager get VFSFor Path getVFSForPath String filename vfs get File Name getFileName String args filename String GUIUtilities input vfs browser rename args filename rename

@@ -1,1 +1,0 @@
-Construct empty entry prepares header values Ar Entry ArEntry magic String Buffer StringBuffer HEADERMAGIC filename String Buffer StringBuffer user Id userId group Id groupId file

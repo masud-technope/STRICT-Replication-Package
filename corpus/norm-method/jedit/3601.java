@@ -1,1 +1,0 @@
-get Max getMax method maximum size history size get Max getMax max

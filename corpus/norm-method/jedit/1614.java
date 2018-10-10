@@ -1,1 +1,0 @@
-namespace namespace method body namespace method instance String get Name getName ns Name nsName

@@ -1,1 +1,0 @@
-names variables defined namespace variables parent namespaces String get Variable Names getVariableNames variables String enumeration To String Array enumerationToStringArray variables

@@ -1,1 +1,0 @@
-create Plugins Menu createPluginsMenu method JMenu create Plugin Menu createPluginMenu VFSBrowser browser JMenu plugin Menu pluginMenu JMenu j Edit jEdit get Property getProperty vfs browser plugins label Generic GUIUtilities GenericGUIUtilities set Auto Mnemonic setAutoMnemonic plugin Menu pluginMenu JMenu browser create Plugins Menu createPluginsMenu plugin Menu pluginMenu

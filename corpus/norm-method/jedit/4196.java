@@ -1,1 +1,0 @@
-add Tool Bar addToolBar method add Tool Bar addToolBar Container group List Entry toolbars Entry entry place toolbar toolbars size entry layer toolbars layer toolbars add entry group add entry toolbar Place toolbar bottom group toolbars add entry group add entry toolbar

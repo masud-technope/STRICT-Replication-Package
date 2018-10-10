@@ -1,1 +1,0 @@
-prompt string defined get Bsh Prompt getBshPrompt method global namespace get Bsh Prompt getBshPrompt command defined user method Defaults bsh method defined error String get Bsh Prompt getBshPrompt String eval get Bsh Prompt getBshPrompt Exception bsh

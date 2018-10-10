@@ -1,1 +1,0 @@
-bracket Selected bracketSelected org gjt jedit textarea Text Area TextArea text Area textArea String text Status Bar StatusBar status view get Status getStatus status status set Message And Clear setMessageAndClear j Edit jEdit get Property getProperty view status bracket Object text

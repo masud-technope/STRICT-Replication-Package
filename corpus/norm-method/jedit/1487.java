@@ -1,1 +1,0 @@
-Returns node top stack remove stack Node pop Node popNode Integer marks pop int Value intValue Node nodes pop

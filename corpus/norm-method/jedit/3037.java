@@ -1,1 +1,0 @@
-start Thread startThread Thread do Work doWork start

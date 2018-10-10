@@ -1,1 +1,0 @@
-set CFBundle Signature setCFBundleSignature String m CFBundle Signature mCFBundleSignature

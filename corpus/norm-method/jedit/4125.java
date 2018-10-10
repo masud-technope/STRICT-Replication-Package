@@ -1,1 +1,0 @@
-Wrap Widget WrapWidget View view wrap Tool Tip Label ToolTipLabel wrap set Horizontal Alignment setHorizontalAlignment Swing Constants SwingConstants CENTER view view wrap add Mouse Listener addMouseListener Mouse Adapter MouseAdapter Override mouse Clicked mouseClicked Mouse Event MouseEvent evt view get Buffer getBuffer toggle Word Wrap toggleWordWrap view

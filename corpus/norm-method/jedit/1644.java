@@ -1,1 +1,0 @@
-top level namespace namespace top Note method type bsh consistent get This getThis get Global getGlobal Interpreter declaring Interpreter declaringInterpreter parent parent get Global getGlobal declaring Interpreter declaringInterpreter get This getThis declaring Interpreter declaringInterpreter

@@ -1,1 +1,0 @@
-Screen stuff get Physical Line Of Screen Line getPhysicalLineOfScreenLine method Returns physical number screen param screen Line screenLine screen j Edit jEdit pre get Physical Line Of Screen Line getPhysicalLineOfScreenLine screen Line screenLine chunk Cache chunkCache get Line Info getLineInfo screen Line screenLine physical Line physicalLine

@@ -1,1 +1,0 @@
-method Edit Pane EditPane edit Pane editPane Goto Delayed GotoDelayed edit Pane editPane

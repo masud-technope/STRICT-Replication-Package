@@ -1,1 +1,0 @@
-prevent invocation param isn primitive wrapper Primitive Object Interpreter Error InterpreterError Primitve Primitive Special Special TYPE is Wrapper Type isWrapperType get Class getClass Interpreter Error InterpreterError wrapper type

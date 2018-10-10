@@ -1,1 +1,0 @@
-show Plugin Manager showPluginManager method show Plugin Manager showPluginManager Frame parent instance instance Plugin Manager PluginManager parent instance to Front toFront

@@ -1,1 +1,0 @@
-get Line Number Alignment getLineNumberAlignment method Identifies horizontal alignment numbers Gutter Gutter CENTER Gutter LEFT get Line Number Alignment getLineNumberAlignment alignment

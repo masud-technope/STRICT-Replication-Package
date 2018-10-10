@@ -1,1 +1,0 @@
-Override previous current

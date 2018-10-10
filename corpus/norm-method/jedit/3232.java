@@ -1,1 +1,0 @@
-mouse Pressed mousePressed method mouse Pressed mousePressed Mouse Event MouseEvent evt can Drag canDrag continuous Layout continuousLayout UIManager get Boolean getBoolean Split Pane SplitPane continuous Layout continuousLayout set Resize Pos setResizePos panel get Dimension getDimension panel drag Start dragStart evt get Point getPoint

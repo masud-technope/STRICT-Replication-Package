@@ -1,1 +1,0 @@
-Buffer get Buffer getBuffer View view j Edit jEdit open File openFile view path

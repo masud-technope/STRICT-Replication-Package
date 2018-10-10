@@ -1,1 +1,0 @@
-get Preferred Size getPreferredSize method Returns painter preferred size Override Dimension get Preferred Size getPreferredSize Dimension dim Dimension foo foo length foo dim width get String Width getStringWidth String foo dim height get Line Height getLineHeight dim

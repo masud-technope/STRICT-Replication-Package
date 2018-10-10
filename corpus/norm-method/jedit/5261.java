@@ -1,1 +1,0 @@
-component displayed option pane Component get Component getComponent

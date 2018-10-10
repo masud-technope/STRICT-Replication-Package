@@ -1,1 +1,0 @@
-Install Button InstallButton j Edit jEdit get Property getProperty install plugins install plugin Model pluginModel add Table Model Listener addTableModelListener add Action Listener addActionListener set Enabled setEnabled

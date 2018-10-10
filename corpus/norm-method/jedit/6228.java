@@ -1,1 +1,0 @@
-search Started searchStarted method search Started searchStarted set Enabled setEnabled set Text setText j Edit jEdit get Property getProperty hypersearch searching String trim Search String trimSearchString

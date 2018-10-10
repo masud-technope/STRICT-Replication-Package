@@ -1,0 +1,5 @@
+framework/bundles/org.eclipse.ecf/buckminster.cspex
+framework/bundles/org.eclipse.ecf/buckminster.cspex
+framework/bundles/org.eclipse.ecf/javadoc.xml
+framework/bundles/org.eclipse.ecf/buckminster.cspex
+framework/bundles/org.eclipse.ecf/javadoc.xml

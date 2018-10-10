@@ -1,1 +1,0 @@
-get Left Docking Area getLeftDockingArea method Panel Window Container PanelWindowContainer get Left Docking Area getLeftDockingArea left

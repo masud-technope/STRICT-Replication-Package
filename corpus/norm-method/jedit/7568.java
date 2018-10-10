@@ -1,1 +1,0 @@
-get Size getSize method get Size getSize len

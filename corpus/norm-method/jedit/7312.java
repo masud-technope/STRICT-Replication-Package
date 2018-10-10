@@ -1,1 +1,0 @@
-paint Invalid Line paintInvalidLine method Called text area extension paint screen buffer happen buffer shorter height text area param gfx graphics context param screen Line screenLine screen number param ordinate top bounding box j Edit jEdit pre paint Invalid Line paintInvalidLine Graphics gfx screen Line screenLine

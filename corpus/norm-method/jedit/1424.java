@@ -1,1 +1,0 @@
-set Strict Java setStrictJava get Strict Java getStrictJava strict Java strictJava

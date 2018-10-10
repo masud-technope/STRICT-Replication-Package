@@ -1,0 +1,3 @@
+releng/features/org.eclipse.ecf.core.featurepatch/feature.properties
+releng/features/org.eclipse.ecf.core.featurepatch/feature.xml
+releng/features/org.eclipse.ecf.sdk/feature.xml

@@ -1,1 +1,0 @@
-write Boolean Array writeBooleanArray method write Boolean Array writeBooleanArray Data Output Stream DataOutputStream dout bools IOException bools dout write Int writeInt dout write Int writeInt bools length bool bools dout write Boolean writeBoolean bool

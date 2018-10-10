@@ -1,1 +1,0 @@
-get Label getLabel method action label returns property named link get Name getName suffixed code label code String get Label getLabel args j Edit jEdit get Property getProperty label args j Edit jEdit get Property getProperty label

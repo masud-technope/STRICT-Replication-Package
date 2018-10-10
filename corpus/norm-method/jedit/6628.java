@@ -1,1 +1,0 @@
-fold Level Changed foldLevelChanged method fold Level Changed foldLevelChanged JEdit Buffer JEditBuffer buffer start text Area textArea get Display Manager getDisplayManager display Manager displayManager buffer is Loading isLoading text Area textArea invalidate Line Range invalidateLineRange start text Area textArea get Last Physical Line getLastPhysicalLine

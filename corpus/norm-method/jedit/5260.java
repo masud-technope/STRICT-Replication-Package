@@ -1,1 +1,0 @@
-internal option pane option pane label set property named code options label code j Edit jEdit get Property getProperty String String get Name getName

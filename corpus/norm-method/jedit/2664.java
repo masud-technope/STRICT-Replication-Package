@@ -1,1 +1,0 @@
-undo method Selection undo inside Compound Edit insideCompoundEdit Internal Error InternalError Unbalanced end Compound Edit endCompoundEdit undos Last undosLast revise Undo Id reviseUndoId undo Count undoCount Selection undos Last undosLast undo redos First redosFirst undos Last undosLast undos Last undosLast undos Last undosLast prev undos Last undosLast undos First undosFirst

@@ -1,1 +1,0 @@
-Override reset Default Variables resetDefaultVariables Name Space NameSpace namespace Util Eval Error UtilEvalError namespace set Variable setVariable view namespace set Variable setVariable edit Pane editPane namespace set Variable setVariable buffer namespace set Variable setVariable text Area textArea namespace set Variable setVariable

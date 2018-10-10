@@ -1,1 +1,0 @@
-toggle Dockable Window toggleDockableWindow method Toggles visibility dockable window param dockable window toggle Dockable Window toggleDockableWindow String is Dockable Window Visible isDockableWindowVisible remove Dockable Window removeDockableWindow add Dockable Window addDockableWindow

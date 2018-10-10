@@ -1,1 +1,0 @@
-get Selection Fg Color getSelectionFgColor method Returns selection foreground color set j Edit jEdit Color get Selection Fg Color getSelectionFgColor selection Fg Color selectionFgColor

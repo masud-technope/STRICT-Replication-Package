@@ -1,1 +1,0 @@
-create VFSSession createVFSSession methods Creates VFS session method called AWT thread prompt login password simpler filesystem set code AWT SESSION CAP code capability set sessions thread param path path question param comp component parent dialog boxes session session errors j Edit jEdit pre Object create VFSSession createVFSSession String path Component comp Object

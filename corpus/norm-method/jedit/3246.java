@@ -1,1 +1,0 @@
-invoke method invoke View view view get Dockable Window Manager getDockableWindowManager float Dockable Window floatDockableWindow dockable

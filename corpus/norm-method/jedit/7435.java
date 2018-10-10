@@ -1,1 +1,0 @@
-show Buffer showBuffer method buffer open view edit panes activates edit pane opens buffer active edit pane focus moved param buffer buffer current edit pane j Edit jEdit pre Edit Pane EditPane show Buffer showBuffer Buffer buffer show Buffer showBuffer buffer

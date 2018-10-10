@@ -1,1 +1,0 @@
-accessibility enabled determine accessibility mechanism exists optional bsh Note runtime permission access fields Java security org gjt jedit bsh Reflect Manager ReflectManager have Accessibility haveAccessibility accessibility

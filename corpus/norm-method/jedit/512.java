@@ -1,1 +1,0 @@
-Construct entry programmer construct entry header hand File set Tar Entry TarEntry String initialize name Tar Header nameTarHeader header

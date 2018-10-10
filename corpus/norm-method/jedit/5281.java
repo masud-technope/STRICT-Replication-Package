@@ -1,1 +1,0 @@
-Override mouse Clicked mouseClicked Mouse Event MouseEvent evt abbrevs Table abbrevsTable get Table Header getTableHeader column At Point columnAtPoint evt get Point getPoint Abbrevs Model AbbrevsModel abbrevs Table abbrevsTable get Model getModel sort Abbrevs Model AbbrevsModel abbrevs Table abbrevsTable get Model getModel sort

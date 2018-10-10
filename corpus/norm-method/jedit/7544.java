@@ -1,1 +1,0 @@
-get Parent Dialog getParentDialog method Traverses component parent tree instance JDialog param component j Edit jEdit JDialog get Parent Dialog getParentDialog Component JDialog Swing Utilities SwingUtilities get Ancestor Of Class getAncestorOfClass JDialog

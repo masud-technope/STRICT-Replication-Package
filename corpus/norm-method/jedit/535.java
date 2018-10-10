@@ -1,1 +1,0 @@
-entry Teh entry String get Name getName to String toString

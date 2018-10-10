@@ -1,1 +1,0 @@
-set Join Non Word Chars setJoinNonWordChars method set clicking join word characters form word j Edit jEdit pre set Join Non Word Chars setJoinNonWordChars join Non Word Chars joinNonWordChars join Non Word Chars joinNonWordChars join Non Word Chars joinNonWordChars

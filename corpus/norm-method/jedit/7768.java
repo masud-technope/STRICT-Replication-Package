@@ -1,1 +1,0 @@
-set Clipboard setClipboard Selection selection Text Area TextArea text Area textArea j Edit jEdit get Active View getActiveView get Text Area getTextArea set Clipboard setClipboard text Area textArea get Selected Text getSelectedText selection

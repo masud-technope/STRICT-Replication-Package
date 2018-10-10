@@ -1,1 +1,0 @@
-hash contents buffer calculate Hash calculateHash dummy j Edit jEdit get Boolean Property getBooleanProperty use MD useMD for Dirty Calculation forDirtyCalculation dummy Standard Utilities StandardUtilities get Segment getSegment get Length getLength

@@ -1,1 +1,0 @@
-get Merge Edit getMergeEdit method Edit get Merge Edit getMergeEdit compound Edit compoundEdit compound Edit compoundEdit get Last Edit getLastEdit

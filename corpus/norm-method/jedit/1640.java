@@ -1,1 +1,0 @@
-parent namespace Note isn get Super getSuper get Super getSuper returns root namespace Name Space NameSpace get Parent getParent parent

@@ -1,1 +1,0 @@
-new View Test newViewTest time System current Time Millis currentTimeMillis Buffer new File newFile insert View System err println System current Time Millis currentTimeMillis time new View newView methods Creates view param view existing view j Edit jEdit pre View new View newView View view new View newView view

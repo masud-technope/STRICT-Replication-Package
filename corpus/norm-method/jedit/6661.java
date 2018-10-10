@@ -1,1 +1,0 @@
-throw Exception throwException method throw Exception throwException offset Illegal Argument Exception IllegalArgumentException ELASTIC TABSTOP CORRUPT DATA System current Time Millis currentTimeMillis Thread Thread current Thread currentThread get Name getName find size tab offset offset buffer get Line Start Offset getLineStartOffset searching

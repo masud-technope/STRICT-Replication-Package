@@ -1,1 +1,0 @@
-refactor bit validate For Method validateForMethod insure No insureNo Method insure No insureNo Method

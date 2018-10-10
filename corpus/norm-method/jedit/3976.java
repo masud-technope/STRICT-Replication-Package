@@ -1,1 +1,0 @@
-get Bindings getBindings bindings attribute Shortcut Prefix Active Event ShortcutPrefixActiveEvent object bindings Hashtable get Bindings getBindings bindings

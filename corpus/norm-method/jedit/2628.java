@@ -1,1 +1,0 @@
-index Of indexOf method index Of indexOf String str length wrap ring length count length ring equals str

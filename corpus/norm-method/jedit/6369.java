@@ -1,1 +1,0 @@
-constructor hash table Descriptor String clazz String String code Plugin JAR PluginJAR plugin clazz clazz code code plugin plugin

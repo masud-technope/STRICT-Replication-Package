@@ -1,1 +1,0 @@
-set Text setText method Replace selection text param buffer buffer param text text offset inserted text Override set Text setText JEdit Buffer JEditBuffer buffer String text buffer remove start start text text length buffer insert start text start text length start

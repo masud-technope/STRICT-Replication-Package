@@ -1,1 +1,0 @@
-paint method paint Graphics is Enabled isEnabled paint Graphics Graphics set Composite setComposite paint

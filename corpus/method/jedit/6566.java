@@ -1,4 +1,0 @@
-//{{{ TokenMarker constructor
-public  TokenMarker() //}}}
-{
-}

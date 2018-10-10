@@ -1,1 +1,0 @@
-Handler constructor Handler String label j Edit jEdit get Property getProperty macro handler label filter Pattern compile Standard Utilities StandardUtilities glob To RE globToRE j Edit jEdit get Property getProperty macro handler glob Exception Internal Error InternalError Missing invalid glob handler

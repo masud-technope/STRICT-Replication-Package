@@ -1,1 +1,0 @@
-public abstract String getInstallDirectory(String name, String version);

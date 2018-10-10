@@ -1,1 +1,0 @@
-get Plugin JARs getPluginJARs method Returns array installed plugins j Edit jEdit pre Plugin JAR PluginJAR get Plugin JARs getPluginJARs Plugin JAR PluginJAR array Plugin JAR PluginJAR jars size jars copy Into copyInto array array

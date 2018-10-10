@@ -1,1 +1,0 @@
-scan token HOOK scan token COLON

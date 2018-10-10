@@ -1,1 +1,0 @@
-Char Sequence CharSequence char Sequence charSequence Message Digest MessageDigest digest Message Digest MessageDigest get Instance getInstance char Sequence charSequence length char Sequence charSequence char At charAt xff xff digest update digest digest No Such Algorithm Exception NoSuchAlgorithmException Log log Log ERROR Standard Utilities StandardUtilities Calculate hash

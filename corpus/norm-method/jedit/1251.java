@@ -1,1 +1,0 @@
-get Code getCode String class Name className read Bytes From File readBytesFromFile get Dir getDir class Name className

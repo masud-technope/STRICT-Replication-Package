@@ -1,1 +1,0 @@
-create And Show GUI createAndShowGUI method create And Show GUI createAndShowGUI add Components To Pane addComponentsToPane pack set Default Close Operation setDefaultCloseOperation DISPOSE CLOSE set Focusable setFocusable to Front toFront request Focus requestFocus set Resizable setResizable set Visible setVisible

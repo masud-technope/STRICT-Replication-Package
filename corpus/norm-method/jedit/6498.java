@@ -1,1 +1,0 @@
-create Sequence Rule createSequenceRule method Parser Rule ParserRule create Sequence Rule createSequenceRule pos Match posMatch String seq Parser Rule Set ParserRuleSet delegate Parser Rule ParserRule SEQ seq substring pos Match posMatch seq to Char Array toCharArray delegate MATCH TYPE CONTEXT

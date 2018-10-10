@@ -1,1 +1,0 @@
-set Delegated setDelegated method set Delegated setDelegated delegated delegated delegated remove Table Model Listener removeTableModelListener delegated add Table Model Listener addTableModelListener delegated delegated fire Table Structure Changed fireTableStructureChanged

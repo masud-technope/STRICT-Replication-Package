@@ -1,0 +1,4 @@
+releng/features/org.eclipse.ecf.sdk/build.properties
+examples/bundles/com.mycorp.examples.timeservice.consumer.filediscovery/launch/TimeServiceConsumer.launch
+examples/bundles/com.mycorp.examples.timeservice.consumer.filediscovery.rest/build.properties
+examples/bundles/com.mycorp.examples.timeservice.consumer.ds/build.properties

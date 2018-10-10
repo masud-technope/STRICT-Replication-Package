@@ -1,1 +1,0 @@
-get NSHigh Resolution Capable getNSHighResolutionCapable m NSHigh Resolution Capable mNSHighResolutionCapable

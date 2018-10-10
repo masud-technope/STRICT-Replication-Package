@@ -1,1 +1,0 @@
-next Char Buf nextCharBuf buffer bufline bufcolumn

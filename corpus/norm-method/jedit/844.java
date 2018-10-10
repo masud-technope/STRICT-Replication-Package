@@ -1,1 +1,0 @@
-file Properties fileProperties method selected file properties file Properties fileProperties VFSFile files File Properties Dialog FilePropertiesDialog view files

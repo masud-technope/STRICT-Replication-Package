@@ -1,1 +1,0 @@
-set Ignore Case setIgnoreCase method Sets keyword map insensitive param ignore Case ignoreCase keyword map insensitive set Ignore Case setIgnoreCase ignore Case ignoreCase ignore Case ignoreCase ignore Case ignoreCase

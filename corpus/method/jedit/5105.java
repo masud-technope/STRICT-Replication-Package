@@ -1,3 +1,0 @@
-//{{{ Private members
-private  MiscUtilities() {
-}

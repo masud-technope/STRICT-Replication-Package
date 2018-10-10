@@ -1,1 +1,0 @@
-returns INCH depending Locale note Canada metric Canadian paper sizes essentially ANSI sizes rounded nearest get Units getUnits String country Locale get Default getDefault get Country getCountry equals country Locale get Country getCountry equals country Locale CANADA get Country getCountry equals country INCH

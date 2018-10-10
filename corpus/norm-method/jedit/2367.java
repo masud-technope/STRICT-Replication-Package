@@ -1,1 +1,0 @@
-version scripted object implementing interfaces Object get Interface getInterface Util Eval Error UtilEvalError length is Instance isInstance Util Eval Error UtilEvalError Dynamic proxy mechanism construct type

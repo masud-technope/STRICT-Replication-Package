@@ -1,1 +1,0 @@
-ensure Capacity ensureCapacity method ensure Capacity ensureCapacity capacity capacity text length gap End Old gapEndOld gap End gapEnd text N textN capacity System arraycopy text text N textN text length text text N textN gap End New gapEndNew gap End gapEnd System arraycopy text gap End Old gapEndOld text gap End New gapEndNew text length gap End New gapEndNew

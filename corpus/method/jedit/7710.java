@@ -1,1 +1,0 @@
-void statusUpdated(Task task);

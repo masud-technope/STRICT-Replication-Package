@@ -1,1 +1,0 @@
-is Screen Line Count Valid isScreenLineCountValid method is Screen Line Count Valid isScreenLineCountValid screen Lines screenLines screen Lines screenLines length screen Lines screenLines

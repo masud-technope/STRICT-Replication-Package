@@ -1,1 +1,0 @@
-narrow Active narrowActive org gjt jedit textarea Text Area TextArea text Area textArea Status Bar StatusBar status view get Status getStatus status status set Message And Clear setMessageAndClear j Edit jEdit get Property getProperty view status narrow

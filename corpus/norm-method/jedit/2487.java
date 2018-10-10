@@ -1,1 +1,0 @@
-Returns code Segment code code Segment code generally efficient code String code memory allocation array copying method thread safe param param segment segment j Edit jEdit pre get Line Text getLineText Segment segment get Line Text getLineText segment

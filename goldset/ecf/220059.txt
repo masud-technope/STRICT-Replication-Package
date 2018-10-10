@@ -1,0 +1,8 @@
+framework/bundles/org.eclipse.ecf.filetransfer.ui/icons/filedownload.gif
+framework/bundles/org.eclipse.ecf.filetransfer.ui/icons/filetransfer.gif
+framework/bundles/org.eclipse.ecf.filetransfer.ui/icons/filewiz_download.png
+framework/bundles/org.eclipse.ecf.filetransfer.ui/icons/filewiz_upload.png
+framework/bundles/org.eclipse.ecf.filetransfer.ui/icons/transf_download.gif
+framework/bundles/org.eclipse.ecf.filetransfer.ui/icons/transf_upload.gif
+framework/bundles/org.eclipse.ecf.filetransfer.ui/icons/transf_view.gif
+framework/bundles/org.eclipse.ecf.filetransfer.ui/plugin.xml

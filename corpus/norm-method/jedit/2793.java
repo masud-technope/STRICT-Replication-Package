@@ -1,1 +1,0 @@
-selection To String selectionToString method String selection To String selectionToString Selection String Builder StringBuilder buf String Builder StringBuilder length buf append Selection sel sel Selection Range buf append range sel Selection Rect buf append rect buf append sel get Start getStart buf append buf append sel get End getEnd buf to String toString

@@ -1,1 +1,0 @@
-get Shortcut getShortcut method Returns marker shortcut character j Edit jEdit pre get Shortcut getShortcut shortcut

@@ -1,1 +1,0 @@
-extend Selection extendSelection methods selection offset creates selection offset resizing chunk selection question replacing param offset offset param selection j Edit jEdit pre extend Selection extendSelection offset extend Selection extendSelection offset

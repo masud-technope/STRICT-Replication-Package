@@ -1,1 +1,0 @@
-method temporary workaround defining Class definingClass removed point String get Class Being Defined getClassBeingDefined String class Name className String base Name baseName suffix class Name className String defining Classes Base Names definingClassesBaseNames base Name baseName

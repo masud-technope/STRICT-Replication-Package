@@ -1,1 +1,0 @@
-get Dockables getDockables method String get Dockables getDockables String ret Val retVal String dockables size dockables size Dockable Window Manager Impl DockableWindowManagerImpl Entry entry dockables ret Val retVal entry factory ret Val retVal

@@ -1,1 +1,0 @@
-get Multiple Selection Color getMultipleSelectionColor method Returns multiple selection color j Edit jEdit pre Color get Multiple Selection Color getMultipleSelectionColor multiple Selection Color multipleSelectionColor

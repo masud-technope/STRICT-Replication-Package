@@ -1,1 +1,0 @@
-to String toString method Override String to String toString get Class getClass get Name getName get Physical Line getPhysicalLine get Scroll Line getScrollLine

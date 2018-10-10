@@ -1,1 +1,0 @@
-buffer Loaded bufferLoaded method buffer Loaded bufferLoaded JEdit Buffer JEditBuffer buffer display Manager displayManager buffer Loaded bufferLoaded text Area textArea finish Caret Update finishCaretUpdate

@@ -1,1 +1,0 @@
-constructors Attach console Note method incomplete set Console setConsole Console Interface ConsoleInterface console console console setu bsh console console redundant constructor set Out setOut console get Out getOut set Err setErr console get Err getErr set input stream reinit parser

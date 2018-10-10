@@ -1,1 +1,0 @@
-Hyper Search Result HyperSearchResult constructor Hyper Search Result HyperSearchResult Buffer buffer path buffer get Path getPath buffer is Temporary isTemporary buffer Opened bufferOpened buffer str buffer get Line Text getLineText replace trim

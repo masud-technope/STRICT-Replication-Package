@@ -1,1 +1,0 @@
-public void error(String message);

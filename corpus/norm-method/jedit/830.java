@@ -1,1 +1,0 @@
-j Edit jEdit pre next Directory nextDirectory next Directory Stack nextDirectoryStack is Empty isEmpty set Directory setDirectory next Directory Stack nextDirectoryStack pop

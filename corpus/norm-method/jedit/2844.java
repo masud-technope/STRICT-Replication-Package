@@ -1,1 +1,0 @@
-sort method Sort buffer Set bufferSet buffer renamed j Edit jEdit pre sort sorter sort Collections sort buffers sorter notify listeners repaint Buffer Set Listener BufferSetListener listeners listeners get Listeners getListeners Buffer Set Listener BufferSetListener Buffer Set Listener BufferSetListener listener listeners listener buffer Set Sorted bufferSetSorted

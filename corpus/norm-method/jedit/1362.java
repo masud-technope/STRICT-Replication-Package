@@ -1,1 +1,0 @@
-set Message setMessage String message

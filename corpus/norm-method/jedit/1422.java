@@ -1,1 +1,0 @@
-manager interpreter Bsh Class Manager BshClassManager interpreter global namespace convenience method Bsh Class Manager BshClassManager get Class Manager getClassManager get Name Space getNameSpace get Class Manager getClassManager

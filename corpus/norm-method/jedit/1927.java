@@ -1,1 +1,0 @@
-scan token DOT scan token STAR

@@ -1,1 +1,0 @@
-Override Data Flavor DataFlavor flavor Data Flavor DataFlavor flavor List flavorList get Selected Value getSelectedValue flavor flavor Data Flavor DataFlavor string Flavor stringFlavor Registers paste text Area textArea flavor dispose

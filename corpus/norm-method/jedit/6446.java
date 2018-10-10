@@ -1,1 +1,0 @@
-is Tab isTab method Returns chunk represents tab is Tab isTab Segment line Text lineText length line Text lineText array line Text lineText offset offset

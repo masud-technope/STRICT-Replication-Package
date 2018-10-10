@@ -1,1 +1,0 @@
-get Dockable Position getDockablePosition String get Dockable Position getDockablePosition String j Edit jEdit get Property getProperty dock position FLOATING

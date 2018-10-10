@@ -1,1 +1,0 @@
-set NSHigh Resolution Capable setNSHighResolutionCapable m NSHigh Resolution Capable mNSHighResolutionCapable

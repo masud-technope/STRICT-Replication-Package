@@ -1,5 +1,0 @@
-/**
-	This method is called after all the child nodes have been
-	added.
-*/
-public void jjtClose();

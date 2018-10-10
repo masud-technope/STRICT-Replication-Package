@@ -1,1 +1,0 @@
-int Unary Operation intUnaryOperation Integer kind operand int Value intValue kind operand operand TILDE operand INCR operand DECR operand Interpreter Error InterpreterError bad integer unary Operation unaryOperation

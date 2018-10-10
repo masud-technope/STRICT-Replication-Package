@@ -1,1 +1,0 @@
-update method update JEdit Text Area JEditTextArea text Area textArea view get Text Area getTextArea text Area textArea text Area textArea is Overwrite Enabled isOverwriteEnabled overwrite set Text setText overwrite set Enabled setEnabled overwrite set Text setText overwrite set Enabled setEnabled

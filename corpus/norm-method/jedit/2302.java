@@ -1,1 +1,0 @@
-is Static isStatic Method Modifier is Static isStatic get Modifiers getModifiers

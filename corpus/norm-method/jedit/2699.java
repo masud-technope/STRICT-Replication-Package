@@ -1,1 +1,0 @@
-add method Compressed Replace CompressedReplace add Replace rep str Insert strInsert equals rep str Insert strInsert str Remove strRemove equals rep str Remove strRemove offsets add rep offset

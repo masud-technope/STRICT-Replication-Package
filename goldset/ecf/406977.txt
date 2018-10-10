@@ -1,0 +1,3 @@
+protocols/bundles/ch.ethz.iks.r_osgi.remote/buckminster.cspex
+protocols/bundles/ch.ethz.iks.r_osgi.remote/META-INF/MANIFEST.MF
+protocols/bundles/ch.ethz.iks.r_osgi.remote/buckminster.cspex

@@ -1,1 +1,0 @@
-unregister method unregister Dockable Window Manager Impl DockableWindowManagerImpl Entry entry entry entry btn entry container Note entry win reset enable dockable instance moved recreated MOVABLE attribute dispose

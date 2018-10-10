@@ -1,1 +1,0 @@
-print Object console console print print flush

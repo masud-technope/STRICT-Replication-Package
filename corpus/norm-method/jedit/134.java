@@ -1,1 +1,0 @@
-set Help Book Name setHelpBookName String bundle Properties bundleProperties set CFBundle Help Book Name setCFBundleHelpBookName

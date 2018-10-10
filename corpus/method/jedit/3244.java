@@ -1,1 +1,0 @@
-void show(DockableWindowManagerImpl.Entry entry);

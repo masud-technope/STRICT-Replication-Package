@@ -1,1 +1,0 @@
-init method Initialises dockable window manager call method init init Iterator Dockable Window Factory DockableWindowFactory Window entries factory get Dockable Window Iterator getDockableWindowIterator entries has Next hasNext add Entry addEntry entries properties Changed propertiesChanged

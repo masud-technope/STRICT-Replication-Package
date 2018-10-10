@@ -1,1 +1,0 @@
-get Caret Position getCaretPosition method Returns based caret position get Caret Position getCaretPosition caret

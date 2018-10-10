@@ -1,1 +1,0 @@
-Adds buffer change listener param listener listener j Edit jEdit pre add Buffer Listener addBufferListener Buffer Listener BufferListener listener add Buffer Listener addBufferListener listener NORMAL PRIORITY

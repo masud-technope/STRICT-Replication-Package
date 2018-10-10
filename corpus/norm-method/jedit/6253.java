@@ -1,1 +1,0 @@
-get Search String getSearchString method Returns current search string String get Search String getSearchString search

@@ -1,1 +1,0 @@
-get Current Page getCurrentPage method URL get Current Page getCurrentPage viewer get Page getPage

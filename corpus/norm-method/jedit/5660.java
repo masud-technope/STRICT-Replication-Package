@@ -1,1 +1,0 @@
-Entry Compare EntryCompare type sort Direction sortDirection type type sort Direction sortDirection sort Direction sortDirection

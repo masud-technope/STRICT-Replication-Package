@@ -1,1 +1,0 @@
-get Default Wrap getDefaultWrap get Cardinal Property getCardinalProperty buffer max Line Len maxLineLen

@@ -1,0 +1,1 @@
+protocols/bundles/org.eclipse.ecf.protocol.bittorrent/META-INF/MANIFEST.MF

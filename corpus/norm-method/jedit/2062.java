@@ -1,1 +1,0 @@
-scan token LPAREN scan token LBRACKET scan token RBRACKET

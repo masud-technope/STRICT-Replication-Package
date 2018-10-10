@@ -1,1 +1,0 @@
-scan token LBRACE Token xsp xsp scanpos scanpos xsp xsp scanpos scan token scanpos xsp scan token RBRACE

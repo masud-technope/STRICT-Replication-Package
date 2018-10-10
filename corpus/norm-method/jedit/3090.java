@@ -1,1 +1,0 @@
-is Canceled isCanceled canceled

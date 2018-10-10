@@ -1,1 +1,0 @@
-Property methods get Current Language getCurrentLanguage method Returns current language j Edit jEdit current language j Edit jEdit pre String get Current Language getCurrentLanguage String language get Boolean Property getBooleanProperty lang usedefaultlocale language Locale get Default getDefault get Language getLanguage language get Property getProperty lang current language

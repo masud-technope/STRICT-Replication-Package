@@ -1,1 +1,0 @@
-pre Content Inserted preContentInserted method pre Content Inserted preContentInserted JEdit Buffer JEditBuffer buffer start Line startLine offset num Lines numLines length buffer elastic Tabstops On elasticTabstopsOn handled Insertion handledInsertion buffer get Column Block getColumnBlock buffer get Column Block getColumnBlock set Dirty Status setDirtyStatus

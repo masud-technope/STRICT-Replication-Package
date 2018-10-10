@@ -1,1 +1,0 @@
-Text Area Input Handler TextAreaInputHandler constructor Text Area Input Handler TextAreaInputHandler Text Area TextArea text Area textArea text Area textArea text Area textArea bindings current Bindings currentBindings Hashtable

@@ -1,1 +1,0 @@
-get Views getViews method Returns array open views View get Views getViews View views View view Count viewCount View view views First viewsFirst view Count viewCount views view view view views

@@ -1,1 +1,0 @@
-is Wrap Guide Painted isWrapGuidePainted method Returns wrap guide drawn j Edit jEdit pre is Wrap Guide Painted isWrapGuidePainted wrap Guide wrapGuide

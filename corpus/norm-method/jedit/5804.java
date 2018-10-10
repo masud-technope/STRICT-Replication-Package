@@ -1,1 +1,0 @@
-plugin Removed pluginRemoved method callback called link Manage Panel ManagePanel plugin removed plugin update updater remove installer panel plugin plugin Removed pluginRemoved updater update Model updateModel installer update Model updateModel

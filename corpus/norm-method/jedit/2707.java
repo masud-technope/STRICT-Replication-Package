@@ -1,1 +1,0 @@
-get Marker In Range getMarkerInRange method marker range param start start offset param offset j Edit jEdit pre Marker get Marker In Range getMarkerInRange start Marker marker markers pos marker get Position getPosition pos start pos marker

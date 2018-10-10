@@ -1,1 +1,0 @@
-get Last View getLastView method Returns view View get Last View getLastView views Last viewsLast

@@ -1,1 +1,0 @@
-update Every Time updateEveryTime method update Every Time updateEveryTime

@@ -1,1 +1,0 @@
-get Column Count getColumnCount method get Column Count getColumnCount ext Attrs extAttrs size

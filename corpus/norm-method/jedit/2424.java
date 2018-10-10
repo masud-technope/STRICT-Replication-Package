@@ -1,1 +1,0 @@
-fold Handler Changed foldHandlerChanged method Called notify text area buffer reloaded param buffer buffer question j Edit jEdit pre buffer Loaded bufferLoaded JEdit Buffer JEditBuffer buffer

@@ -1,0 +1,2 @@
+releng/org.eclipse.ecf.releng.maps/ecf.core.map
+releng/features/org.eclipse.ecf.core-feature/feature.xml

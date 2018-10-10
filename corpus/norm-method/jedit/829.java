@@ -1,1 +1,0 @@
-get Last Visited Path getLastVisitedPath method Returns path visited VFSBrowser path visited returns code code String get Last Visited Path getLastVisitedPath History Model HistoryModel path Model pathModel History Model HistoryModel get Model getModel vfs browser path path Model pathModel get Size getSize path Model pathModel get Item getItem

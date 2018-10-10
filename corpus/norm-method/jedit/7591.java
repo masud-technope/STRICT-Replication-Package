@@ -1,1 +1,0 @@
-log method Logs exception message exception call link log exception explicitly presented debugging user manner exception message exception stack trace j Edit jEdit pre log urgency Object source Object message Throwable exception nicer start log urgency source message log urgency source exception

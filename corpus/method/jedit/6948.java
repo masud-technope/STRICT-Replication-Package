@@ -1,4 +1,0 @@
-//{{{ Range constructor
-public  Range() {
-//}}}
-}

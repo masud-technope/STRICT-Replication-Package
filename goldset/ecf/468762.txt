@@ -1,0 +1,13 @@
+framework/bundles/org.eclipse.ecf.ssl/.settings/org.eclipse.jdt.core.prefs
+providers/bundles/org.eclipse.ecf.provider.filetransfer.httpclient4.ssl/META-INF/MANIFEST.MF
+providers/bundles/org.eclipse.ecf.provider.filetransfer.ssl/.classpath
+providers/bundles/org.eclipse.ecf.provider.filetransfer/.classpath
+providers/bundles/org.eclipse.ecf.provider.filetransfer/.settings/org.eclipse.jdt.core.prefs
+framework/bundles/org.eclipse.ecf.filetransfer/.classpath
+providers/bundles/org.eclipse.ecf.provider.filetransfer.ssl/.settings/org.eclipse.jdt.core.prefs
+providers/bundles/org.eclipse.ecf.provider.filetransfer/META-INF/MANIFEST.MF
+framework/bundles/org.eclipse.ecf.filetransfer/META-INF/MANIFEST.MF
+framework/bundles/org.eclipse.ecf.filetransfer/.settings/org.eclipse.jdt.core.prefs
+framework/bundles/org.eclipse.ecf.ssl/.classpath
+providers/bundles/org.eclipse.ecf.provider.filetransfer.ssl/META-INF/MANIFEST.MF
+framework/bundles/org.eclipse.ecf.ssl/META-INF/MANIFEST.MF

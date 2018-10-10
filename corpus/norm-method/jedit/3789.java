@@ -1,1 +1,0 @@
-in Range inRange String string string string is Empty isEmpty equals string parse Float parseFloat string to Return toReturn max Value maxValue float Value floatValue min Value minValue float Value floatValue to Return toReturn

@@ -1,1 +1,0 @@
-get Column Name getColumnName method Override String get Column Name getColumnName column Index columnIndex delegated get Column Name getColumnName column Index columnIndex

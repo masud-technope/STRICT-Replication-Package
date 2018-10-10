@@ -1,1 +1,0 @@
-get Escape Char getEscapeChar correct character

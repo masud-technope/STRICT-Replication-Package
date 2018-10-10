@@ -1,0 +1,6 @@
+protocols/bundles/ch.ethz.iks.slp/.cvsignore
+protocols/bundles/ch.ethz.iks.slp/runtimeTests/.classpath
+protocols/bundles/ch.ethz.iks.slp/runtimeTests/.project
+protocols/bundles/ch.ethz.iks.slp/runtimeTests/META-INF/MANIFEST.MF
+protocols/bundles/ch.ethz.iks.slp/runtimeTests/build.properties
+protocols/bundles/ch.ethz.iks.slp/runtimeTests/pom.xml

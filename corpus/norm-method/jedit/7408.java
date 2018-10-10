@@ -1,1 +1,0 @@
-set Wrap Guide Painted setWrapGuidePainted method Sets wrap guide drawn param wrap Guide wrapGuide wrap guide drawn set Wrap Guide Painted setWrapGuidePainted wrap Guide wrapGuide wrap Guide wrapGuide wrap Guide wrapGuide repaint

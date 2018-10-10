@@ -1,1 +1,0 @@
-is Quick Copy Enabled isQuickCopyEnabled method Returns clicking middle mouse button pastes selection register Control dragging inserts selection caret is Quick Copy Enabled isQuickCopyEnabled quick Copy quickCopy

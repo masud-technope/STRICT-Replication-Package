@@ -1,1 +1,0 @@
-Attributed Character Iterator AttributedCharacterIterator get Committed Text getCommittedText begin Index beginIndex end Index endIndex Attributed Character Iterator AttributedCharacterIterator Attribute attributes Attributed String AttributedString owner get Text getText begin Index beginIndex end Index endIndex begin Index beginIndex get Iterator getIterator

@@ -1,1 +1,0 @@
-get Last Edit getLastEdit method Edit get Last Edit getLastEdit undos Last undosLast Compound Edit CompoundEdit Compound Edit CompoundEdit undos Last undosLast undos Last undosLast

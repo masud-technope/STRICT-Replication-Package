@@ -1,1 +1,0 @@
-has Previous hasPrevious method has Previous hasPrevious history Pos historyPos

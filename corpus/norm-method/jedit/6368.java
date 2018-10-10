@@ -1,1 +1,0 @@
-members register Service registerService method Registers service param service descriptor j Edit jEdit pre register Service registerService Descriptor service Map serviceMap

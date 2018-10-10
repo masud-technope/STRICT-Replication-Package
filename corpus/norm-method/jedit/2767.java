@@ -1,1 +1,0 @@
-is Temporary isTemporary method temporary buffer method thread safe j Edit jEdit open Temporary openTemporary View String String j Edit jEdit commit Temporary commitTemporary Buffer j Edit jEdit pre is Temporary isTemporary get Flag getFlag TEMPORARY

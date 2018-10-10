@@ -1,1 +1,0 @@
-get Active View Internal getActiveViewInternal method Returns internal active view pre View get Active View Internal getActiveViewInternal active View activeView

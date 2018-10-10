@@ -1,0 +1,3 @@
+examples/bundles/org.eclipse.ecf.example.collab/plugin.properties
+examples/bundles/org.eclipse.ecf.example.collab/plugin.xml
+examples/bundles/org.eclipse.ecf.example.collab.editor/plugin.xml

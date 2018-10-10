@@ -1,1 +1,0 @@
-set SUFeed URL setSUFeedURL String su Feed URL suFeedURL m SUFeed URL mSUFeedURL su Feed URL suFeedURL

@@ -1,1 +1,0 @@
-get Selected Files getSelectedFiles method selected files browser tree j Edit jEdit pre VFSFile get Selected Files getSelectedFiles browser View browserView get Selected Files getSelectedFiles

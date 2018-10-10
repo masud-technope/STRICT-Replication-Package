@@ -1,1 +1,0 @@
-Name Space NameSpace get Name Space getNameSpace namespace

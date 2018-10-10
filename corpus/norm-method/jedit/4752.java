@@ -1,1 +1,0 @@
-load From Parent loadFromParent method load From Parent loadFromParent String clazz Class Not Found Exception ClassNotFoundException cls Class Loader ClassLoader parent Loader parentLoader get Class getClass get Class Loader getClassLoader parent Loader parentLoader cls parent Loader parentLoader load Class loadClass clazz cls find System Class findSystemClass clazz cls

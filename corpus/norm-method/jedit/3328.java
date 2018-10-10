@@ -1,1 +1,0 @@
-focus Dockable focusDockable focus Dockable focusDockable String JComponent get Dockable getDockable Default Focus Component DefaultFocusComponent Default Focus Component DefaultFocusComponent focus On Default Component focusOnDefaultComponent request Focus requestFocus

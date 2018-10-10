@@ -1,1 +1,0 @@
-gnu is Gnu Mode isGnuMode GNU equals Ignore Case equalsIgnoreCase get Value getValue

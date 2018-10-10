@@ -1,0 +1,5 @@
+examples/bundles/org.eclipse.ecf.examples.remoteservices.hello.ds.host/META-INF/MANIFEST.MF
+examples/bundles/org.eclipse.ecf.examples.remoteservices.hello.ds.consumer/META-INF/MANIFEST.MF
+examples/bundles/org.eclipse.ecf.examples.remoteservices.hello.consumer.rs/META-INF/MANIFEST.MF
+examples/bundles/org.eclipse.ecf.examples.remoteservices.hello.host.rs/META-INF/MANIFEST.MF
+examples/bundles/org.eclipse.ecf.examples.remoteservices.hello.host/META-INF/MANIFEST.MF

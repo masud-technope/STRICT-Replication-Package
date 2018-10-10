@@ -1,1 +1,0 @@
-String get Dockable Window Plugin Class getDockableWindowPluginClass String Window get Dockable Window Factory getDockableWindowFactory plugin plugin get Plugin getPlugin plugin get Plugin getPlugin get Class Name getClassName

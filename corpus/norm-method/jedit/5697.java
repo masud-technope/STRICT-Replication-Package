@@ -1,1 +1,0 @@
-Override action Performed actionPerformed Action Event ActionEvent evt j Edit jEdit set Boolean Property setBooleanProperty plugin manager hide libraries toggle is Selected isSelected Manage Panel ManagePanel update

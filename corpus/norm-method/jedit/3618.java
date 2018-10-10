@@ -1,1 +1,0 @@
-History Text HistoryText constructor History Text HistoryText JText Component JTextComponent text String text text set Model setModel

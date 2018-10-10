@@ -1,1 +1,0 @@
-Override characters start length in Entry inEntry char Data charData append start length

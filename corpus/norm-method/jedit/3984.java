@@ -1,1 +1,0 @@
-advance methods advance log Advance Time logAdvanceTime progress repaint real Splash realSplash continuously wait Interrupted Exception InterruptedException Log log Log ERROR

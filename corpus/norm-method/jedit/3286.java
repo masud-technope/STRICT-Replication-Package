@@ -1,1 +1,0 @@
-Docking Area DockingArea get Bottom Docking Area getBottomDockingArea

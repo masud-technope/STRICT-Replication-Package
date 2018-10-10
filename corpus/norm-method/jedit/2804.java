@@ -1,1 +1,0 @@
-get History getHistory method Returns Buffer list buffer history list j Edit jEdit pre Suppress Warnings SuppressWarnings unchecked List Entry get History getHistory Returns snapshot avoid concurrent access history requires time method external operation history Lock historyLock read Lock readLock lock List Entry history clone history Lock historyLock read Lock readLock unlock

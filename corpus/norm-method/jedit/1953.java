@@ -1,1 +1,0 @@
-Lookahead enhanced statement Expect hit is Regular For Statement isRegularForStatement cur Tok curTok Token tok tok get Token getToken cur Tok curTok tok kind tok get Token getToken cur Tok curTok tok kind LPAREN tok get Token getToken cur Tok curTok tok kind COLON SEMICOLON EOF

@@ -1,1 +1,0 @@
-Sets register contents deprecated link set Transferable setTransferable java awt datatransfer Transferable code set Transferable setTransferable String Selection StringSelection code Deprecated set Value setValue String

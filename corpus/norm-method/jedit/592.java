@@ -1,1 +1,0 @@
-add Global Abbrev addGlobalAbbrev method Adds abbreviation global abbreviation list param abbrev abbreviation param expansion expansion j Edit jEdit pre add Global Abbrev addGlobalAbbrev String abbrev String expansion loaded load global Abbrevs globalAbbrevs abbrev expansion abbrevs Changed abbrevsChanged

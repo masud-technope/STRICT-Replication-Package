@@ -1,1 +1,0 @@
-Column Block ColumnBlock method Column Block ColumnBlock JEdit Buffer JEditBuffer buffer start Line startLine start Column startColumn end Line endLine end Column endColumn buffer start Line startLine start Column startColumn end Line endLine end Column endColumn buffer buffer

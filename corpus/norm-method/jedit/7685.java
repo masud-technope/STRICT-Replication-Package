@@ -1,1 +1,0 @@
-load Styles loadStyles methods Loads syntax styles properties base font family size param family font family param size font size j Edit jEdit pre Syntax Style SyntaxStyle load Styles loadStyles String family size load Styles loadStyles family size

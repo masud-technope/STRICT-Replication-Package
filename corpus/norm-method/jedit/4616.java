@@ -1,1 +1,0 @@
-Override String get Two Stage Save Name getTwoStageSaveName String path File parent File get Parent Of Path getParentOfPath path parent can Write canWrite Operating System OperatingSystem is Windows isWindows get Two Stage Save Name getTwoStageSaveName path

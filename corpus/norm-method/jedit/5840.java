@@ -1,1 +1,0 @@
-run In AWTThread runInAWTThread Component comp

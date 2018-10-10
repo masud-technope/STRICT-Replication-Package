@@ -1,1 +1,0 @@
-remove Tool Bar removeToolBar method remove Tool Bar removeToolBar Component toolbar remove Tool Bar removeToolBar top top Tool Bars topToolBars toolbar remove Tool Bar removeToolBar bottom bottom Tool Bars bottomToolBars toolbar

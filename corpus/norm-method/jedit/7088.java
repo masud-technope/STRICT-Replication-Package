@@ -1,1 +1,0 @@
-get First Physical Line getFirstPhysicalLine method Returns visible physical j Edit jEdit pre get First Physical Line getFirstPhysicalLine display Manager displayManager display Manager displayManager first Line firstLine display Manager displayManager first Line firstLine get Physical Line getPhysicalLine

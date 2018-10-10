@@ -1,1 +1,0 @@
-get Double getDouble double Value doubleValue

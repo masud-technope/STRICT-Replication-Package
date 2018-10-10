@@ -1,1 +1,0 @@
-get Component getComponent method JComponent get Component getComponent buffer Set Label bufferSetLabel

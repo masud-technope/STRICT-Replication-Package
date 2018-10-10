@@ -1,1 +1,0 @@
-Override process Mouse Event processMouseEvent Mouse Event MouseEvent evt evt get ID getID Mouse Event MouseEvent MOUSE PRESSED start Index startIndex list location To Index locationToIndex evt get Point getPoint process Mouse Event processMouseEvent evt

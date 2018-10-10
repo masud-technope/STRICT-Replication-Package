@@ -1,1 +1,0 @@
-Char Sequence CharSequence sub Sequence subSequence start sub Segment subSegment start

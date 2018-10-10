@@ -1,1 +1,0 @@
-Bsh Iterator BshIterator get Bsh Iterator getBshIterator Object obj Illegal Argument Exception IllegalArgumentException obj Collection obj Iterator Collection Iterator CollectionIterator obj org gjt jedit bsh Collection Manager CollectionManager Basic Bsh Iterator BasicBshIterator obj

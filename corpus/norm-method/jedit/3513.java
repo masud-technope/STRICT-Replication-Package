@@ -1,1 +1,0 @@
-get Size getSize method get Size getSize filtered Indices filteredIndices delegated get Size getSize filtered Indices filteredIndices size

@@ -1,1 +1,0 @@
-get Search Bar getSearchBar method Returns search bar j Edit jEdit pre Search Bar SearchBar get Search Bar getSearchBar search Bar searchBar

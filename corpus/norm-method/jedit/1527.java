@@ -1,1 +1,0 @@
-internal Frame Closed internalFrameClosed Internal Frame Event InternalFrameEvent event internal Frame Closed internalFrameClosed

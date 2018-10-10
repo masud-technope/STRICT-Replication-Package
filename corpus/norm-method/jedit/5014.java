@@ -1,1 +1,0 @@
-get Label getLabel method String get Label getLabel label

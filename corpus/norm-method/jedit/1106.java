@@ -1,1 +1,0 @@
-get Type getType type

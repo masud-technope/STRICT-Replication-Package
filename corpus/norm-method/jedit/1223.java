@@ -1,1 +1,0 @@
-param bases URLs JARClass Loader JARClassLoader require absolute paths Bsh Class Loader BshClassLoader Bsh Class Manager BshClassManager class Manager classManager URL bases bases class Manager classManager class Manager classManager

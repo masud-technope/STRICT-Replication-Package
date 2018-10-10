@@ -1,1 +1,0 @@
-set CFBundle Help Book Folder setCFBundleHelpBookFolder String m CFHelp Book Folder mCFHelpBookFolder

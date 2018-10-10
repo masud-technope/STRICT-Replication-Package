@@ -1,1 +1,0 @@
-attribute String aname String aname equals TOP top aname equals LEFT left aname equals BOTTOM bottom aname equals aname equals TOP POS top Pos topPos Integer parse Int parseInt aname equals LEFT POS left Pos leftPos Integer parse Int parseInt aname equals BOTTOM POS bottom Pos bottomPos Integer parse Int parseInt aname equals POS right Pos rightPos Integer parse Int parseInt

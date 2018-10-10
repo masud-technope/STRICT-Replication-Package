@@ -1,1 +1,0 @@
-create Mark Following Rule createMarkFollowingRule method Parser Rule ParserRule create Mark Following Rule createMarkFollowingRule pos Match posMatch String seq match Type matchType rule Action ruleAction MARK Parser Rule ParserRule rule Action ruleAction seq substring pos Match posMatch seq to Char Array toCharArray match Type matchType

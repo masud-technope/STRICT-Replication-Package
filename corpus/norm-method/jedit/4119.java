@@ -1,1 +1,0 @@
-callback telling properties changed widget update needed properties Changed propertiesChanged

@@ -1,1 +1,0 @@
-get Model getModel method Returns underlying history model History Model HistoryModel get Model getModel controller get Model getModel

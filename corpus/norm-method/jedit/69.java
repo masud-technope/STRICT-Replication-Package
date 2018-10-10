@@ -1,1 +1,0 @@
-String get Splash File getSplashFile m Splash File mSplashFile

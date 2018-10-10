@@ -1,1 +1,0 @@
-Override get End Index getEndIndex sequence length

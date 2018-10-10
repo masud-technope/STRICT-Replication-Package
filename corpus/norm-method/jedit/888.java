@@ -1,1 +1,0 @@
-uninstall Mouse Hook uninstallMouseHook Mouse Listener MouseListener listeners header get Mouse Listeners getMouseListeners listeners length Mouse Listener MouseListener listeners listeners mouse Delegate mouseDelegate header remove Mouse Listener removeMouseListener Mouse Listener MouseListener listeners header add Mouse Listener addMouseListener

@@ -1,1 +1,0 @@
-skip Window skipWindow method Check window top level systray icon param window checked window toplevel systray icon skip Window skipWindow Window window window get Class getClass get Name getName Tray

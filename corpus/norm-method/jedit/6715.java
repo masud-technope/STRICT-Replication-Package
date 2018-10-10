@@ -1,1 +1,0 @@
-buffer Loaded bufferLoaded method buffer Loaded bufferLoaded initialized folds reset buffer get Line Count getLineCount screen Line Mgr screenLineMgr reset text Area textArea get Display Manager getDisplayManager text Area textArea properties Changed propertiesChanged init init called buffer set text Area textArea

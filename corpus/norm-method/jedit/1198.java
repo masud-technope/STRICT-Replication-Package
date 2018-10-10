@@ -1,1 +1,0 @@
-Translate bsh Modifiers ASM modifier bitflags get ASMModifiers getASMModifiers Modifiers modifiers mods modifiers mods modifiers has Modifier hasModifier mods ACC modifiers has Modifier hasModifier mods ACC modifiers has Modifier hasModifier mods ACC modifiers has Modifier hasModifier mods ACC modifiers has Modifier hasModifier mods ACC mods

@@ -1,1 +1,0 @@
-Creates regular expression string matcher java util regex Pattern param search search pattern param ignore Case ignoreCase code code ignore j Edit jEdit pre Pattern Search Matcher PatternSearchMatcher String search ignore Case ignoreCase pattern search flags get Flag getFlag ignore Case ignoreCase

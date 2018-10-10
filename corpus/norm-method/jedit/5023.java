@@ -1,1 +1,0 @@
-run Macro runMacro method Override run Macro runMacro View view Macro macro own Namespace ownNamespace Bean Shell BeanShell run Script runScript view macro get Path getPath own Namespace ownNamespace

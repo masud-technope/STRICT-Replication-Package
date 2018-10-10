@@ -1,1 +1,0 @@
-Dockable Window Manager DockableWindowManager constructor Dockable Window Manager DockableWindowManager View view Dockable Window Factory DockableWindowFactory instance View Config ViewConfig config view view factory instance alternate Layout alternateLayout j Edit jEdit get Boolean Property getBooleanProperty ALTERNATE LAYOUT PROP

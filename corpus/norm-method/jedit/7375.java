@@ -1,1 +1,0 @@
-get EOLMarker Color getEOLMarkerColor method Returns EOL marker color Color get EOLMarker Color getEOLMarkerColor eol Marker Color eolMarkerColor

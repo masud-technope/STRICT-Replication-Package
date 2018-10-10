@@ -1,2 +1,0 @@
-doc/CHANGES.txt
-org/gjt/sp/jedit/gui/StyleEditor.java

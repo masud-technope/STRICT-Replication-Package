@@ -1,1 +1,0 @@
-Override start Element startElement String uri String local Name localName String q Name qName Attributes attrs SAXException local Name localName equals plugin String jar Name jarName attrs get Value getValue jar String attrs get Value getValue selected Plugins selectedPlugins add jar Names jarNames add jar Name jarName

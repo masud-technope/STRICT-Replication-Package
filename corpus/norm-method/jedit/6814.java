@@ -1,1 +1,0 @@
-is Structure Highlight Enabled isStructureHighlightEnabled method Returns structure highlighting enabled j Edit jEdit pre is Structure Highlight Enabled isStructureHighlightEnabled structure Highlight structureHighlight

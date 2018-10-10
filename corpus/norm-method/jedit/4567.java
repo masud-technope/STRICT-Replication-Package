@@ -1,1 +1,0 @@
-Encoding Nonnull Reader get Text Reader getTextReader Nonnull Input Stream InputStream IOException actual Mark actualMark bom length count read actual Mark actualMark count bom length Arrays equals actual Mark actualMark bom Malformed Input Exception MalformedInputException plain get Text Reader getTextReader

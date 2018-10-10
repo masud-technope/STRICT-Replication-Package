@@ -1,1 +1,0 @@
-clear data is Empty isEmpty data size data clear fire Interval Removed fireIntervalRemoved

@@ -1,1 +1,0 @@
-String detect Encoding detectEncoding Input Stream InputStream sample IOException mark count sample read mark BOM xff high BOM xff count mark mark high mark mark UTF BOM mark mark mark high mark UTF BOM count mark mark high UTF BOM mark high mark works UTF BOM UTF count UTF BOM length UTF BOM length mark UTF BOM UTF BOM length UTF

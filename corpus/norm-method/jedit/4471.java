@@ -1,1 +1,0 @@
-calculate Indent calculateIndent JEdit Buffer JEditBuffer buffer old Indent oldIndent new Indent newIndent new Indent newIndent buffer get Indent Size getIndentSize amount

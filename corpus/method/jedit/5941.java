@@ -1,3 +1,0 @@
-public  OrientationCellRenderer() {
-    setOpaque(true);
-}

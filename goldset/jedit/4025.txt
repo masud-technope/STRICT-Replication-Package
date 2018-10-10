@@ -1,2 +1,0 @@
-org/gjt/sp/jedit/Buffer.java
-org/gjt/sp/jedit/MiscUtilities.java

@@ -1,1 +1,0 @@
-add method add num len array length array N arrayN len System arraycopy array array N arrayN len array array N arrayN array len num

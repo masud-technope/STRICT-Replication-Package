@@ -1,1 +1,0 @@
-public void addNameSourceListener(NameSource.Listener listener);

@@ -1,1 +1,0 @@
-get Column On Other Line getColumnOnOtherLine Buffer buffer col return Value returnValue buffer get Offset Of Virtual Column getOffsetOfVirtualColumn col return Value returnValue buffer get Line End Offset getLineEndOffset buffer get Line Start Offset getLineStartOffset return Value returnValue

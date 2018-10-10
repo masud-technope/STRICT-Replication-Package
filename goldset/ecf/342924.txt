@@ -1,0 +1,17 @@
+doc/bundles/org.eclipse.ecf.doc/javadoc.xml
+protocols/bundles/org.apache.zookeeper/.classpath
+protocols/bundles/org.apache.zookeeper/.project
+protocols/bundles/org.apache.zookeeper/.settings/org.eclipse.jdt.core.prefs
+protocols/bundles/org.apache.zookeeper/.settings/org.eclipse.jdt.ui.prefs
+protocols/bundles/org.apache.zookeeper/.settings/org.eclipse.pde.core.prefs
+protocols/bundles/org.apache.zookeeper/META-INF/MANIFEST.MF
+protocols/bundles/org.apache.zookeeper/about.html
+protocols/bundles/org.apache.zookeeper/asl-v20.txt
+protocols/bundles/org.apache.zookeeper/build.properties
+protocols/bundles/org.apache.zookeeper/conf/log4j.properties
+protocols/bundles/org.apache.zookeeper/overview.html
+protocols/bundles/org.apache.zookeeper/zookeeper-3.3.0.jar
+releng/features/org.eclipse.ecf.sdk/org.eclipse.ecf.sdk.cquery
+releng/features/org.eclipse.ecf.sdk/org.eclipse.ecf.sdk.mspec
+releng/org.eclipse.ecf.releng/projectSet-anonymous.psf
+releng/org.eclipse.ecf.releng/projectSet-extssh.psf

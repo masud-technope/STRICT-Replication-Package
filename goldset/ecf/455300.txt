@@ -1,0 +1,3 @@
+tests/bundles/org.eclipse.ecf.tests.protocol.msn/pom.xml
+pom.xml
+tests/bundles/org.eclipse.ecf.tests.protocol.msn/META-INF/MANIFEST.MF

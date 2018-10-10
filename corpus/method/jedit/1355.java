@@ -1,1 +1,0 @@
-public void error(Object o);

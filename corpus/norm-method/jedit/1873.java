@@ -1,1 +1,0 @@
-Labeled Statement LabeledStatement Parse Exception ParseException consume token IDENTIFIER consume token COLON Statement

@@ -1,1 +1,0 @@
-get Selected Color getSelectedColor method Color get Selected Color getSelectedColor Color Well ColorWell get Icon getIcon color

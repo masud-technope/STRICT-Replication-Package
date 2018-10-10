@@ -1,1 +1,0 @@
-JComponent get Component getComponent mode

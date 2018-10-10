@@ -1,1 +1,0 @@
-get Selection Color getSelectionColor method Returns selection color Color get Selection Color getSelectionColor selection Color selectionColor

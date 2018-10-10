@@ -1,1 +1,0 @@
-contains Null Character containsNullCharacter Reader reader IOException nb Chars nbChars j Edit jEdit get Integer Property getIntegerProperty vfs binary Check binaryCheck length authorized j Edit jEdit get Integer Property getIntegerProperty vfs binary Check binaryCheck count nb Chars nbChars reader read authorized authorized

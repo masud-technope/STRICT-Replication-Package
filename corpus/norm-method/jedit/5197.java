@@ -1,1 +1,0 @@
-Returns edit pane involved Edit Pane EditPane get Edit Pane getEditPane Edit Pane EditPane get Source getSource

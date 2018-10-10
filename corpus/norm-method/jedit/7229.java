@@ -1,1 +1,0 @@
-get Line Count getLineCount method Returns number physical lines buffer get Line Count getLineCount buffer get Line Count getLineCount

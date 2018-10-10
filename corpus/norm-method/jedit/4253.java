@@ -1,1 +1,0 @@
-component Resized componentResized method Override component Resized componentResized Component Event ComponentEvent component Moved componentMoved

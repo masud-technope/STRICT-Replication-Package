@@ -1,1 +1,0 @@
-Returns selection code get Selection Count getSelectionCount code j Edit jEdit pre param selection Selection get Selection getSelection selection Manager selectionManager selection

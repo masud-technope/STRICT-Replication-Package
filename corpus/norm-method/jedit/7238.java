@@ -1,1 +1,0 @@
-remove Top Component removeTopComponent method Removes component gutter text area vertical scroll bar j Edit jEdit pre remove Top Component removeTopComponent Component comp remove comp

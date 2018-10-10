@@ -1,1 +1,0 @@
-to String toString method String to String toString Boyer Moore Search Matcher BoyerMooreSearchMatcher String pattern ignore Case ignoreCase

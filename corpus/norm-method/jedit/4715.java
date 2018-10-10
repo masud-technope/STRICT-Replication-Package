@@ -1,1 +1,0 @@
-get Color getColor method Returns color display file color file Color get Color getColor color Calculated colorCalculated color Calculated colorCalculated color VFS get Default Color For getDefaultColorFor color

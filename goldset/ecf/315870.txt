@@ -1,0 +1,3 @@
+releng/features/org.eclipse.ecf.platform-feature/feature.xml
+releng/features/org.eclipse.ecf.tests-platform-feature/feature.xml
+tests/bundles/org.eclipse.ecf.tests.filetransfer/META-INF/MANIFEST.MF

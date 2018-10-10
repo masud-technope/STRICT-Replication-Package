@@ -1,1 +1,0 @@
-get NSSupports Automatic Graphics Switching getNSSupportsAutomaticGraphicsSwitching m NSSupports Automatic Graphics Switching mNSSupportsAutomaticGraphicsSwitching

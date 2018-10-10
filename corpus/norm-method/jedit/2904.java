@@ -1,1 +1,0 @@
-Rich Text Transferable RichTextTransferable String text String mode text text mode mode

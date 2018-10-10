@@ -1,1 +1,0 @@
-get Rule Count getRuleCount method get Rule Count getRuleCount rule Count ruleCount

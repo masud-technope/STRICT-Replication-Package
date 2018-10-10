@@ -1,1 +1,0 @@
-get Array getArray method get Array getArray array

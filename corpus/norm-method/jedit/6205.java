@@ -1,1 +1,0 @@
-Copy To Clipboard Action CopyToClipboardAction j Edit jEdit get Property getProperty hypersearch copy clipboard

@@ -1,1 +1,0 @@
-boolean accept(TextArea textArea, String text);

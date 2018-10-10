@@ -1,1 +1,0 @@
-get Extensions getExtensions method Text Area Extension TextAreaExtension get Extensions getExtensions Text Area Extension TextAreaExtension ret Val retVal Text Area Extension TextAreaExtension extensions size Iterator Entry iter extensions iterator iter has Next hasNext ret Val retVal iter ext ret Val retVal

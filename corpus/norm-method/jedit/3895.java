@@ -1,1 +1,0 @@
-get Left Size getLeftSize method get Left Size getLeftSize left Model leftModel get Size getSize

@@ -1,1 +1,0 @@
-register Dockable Window registerDockableWindow method register Dockable Window registerDockableWindow Plugin JAR PluginJAR plugin String String code actions movable Window factory dockable Window Factories dockableWindowFactories factory factory code code factory loaded factory Window plugin code actions movable dockable Window Factories dockableWindowFactories factory

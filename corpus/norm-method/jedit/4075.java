@@ -1,1 +1,0 @@
-get Widget getWidget method Widget get Widget getWidget View view Mode Widget ModeWidget mode Mode Widget ModeWidget view mode

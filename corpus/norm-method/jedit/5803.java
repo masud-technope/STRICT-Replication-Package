@@ -1,1 +1,0 @@
-get Instance getInstance method Returns visible plugin manager window j Edit jEdit pre Plugin Manager PluginManager get Instance getInstance instance

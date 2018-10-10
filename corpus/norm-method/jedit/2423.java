@@ -1,1 +1,0 @@
-fold Level Changed foldLevelChanged method Called fold levels change param buffer buffer question param start start number param number j Edit jEdit pre fold Level Changed foldLevelChanged JEdit Buffer JEditBuffer buffer start

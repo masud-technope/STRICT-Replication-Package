@@ -1,1 +1,0 @@
-write Languages writeLanguages method write Languages writeLanguages Data Output Stream DataOutputStream dout Map String Properties languages IOException dout write Int writeInt languages size Map Entry String Properties entry languages entry Set entrySet write String writeString dout entry get Key getKey write Map writeMap dout entry get Value getValue

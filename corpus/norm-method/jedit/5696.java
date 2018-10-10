@@ -1,1 +1,0 @@
-Hide Libraries Button HideLibrariesButton j Edit jEdit get Property getProperty plugin manager hide libraries set Selected setSelected j Edit jEdit get Boolean Property getBooleanProperty plugin manager hide libraries toggle add Action Listener addActionListener

@@ -1,1 +1,0 @@
-check Exist Not Directory checkExistNotDirectory String dir File File dir exists is Directory isDirectory message set Foreground setForeground Color red message set Text setText installer get Property getProperty dir directory

@@ -1,1 +1,0 @@
-Locked Widget LockedWidget View view cmp Tool Tip Label ToolTipLabel cmp set Horizontal Alignment setHorizontalAlignment Swing Constants SwingConstants CENTER view view cmp add Mouse Listener addMouseListener Mouse Adapter MouseAdapter Override mouse Clicked mouseClicked Mouse Event MouseEvent evt view get Buffer getBuffer toggle Locked toggleLocked view

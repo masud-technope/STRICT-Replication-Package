@@ -1,1 +1,0 @@
-fire Status Changed fireStatusChanged method fire Status Changed fireStatusChanged flag Object listeners listener List listenerList get Listener List getListenerList listeners length listeners Status Listener StatusListener Status Listener StatusListener listeners status Changed statusChanged flag Throwable Log log Log ERROR

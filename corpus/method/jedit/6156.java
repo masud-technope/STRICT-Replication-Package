@@ -1,1 +1,0 @@
-Buffer getBuffer(View view);

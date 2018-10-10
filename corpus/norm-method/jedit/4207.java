@@ -1,1 +1,0 @@
-JEdit Tray Icon JEditTrayIcon Image image String tooltip image tooltip

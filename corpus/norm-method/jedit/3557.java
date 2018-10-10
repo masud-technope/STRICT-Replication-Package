@@ -1,1 +1,0 @@
-set Anti Alias Enabled setAntiAliasEnabled method set Anti Alias Enabled setAntiAliasEnabled Graphics anti Alias antiAlias Graphics Graphics set Rendering Hint setRenderingHint Rendering Hints RenderingHints KEY ANTIALIASING Rendering Hints RenderingHints ANTIALIAS

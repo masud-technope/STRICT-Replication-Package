@@ -1,1 +1,0 @@
-String abbreviate View abbreviateView String path j Edit jEdit get Boolean Property getBooleanProperty view abbreviate Paths abbreviatePaths path abbreviate path

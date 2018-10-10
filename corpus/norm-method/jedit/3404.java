@@ -1,1 +1,0 @@
-String get Current Edit Mode getCurrentEditMode View view Buffer buffer view get Buffer getBuffer buffer Mode buffer Mode bufferMode buffer get Mode getMode buffer Mode bufferMode buffer Mode bufferMode get Name getName

@@ -1,1 +1,0 @@
-Returns width leading whitespace segment whitespace characters get Leading Whitespace Width getLeadingWhitespaceWidth Segment seg tab Size tabSize offset seg offset count seg count whitespace count seg array offset whitespace whitespace tab Size tabSize whitespace tab Size tabSize whitespace

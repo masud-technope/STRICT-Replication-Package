@@ -1,1 +1,0 @@
-save method Saves buffer path current path param view view param path path save buffer existing path param rename buffer path changed copy saved filename buffer saved j Edit jEdit pre save View view String path rename save view path rename

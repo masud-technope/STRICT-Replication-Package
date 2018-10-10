@@ -1,1 +1,0 @@
-set Left Tooltip setLeftTooltip method set Left Tooltip setLeftTooltip String left Tooltip leftTooltip left set Tool Tip Text setToolTipText left Tooltip leftTooltip

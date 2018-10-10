@@ -1,1 +1,0 @@
-create Macro createMacro method Override Macro create Macro createMacro String macro Name macroName String path Remove bsh macro Name macroName macro Name macroName substring macro Name macroName length Macro macro Name macroName Macro macro Name To Label macroNameToLabel macro Name macroName path

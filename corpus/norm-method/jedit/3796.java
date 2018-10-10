@@ -1,1 +1,0 @@
-set maximum allowed text field Numeric Text Field NumericTextField constructed positive values set Max Value setMaxValue Number positive Only positiveOnly float Value floatValue integer Only integerOnly int Value intValue min min Value minValue int Value intValue min float Value floatValue min min Value minValue float Value floatValue min max Value maxValue

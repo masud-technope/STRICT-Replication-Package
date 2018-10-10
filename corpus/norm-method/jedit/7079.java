@@ -1,1 +1,0 @@
-narrow To Fold narrowToFold method Hides lines fold caret j Edit jEdit pre narrow To Fold narrowToFold lines buffer get Fold At Line getFoldAtLine caret Line caretLine lines lines buffer get Line Count getLineCount javax swing UIManager get Look And Feel getLookAndFeel provide Error Feedback provideErrorFeedback display Manager displayManager narrow lines lines

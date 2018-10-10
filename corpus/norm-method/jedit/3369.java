@@ -1,1 +1,0 @@
-Entry constructor Entry Dockable Window Factory DockableWindowFactory Window factory factory j Edit jEdit get Property getProperty factory dock position FLOATING

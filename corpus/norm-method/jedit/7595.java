@@ -1,1 +1,0 @@
-log Exception logException method log Exception logException urgency Object source Throwable message Print Stream PrintStream create Print Stream createPrintStream urgency source urgency level throwables throwables size MAX THROWABLES throwables remove throwables add message LOCK message print Stack Trace printStackTrace

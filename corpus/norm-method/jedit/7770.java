@@ -1,1 +1,0 @@
-add To Clipboard And History addToClipboardAndHistory Selection selection add To Clipboard And History addToClipboardAndHistory text Area textArea get Selected Text getSelectedText selection

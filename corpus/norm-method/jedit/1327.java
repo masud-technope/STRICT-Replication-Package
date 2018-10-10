@@ -1,1 +1,0 @@
-Fetch object iteration object Object iterator

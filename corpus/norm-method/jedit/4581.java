@@ -1,1 +1,0 @@
-get Favorites getFavorites method VFSFile get Favorites getFavorites lock favorites load Favorites loadFavorites favorites to Array toArray VFSFile favorites size

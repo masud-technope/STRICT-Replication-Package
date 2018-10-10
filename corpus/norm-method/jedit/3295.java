@@ -1,1 +1,0 @@
-get Dockable Title getDockableTitle method Returns title dockable window param dockable window j Edit jEdit pre String get Dockable Title getDockableTitle String long Title longTitle

@@ -1,1 +1,0 @@
-param buffer buffer param number matched rule indented param old Indent oldIndent Original indent param new Indent newIndent indent indent returned previous indent action calculate Indent calculateIndent JEdit Buffer JEditBuffer buffer old Indent oldIndent new Indent newIndent

@@ -1,1 +1,0 @@
-set Screen Line Count setScreenLineCount method Sets number screen lines physical split param physical number param count count wrap soft wrap j Edit jEdit pre set Screen Line Count setScreenLineCount count count screen Line Mgr screenLineMgr set Screen Line Count setScreenLineCount count

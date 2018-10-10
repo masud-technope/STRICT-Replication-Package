@@ -1,1 +1,0 @@
-interactive mode interpreter exits Java input interactive mode interpreter issue System exit eof interpreter System exit Note EOF externally closing input stream guaranteed work older versions Java Java limitations work newer JDK JREs motivation Java NIO set Exit On EOF setExitOnEOF exit On EOF exitOnEOF

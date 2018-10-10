@@ -1,1 +1,0 @@
-do Type Select doTypeSelect method do Type Select doTypeSelect String str start dirs Only dirsOnly VFSFile files VFSDirectory Entry Table Model VFSDirectoryEntryTableModel get Model getModel get Files getFiles VFSFile find Completion findCompletion files start str dirs Only dirsOnly set Selected Row setSelectedRow

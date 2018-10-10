@@ -1,1 +1,0 @@
-Style Choice StyleChoice String label String property Syntax Style SyntaxStyle style label label property property style style

@@ -1,1 +1,0 @@
-get Font Render Context getFontRenderContext method Returns font render context j Edit jEdit pre Font Render Context FontRenderContext get Font Render Context getFontRenderContext font Render Context fontRenderContext

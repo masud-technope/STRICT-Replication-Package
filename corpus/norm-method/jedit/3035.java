@@ -1,1 +1,0 @@
-Object obj String str obj obj to String toString JOption Pane JOptionPane show Message Dialog showMessageDialog j Edit jEdit get Active View getActiveView str Title

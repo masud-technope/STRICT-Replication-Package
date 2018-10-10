@@ -1,1 +1,0 @@
-is Structure Highlight Visible isStructureHighlightVisible method Returns structure highlight visible j Edit jEdit pre is Structure Highlight Visible isStructureHighlightVisible match has Focus hasFocus display Manager displayManager is Line Visible isLineVisible match start Line startLine display Manager displayManager is Line Visible isLineVisible match end Line endLine

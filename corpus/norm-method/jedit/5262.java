@@ -1,1 +1,0 @@
-Abbrev Compare AbbrevCompare col col col

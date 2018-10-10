@@ -1,1 +1,0 @@
-get Whole Word getWholeWord method Returns word flag searched pre get Whole Word getWholeWord whole Word wholeWord

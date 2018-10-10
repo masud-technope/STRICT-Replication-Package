@@ -1,1 +1,0 @@
-set CFBundle Icon File setCFBundleIconFile String m CFBundle Icon File mCFBundleIconFile

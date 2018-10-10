@@ -1,1 +1,0 @@
-get Macro Recorder getMacroRecorder method Returns macro recorder Macros Recorder get Macro Recorder getMacroRecorder recorder

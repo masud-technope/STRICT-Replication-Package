@@ -1,1 +1,0 @@
-enables users copy error messages clipboard Ctrl Windows works entry selected mouse click String to String toString path Text Utilities TextUtilities join java util Arrays as List asList messages

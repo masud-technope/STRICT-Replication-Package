@@ -1,1 +1,0 @@
-get Ignore Case getIgnoreCase method get Ignore Case getIgnoreCase ignore Case ignoreCase

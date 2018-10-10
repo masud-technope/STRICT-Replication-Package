@@ -1,1 +1,0 @@
-get Smart Case Replace getSmartCaseReplace method Returns replacement string assume specific occurrence search string j Edit jEdit pre get Smart Case Replace getSmartCaseReplace replace Text Utilities TextUtilities get String Case getStringCase replace Text Utilities TextUtilities

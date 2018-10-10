@@ -1,1 +1,0 @@
-code Component constraints object describes Component get Component getComponent component

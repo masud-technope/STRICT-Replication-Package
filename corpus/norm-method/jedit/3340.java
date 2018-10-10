@@ -1,1 +1,0 @@
-List Key parse Shortcut parseShortcut String shortcut String parts shortcut split List Key Array List ArrayList Key parts length String parts length add Key Event Translator KeyEventTranslator parse Key parseKey

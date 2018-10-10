@@ -1,1 +1,0 @@
-dispose method Override dispose GUIUtilities save Geometry saveGeometry j Edit jEdit set Integer Property setIntegerProperty splitter splitter get Divider Location getDividerLocation dispose

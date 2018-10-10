@@ -1,1 +1,0 @@
-uri points file remote protocol uri file is Remote isRemote String uri Misc Utilities MiscUtilities is URL isURL uri String protocol Misc Utilities MiscUtilities get Protocol Of URL getProtocolOfURL uri protocol equals file

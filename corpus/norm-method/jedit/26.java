@@ -1,1 +1,0 @@
-List get Document Types getDocumentTypes m Document Types mDocumentTypes

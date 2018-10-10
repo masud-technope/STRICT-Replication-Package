@@ -1,1 +1,0 @@
-starts With startsWith Char Sequence CharSequence seq String str ret str length seq length seq char At charAt str char At charAt ret ret

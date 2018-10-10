@@ -1,1 +1,0 @@
-Returns component inserted status bar JComponent JComponent get Component getComponent

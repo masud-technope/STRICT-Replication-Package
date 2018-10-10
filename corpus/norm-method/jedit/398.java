@@ -1,1 +1,0 @@
-Install props Properties Input Stream InputStream get Class getClass get Resource As Stream getResourceAsStream installer install props props load close IOException System err println Error loading install props print Stack Trace printStackTrace buf

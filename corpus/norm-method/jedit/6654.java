@@ -1,1 +1,0 @@
-invalidate All invalidateAll method invalidate All invalidateAll first Invalid Line firstInvalidLine last Screen Line lastScreenLine last Screen Line P lastScreenLineP

@@ -1,1 +1,0 @@
-set Splash File setSplashFile String m Splash File mSplashFile

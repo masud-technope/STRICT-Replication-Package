@@ -1,1 +1,0 @@
-get Preferred Size getPreferredSize method Component get Preferred Size getPreferredSize overridden support collapsing behavior Dimension get Preferred Size getPreferredSize enabled disabled Size disabledSize expanded gutter Size gutterSize collapsed Size collapsedSize

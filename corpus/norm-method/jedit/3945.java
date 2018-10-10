@@ -1,1 +1,0 @@
-action Performed actionPerformed Action Event ActionEvent view get Text Area getTextArea request Focus requestFocus view to Front toFront

@@ -1,1 +1,0 @@
-Override window Closing windowClosing Window Event WindowEvent evt j Edit jEdit close View closeView View

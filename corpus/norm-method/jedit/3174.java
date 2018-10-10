@@ -1,1 +1,0 @@
-Returns completion valid is Valid isValid

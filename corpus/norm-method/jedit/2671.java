@@ -1,1 +1,0 @@
-can Undo canUndo method can Undo canUndo undos Last undosLast

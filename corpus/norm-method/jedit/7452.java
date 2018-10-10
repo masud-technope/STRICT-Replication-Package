@@ -1,1 +1,0 @@
-close All Menus closeAllMenus closes popup menus opened j Edit jEdit pre close All Menus closeAllMenus Menu Selection Manager MenuSelectionManager default Manager defaultManager clear Selected Path clearSelectedPath Keyboard Focus Manager KeyboardFocusManager get Current Keyboard Focus Manager getCurrentKeyboardFocusManager clear Global Focus Owner clearGlobalFocusOwner

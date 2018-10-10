@@ -1,1 +1,0 @@
-get Cache Path getCachePath method Returns full path plugin summary file summary file store loading plugin resources core deferred plugin plugin j Edit jEdit plugin API extra effort required advantage summary cache String get Cache Path getCachePath cache Path cachePath

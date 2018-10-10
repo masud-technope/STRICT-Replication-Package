@@ -1,1 +1,0 @@
-is Perspective Dirty isPerspectiveDirty method autosave perspective changed avoid spinning disk laptops j Edit jEdit pre is Perspective Dirty isPerspectiveDirty dirty

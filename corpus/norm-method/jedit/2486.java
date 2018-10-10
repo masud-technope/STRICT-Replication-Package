@@ -1,1 +1,0 @@
-is Read Only isReadOnly method file read method thread safe is Read Only isReadOnly read Only readOnly read Only Override readOnlyOverride

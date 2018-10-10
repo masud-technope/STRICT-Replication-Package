@@ -1,1 +1,0 @@
-get Column End Index getColumnEndIndex method get Column End Index getColumnEndIndex col End Index colEndIndex

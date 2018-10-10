@@ -1,1 +1,0 @@
-Test read Should Correctly Handle EOF readShouldCorrectlyHandleEOF IOException get Reader getReader read assert That assertThat equal To equalTo

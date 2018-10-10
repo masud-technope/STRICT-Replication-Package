@@ -1,1 +1,0 @@
-get Repeat Count getRepeatCount method Returns number times action repeated get Repeat Count getRepeatCount repeat Count repeatCount

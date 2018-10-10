@@ -1,1 +1,0 @@
-label title dock buttons String label String retval j Edit jEdit get Property getProperty factory label retval retval replace All replaceAll retval

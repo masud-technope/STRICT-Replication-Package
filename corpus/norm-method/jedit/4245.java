@@ -1,1 +1,0 @@
-init method init initialize Deprecated Icons initializeDeprecatedIcons Load icon theme fallback icons String theme j Edit jEdit get Property getProperty icon theme tango Log log Log DEBUG GUIUtilities Icon theme set theme set Icon Path setIconPath jeditresource org gjt jedit icons themes theme Log log Log DEBUG GUIUtilities Loading icon theme icon Path iconPath

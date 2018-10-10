@@ -1,1 +1,0 @@
-is Current Line Highlight Enabled isCurrentLineHighlightEnabled method is Current Line Highlight Enabled isCurrentLineHighlightEnabled current Line Highlight Enabled currentLineHighlightEnabled

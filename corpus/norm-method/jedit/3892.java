@@ -1,1 +1,0 @@
-set Right Title setRightTitle method set Right Title setRightTitle String right Title rightTitle right Title rightTitle remove Right Title removeRightTitle right Label rightLabel right Label rightLabel JLabel right Label rightLabel set Text setText right Title rightTitle right Panel rightPanel add right Label rightLabel Border Layout BorderLayout NORTH

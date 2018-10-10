@@ -1,1 +1,0 @@
-handle Token handleToken Segment seg offset length Token Marker TokenMarker Line Context LineContext context Accepts Token is Comment Or Literal isCommentOrLiteral scan seg offset length scanned Index scannedIndex length

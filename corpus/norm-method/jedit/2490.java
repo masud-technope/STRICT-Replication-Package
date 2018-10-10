@@ -1,1 +1,0 @@
-get Line Length getLineLength method length method thread safe param j Edit jEdit pre get Line Length getLineLength read Lock readLock get Line End Offset getLineEndOffset get Line Start Offset getLineStartOffset read Unlock readUnlock

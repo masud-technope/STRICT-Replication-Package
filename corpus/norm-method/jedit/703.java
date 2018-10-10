@@ -1,1 +1,0 @@
-create Custom Menu createCustomMenu method JMenu create Custom Menu createCustomMenu j Edit jEdit get Property getProperty browser custom context length JMenu custom GUIUtilities load Menu loadMenu VFSBrowser get Action Context getActionContext browser custom context custom

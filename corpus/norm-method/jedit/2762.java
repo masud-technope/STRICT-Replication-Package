@@ -1,1 +1,0 @@
-get Directory getDirectory method directory buffer j Edit jEdit pre String get Directory getDirectory directory

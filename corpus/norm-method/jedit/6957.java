@@ -1,1 +1,0 @@
-get Selection getSelection method Returns current selection j Edit jEdit pre Nonnull Selection get Selection getSelection selection to Array toArray Selection selection size

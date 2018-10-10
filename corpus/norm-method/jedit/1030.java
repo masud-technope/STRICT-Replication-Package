@@ -1,1 +1,0 @@
-class Exists classExists String class For Name classForName

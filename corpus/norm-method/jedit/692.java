@@ -1,1 +1,0 @@
-get Name Space getNameSpace method global namespace Name Space NameSpace get Name Space getNameSpace global

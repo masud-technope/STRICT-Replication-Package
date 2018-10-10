@@ -1,1 +1,0 @@
-history Updated historyUpdated method Override history Updated historyUpdated set Enabled setEnabled history Model historyModel has Previous hasPrevious set Enabled setEnabled history Model historyModel has Next hasNext

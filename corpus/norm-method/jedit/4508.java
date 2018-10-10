@@ -1,1 +1,0 @@
-is Prefix Active isPrefixActive method Returns prefix key pressed is Prefix Active isPrefixActive read Next Char readNextChar

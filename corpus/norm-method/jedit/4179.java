@@ -1,1 +1,0 @@
-update Tasks Count updateTasksCount method update Tasks Count updateTasksCount remaining Count remainingCount set Text setText j Edit jEdit get Property getProperty taskmanager remainingtasks label Object model get Row Count getRowCount

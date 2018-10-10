@@ -1,1 +1,0 @@
-get Marker Highlight Color getMarkerHighlightColor method Color get Marker Highlight Color getMarkerHighlightColor marker Highlight Color markerHighlightColor

@@ -1,1 +1,0 @@
-Override action Performed actionPerformed Action Event ActionEvent get Source getSource new View Item newViewItem j Edit jEdit new View newView get Source getSource new Plain View Item newPlainViewItem j Edit jEdit new View newView get Source getSource exit Item exitItem j Edit jEdit exit

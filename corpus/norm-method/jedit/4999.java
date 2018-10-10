@@ -1,1 +1,0 @@
-macro Name To Label macroNameToLabel method String macro Name To Label macroNameToLabel String macro Name macroName macro Name macroName last Index Of lastIndexOf macro Name macroName substring replace

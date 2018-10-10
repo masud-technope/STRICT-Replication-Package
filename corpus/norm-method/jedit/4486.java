@@ -1,1 +1,0 @@
-Open Bracket Indent Rule OpenBracketIndentRule constructor Open Bracket Indent Rule OpenBracketIndentRule open Bracket openBracket aligned open Bracket openBracket Text Utilities TextUtilities get Complementary Bracket getComplementaryBracket open Bracket openBracket aligned aligned

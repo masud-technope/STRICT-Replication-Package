@@ -1,3 +1,0 @@
-public  CheckFileStatus() {
-    super("checkFileStatus");
-}

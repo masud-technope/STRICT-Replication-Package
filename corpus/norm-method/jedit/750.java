@@ -1,1 +1,0 @@
-is Border Opaque isBorderOpaque method is Border Opaque isBorderOpaque

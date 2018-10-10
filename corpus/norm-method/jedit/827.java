@@ -1,1 +1,0 @@
-get Root Directory getRootDirectory method String get Root Directory getRootDirectory Operating System OperatingSystem is Mac OS isMacOS Operating System OperatingSystem is Windows isWindows File Roots VFS FileRootsVFS PROTOCOL

@@ -1,0 +1,3 @@
+releng/features/org.eclipse.ecf.presence.feature/build.properties
+releng/features/org.eclipse.ecf.presence.feature/feature.xml
+releng/features/org.eclipse.ecf.remoteservice.servlet.feature/feature.xml

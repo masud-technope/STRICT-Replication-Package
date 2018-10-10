@@ -1,1 +1,0 @@
-is Closed isClosed method Returns view closed link j Edit jEdit close View closeView View view closed is Closed isClosed closed

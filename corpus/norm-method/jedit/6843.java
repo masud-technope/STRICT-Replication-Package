@@ -1,1 +1,0 @@
-show Word Count Dialog showWordCountDialog method Displays word count dialog box j Edit jEdit pre show Word Count Dialog showWordCountDialog String selection get Selected Text getSelectedText selection do Word Count doWordCount view selection do Word Count doWordCount view buffer get Text getText buffer get Length getLength

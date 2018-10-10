@@ -1,1 +1,0 @@
-register Handler registerHandler method Adds macro handler handlers list j Edit jEdit pre register Handler registerHandler Handler handler get Handler getHandler handler get Name getName Log log Log ERROR Macros register macro handler Log log Log DEBUG Macros Registered handler get Name getName macro handler macro Handlers macroHandlers add handler

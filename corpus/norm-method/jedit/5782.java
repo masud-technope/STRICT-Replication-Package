@@ -1,1 +1,0 @@
-String get Installed Path getInstalledPath installed Path installedPath File installed Path installedPath exists installed Path installedPath installed Path installedPath Plugin JAR PluginJAR jars j Edit jEdit get Plugin JARs getPluginJARs jars length String path jars get Path getPath Misc Utilities MiscUtilities get File Name getFileName path equals jar path

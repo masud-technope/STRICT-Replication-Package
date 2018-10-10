@@ -1,1 +1,0 @@
-Variable LHS constructor LHS Name Space NameSpace name Space nameSpace String var Name varName Error namespace lhs type VARIABLE var Name varName var Name varName name Space nameSpace name Space nameSpace

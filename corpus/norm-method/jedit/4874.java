@@ -1,1 +1,0 @@
-log Time logTime String method Logs time startup benchmarking log Time logTime String label current Time currentTime System current Time Millis currentTimeMillis Log log Log DEBUG j Edit jEdit label current Time currentTime startup Time startupTime

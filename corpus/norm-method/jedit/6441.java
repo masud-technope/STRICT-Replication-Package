@@ -1,1 +1,0 @@
-snippet Before Line Offset snippetBeforeLineOffset method Returns shorten uninitialized chunk specific offset offset text chunk Chunk snippet Before Line Offset snippetBeforeLineOffset line Offset lineOffset snippet Before snippetBefore line Offset lineOffset offset

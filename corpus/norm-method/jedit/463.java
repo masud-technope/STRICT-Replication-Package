@@ -1,1 +1,0 @@
-Swing Progress SwingProgress Border Layout BorderLayout progress JProgress Bar JProgressBar progress set String Painted setStringPainted Swing Progress SwingProgress add Border Layout BorderLayout NORTH progress

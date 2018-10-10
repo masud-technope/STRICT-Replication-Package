@@ -1,1 +1,0 @@
-get Start Line getStartLine method Returns starting number selection get Start Line getStartLine start Line startLine

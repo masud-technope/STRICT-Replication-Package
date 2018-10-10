@@ -1,1 +1,0 @@
-Override Suppress Warnings SuppressWarnings unchecked Transferable create Transferable createTransferable JComponent source List sourceList JList indices source List sourceList get Selected Indices getSelectedIndices My Transferable MyTransferable source List sourceList get Selected Values List getSelectedValuesList

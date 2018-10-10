@@ -1,1 +1,0 @@
-is Map isMap Object obj obj Hashtable

@@ -1,1 +1,0 @@
-init method Initialize called constructor override packages init global import Package importPackage org gjt jedit global import Package importPackage org gjt jedit buffer global import Package importPackage org gjt jedit syntax global import Package importPackage org gjt jedit textarea global import Package importPackage org gjt util

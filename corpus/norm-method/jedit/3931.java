@@ -1,1 +1,0 @@
-clear Selected Index clearSelectedIndex method clear Selected Index clearSelectedIndex String register List registerList get Selected Value getSelectedValue length Registers clear Register clearRegister char At charAt refresh List refreshList

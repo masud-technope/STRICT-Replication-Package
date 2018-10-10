@@ -1,1 +1,0 @@
-public abstract boolean saveLayout(String baseName, int viewIndex);

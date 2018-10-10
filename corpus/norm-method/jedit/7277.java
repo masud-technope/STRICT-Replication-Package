@@ -1,1 +1,0 @@
-Returns text active selections newline text chunk String get Selected Text getSelectedText get Selected Text getSelectedText

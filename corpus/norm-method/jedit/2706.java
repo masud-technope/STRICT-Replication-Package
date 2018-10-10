@@ -1,1 +1,0 @@
-get Marker At Line getMarkerAtLine method marker code code param number j Edit jEdit pre Marker get Marker At Line getMarkerAtLine Marker marker markers get Line Of Offset getLineOfOffset marker get Position getPosition marker

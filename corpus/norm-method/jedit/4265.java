@@ -1,1 +1,0 @@
-hide Splash Screen hideSplashScreen method Ensures splash screen visible called displaying dialog boxes windows startup hide Splash Screen hideSplashScreen splash splash dispose splash

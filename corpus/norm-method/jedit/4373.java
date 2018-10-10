@@ -1,1 +1,0 @@
-start Element startElement method start Element startElement String uri String local Name localName String Attributes attrs tag equals ENTRY href attrs get Value getValue HREF

@@ -1,1 +1,0 @@
-Opens file j Edit jEdit filename path dialog popup user choice param file Name fileName file search param view parent View open File openFile String file Name fileName View view

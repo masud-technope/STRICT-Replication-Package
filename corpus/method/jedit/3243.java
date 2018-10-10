@@ -1,1 +1,0 @@
-void unregister(DockableWindowManagerImpl.Entry entry);

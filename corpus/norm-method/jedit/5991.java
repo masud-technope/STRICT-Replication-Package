@@ -1,1 +1,0 @@
-get Zoom Level getZoomLevel zoom Level zoomLevel

@@ -1,1 +1,0 @@
-Change parent instance namespace support Note method removed set Instance Name Space Parent setInstanceNameSpaceParent Object instance String class Name className Name Space NameSpace parent ithis Class Generator Util ClassGeneratorUtil get Class Instance This getClassInstanceThis instance class Name className ithis get Name Space getNameSpace set Parent setParent parent

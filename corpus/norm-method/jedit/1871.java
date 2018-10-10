@@ -1,1 +1,0 @@
-Parse Exception ParseException generate Parse Exception generateParseException Token errortok token errortok begin Line beginLine column errortok begin Column beginColumn String mess errortok kind token Image tokenImage errortok image Parse Exception ParseException Parse error column column Encountered mess

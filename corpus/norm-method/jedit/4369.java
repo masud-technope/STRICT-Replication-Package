@@ -1,1 +1,0 @@
-paint Icon paintIcon Component Graphics Graphics Graphics create set Rendering Hints setRenderingHints rendering Hints renderingHints rank set Color setColor UIManager get Color getColor Label foreground set Color setColor UIManager get Color getColor Label disabled Foreground disabledForeground fill Oval fillOval

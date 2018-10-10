@@ -1,1 +1,0 @@
-virtual To Physical Index virtualToPhysicalIndex method kill ring wrap representation convert user visible indices actual indices array virtual To Physical Index virtualToPhysicalIndex wrap count count count ring length count
