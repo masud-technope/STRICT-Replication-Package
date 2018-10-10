@@ -1,0 +1,40 @@
+===========2732===========
+TR: -1	highlighting check bugs range comment text starts syntax highlighting broken commenting starts visib
+POSR: -1	syntax isn text dupe syntax highlighting broken commenting starts visib
+STRICT: -1	text range check isn starts bugs dupe syntax highlighting broken commenting starts visib
+===========3773===========
+TR: 403	java Event invoke eval Method InvocationTargetException Invocation Target Exception Invocation Target Exception negative printing tab width Invocation Target Exception
+POSR: 293	java Event Action InvocationTargetException Invocation Target Exception Invocation Target Exception Invocation Target Exception negative printing tab width Invocation Target Exception Invocation Target Exception
+STRICT: 302	java Event Method Action awt InvocationTargetException Invocation Target Exception Invocation Target Exception Invocation Target Exception Invocation Target Exception negative printing tab width Invocation Target Exception Invocation Target Exception Invocation Target Exception
+===========3896===========
+TR: 3	txt included jEdit Edit Edit ignores txt files Edit
+POSR: 3	txt jEdit Edit Edit Edit ignores txt files Edit Edit
+STRICT: 9	txt files jEdit Edit Edit Edit Edit ignores txt files Edit Edit Edit
+===========3911===========
+TR: 6	text buffer saving Area save left scrolls pre Suse log Space behaviour java saving buffer text area scrolls left
+POSR: 12	buffer text scrolls textArea text Area plugins java saving buffer text area scrolls left
+STRICT: 2	buffer text scrolls java Suse plugins Space Area behaviour saving save left Character saving buffer text area scrolls left
+===========4025===========
+TR: 103	file files create FAILS FIND TriageTemplate Triage Template JustCapture Capture SEARCH FAILS FIND FILES
+POSR: 133	FIND Template Triage files Capture SEARCH FAILS FIND FILES
+STRICT: 96	FIND files Template TriageTemplate Triage Template problem file JustCapture Capture Triage SEARCH FAILS FIND FILES
+===========4027===========
+TR: 4	paint java Event Manager AWT Queue Table RepaintManager Repaint Manager Thread Header Sorting files file system browser working
+POSR: 13	Event error Sorting files file system browser working
+STRICT: 25	Event Queue java EventQueue Event Queue paint Table Manager AWT error RepaintManager Repaint Manager Thread Sorting files file system browser working
+===========4034===========
+TR: 2	preview box print preview
+POSR: 2	print dropdown print preview
+STRICT: 2	dropdown box print preview
+===========4035===========
+TR: 1	print output Ink print monochrome
+POSR: 1	output monochrome print monochrome
+STRICT: 2	output print setting print monochrome
+===========4037===========
+TR: 1	select buffer Print working selection Print preview selection working
+POSR: 2	Selection General Print preview selection working
+STRICT: 1	buffer Selection General preview selection Print preview selection working
+===========4055===========
+TR: 3	color Color View require default Editor Edit colors StyleEditor Style Editor Windows Gtk view daleanson TextArea Text Area getForeground Foreground getBackground Background introduces Odd default colors StyleEditor Style Editor Style Editor SyntaxHiliteOptionPane Syntax Hilite Option Pane Syntax Hilite Option Pane Style Editor Syntax Hilite Option Pane
+POSR: 4	StyleEditor Style Editor Edit Color colors jEdit Edit Syntax Windows Option Editor Style Pane view Odd default colors StyleEditor Style Editor Style Editor Style Editor SyntaxHiliteOptionPane Syntax Hilite Option Pane Syntax Hilite Option Pane Syntax Hilite Option Pane Style Editor Syntax Hilite Option Pane Style Editor Syntax Hilite Option Pane
+STRICT: 4	Color Edit StyleEditor Style Editor colors Editor Windows view TextArea Text Area default View Syntax Option Pane oddity daleanson Style color Odd default colors StyleEditor Style Editor Style Editor Style Editor Style Editor SyntaxHiliteOptionPane Syntax Hilite Option Pane Syntax Hilite Option Pane Syntax Hilite Option Pane Syntax Hilite Option Pane Style Editor Syntax Hilite Option Pane Style Editor Syntax Hilite Option Pane Style Editor Syntax Hilite Option Pane
