@@ -37,11 +37,12 @@ Materials Included
 - ```strict-runner``` is the functional prototype of STRICT, our proposed query reformulation technique. 
 We also include ```strict-running-snapshot``` for STRICT.
 - ```change-requests/``` contains the change requests from [**ECF Issue Repository**](https://bugs.eclipse.org/bugs/describecomponents.cgi?product=ECF)
-- ```corpus/``` contains the raw and normalized source code files from [**ECF**](https://github.com/eclipse/ecf)
-- ```goldset/``` contains the ground truth source code files for the change requests.  
-- ```lucene``` contains the Lucene index for JEdit corpus
-- ```models``` contains the Stanford models for POS tagging.
-- ```pp-data``` contains the stop words used by STRICT for pre-processing. 
+- ```corpus/``` contains the raw and normalized source code files from [**ECF**](https://github.com/eclipse/ecf). The ```method``` folder contains the method definitions, and ```norm-method``` contains
+the normalized version of the methods. Normalization steps are discussed in the paper (Section IV-B).
+- ```goldset/``` contains the ground truth source code files (i.e., changed files) for the change requests.  
+- ```lucene``` contains the Lucene index constructed from the corpus.
+- ```models``` contains the trained models by Stanford NLP group for the POS tagging.
+- ```pp-data``` contains the stop words or programming keywords used by STRICT for natural language pre-processing. 
 
 **License & Others**
 
@@ -56,20 +57,21 @@ System Requirements
 
 Available Operations
 ----------------------------
-- ```execute``` :  Executes a user provided query for a bug ID, and returns the Query Effectiveness (QE). QE = the rank of the first ground truth in the ranked result list.
-- ```suggest+execute``` :  Suggests queries, executes the queries, and returns/saves their results.
+- ```execute``` :  Executes a user provided query for a bug ID, and returns the Query Effectiveness (QE). ```QE``` = the rank of the first ground truth file in the ranked result list.
+- ```suggest+execute``` :  Suggests queries, executes the queries, and then returns/saves their results.
 
 
 Required parameters for the operations
 -----------------------------------------------
 -  **-requestDir** : expects the directory containing the change requests (e.g., ```./change-requests``` )
--  **-outputFile** : expects a file name to write the output of the queries.
--  **-repoName** : expects the repository name (Optional). The default is ```ecf```.
+-  **-outputFile** : expects a file name to write the output for the queries.
+-  **-repoName** : expects the repository name (optional). The default repository is ```ecf```.
 -  **-bugID** : expects a bugID from the ```./change-requests``` folder.
 -  **-task** : expects a task to be performed.
--  **-baseline** : expects the type of baseline query from the change request. It takes two values ```T``` and ```W```. Here, ```T``` stands for title, and ```W``` stands for the whole texts of the request.
+-  **-baseline** : expects the type of baseline query from a change request. It takes two values ```T``` and ```W```. 
+Here, ```T``` stands for the title, and ```W``` stands for the whole texts from the change request.
 -  **-saveOutput** : expects ```true``` or ```false``` whether the query output should be saved or not.
--  **-userQuery** : expects a query from the user for a given bug ID.
+-  **-userQuery** : expects a query chosen by the user for a specific bug ID.
 
 
 Getting Started
@@ -79,17 +81,21 @@ Q.1: How to install the STRICT tool?
 --------------------------------------------------
 - Execute ```git clone https://github.com/masud-technope/STRICT-Replication-Package.git```
 - Once downloaded, you can decompress all the .7z files such as ```ecf.7z``` in the root and ```corpus``` folder. (Optional)
-- Run the tool from within the ```STRICT``` directory.
+- Run the tool from within the root directory.
 
 
-Q.2: How to execute your own query for a specific change request?
+Q.2: How to execute your own query for a specific Bug ID?
 -----------------------------------------------------------------------------------
 Execute a single query
 ```
 java -jar strict-runner.jar -task execute -repoName ecf -bugID 194981 -userQuery Do not automatically scroll when message received
 ```
 When executing a single query, ```-userQuery``` should always be the last parameter. Otherwise, the tool will fail to parse the arguments.
-
+The command provides the following output. The query returns the first correct ground truth file at the 79th position.
+```
+194981	Do not automatically scroll when message received
+79	framework/bundles/org.eclipse.ecf.presence.ui/src/org/eclipse/ecf/presence/ui/chatroom/ChatRoomManagerView.java
+```
 
 Q.3: How to execute the baseline queries for a specific change request?
 -----------------------------------------------------------------------------------
@@ -98,10 +104,20 @@ Execute the ```title``` of a change request as the search query.
 ```
 java -jar strict-runner.jar -task execute -repoName ecf -bugID 194981 -baseline T
 ```
+It provides the following output:
+```
+194981	Bug Don automatically scroll message received
+QE=84	framework/bundles/org.eclipse.ecf.presence.ui/src/org/eclipse/ecf/presence/ui/chatroom/ChatRoomManagerView.java
+```
 
 Execute the ```whole texts``` of a change request as the search query.
 ```
 java -jar strict-runner.jar -task execute -repoName ecf -bugID 194981 -baseline W
+```
+It provides the following output:
+```
+194981	Bug Don automatically scroll message received scrollback pops bottom message received nice turn hard view scrollback busy channel
+QE=22	framework/bundles/org.eclipse.ecf.presence.ui/src/org/eclipse/ecf/presence/ui/chatroom/ChatRoomManagerView.java
 ```
 
 Q.4: How to get suggested queries from STRICT for a single change request?
@@ -122,7 +138,7 @@ Q.5: How to get suggested queries from STRICT for all the change requests?
 ```
 java -jar strict-runner.jar -task suggest+execute -repoName ecf -outputFile ./sample-output-Oct10.txt
 ```
-This command collects the queries from STRICT and their results, and then save in the output file.
+This command collects the queries from STRICT and their results, and then save them in the given output file.
 
 
 Please cite our work as
