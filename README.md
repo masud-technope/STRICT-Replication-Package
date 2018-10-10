@@ -95,12 +95,12 @@ Q.3: How to execute the baseline queries for a specific change request?
 Execute the ```title``` of a change request as the search query.
 
 ```
-java -jar strict-runner.jar -task execute -repoName jedit -bugID 4025 -baseline T
+java -jar strict-runner.jar -task execute -repoName jedit -bugID 4037 -baseline T
 ```
 
 Execute the ```whole texts``` of a change request as the search query.
 ```
-java -jar strict-runner.jar -task execute -repoName jedit -bugID 4025 -baseline W
+java -jar strict-runner.jar -task execute -repoName jedit -bugID 4037 -baseline W
 ```
 
 Q.4: How to get suggested queries from STRICT for a single change request?
