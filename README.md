@@ -78,6 +78,7 @@ Getting Started
 Q.1: How to install the STRICT tool?
 --------------------------------------------------
 - Execute ```git clone https://github.com/masud-technope/STRICT-Replication-Package.git```
+- Once downloaded, you can decompress all the .7z files such as ```ecf.7z``` in the root and ```corpus``` folder. (Optional)
 - Run the tool from within the ```STRICT``` directory.
 
 
