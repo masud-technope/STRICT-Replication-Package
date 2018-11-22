@@ -1,0 +1,18 @@
+===========194981===========
+TR: QE=3	Q:scrollback message Don view Bug Don automatically scroll message received
+POSR: QE=62	Q:message Bug Don automatically scroll message received
+STRICT: QE=3	Q:message scrollback Don view Bug Don automatically scroll message received
+
+194981  Bug Don automatically scroll message received
+QE=84   framework/bundles/org.eclipse.ecf.presence.ui/src/org/eclipse/ecf/presence/ui/chatroom/ChatRoomManagerView.java
+
+194981  Bug Don automatically scroll message received scrollback pops bottom message received nice turn hard view scrollback busy channel
+QE=22   framework/bundles/org.eclipse.ecf.presence.ui/src/org/eclipse/ecf/presence/ui/chatroom/ChatRoomManagerView.java
+
+-----------------------------------------
+Tool best: STRICT: QE=3	Q:message scrollback Don view Bug Don automatically scroll message received
+Best baseline: QE=22  Bug Don automatically scroll message received
+BM: QE=1 message  view  received
+
+
+

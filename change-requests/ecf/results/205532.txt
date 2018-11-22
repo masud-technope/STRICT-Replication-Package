@@ -1,0 +1,14 @@
+===========205532===========
+TR: QE=16	Q:subject URL chat channel Bug IRC add hyperlinking chat subject box
+POSR: QE=6	Q:chat URL channel account Bug IRC add hyperlinking chat subject box
+STRICT: QE=16	Q:URL chat subject channel hyperlinking Bug IRC add hyperlinking chat subject box
+
+
+205532  Bug IRC add hyperlinking chat subject box
+QE=26   framework/bundles/org.eclipse.ecf.presence.ui/src/org/eclipse/ecf/presence/ui/chatroom/ChatRoomManagerView.java
+
+
+205532  Bug IRC add hyperlinking chat subject box nice subject topic main chat output window set subject account channel permissions cases subject URL handy URL hyperlinked URL easily accessed channel
+QE=14   framework/bundles/org.eclipse.ecf.presence.ui/src/org/eclipse/ecf/presence/ui/chatroom/ChatRoomManagerView.java
+
+BM:  QE=2, chat URL channel add chat

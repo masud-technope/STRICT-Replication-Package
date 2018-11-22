@@ -1,0 +1,14 @@
+===========218584===========
+TR: QE=4	Q:remote methods interface parameters dev method type list choose invoke set values synchronous future listener asynchronous aid Bug remoteservices add invoking remote methods interface classes
+POSR: QE=3	Q:interface methods method OSGi parameters type values OSG mailing Bug remoteservices add invoking remote methods interface classes
+STRICT: QE=3	Q:interface methods method parameters type dev values OSG listener future OSGi eclipse org mhonarc remote aid list discovery Bug remoteservices add invoking remote methods interface classes
+
+218584  Bug remoteservices add invoking remote methods interface classes
+QE=22   framework/bundles/org.eclipse.ecf.remoteservice.ui/src/org/eclipse/ecf/remoteservices/ui/MethodInvocationDialog.java
+
+
+218584  Bug remoteservices add invoking remote methods interface classes mailing list entry http dev eclipse org mhonarc lists ecf dev msg html helpful invoke methods interfaces expose local remote OSGi services basic requirements method names type signatures method parameters return values reflective access interface class Enter set values parameters Serializable type constrain type Choose method remote invocation proxy synchronous asynchronous listener future asynchresult Set choose timeout interface service discovered ECF discovery user developer decide methods invoke set parameters methods invoke remote method nice aid development testing debugging remote OSGi services
+QE=9    framework/bundles/org.eclipse.ecf.remoteservice.ui/src/org/eclipse/ecf/remoteservices/ui/MethodInvocationDialog.java
+
+
+BM: QE=2 interface methods OSGi parameters remoteservices add invoking

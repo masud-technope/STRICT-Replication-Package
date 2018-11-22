@@ -1,0 +1,12 @@
+===========211585===========
+TR: QE=3	Q:naming Discovery code authority Bug Discovery JMDNS parsing problem service type defines naming authority
+POSR: QE=4	Q:authority JMDNS Bug Bug Discovery JMDNS parsing problem service type defines naming authority
+STRICT: QE=4	Q:authority JMDNS Discovery Bug Bug Discovery JMDNS parsing problem service type defines naming authority
+
+211585  Bug Discovery JMDNS parsing problem service type defines naming authority
+QE=5    framework/bundles/org.eclipse.ecf.discovery/src/org/eclipse/ecf/discovery/identity/ServiceTypeID.java
+
+211585  Bug Discovery JMDNS parsing problem service type defines naming authority parser code stumbles naming authority set
+QE=7    framework/bundles/org.eclipse.ecf.discovery/src/org/eclipse/ecf/discovery/identity/ServiceTypeID.java
+
+BN QE=2 naming Discovery JMDNS naming
