@@ -1,0 +1,15 @@
+===========292972===========
+TR: QE=9	Q:filetransfer patches number bug discuss Bug filetransfer apply additions fixes genuitec patch
+POSR: QE=9	Q:bug filetransfer additions Bug filetransfer apply additions fixes genuitec patch
+STRICT: QE=15	Q:filetransfer bug additions application patch Bug filetransfer apply additions fixes genuitec patch
+
+292972  Bug filetransfer apply additions fixes genuitec patch
+QE=22   framework/bundles/org.eclipse.ecf.filetransfer/src/org/eclipse/ecf/filetransfer/FileTransferJob.java
+
+292972  Bug filetransfer apply additions fixes genuitec patch bug number patches Genuitec bug discuss track application ECF filetransfer relevant pieces patch
+QE=42   providers/bundles/org.eclipse.ecf.provider.filetransfer/src/org/eclipse/ecf/provider/filetransfer/outgoing/AbstractOutgoingFileTransfer.java
+
+--------------------------
+TB: QE=9	Q:bug filetransfer additions Bug filetransfer apply additions fixes genuitec patch
+BB: QE=22	Bug filetransfer apply additions fixes genuitec patch
+UB: QE=1 filetransfer  filetransfer fixes patch

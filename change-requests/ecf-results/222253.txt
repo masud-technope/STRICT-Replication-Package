@@ -1,0 +1,15 @@
+===========222253===========
+TR: QE=15	Q:chat attachment irc Bug collab height irc collaboration chat input field
+POSR: QE=7	Q:chat attachment details Bug collab height irc collaboration chat input field
+STRICT: QE=2	Q:chat attachment collab Bug collab height irc collaboration chat input field
+
+222253  Bug collab height irc collaboration chat input field
+QE=6    examples/bundles/org.eclipse.ecf.example.collab/src/org/eclipse/ecf/internal/example/collab/ui/ChatComposite.java
+
+222253  Bug collab height irc collaboration chat input field Created attachment details irc chat png Build
+QE=22   framework/bundles/org.eclipse.ecf.presence.ui/src/org/eclipse/ecf/presence/ui/chatroom/ChatRoomManagerView.java
+
+-------------------------------
+TB: QE=2	Q:chat attachment collab Bug collab height irc collaboration chat input field
+BB: QE=6	Bug collab height irc collaboration chat input field Created attachment details irc chat png Build
+UB: QE=1 chat collab height irc input
