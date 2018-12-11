@@ -1,0 +1,40 @@
+41219 – Stacktraces of exceptions disappear occsionally
+Sometimes stacktraces of the exceptions seem to mysteriously disappear.
+After
+invesigation I noticed thatThrowableInformation.VectorWriter looks potentially
+unrobust, since it's making strong assumptions of what methods of the
+PrintWriter API Throwable is using for printing its' stacktrace.
+For example, if Throwable uses some "write(int)" method then stacktrace goes
+appearently into /dev/null.
+It's completely possible that some sub-class of Throwable overrides
+printStackTrace() -logic, so API shouldn't make assumptions based into
+implementation details inside Throwable (Throwable itself could change also
+logic, like has happened earlier).
+This issue reduces reliability of Log4J considerably.
+PROOF:
+---------------------
+package org.kari;
+import java.io.PrintWriter;
+import org.apache.log4j.BasicConfigurator;
+import org.apache.log4j.Logger;
+public class ThrowableTest {
+public static final class ThrowableFail extends Throwable {
+@Override
+public void printStackTrace(PrintWriter s)
+{
+super.printStackTrace(s);
+s.println("LOST-START");
+// Following output is lost
+for (int i= 0; i < 100; i++) {
+s.print('a');
+}
+s.println("LOST-END");
+}
+}
+public static void main(String[] args) {
+BasicConfigurator.configure();
+Logger LOG = Logger.getLogger(ThrowableTest.class);
+LOG.info("Test", new ThrowableFail());
+}
+}
+---------------------

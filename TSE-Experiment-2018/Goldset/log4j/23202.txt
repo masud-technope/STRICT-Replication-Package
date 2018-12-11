@@ -1,0 +1,3 @@
+src/java/org/apache/log4j/Category.java
+tests/src/java/org/apache/log4j/CategoryTest.java
+tests/src/java/org/apache/log4j/VectorAppender.java

@@ -1,0 +1,7 @@
+tests/input/fallback1.properties
+src/main/java/org/apache/log4j/PropertyConfigurator.java
+src/changes/changes.xml
+src/main/java/org/apache/log4j/PropertyConfigurator.java
+src/main/java/org/apache/log4j/config/PropertySetter.java
+src/main/java/org/apache/log4j/helpers/OptionConverter.java
+tests/src/java/org/apache/log4j/varia/ErrorHandlerTestCase.java

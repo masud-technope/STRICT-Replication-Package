@@ -1,2 +1,0 @@
-protocols/bundles/ch.ethz.iks.slp/.classpath
-protocols/bundles/ch.ethz.iks.slp/.classpath

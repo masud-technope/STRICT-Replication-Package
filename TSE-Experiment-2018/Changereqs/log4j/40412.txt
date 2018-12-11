@@ -1,0 +1,13 @@
+NOTICE file not present in distributions or jars
+From http://www.apache.org/dev/release.html#notice-required:
+
+Yes! The NOTICE file must contain an attribute for the ASF.	The standard ASF attribution is given 
+below:
+
+	This product includes software developed by
+	The Apache Software Foundation (http://www.apache.org/).
+
+http://incubator.apache.org/guides/releasemanagement.html#best-practice indicates that jars should 
+contain NOTICE and LICENSE files in the META-INF directory.
+
+Fix for this bug renames LICENSE.txt to LICENSE, adds NOTICE and adds NOTICE and LICENSE to all jars.

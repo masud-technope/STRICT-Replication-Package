@@ -1,4 +1,0 @@
-tests/bundles/org.eclipse.ecf.tests.provider.discovery/org.eclipse.ecf.tests.provider.discovery.launch
-releng/features/org.eclipse.ecf.discovery.feature/buckminster.cspex
-releng/features/org.eclipse.ecf.discovery.feature/org.eclipse.ecf.discovery.cquery
-releng/features/org.eclipse.ecf.discovery.feature/org.eclipse.ecf.discovery.mspec

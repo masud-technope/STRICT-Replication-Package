@@ -1,0 +1,14 @@
+30950 – Add Logger l7dlog methods without Throwable args
+I am porting from our own logging to log4j and I now pass nulls all over the
+place.
+How about adding:
+public void l7dlog(
+Level level, String key, Object[] params)
+public void l7dlog(
+Level level, String key)
+BTW, l7dlog is a pretty poor name IMO.
+Plain "log" would be fine or
+"logLocalized".
+"l7d" to save 4 letters when I am already using isLogInfoEnabled
+(which is a nice obvious name)?
+Thanks.

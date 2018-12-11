@@ -1,0 +1,10 @@
+bundles/extensions/validation/api/src/main/java/org/apache/sling/validation/Validator.java
+bundles/extensions/validation/core/src/main/java/org/apache/sling/validation/impl/ValidationServiceImpl.java
+bundles/extensions/validation/core/src/main/java/org/apache/sling/validation/impl/validators/RegexValidator.java
+bundles/extensions/validation/core/src/test/java/org/apache/sling/validation/impl/ValidationServiceImplTest.java
+bundles/extensions/validation/core/src/test/java/org/apache/sling/validation/impl/util/ValidatorTypeUtilTest.java
+bundles/extensions/validation/core/src/test/java/org/apache/sling/validation/impl/util/examplevalidators/DateValidator.java
+bundles/extensions/validation/core/src/test/java/org/apache/sling/validation/impl/util/examplevalidators/ExtendedStringValidator.java
+bundles/extensions/validation/core/src/test/java/org/apache/sling/validation/impl/util/examplevalidators/IntegerValidator.java
+bundles/extensions/validation/core/src/test/java/org/apache/sling/validation/impl/util/examplevalidators/StringArrayValidator.java
+bundles/extensions/validation/core/src/test/java/org/apache/sling/validation/impl/util/examplevalidators/StringValidator.java

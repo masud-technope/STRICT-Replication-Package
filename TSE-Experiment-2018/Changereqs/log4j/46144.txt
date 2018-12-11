@@ -1,0 +1,17 @@
+46144 – QuietWriter.write should ignore all Exceptions
+QuietWriter.write should ignore all Exception's, not only IOException.
+Actually, it should ignore NullPointerException or just check input string for null.
+java.util.Writer.write
+throws NullPointerException if passed string is null, and if null string accidentally appeared in QuietWriter.write, it should be ignored, rather then NullPointerException thrown.
+Currently we have rare NullPointerException in logs somewhere inside log4j, and we cannot repeat this situation:
+===
+java.lang.NullPointerException
+at java.io.Writer.write(Writer.java:140)
+at org.apache.log4j.helpers.QuietWriter.write(QuietWriter.java:48)
+at org.apache.log4j.WriterAppender.subAppend(WriterAppender.java:309)
+at org.apache.log4j.WriterAppender.append(WriterAppender.java:160)
+at ru.yandex.video.converter.convert.ConfiguredFileAppender.append(ConfiguredFileAppender.java:23)
+at org.apache.log4j.AppenderSkeleton.doAppend(AppenderSkeleton.java:251)
+===
+log4j is 1.2.15.
+Proposed solution avoids NullPointerException (though probably causes some information loss).

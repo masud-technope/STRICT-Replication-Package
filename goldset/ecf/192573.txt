@@ -1,2 +1,0 @@
-examples/bundles/org.eclipse.ecf.example.collab/src/org/eclipse/ecf/internal/example/collab/ui/LineChatView.java
-examples/bundles/org.eclipse.ecf.example.collab/src/org/eclipse/ecf/internal/example/collab/actions/OpenSharedEditorAction.java

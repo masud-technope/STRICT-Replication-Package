@@ -1,0 +1,2 @@
+Have Error Log view's Open Log use Eclipse's file association
+It'd be really nice if the Open Log function in the Error Log view used an Eclipse File Association that's bound to *.log instead of simply opening in the OS's associated editor.  This would allow the log file to be opened in a text editor within Eclipse, or bound to an external editor other than the OS default.

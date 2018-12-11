@@ -1,0 +1,97 @@
+38061 – Problem configuring an errorHandler using a property file
+I obtain an error configuring an errorHandler using a property file.
+If use a xml file, everything is right.
+I noticed tha the problem is in the "org.apache.log4j.config.PropertySetter" in
+"convertArg" method.
+The "if" sequence don't foreseen to manage the errorHandler parameter
+protected Object convertArg(String val, Class type)
+{
+if (val == null)
+return null;
+String v = val.trim();
+if (String.class.isAssignableFrom(type))
+{
+return val;
+} else if (Integer.TYPE.isAssignableFrom(type))
+{
+return new Integer(v);
+} else if (Long.TYPE.isAssignableFrom(type))
+{
+return new Long(v);
+} else if (Boolean.TYPE.isAssignableFrom(type))
+{
+if ("true".equalsIgnoreCase(v))
+{
+return Boolean.TRUE;
+} else if ("false".equalsIgnoreCase(v))
+{
+return Boolean.FALSE;
+}
+} else if (Priority.class.isAssignableFrom(type))
+{
+return OptionConverter.toLevel(v, (Level) Level.DEBUG);
+}
+/**************************************************************************/
+/* BUG FIX                                                                */
+else if(ErrorHandler.class.isAssignableFrom(type))
+{
+// I copied this line from "org.apache.log4j.xml.DOMCOnfigurator"
+// (method: "parseErrorHandler")
+return OptionConverter.instantiateByClassName(val,
+org.apache.log4j.spi.ErrorHandler.class,null);
+}
+/**************************************************************************/
+return null;
+}
+But at the moment it is not possible set rootLogger, any other loggers or backup
+appender.
+Is these future enhancement? Can post the code?
+Luca Falcon
+My environment:
+the log4j version is:
+---------------------------------------------------------------------------------------------------
+1.2.13
+this is my log4j.properties:
+---------------------------------------------------------------------------------------------------
+log_dir=D:/temp/log
+log4j.debug=true
+log4j.rootLogger                                 = INFO, systemOut
+log4j.appender.systemOut                          = org.apache.log4j.FileAppender
+log4j.appender.systemOut.errorHandler             =
+org.apache.log4j.varia.FallbackErrorHandler
+log4j.appender.systemOut.Threshold                = INFO
+log4j.appender.systemOut.File                     = ${log_dir}/system.log
+log4j.appender.systemOut.layout                   = org.apache.log4j.PatternLayout
+log4j.appender.systemOut.layout.ConversionPattern = %d{HH:mm:ss,SSS} %-5p [%t] -
+%m%n
+---------------------------------------------------------------------------------------------------
+this is the output:
+---------------------------------------------------------------------------------------------------
+log4j:WARN Failed to set property [errorHandler] to value
+"org.apache.log4j.varia.FallbackErrorHandler".
+log4j: Parsing for [root] with value=[INFO, systemOut].
+log4j: Level token is [INFO].
+log4j: Category root set to INFO
+log4j: Parsing appender named "systemOut".
+log4j: Parsing layout options for "systemOut".
+log4j: Setting property [conversionPattern] to [%d{HH:mm:ss,SSS} %-5p [%t] - %m%n].
+log4j: End of parsing for "systemOut".
+log4j: Setting property [file] to [D:/temp/log/system.log].
+log4j: Setting property [threshold] to [INFO].
+log4j: setFile called: D:/temp/log/system.log, true
+log4j: setFile ended
+log4j: Parsed "systemOut" options.
+log4j: Finished configuring.
+---------------------------------------------------------------------------------------------------
+this is my test class:
+---------------------------------------------------------------------------------------------------
+import org.apache.log4j.Logger;
+public class Test
+{
+public static void main(String[] args) throws Exception
+{
+Logger logger = Logger.getRootLogger();
+logger.error("test message");
+}
+}
+---------------------------------------------------------------------------------------------------

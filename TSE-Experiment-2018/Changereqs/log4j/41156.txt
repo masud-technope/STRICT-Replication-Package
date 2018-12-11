@@ -1,0 +1,7 @@
+41156 – Give log4j threads reasonable names
+Up to now log4j threads are named by java with the unmeaningful names
+'Thread-x'.
+Give all log4j threads reasonable names so they can be recognized
+quickly.
+E.g.
+this is useful for inspecting running programs with JMX.

@@ -1,0 +1,7 @@
+[SLING-2415] Ability to delete child nodes, without deleting the parent node in SlingPostServlet - ASF JIRA
+Provide a way to delete all the child nodes of a given node in the SlingPostServlet, without deleting the parent node itself.
+
+ There are many situations where one might want to delete only the child nodes, while keeping the parent node intact.
+ 
+ One way to do this now is to use the :applyTo request parameter for each child node.
+However, this requires first fetching all the child nodes, which can be avoided with this feature.

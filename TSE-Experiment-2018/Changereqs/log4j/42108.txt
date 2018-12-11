@@ -1,0 +1,8 @@
+42108 – LoggingEvent accessors compatible with log4j 1.3
+Chainsaw (and potentially other log4j 1.3 clients) have LoggingEvent.getTimeStamp,
+LoggingEvent.getProperty(Stirng), LoggingEvent.getProperties() etc and other accessors that could be
+supported on log4j 1.2.
+Chainsaw and XMLDecoder currently uses LoggingEvent mutators that would require dropping final
+qualifiers on many member variablesto support on log4j 1.2.
+ Instead of doing that, I've added another
+LoggingEvent constructor that handles the same use pattern to both log4j 1.2 and log4j 1.3 branches.

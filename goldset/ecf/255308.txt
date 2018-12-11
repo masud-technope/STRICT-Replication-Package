@@ -1,2 +1,0 @@
-providers/bundles/org.eclipse.ecf.provider.jslp/src/org/eclipse/ecf/provider/jslp/container/JSLPDiscoveryContainer.java
-providers/bundles/org.eclipse.ecf.provider.jslp/src/org/eclipse/ecf/provider/jslp/container/JSLPDiscoveryContainer.java

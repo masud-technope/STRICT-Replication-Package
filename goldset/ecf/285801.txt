@@ -1,2 +1,0 @@
-server-side/bundles/org.eclipse.ecf.server.generic/src/org/eclipse/ecf/server/generic/app/Connector.java
-framework/bundles/org.eclipse.ecf.provider/src/org/eclipse/ecf/provider/comm/tcp/Client.java

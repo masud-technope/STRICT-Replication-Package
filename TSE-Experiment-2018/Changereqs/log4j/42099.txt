@@ -1,0 +1,6 @@
+42099 – ExpressionFilter backport
+This enhancement extracts the org.apache.log4j.filter.ExpressionFilter and o.a.l.filter.LocationInfoFilter
+from log4j 1.3 and adapts it to work with log4j 1.2.
+ The initial goal is to support Chainsaw on log4j 1.2,
+however hopefully the resulting package can be used by log4j 1.2.x users who would like to use the
+ExpressionFilter.

@@ -1,0 +1,17 @@
+bundles/scripting/jsp/pom.xml
+bundles/scripting/jsp/src/main/java/org/apache/sling/scripting/jsp/Activator.java
+bundles/scripting/jsp/src/main/java/org/apache/sling/scripting/jsp/JspScriptEngineFactory.java
+bundles/scripting/jsp/src/main/java/org/apache/sling/scripting/jsp/SlingTldLocationsCache.java
+bundles/scripting/jsp/src/main/java/org/apache/sling/scripting/jsp/TaglibCache.java
+bundles/scripting/jsp/src/main/java/org/apache/sling/scripting/jsp/jasper/JspCompilationContext.java
+bundles/scripting/jsp/src/main/java/org/apache/sling/scripting/jsp/jasper/compiler/TagFileProcessor.java
+bundles/scripting/jsp/src/main/java/org/apache/sling/scripting/jsp/jasper/servlet/JspServletWrapper.java
+bundles/scripting/jsp/pom.xml
+bundles/scripting/jsp/src/main/java/org/apache/sling/scripting/jsp/Activator.java
+bundles/scripting/jsp/src/main/java/org/apache/sling/scripting/jsp/JspScriptEngineFactory.java
+bundles/scripting/jsp/src/main/java/org/apache/sling/scripting/jsp/SlingTldLocationsCache.java
+bundles/scripting/jsp/src/main/java/org/apache/sling/scripting/jsp/TaglibCache.java
+bundles/scripting/jsp/src/main/java/org/apache/sling/scripting/jsp/jasper/EmbeddedServletOptions.java
+bundles/scripting/jsp/src/main/java/org/apache/sling/scripting/jsp/jasper/compiler/Compiler.java
+bundles/scripting/jsp/src/main/java/org/apache/sling/scripting/jsp/jasper/compiler/OriginalTldLocationsCache.java
+bundles/scripting/jsp/src/main/java/org/apache/sling/scripting/jsp/jasper/compiler/TldLocationsCache.java

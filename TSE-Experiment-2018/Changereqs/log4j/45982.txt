@@ -1,0 +1,4 @@
+45982 – Support %X layout specification to output all MDC key-value pairs
+log4j 1.2's PatternLayout supports %X{keyname}, but if a keyname is unspecified, Map.get(null) is called which may throw a NullPointerException or at best will return null.
+ log4j 1.3's PatternLayout and extras EnhancedPatternLayout will output all key-value pairs in braces like "{{key1,val1}{key2,val2}}".
+ This patch adds the log4j 1.3/EnhancedPatternLayout behavior, in addition, it sorts the keys alphabetically.

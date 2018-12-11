@@ -1,0 +1,3 @@
+[RemoteSrvs] ServicePublicationHandler creates endpoints for loopback references
+org.eclipse.ecf.internal.osgi.services.discovery.ServicePublicationHandler.serviceDiscovered(IServiceEvent) and org.eclipse.ecf.internal.osgi.services.discovery.ServicePublicationHandler.serviceUndiscovered(IServiceEvent) do not filter service ids that originate from the same runtime. This causes endpoints to be created/connected, which are never used. This is considerable overhead that should be avoided (in most scenarios)
+The only scenario where this behavior is useful, is for local testing purposes. This use case however does not represent the default and hence can be activated with a system property.

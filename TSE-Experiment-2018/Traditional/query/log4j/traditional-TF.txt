@@ -1,0 +1,60 @@
+44032	java log apache org category writerappender helpers rollingfileappender write appenderattachableimpl	ThrowableInformation getThrowableStringRep lines Throwable Throwable String Rep
+41219	throwable log logger printwriter lost printstacktrace org assumptions apache api basicconfigurator exceptions stacktrace disappear println throwablefail throwabletest stacktraces logic main	Stacktraces exceptions disappear occsionally
+44038	log exception spring java mailsendexception bug stack exceptions classes trace printstacktrace throwableinformation org calls mail isn	log susceptible exceptions thrown Exception classes
+41735	file maxbackupindex target filename delete exists failedrename rename windows happy	RollingFileAppender delete files rollover Rolling File Appender
+38024	format log loggingevent event method layout string methodnotfound	Layout compatible
+45704	source unknown sun java apache org log xml parse xerces internal domconfigurator javaws launcher parsers invoke reflect net url logger main init logging doconfigure loader	Failed load logging xml JRE Webstart
+34825	tests setencoding test log initial motivation	tests WriterAppender setEncoding Writer Appender set Encoding
+25355	application outgoing don smtp log learn	require TLS SSL outgoing mails SMTPAppender
+32527	java log lang org logger apache xml noclassdeffounderror tastcase propertiesbase optionconverter path dom exception helpers main jjour calss	log initialization java dom path
+48784	org log apache xml examples apidocs sample	Links code broken JavaDocs Java Docs
+40212	java catalina apache org core containerbase getlogger field hostconfig logmanager reflect startup log webappclassloader lang loader logger sun	NullPointerException getLogger called ShutdownHook Pointer Exception Logger Shutdown Hook
+45335	java ndc thread apache remove lang processmonitor nullpointerexception org called lazyremove http exception number shutdown log threads jul tomcat hashtable info method push coyote bogus notice	NDC remove NullPointerException Pointer Exception
+32536	logmanager java selector method custom invoke reflect apache repositoryselector log setrepositoryselector error defaultrepository org exception illegalargumentexception sun nativemethodaccessorimpl correct patch dev solution checked mycustomselector test getlogger nullpointerexception logging delegatingmethodaccessorimpl code guard	Custom RepositorySelector defaultRepository NullPointerException LogManager getLogger Repository Selector Repository Pointer Exception Log Manager Logger
+16280	error log close telnetappender serversocket method sockethandler flag called socketexception waiting	Error Message logged log calling close TelnetAppender Telnet Appender
+41373	event hashtable loggingevent priority fail build categoryname eventtohashtable references	build fail
+45982	key log pairs output enhancedpatternlayout keyname val patternlayout	Support layout specification output MDC key pairs
+23202	methods dlog method log fqcn logger support	dlog methods support FQCN wrapper classes
+42281	gcj tests stack code traces fail unit	Unit tests fail java gcj JRockit
+45481	imports created	Source unused imports
+42283	java serializationuid imports warnings issues eclipse	Eclipse Java compiler warnings usused imports members serializationUID serialization UID
+38061	log systemout type apache appender org errorhandler property info isassignablefrom logger val file parsing string setting test level system temp configuring set layout fallbackerrorhandler setfile convertarg threshold integer dir	Problem configuring errorHandler property file error Handler
+46512	replace processedcategory log categorypath findbugs viewer fact code	CategoryPath doesn replace slashes dots Category Path
+40755	source header asf headers november org src	Update source header ASF Header policy
+37560	log soapenv http xmlns ndc org olc cdata envelope error effectivedate event body bis xmlschema datetime xml faultcode dataformatexception xmlsoap charges schemas	handle embedded xml correctly
+48953	variables imports test	Unused imports variables test source GCJ compile warnings
+9150	file filename tempfile fileappender log string path loglog getparentfile debug setfile trim val set equals	check FileAppender parent path exists File Appender
+46271	log java apache org category syslogappender set layout jlogger appenderattachableimpl appenderskeleton	NullPointException SyslogAppender Point Exception Syslog Appender
+35519	ant log jdk stack fail unit tests	log unit tests fail JDKs Ant
+46144	java log write nullpointerexception quietwriter apache org writerappender string ignore writer appenderskeleton configuredfileappender	QuietWriter write ignore Exceptions Quiet Writer
+26433	log management exception weblogic jmx javax attrinfo apache java level homeserver org remotembeanserver mbeanattributeinfo nested rmi problem getcontent musyk	JMX problem org apache log Level serializable
+45636	string jan format epoch initialized test time dateformat standard milliseconds helpers memory testiso iso log	tests DateLayout failing ill initialized DateFormat Layout Format
+46404	log apache java org main net appender configuration param debug category info client logger simplesocketserver socketappender test root xxx axis axisfault thread exception output connection ioexception	NPE logging AxisFault SocketAppender Axis Fault Socket Appender
+41156	log threads names reasonable	log threads reasonable names
+17862	getversion version apache	Version getVersion method requested Version
+43078	content log mdc xmllayout equivalent configuration unexpected values	Optionally render MDC content XMLLayout
+48588	url domconfigurator stream input doconfigure equivalent configuration log repository	DOMConfigurator close input stream configured based URL
+40412	notice apache license jars org http software file html adds	NOTICE file distributions jars
+41565	log stdout gmt info appender layout user timezone pattern sss file apache patternlayout	Timezone specifier pattern layout reported work
+24159	log org apache setstate thread java message logger getstate logging appenderskeleton locks holding debug time tostring rendering exit rendered conditions deadlock locked spi rootcategory jboss appenderattachableimpl writerappender category play stack called objects construct	Log create deadlock conditions concurrent donation
+33888	logger abbreviation log replace character elements enhancement dev element	Enhance abbreviation options logger layout pattern converters
+46049	log filter console appender stringtomatch leveltomatch patch apache varia org	Filter support PropertyConfigurator Property Configurator
+41186	java log apache org appender asyncappender param helpers loggingevent patternlayout patternparser lang thread locationinfo writerappender source dispatcher unknown layouts create events format nullpointerexception spi	AsyncAppender DiscardSummary events create NullPointerExceptions layouts Async Appender Discard Summary Pointer Exceptions
+44644	text charset contenttype java plain html utf layouts simplelayout messages errors smtpappender getcontenttype strings layout correct	ContentType Layout text html Content Type
+30950	dlog level string log key methods logger nulls save	Add Logger dlog methods Throwable args
+37736	methods appenderremovedevent called log loggereventlistener hierarchy levelchangedevent equivalent purely	LoggerEventListener appenderRemovedEvent levelChangedEvent methods called Logger Event Listener appender Removed Event level Changed Event
+43113	log trunk	Move log branch log trunk
+47465	jar file configuration test log patch container don environments tomcat domconfigurator update	Reading configuration files JAR locks JAR file
+49002	harmony stack gcj fail	Unit tests fail gcj Apache Harmony stack trace expectations
+36332	xml build link sun java href api http log classes javadoc docs classpath	Javadoc incorrect reference classes
+40172	add log list bug reports release syslogappender	log release
+42094	log component classes chainsaw	log component model
+45039	throwable jdk method getstacktrace parsing output log printstacktrace bug exception qualified stack depend prepared building platforms	Throwable getStackTrace stack trace JDK Stack Trace
+35568	log test tests apache org extension classes points drfatestcase compile mypatternlayout imports mypatternparser fail	log unit tests stray imports test order change
+42099	log expressionfilter filter goal adapts	ExpressionFilter backport Expression Filter
+35831	jdk source bytecode javac java htmladaptorserver version log jmxtools language determination constructs sun point incompatible	log build JDK
+40951	log release	log release
+17531	logger hierarchy configuration log file doonchange reset propertyconfigurator properties changed	PropertyConfigurator configureAndWatch don reset configuration Property Configurator configure Watch
+33531	log dev event based initiated set	feature Event filter based rolling
+42108	log loggingevent accessors chainsaw handles clients gettimestamp	LoggingEvent accessors compatible log Logging Event
+44157	interruptedioexception log thread special caught interruptedexception exception code java ioexception thrown	InterruptedIOException log Interrupted IOException

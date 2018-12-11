@@ -1,0 +1,2 @@
+[SLING-1504] Enable pluggable node name generation - ASF JIRA
+Bundles should be able to implement a NodeNameGenerator interface and customize the node name generation logic.

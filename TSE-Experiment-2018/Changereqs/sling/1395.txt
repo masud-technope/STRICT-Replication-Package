@@ -1,0 +1,2 @@
+[SLING-1395] Multivalue String properties can't be loaded by jcr.contentloader - ASF JIRA
+This is a result of the changes added in SLING-1359.

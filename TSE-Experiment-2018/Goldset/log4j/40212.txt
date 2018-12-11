@@ -1,0 +1,6 @@
+src/main/java/org/apache/log4j/spi/NOPLogger.java
+src/main/java/org/apache/log4j/spi/NOPLoggerRepository.java
+src/changes/changes.xml
+src/main/java/org/apache/log4j/LogManager.java
+src/main/java/org/apache/log4j/spi/NOPLogger.java
+src/main/java/org/apache/log4j/spi/NOPLoggerRepository.java

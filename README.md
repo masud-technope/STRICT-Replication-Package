@@ -141,6 +141,40 @@ java -jar strict-runner.jar -task suggest+execute -repoName ecf -outputFile ./sa
 This command collects the queries from STRICT and their results, and then save them in the given output file.
 
 
+TSE : Replication Package
+============================================================
+Subject Systems:
+------------------------------------------------------------
+- *ecf* (345)
+- *eclipse.jdt.core* (404)
+- *eclipse.jdt.debug* (229)
+- *eclipse.jdt.ui* (695)
+- *eclipse.pde.ui* (525)
+- *log4j* (60)
+- *sling* (76)
+- *tomcat70* (551)
+
+Experimental Data:
+--------------------------------------------------------------
+- ```TSE-Experiment-2018/Baseline/query``` : Baseline queries extracted from the 2,885 change requests.  
+- ```TSE-Experiment-2018/Baseline/rank``` : Query Effectiveness (QE) of the baseline queries.  
+- ```TSE-Experiment-2018/Changereqs``` : 2,885 change requests from eight subject systems. 
+- ```TSE-Experiment-2018/Corpus/method.7z``` : Corpus containing the method bodies from source code documents of all systems. Please decompress before using.
+- ```TSE-Experiment-2018/Corpus/*.ckeys``` : Corpus document-index key mapping.
+- ```TSE-Experiment-2018/Goldset``` : Ground truth for 2,885 change requests.
+- ```TSE-Experiment-2018/Lucene``` : Lucene index for concept location. Please decompress before using.
+- ```TSE-Experiment-2018/Proposed/query``` : Queries suggested by the proposed technique.
+- ```TSE-Experiment-2018/Proposed/rank``` : Query Effectiveness (QE) of the suggested queries.
+- ```TSE-Experiment-2018/Proposed/resampling ``` : Re-sampled versions of Query Difficulty measures.
+- ```TSE-Experiment-2018/Proposed/qdiff-model``` : Query Difficulty model for the proposed approach.
+- ```TSE-Experiment-2018/Proposed/nosampling``` : Query Quality prediction results without resampling.
+- ```TSE-Experiment-2018/SelectedBug``` : IDs of the change requests under study.
+- ```TSE-Experiment-2018/tokens*``` : Tokens generated from project source and change requests for Splitting algorithm, Samurai.
+- ```TSE-Experiment-2018/Traditional/query``` : Queries suggested by three traditional techniques-- TF, IDF, TF-IDF.
+- ```TSE-Experiment-2018/Traditional/rank``` : Query Effectiveness (QE) of the traditional queries.
+- ```TSE-Experiment-2018/Weight-training``` : Auxiliary data for weight training for the proposed algorithm using Genetic Algorithm.   
+
+
 Please cite our work as
 ------------------------------------------------------------
 ```

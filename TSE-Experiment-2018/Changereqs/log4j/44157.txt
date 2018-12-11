@@ -1,0 +1,17 @@
+44157 – InterruptedIOException ignored by log4j
+log4j catches and ignores InterruptedIOException's, causing code that uses log4j to freeze under
+certain conditions.
+When the exception InterruptedException is caught, special care must be taken.
+If InterruptedException
+is caught and ignored, and the thread does not exit, other code that interrupted that thread will not
+function correctly.
+The same is true of InterruptedIOException (which derives from IOException).
+This can be thrown from
+any java.nio blocking method, or can be thrown from java.io methods on Solaris.
+An
+InterruptedIOException must be treated the same as an InterruptedException; either the exception
+should be allowed to continue up the call stack, or something special must be done.
+One example of something special is to call the following:
+Thread.currentThread().interrupt();
+I propose that everywhere in log4j that IOException is caught, a special catch of InterruptedIOException
+is done and Thread.

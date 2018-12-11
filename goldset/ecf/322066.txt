@@ -1,4 +1,0 @@
-releng/features/org.eclipse.ecf.discovery.local.feature/buckminster.cspex
-releng/features/org.eclipse.ecf.discovery.local.feature/org.eclipse.ecf.discovery.local.cquery
-releng/features/org.eclipse.ecf.discovery.local.feature/org.eclipse.ecf.discovery.local.mspec
-tests/bundles/org.eclipse.ecf.tests.osgi.services.discovery.local/org.eclipse.ecf.tests.osgi.services.discovery.local.launch

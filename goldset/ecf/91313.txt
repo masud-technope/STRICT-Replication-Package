@@ -1,3 +1,0 @@
-examples/bundles/org.eclipse.ecf.example.collab/example32.png
-examples/bundles/org.eclipse.ecf.example.collab/build.properties
-examples/bundles/org.eclipse.ecf.example.collab/about.ini

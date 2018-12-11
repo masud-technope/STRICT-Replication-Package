@@ -1,0 +1,2 @@
+[discovery][ui] 'Discovery' view needs to distinguish its categories based on the IServiceTypeID's services
+Currently, the 'Discovery' view will list multiple categories of the same name because it simply retrieves the name of the IServiceTypeID. This cannot sufficiently distinguish between the multiple services if there is a deep hierarchy. We should use the id's String[] returned from getServices() and merge them together to create more distinct names.

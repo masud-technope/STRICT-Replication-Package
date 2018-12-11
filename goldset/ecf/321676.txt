@@ -1,7 +1,0 @@
-releng/features/org.eclipse.ecf.tests.feature/org.eclipse.ecf.tests.cquery
-releng/features/org.eclipse.ecf.tests.filetransfer.feature/buckminster.cspex
-releng/features/org.eclipse.ecf.tests.filetransfer.feature/feature.xml
-releng/features/org.eclipse.ecf.tests.filetransfer.feature/org.eclipse.ecf.tests-platform.cquery
-releng/features/org.eclipse.ecf.tests.filetransfer.feature/org.eclipse.ecf.tests-platform.mspec
-releng/features/org.eclipse.ecf.tests.filetransfer.feature/org.eclipse.ecf.tests.filetransfer.cquery
-releng/features/org.eclipse.ecf.tests.filetransfer.feature/org.eclipse.ecf.tests.filetransfer.mspec

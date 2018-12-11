@@ -1,0 +1,14 @@
+src/changes/changes.xml
+src/main/java/org/apache/log4j/PropertyConfigurator.java
+src/main/java/org/apache/log4j/xml/DOMConfigurator.java
+src/main/javadoc/org/apache/log4j/xml/log4j.dtd
+src/main/resources/org/apache/log4j/xml/log4j.dtd
+tests/input/xml/testReset.xml
+tests/src/java/org/apache/log4j/PropertyConfiguratorTest.java
+tests/src/java/org/apache/log4j/xml/DOMTestCase.java
+src/java/org/apache/log4j/PropertyConfigurator.java
+tests/src/java/org/apache/log4j/xml/ResetTest.java
+src/java/org/apache/log4j/joran/action/ConfigurationAction.java
+src/java/org/apache/log4j/xml/log4j.dtd
+tests/input/xml/resetTest.xml
+tests/src/java/org/apache/log4j/xml/ResetTest.java

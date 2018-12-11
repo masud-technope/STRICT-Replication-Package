@@ -1,2 +1,0 @@
-server-side/bundles/org.eclipse.ecf.server.generic/src/org/eclipse/ecf/server/generic/AbstractGenericServer.java
-server-side/bundles/org.eclipse.ecf.server.generic/src/org/eclipse/ecf/server/generic/ServerManager.java

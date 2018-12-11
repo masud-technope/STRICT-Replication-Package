@@ -1,0 +1,5 @@
+src/changes/changes.xml
+src/main/java/org/apache/log4j/PropertyConfigurator.java
+src/main/java/org/apache/log4j/xml/DOMConfigurator.java
+tests/src/java/org/apache/log4j/PropertyConfiguratorTest.java
+tests/src/java/org/apache/log4j/xml/DOMTestCase.java

@@ -1,0 +1,8 @@
+23202 – l7dlog() methods do not support FQCN of wrapper classes.
+The l7dlog() methods, unlike the standard log() methods, do not support the
+passing of a fully-qualified class name into the logger.
+ As a result, the
+Logger class utilizes the FQCN initialized and stored in the base Category
+class.
+Recommend adding a l7dlog() method with a similar signature as the generic log
+() method.

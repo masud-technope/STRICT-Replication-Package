@@ -1,0 +1,404 @@
+74753	dialog action Bug codeassist Bug codeassist code assist failing type parameter
+482309	Sample Imports Bug Organize Imports work accessible binary types
+421902	errors declaration Bug goo program Bug reconciler Deleting declaration errors
+66570	osgi Bundle code framework type org capitalization Bug Code assist fails capitalization cap italization
+404489	NonNull java Exception qualifier Retention QualifiedType Qualified Type TYPE Xy Type Bug dom ast Incorrect conversion JSR TYPE annotations qualified
+421897	foo body eclipse behavior method compiler choice trigger res requirement Bug compiler Errors lambda body influence overload load resolution
+343060	String Oracle java method classes Main Child Method AbstractChild Child lection versions Methods Bug Method getMethods Methods Methods returns methods compared standard compiler inheritance hierarchies Methods
+478225	eclipse org popups bar processor java error Manager Instance newInstance Instance IDE Bug JDT APT doesn deal gracefully broken annotation processors
+71702	Array code completion Bug code completion doesn work Array
+71705	Bug Assist CodeAssist Code Assist Bug CodeAssist Code Assist Code Assist failure simple test Code Assist
+391196	type Element Marker constructor Type TYPE javac compiler report annotation Target ElementType Element Type Bug compiler Compiler rejects type annotations valid locations
+430108	pkg type Wizard code wizard Fragment root Creator Bug type wizards Creating pkg type pkg result code error
+69658	ClassInstanceCreation Instance Creation form Creation Bug typo javadoc ClassInstanceCreation Instance Creation Instance Creation Instance Creation
+421927	type JAVA Bug compiler Bad diagnostic Unnecessary lambdas
+383015	errors modifier annotations modifiers n position shouldn message Parameter Bug Bug compiler Improve error reporting illegal modifier TypeElidedFormalParameter Type Elided Formal Parameter Type Elided mal Parameter Type Elided Formal Parameter
+336934	attachment details NPE type Bug compiler NPE Scope getTypeOrPackage Type Type Type
+392245	NonNullByDefault TYPE parameter comment Bug compiler Define NonNullByDefault applies TYPE locations
+412726	API isFunctionalInterface Functional Reference lookup Bug API checking anonymous creation corresponds Functional
+406586	trigger error instance Bug compiler Missing error unavailable enclosing instance
+120892	parent method constructor methods constructors resp Bug assist inconsistent completions constructors methods
+430136	Element Java type mementos data JavaElement Java Element characters Javadoc memento element getHandleIdentifier Handle Identifier Identifier Bug model JavaElement Java Element Java Element JEM LAMBDA METHOD memento delimiter Java Element
+93249	method Progress IProgressMonitor IProgress Monitor Invocation InterruptedException Interrupted Exception Exception Build BuildPathAction Build Path Action Bug Code assist doesn propose full method stub
+383046	error expression Bug compiler Error ting reported lambda expression subsequent parse error
+426048	eclipse java Error jdt org Eclipse ide Log Type NPE TypeVariableBinding Type Variable Binding Type Variable Binding internalBoundCheck internal Bound Check internal Bound Check parentheses parent heses balanced Type Variable Binding internal Bound Check
+427072	Regression bug Bug compiler Regression bug Method ambiguous type
+383062	bugs bug Scanner org Bug compiler Mirror internal scanner PublicScanner Scanner Scanner Scanner
+425040	type Annot Bug heuristic formatter annotation cases hardToDecide hard Decide java keyword Bug formatter Add option Insert type annotation
+399453	annotationsOnDimensions annotations Dimensions Reference Marker TypeReference Type Reference annotations Type Bug Annotation Bug compiler Annotation preceding dimension array creation expression type
+426074	program ECJ inference BETA JAVA Bug compiler Functional parameterization param eterization inference problem intersection ersection types
+418919	annotations bindings compiler creation System ect ball Options store def defect Environment Bug compiler internal Remove forcing cing creation annotated bindings
+406627	compiler Retention lambda Info AMD Object lang java generateMethodInfoAttributes generate Method Info Attributes Method jdt Problem ention runtime Bug compiler codegen Annotations lambda parameters dev
+427105	error String List reconciler annotations Bug touch Bug builder Differences incremental full builds method contract verification presence type annotations
+385132	lines compiler error list COLON Bug compiler syntax error ARROW COLON COLON shouls
+406636	eclipse File java exception AIIOB AIOOB org Jsr Entry Bootstrap binary tools AIOOB disassembling file
+427117	lambda List System work Bug forEach code Bug code assist code assist lambda parameter work
+415850	annotations res regressions failures errors Bug Ensure RunJDTCoreTests JDTCore Tests cope annotations enabled JDTCore Tests
+418921	compiler annotations copy method parameter locations binding Bug Type Bug compiler annotations locations moved type copied pure annotation
+416886	bug Reference Type Bug dom ITypeBinding IType Binding Type Binding qualifier QualifiedTypeReference Qualified Type Reference Qualified Type Reference wrong IType Binding Qualified Type Reference
+394356	names annotations types Annotation Bug compiler Type Annotations names rejected
+416885	lang Method java JRE issue MethodHandles Method Handles Lookup MemberName Member Lambda compiler IncompatibleClassChange Incompatible Change Incompatible Change error Incompatible Change
+424053	type inference ating Bug compiler Consolidate type inference
+385137	type member access program moment Target TYPE Marker Nested JRE java Bug compiler Type annotations allowed member access
+472178	Stack jdt bin http ideas bug length createASTs create ASTs IProgressMonitor IProgress Monitor File Paths String JDT stackItems stack Items KrQ Monitor sourceFilePaths source File Paths Progress bindingKeys binding AST Bug Compiler java lang ArrayIndexOutOfBoundsException Array Bounds Exception Array Bounds Exception codegen StackMapFrame Stack Map Frame Stack Map Frame addStackItem add Stack Item add Stack Item StackMapFrame Stack Map Frame Stack Map Frame java Array Bounds Exception Stack Map Frame add Stack Item Stack Map Frame
+449659	tests compiler Bug compiler Investigate status disabled generics tests
+417923	space annotations Test Bug AST Type d Array testBug test Bug test bug Bug dom ast white space requirements ArrayType Array Type Array Type NASTFlattener NAST Flattener ASTRFlattener AST Flattener Array Type
+401551	grammar Javadocs d API Bug DOM AST Remove grammar rules Javadocs Java docs deprecate pre JLS APIs API
+430219	Test Annotation Bug compiler NPE Annotation Parameter Type
+376977	Parameter annotations org Entity description Def type Pass suggestion code annotation Bug Content Assist Quick suggestion nested annotations argument list
+417937	addImport add Type TYPE ImportRewrite Rewrite Rewrite arg File java ITypeBinding IType Binding FileNotFoundException File Exception Bug ImportRewrite Rewrite Rewrite addImport add add ITypeBinding IType Binding Type Binding drops TYPE annotations Rewrite add IType Binding
+398490	file source folder Bug Don source file build path
+415911	lang HEAD NPE TYPE Type method Bug compiler NPE TYPE annotated method missing type
+135328	EJB XDoclet jar ejb statement Model Bug EJB Creation Wizard fails ejb jar xml invalid
+420004	TYPE Annotations PARAMETER type Bug compiler Target meta annotations restored properly binary annotation types
+422051	Bug excuses Javac InterfaceMethodTests Method Tests bug JavacHasABug Javac ABug Method Bug compiler tests cleanup excuses exc JavacHasABug Javac ABug Javac Bug InterfaceMethodTests Method Tests Method Tests Javac ABug Method Tests
+418979	Type representation bug QualifiedName Qualified SimpleType Simple Type Simple Bug dom ast Bad source ranges annotated QualifiedType Qualified Type Qualified Type type ParameterizedType Parameterized Type Parameterized Type Qualified Type Parameterized Type
+391331	method annotation type Annotation specification support annotations Bug Bug compiler Compiler replicate annotations mixed targets
+24747	type Bug incorrect compile error message
+431275	eclipse org Delta java jdt core Bug Deadlock JavaModelManager Java Model Manager Java Model Manager PerProjectInfo Project Info Project Info DeltaProcessingState Delta Processing Delta Processing Java Model Manager Project Info Delta Processing
+425142	eclipse java jdt org Method Declaration Bug compiler NPE ConstraintTypeFormula Constraint Type Formula Constraint Type Formula reduceSubType reduce Type reduce Type Constraint Type Formula reduce Type
+422064	Test regression test errors tests String Bug tests errors compiler regression tests javac
+74934	eclipse Source jdt Declaration org Bug ArrayIndexOutOfBoundsException Array Bounds Exception Array Bounds Exception literal Array Bounds Exception
+399537	function lambda body descriptor program IO Bug compiler Exceptions thrown lambda body match specification function descriptor
+402609	AIOOB program method Bug compiler AIOOB exception program method references
+404657	assignment compiler bug executeLater execute code implementation program Analysis variables IsEffectivelyFinal Effectively analysis Context Bug compiler Analysis effectively variables fails loops
+402618	compiler Marker resolve ace references Bug compiler Compiler fails resolve type annotations method constructor references
+420038	compiler javac program turn irmtion issue conf warning lang Type Bug compiler Tolerate illegal type annotations array dimensions literals compatibility
+425156	type error method Bug Lambda argument flagged incompatible error
+381121	Identifier types NonWildTypeArgumentsopt Wild Type Argumentsopt grammar Arrays Reference Bug Arguments spec Bug grammar Arrays allowed reference expressions
+405699	newCC AST node CompilationUnit Compilation Unit Exception code Compilation copy Clause Unit details attachment Modifications modifications getException Exception recordModifications record Modifications Service Bug ast rewrite AST Rewrite misses modification node ASTNode AST Node copySubtree copy Subtree copy Subtree copy Subtree
+425152	compiler eclipse jdt Expression java Code org Declaration Base Lambda compiler Lambda Expression resolved flow analyzed leading NPE
+425153	code ECJ Error VerifyError Verify Error lang Bug wildcard incompatible types lambda expression
+483534	Method Exception IOException Bug Bug search Open Method error parameterized methods
+480462	Guava javax error Error Annotate details attachment Nullable Bug add external annotations Guava libraries
+399567	Ordered Core warnings types error List Stream methods core Ambiguous defaults test parallelStream parallel Stream Bug Method Bug error message reference compiler
+65738	time notice Bug builder Build automatically save
+110797	review series FIXME ains Bug RULE tag urgency code Bug multiple task tags single tasks view complete tag
+43212	code type Job file Entries m remoteFile remote File ICVSFile Bug variable recognized code completion
+424138	Type eclipse dom AST java jdt Annotation org core Anno lang Element SimpleType Simple Type source parent dom ast Bad source ranges qualified TYPE annotation clause
+420041	project Container FooContainer Foo Container folder Bug Deprecated annotation type preserved generated file
+404690	bug Bug Bug compiler revisit bridge generation bug fixed
+412882	validation Classpath classpath µs Raw library portion Path majority JavaProject Java Project closeZipFile close Zip File validateClasspathEntry validate Classpath Entry Java Change Validation entries Project Bug Unnecessary validation optional library classpath entries
+423122	expression method Bug Missing incremental build dependency lambda expression functional
+418000	API annotations language model extension Type Bug compiler Support language model API repeated annotations
+25815	member Assist Bug Code Assist propose member type
+82137	resolve lang Code Bug select Code resolve doesn work imports
+426206	bugs bug code Bug Bug compiler Compiler tolerates illegal code
+227546	method decl declaration Bug assist method declaration completion enum constant
+429279	Manoj methods parser tree indexing candidates processing tag Bug Java search support degrades indexing performance
+413913	failures Bug Bug Investigate failures
+426214	idea moment unicode characters compiler Bug Eclipse compiler unicode characters identiifers ident iifers
+424167	inference type invocation Method solution Bug Fully integrate egrate type inference overload load resolution
+291040	Key Select code method codeSelect code Select missions Bindings work invocation commandService command Service button command dialogs toolbar Manager Bug codeSelect code Select code Select work deeply nested method invocation nested anonymous code Select
+126180	compiler access NPE String Bug compiler NPE reporting invalid enclosing type
+430307	Expression eclipse LambdaExpression Lambda Expression org Lambda lambda handleIdentifier handle Identifier java Identifier jdt Bug model NPE children LambdaExpression Lambda Expression Lambda Expression restored handleIdentifier handle Identifier handle Identifier Lambda Expression handle Identifier
+479469	wrap org context Factory Servlet Bug formatter wrap references
+176364	statements Ctrl Bug assist missing proposals statements
+3313	addChild add Child senders children Fields getFields Fields Compilation Structure CompilationUnitStructureRequestor Compilation Unit Structure Requestor Requestor Member Element notice Bug Bug Severe Performance Java Model redundancies red undancies GFKTUN
+420080	Method Bug Parent Test compilation Bug Overridden method reported duplicated
+402673	AST Converter eclipse dom jdt ASTConverter Project menu ASTParser JLS ASTNode dom ast ASTs AST JLS create node types
+419057	JLS getModifiers Modifiers member Type Bug ITypeBinding IType Binding Type Binding getModifiers Modifiers Modifiers misses implicit member IType Binding Modifiers
+193784	plugins sun Prop Annotation CONFIDENTIAL PROP Eclipse trouble distribution RIETARY SUN core Sun Bug Proprietary Prop rietary licenses
+404728	eclipse jdt Declaration NPE QualifiedSuperReference Qualified Reference Qualified Reference error Qualified Reference
+403705	failures attachment Bug Investigate failures
+418041	java eclipse org jdt AST File Method ClassFile File Unit NPE AST creation
+42243	syntax diagnosis error Bug Incorrect syntax diagnosis source mode
+10499	constructor AST ClassInstanceCreation Instance Creation access Method Bug DOM AST access IMethodBinding IMethod Binding Method Binding ClassInstanceCreation Instance Creation Instance Creation IMethod Binding Instance Creation
+424195	eclipse compiler NPE CaptureBinding Capture Binding Capture Binding initializeBounds initialize Bounds initialize Bounds Capture Binding initialize Bounds
+385293	context report position compiler Bug compiler compiler accepts normal modifiers type arguments
+335118	pattern array compiler Bug avoid code pattern unnecessarily signal potential JDT Core code
+400650	ASTRewrite AST Hieararchy Parameter Bug ASTRewrite AST Rewrite Implementation Testing annotations subtypes Type TypeParameter Type Parameter Type Parameter Type Parameter
+95505	code cursor Action addActionListener add Action Listener Bug code completion
+421148	error program locals project level compiler Verify Bug compiler Verify error annotated casts unused locals
+25890	fields compiler lains oses Expression Bug code assist displays members expressions
+424226	Method method Bug method method reference
+396576	AST dimensions Implement Bug Implement AST Rewrite extended dimensions
+380194	Method Type Identifier Change exp Bug compiler lambda Change ECJ grammar support JSR
+391464	Reference trigger String Error resolve places Bug compiler Marker Bug compiler Compiler fails resolve annotations places
+424242	method message signature attachment details error Bug compiler Lambda expression signature mismatch message include method signature
+418096	compiler type style APT dimensions AST declaration Bug compiler Misattribution annotations style array declarations
+384317	jump exp list reusing jumpOver jump imbalance Bug compiler smarts needed Scanner jumpOver jump jump jump
+406846	java eclipse lambda Method org jdt Scope lookup change compiler compiler NPE method reference lambda code compiled compliance
+427320	type annotation constructor Annos Annotations Type Test Retention String Constructors view point bug java reflection lection Bug dom ast Type annotation constructor returned IBinding Binding getAnnotations Annotations Annotations Annotations
+400710	method lang Method foo java access Bug compiler synthetic access method generates wrong code
+462147	compiler umentation bug Documentation Bug Documentation Doc umentation compiler options Mars cycle
+384320	list type Syntax Foo tokens annotations Bug compiler Syntax error mixing mixin type annotations reference expressions
+415043	Annotation Type type resolve error Tag Annotated Statement bug annotation treatment annot omp cases TODO tests constructors Definite TagBits Tag Bits TypeDeclaration Type Declaration ConditionalExpression Conditional Expression Bug Follow type annotations bug
+391500	annotations Allocation Bug compiler Bug compiler Type annotations Qualified Allocation Expressions dropped
+399695	sigh compiler syntax bug Bug compiler migrate parser syntax methods
+427337	Type InnerA Parameter ReadOnly Read Annotations bar issue comment bug Binding Bug dom ast Type annotation appearing app earing parameter annotation
+228691	language processing assignment file Integer PrimitiveType Primitive Type source Kind annotation lang resp APT issue details attachment java mirror Bug JDT impl sun mirror util Types isAssignable Assignable Assignable returns wrapper primitive assignment Assignable
+405843	type bugs point client requirement Bug SourceTypeConverter Source Type Converter Source Type Converter expose type annotations Source Type Converter
+424286	type spec Bug Update type inference spec version
+419165	Code Type hashCode hash Code bug code Map Binding UTS ies reasons HashMap Hash Map bugs Srikanth hand Hash TypeBinding Type Binding Bug compiler TypeBinding Type Binding Type Binding assignment interferes erferes hashmap hash map storage retrieval Type Binding
+66908	String code java Bug Code assist javadoc confused duplicate java lang String
+417113	bug Annotation Type type Binding Tag test comment STB resolve g NonNull Method env String tagbits client Nullness member fillInDefaultNonNullness fill Nullness Annotations Bug field items resolveTypesFor resolve Types portion INAV Bug compiler Encoding type annotations compiler bindings
+403810	Java JAVA tags BETA Bug tags adjusting
+499048	fcs Disjoint ide eclipse error convenience Bug Compile error org eclipse internal ide misc DisjointSet Disjoint Set Disjoint Set Disjoint Set
+422259	Bug Bug dom ast AST Formatter removes blanks annotations
+430451	JRE tests test dash org attachment details String Bug Tests fail org eclipse jdt compiler tool tests CompilerInvocationTests Compiler Invocation Tests Compiler Invocation Tests JRE Compiler Invocation Tests
+193909	IType Type Element Bug improve content assist
+400761	Function Bug compiler diagnostic
+401796	method error override sentences Bug compiler don treat methods overriding independent inherited method
+402818	Code Bug matting Bug formatter Code carrying interfaces halt formatting matting
+402819	ersection intersection Bug Bug formatter formatting matting intersection ersection types
+405889	bugs bug ilience getJavaLangInvokeMethodHandlesLookup Java Lang Invoke Method Handles Lookup Bug Method Lookup Bug compiler codegen Resilience Res ilience NPE needed Scope getJavaLangInvokeMethodHandlesLookup Java Lang Invoke Method Handles Lookup Java Lang Invoke Method Handles Lookup Java Lang Invoke Method Handles Lookup
+340365	Property Statement List Problems Size resources Disjunctive Javadoc AST property TryStatementWithResources Statement Resources addProperty add Property Type java PROPERTY inconsistencies propertyList property List Bug Problems APIs API TryStatementWithResources Statement Resources Statement Resources DisjunctiveType Disjunctive Type Disjunctive Type Statement Resources Disjunctive Type
+168331	Error List code Bug compiler AbstractMethodError Method Error Method Bug compiler AbstractMethodError Method Error Method Error method Method Error
+85384	method Bug assist proposed writing method declarations
+402831	Expression Reference ReferenceContext Reference Context Context type declaration scope phase overload Lambda Bug compiler internal ReferenceExpression Reference Expression Reference Expression implement ReferenceContext Reference Context Reference Context Reference Expression Reference Context
+382350	syntax Bug Compiler support Bug compiler Unable invoke inherited method syntax
+382347	method hibitions signature inheritance Bug compiler Compiler accepts incorrect method inheritance
+157069	content Bug code scenario Bug content assist Imports computer introduces roduces wrong compile error
+382353	ictfp trigger sites method declaration methods Bug compiler Implementation property modifiers accepted methods
+161175	project WTP times cache server JarPackageFragmentRoot Jar Fragment Root s entries initialize Bug JarPackageFragmentRoot Jar Fragment Root Jar Fragment Root slow initialize Jar Fragment Root
+382355	method Bug compiler Compiler accepts erroneous err oneous method
+383378	parser performance design tests app Scenario ategies balance Lambda Bug compiler analyze performance impact scanner parser
+399773	ersection moment support intersection type Bug compiler expression additional bounds form intersection ersection types
+380313	bit thread details org eclipse Bug Inconsistent stack error Java
+399770	FunctionalInterface Functional ilitates detection fac method annotation Bug compiler Implement support FunctionalInterface Functional Functional Functional
+399768	AST Annotations cases Bug DOM AST Type Annotation Tests
+399769	spec identifier Bug Bug compiler identifier trigger diagnostic
+42402	type exp Bug OuterClass code assist InnerClass
+399780	methods type interfaces Bug compiler Compiler methods disallow methods interfaces
+381345	version versions java Bug care Java major version
+147877	HEAD array start Bug source array access isn correct
+405934	ast nodes level attachment details presence EOF annotations Bug dom ast thrown Exceptions Type Annotations malformed nodes AST level
+427438	eclipse java org jdt Bug compiler NPE org eclipse jdt internal compiler ast ConditionalExpression Conditional Expression Conditional Expression generateCode generate Code generate Code ConditionalExpression Conditional Expression Conditional Expression java Conditional Expression generate Code Conditional Expression
+399791	AST dom Declarations Type tests Interfaces AbstractTypeDeclaration Type Declaration methods interfaces tag Bug dom ast AST APIs API support code carrying interfaces methods
+416175	NonNull NPE String List Bug compiler NPE code snippet annotations wildcards
+367023	eclipse java jdt org AST JDT Declaration Error JDT Core AST creation
+381358	source program message error level Syntax disambiguate Lambda tokens Bug Compiler gracefully reject JSR constructs source levels
+403881	program n Marker foo Token TokenNameIdentifier Token Identifier Identifier Target Bug formatter Receiver parameter halts formatting matting
+427433	eclipse java jdt org compiler NPE org eclipse jdt internal compiler lookup Scope parameterCompatibilityLevel parameter Compatibility Level parameter Compatibility Level Scope java parameter Compatibility Level
+416183	foo NonNull resolution load Bug compiler Overload load resolution fails annotations
+428468	BETA compiler JCP ishing capture champagne bottle fin goof bundle version disclaimer Bug compiler Finishing touches Java release
+41395	java eclipse Error Declaration Overflow org lang jdt StackOverflowError Stack Overflow Error Type closing overflow Bug StackOverflowError Stack Overflow Error Stack Overflow Error pasting code Stack Overflow Error
+416181	assignment compiler NonNull Bug compiler Inalid assignment rejected compiler
+399794	compiler Reference type Expression constructor Bug dom ast Add node type compiler node ReferenceExpression Reference Expression Reference Expression Reference Expression
+399792	AST API APIs ast Bug Bug dom ast AST APIs API support casts intersection ersection types
+399793	type Expression hesis body LambdaExpression Lambda Expression compiler Bug dom ast Add node type compiler node LambdaExpression Lambda Expression Lambda Expression Lambda Expression
+287164	txt path Bug Report build path error source folder source folder output folder
+406973	MethodParameters Method Parameters platform version order implementation Java Bug Parse MethodParameters Method Parameters Method Parameters attribute classfiles files Method Parameters
+94653	key type Bug select Selection invalid raw member type surface raw type
+420283	Integer type Bug intersection Bug Wrong error Type visible intersection ersection type
+401848	Testcase AST ASTRewrite Bug ASTRewrite AST Rewrite type annotations adds additional
+434630	mismatch type issue project Bug generics Unexpected type mismatch error nested types generics
+406982	MethodParameters Method Parameters Parameters table structure Bug compiler Generation MethodParameters Method Parameters Method Parameters Attribute classfile file Method Parameters
+114116	collections Report CODE suggestion colletions etions Bug assist suggestion collections
+335309	test bug project Bug formatter FUP bug add regression test
+71113	specs cover Bug instances AST Bug improve DOM AST specs bindings JLS constructs
+426447	Java inferBinaryName infer Binary Manager IAE attachment details File test kind Bug JDT implementation JavaFilerManager Java Filer Manager Java File Manager inferBinaryName infer Binary infer Binary IAE Java Filer Manager infer Binary
+402892	type Bug Code Bug formatter Code formatter understand type annotations
+427479	Java java compiler Map cycle error Projekt details attachment file experiment number workspace message Bug Internal compiler error java lang UnsupportedOperationException Unsupported Operation Exception Unsupported Operation Exception Breaking dependency cycle NYI Unsupported Operation Exception
+375248	java eclipse statement generateCode generate Code jdt org Exception AIOOBE twr block
+424403	eclipse Reference lookup compiler java jdt org Invocation NPE report compilation Inference licability reference compiler method call method reference argument fails resolve properly
+144858	compiler binding AST foo baz context entry Bug compiler resilient res ilient duplicate locals
+424415	Collection foo util List NPE Reference Bug compiler Eventual Event ual resolution ReferenceExpression Reference Expression Reference Expression happening Reference Expression
+427483	Java Tree Variables Eclipse Bug Java Variables lambdas resolved
+165346	Expression OperatorExpression Expression Flow nullStatus Status method ConditionalExpression Conditional Expression Bug compiler org eclipse jdt internal compiler ast OperatorExpression Expression Expression nullStatus Status Status FlowInfo Flow Info Flow Info conservative Expression Status Flow Info
+400871	load resolution expression method JLS context lambda Bug compiler Overhaul haul overload load resolution reconcile JLS
+230885	content Parameter Bug content assist NPE ParameterGuesser Parameter Guesser Parameter Guesser createVariable create Variable create Variable Parameter Guesser create Variable
+489963	Region spot time hotspot shouldn performance Regions insertions memory factor cost operations rate Bug Improve performance Region
+334315	code superclass lang user problem Object method task Bug compiler Problem types missing superclass superinterfaces Object missing types
+412150	annotation parameter Bug compiler Enable reflected lected parameter names annotation processing
+412151	declaration annotation type collection Bug Bug compiler Check repeating annotation collection type
+412149	container Bug compiler Emit repeated annotations designated container
+427504	eclipse java compiler TypeVariableBinding Type Variable Binding Type Variable Binding ArrayBinding Array Binding Array Binding Type Variable Binding Array Binding
+96765	enum completion work Bug Code completion work enum constants
+412155	lambda java JDT method Exception ClassCastException Exception AST PDT gtk linux core details Bug compiler Calling deprecated method separate lambda ClassCastException Exception Exception terminates AST generation Exception
+291322	Windows tests issue d Bug Test errors running JDT Core tests Windows
+31230	vector fVector Vector Code prefix Bug Code assist variable names prefix suffix
+412153	container declaration meta Bug annotations idity Bug compiler Check validity val idity annotations repeatable
+427532	Completion bugs bug Bug engine Bug code assist Completion engine intersection ersection casts
+401941	AST API Property Declaration accessors ors VariableDeclaration Variable Declaration implementations APIs review JLS Variable property node properties clone Bug dom ast DOM AST structure review
+426515	getInner type SharedASTProvider Shared ASTProvider Random AST annotations editor times imports reconciler code bug lang Compilation Bug dom ast Bindings reconciler times missing type annotations
+31261	compilation errors unti Bug Strange Str ange behavior errors max errors compilation unit
+426520	lang type java formatter erts inserts Bug formatter inserts ins erts spaces annotated qualified type
+388634	compliance failure Compliance Bug Test failure Compliance compliance
+426534	parameter inference ms Accessibility element Bug compiler Accessibility Acc essibility vararg element type checked methods
+69152	eclipse java AST jdt error org lang ASTParser Boot BootLoader Boot Loader NPE internal error occurred Override indicator installation job
+27173	method Method Binding resolve methodInvocation method Invocation Bug API add methodInvocation method Invocation method Invocation resolveMethodBinding resolve Method Binding resolve Method Binding method Invocation resolve Method Binding
+418347	TYPE notice annotations Type FIELD location compiler ElementType Element Type ice dimensions Bug compiler Type annotations locations handled properly code generation
+384567	bug program ECJ Bug compiler Compiler accepts illegal modifiers declaration
+393781	info message matching method accident port Bug matching argument list message informative info rmative matches
+416307	Map Object compiler parameter type String Bug compiler subclass type parameter substitution confuses conf checking
+420413	dimension client Dimension newArrayType Array Type Bug dom ast AST newArrayType Array Type Array Type Type create dimension array Array Type
+405051	search classpath Java Core manager attribute d IPath IndexManager Manager containerPath container Path engine Location JavaCore Java Core Monitor initializeAfterLoad initialize Load Manager archive Bug JavaModel Java Model Java Model refreshExternalArchives refresh External Archives refresh External Archives happen search primed prime Java Model refresh External Archives
+415291	ompatibility type incompatibility Strings resolve flow analysis array annotations Bug differentiate iate type incompatibilities ompatibilities annotations
+416313	compiler Type duplicates sort TypeIds Type Ids org eclipse Bug compiler Typeids Type ids unique plausibly broken cherry picking
+422468	type method lambda parameter work Discussions solution Parser Engine parameters situation cla String selection erous parser Bug assist Code assist issues type elided lambda parameters
+426565	toString String String form compiler attachment details syntax AnnotationBinding Annotation Binding Bug compiler standard syntax AnnotationBinding Annotation Binding Annotation Binding toString String String Annotation Binding String
+407106	Code code body expression Bug code assist Code assist failing lambda expression parameter function call body
+152135	Eclipse breakpoint condition popup Bug breakpoints Hovering conditional breakpoint condition
+426563	jdt org eclipse Scope java parameter compiler Array lookup exception AIOOBE method error invoked lambda expression argument
+178760	copy Paste Bug Copy Paste mechanism work
+39499	Selection Control Listener position completion Editor getSelectionProvider Selection Provider keyword Bug keyword completion work anonymous classes
+405069	code method references Bug compiler codegen Generate code method references
+405066	infrastructure code cgi bugs bug reference sections Implement JSR Lookup capability Pool Type Bug compiler codegen Implement code generation infrastructure JSR
+423496	rule Bug java bug jdk plan breaks test list orporation erts Bug Implement incorporation orporation rule
+380501	support lambda JSR expressions bears Bug compiler Add support methods JSR
+41554	failure assertion ion Searching message Bug Assertion failure search
+384595	lambda ictfp modifiers ECJ annotations types list Bug Modifiers annotations accepted lambda formal mal parameter list
+423505	test situation spec Bug Implement Specific Method Inference
+426590	FXTestCases FXTest Cases Test constructor Bug compiler Compiler error tenary
+234074	JRE Compliance compliance Bug Compliance test fails launched JRE Dcompliance
+410207	Java message jar compatibility error Bug Compiler incorrectly reports error message resolved indirectly referenced required files
+426589	javafx imports rs java System JRE test success SimpleDoubleProperty Simple Property method Test FXTestCases FXTest Cases KeyValue Key Bug compiler Compiler error method constructor invocation vargs argument
+421469	eclipse Declaration java code jdt Completion body LocalDeclaration Local Declaration toString String code assist NPE LocalDeclaration Local Declaration Local Declaration resolve anonymous lambda body Local Declaration
+438875	project file Bug core Bug Set correct project file encodings Unix delimiter
+384600	lambda contexts keyword Bug allowed lambda Reference expressions contexts don
+407131	Bug ReferenceExpression Reference Expression Expression Bug dom ast ASTRewrite AST Rewrite support ReferenceExpression Reference Expression Reference Expression nodes family Reference Expression
+422489	eclipse java jdt compiler NPE CompoundAssignment Compound Assignment Compound Assignment analyseCode analyse Code analyse Code creating AST java util stream Collectors Compound Assignment analyse Code
+421473	scope type holder block annotations Annotations annotation code array effects locals race Bug compiler Delayed assignment declaring scope arguments creates race condition
+395886	type nodes bug disallow specification Simple Type Marker util Bug DOM AST Withdraw draw annotations property nodes
+417388	type Type parameter Argument foo Bug TypeBinding Type Binding Type Binding TypeReference Type Reference Type Reference parameter type annotations Type Binding Type Reference
+402028	annotations analysis expressions Bug bug reference Bug compiler analysis reference expressions
+390761	method Map MapStream Map Stream subclass error JDK Lambda branch beta compiler Bug compiler Incorrect error method clashing clas hing inherited method
+420458	Parser array Javadoc JLS AST ASTParser Bug dom ast JLS ASTParser AST Parser multi dimensional array reference Javadoc
+22132	Access Field FieldAccess Field Access field problem strangeness Bug JDT ASTs AST QualifiedName Qualified Qualified FieldAccess Field Access Field Access Qualified Field Access
+383600	type Receiver support constructor Bug compiler Receiver annotations constructors require grammar change support qualified
+405104	support Bug Bug compiler codegen Implement support serializeable serialize lambdas
+401030	Method analysis Scope Declaration Lambda Source method Type resolve inheritance ions Bug analysis support lambda methods
+420482	Type attachment Types Executable ExecutableTypeImpl Executable Type Impl Parameter Impl getParameterTypes Parameter Types ElementTests Element Tests test Bug ExecutableTypeImpl Executable Type Impl Executable Type Impl getParameterTypes Parameter Types Parameter Types include type annotation type parameter Executable Type Impl Parameter Types
+390784	type annotations Bug compiler Redesign Red esign ECJ grammar type annotations support JSR
+388739	methods rules concept compiler Bug compiler methods detecting declared
+383624	code support type patch post order chunks JAVA core Bug compiler Revive code generation support type annotations Olivier work
+401035	tests eclipse test jdt org eec daa problem Recovery Bug tests started failing
+426633	foo code Bug Bug compiler Compiler generates code invokes inapplicable method
+407191	type list annotations compiler core bug work load Bug Binary access support type annotations
+409236	intersection ersection annotations bugs bug point Bug compiler Type annotations intersection ersection types dropped code generator
+425621	Type type error constructor ClassType Type Bug compiler Missing error raw type constructor reference explicit type arguments
+423582	eclipse Processor java org CCE TypeBinding Type Binding Type Binding isCastCompatible Compatible Compatible PolyTypeBinding Poly Type Binding Poly Type Binding Type Binding Compatible Poly Type Binding
+426652	glb inference variable List arg Bug Bug inference inference loops infinitely inf init ely unconstrained inference variable
+392862	array annotations analysis Bug compiler Evaluate annotations array types
+409245	bridge compiler type annotations bugs bug methods file Bug compiler Type annotations dropped call routed synthetic bridge method
+143001	statement Collection recovery fake Bug Bug Statement recovery doesn recover broken statement
+384667	r source error method body scheme construct Bug compiler source positions lambda expressions
+384666	expressions nextToken Token lambda tests Token Lambda NLS Expression append buffer selecting String methods file test Bug compiler improve debuggability debug gability Parser wrt lambda expressions
+408230	eclipse java jdt type org Declaration hovering NPE hovering type inferred parameter lambda expression
+415399	java args Type lang Number compiler annotation generator Bug compiler Type annotations constructor dropped code generator
+429733	lang java Ljava fine String Launcher JAVA Eclipse type Main LauncherHelper Launcher Helper bytecode Bad type operand stack
+409250	Type bit type code Stream bug HasTypeAnnotations Type Annotations Array Binding compiler Bug ends generation annotation CodeStream Code Stream File concern rel phase resolve annot Bug compiler loose ends code generation
+402080	reference declaration method String Bug code select Unable navigate method declaration method reference
+384687	arguments type constrcutor method lambda Bug Bug Wildcard type arguments rejected lambda reference expressions
+414380	field Field QNR bug location sourcePosition source Position Bug compiler internal QualifiedNameReference Qualified Reference Qualified Reference indexOfFirstFieldBinding Field Binding Field Binding point field Qualified Reference Field Binding
+60081	java d lang Object ModelObject Model Object compiler Bug Compiler java lang VerifyError Verify Error Verify Error Illegal target jump branch Verify Error
+424631	ReferenceExpression Reference Expression generateCode generate Code Expression Reference foo util Bug inference NPE ReferenceExpression Reference Expression Reference Expression generateCode generate Code generate Code Reference Expression generate Code
+426676	String compiler map stream bugs bug method program Eclipse util toString String Bug compiler Wrong method type inferred lambda expression
+414384	type location annotation pect METHOD code file Bug type annotation abbreviated marked type
+403132	classes AST java ASTConverter attachment details test Converter Type Conversion Bug DOM Incorrect ASTConversion AST Conversion Annotations classes Receiver
+69308	modifiers list API Modifiers Bug ASTNodes AST Nodes deal modifiers offer method setModifiers set Modifiers set Modifiers List modifiers set Modifiers
+116419	DECLARATION Bug test Code Bug code assist regression POTENTIAL METHOD DECLARATION offered
+456395	String Bug code Bug compile Java code
+404169	framework projects junit Test J test Bug deprecation warnings test projects junit framework
+391893	AST Bug bugs bug Declaration Bug DOM AST Add receiver parameter support DOM AST
+391895	support compiler declarations side DOM Bug dom ast Annotation support extended dimensions
+391894	Array capture nodes ArrayCreation Array Creation Bug compiler Support type annotations ArrayCreation Array Creation Array Creation nodes Array Creation
+366298	blog bundle jdt tycho OSG maven annotation Bug site Bug publish org eclipse jdt annotation bundle
+391898	annotations compiler AST manipulations DOM Declaration Bug compiler Add DOM AST support annotations varargs
+421607	program String error intersection compiler Error Bug compiler Verify Error intersection ersection casts
+390883	TOT Map javac program Bug Bug compiler Unable override method
+418528	issue Tests project copy library Bug suites Bug internal Tests pass suite fail suite suites
+383714	bug message modes compiler System program project moment Bug compiler Compile fails reject constructs modes
+390882	program errors java level test lang Marker type annot Bug compiler Compiler reject type annotations nested names qualified top level types
+382701	bugs support Lambda analysis ER programs ERs project Bug compiler Implement semantic analysis Lambda expressions Reference expressions
+415470	declaration type TYPE Element MyClass classes Bug compiler Type annotations declaration vanishing
+27370	type code Bug workspace project test Bug code assist working
+414444	BREE bundle TYPE time tests Bug Configure annotation bundle TYPE
+384750	expressions analysis len ally kind Bug Compiler reject invalid method reference expressions
+103148	generics time Enum staticMethod Method EnumSet Enum Set Everytime method tool Bug assist Code completion breaks method generics staticMethod Method Method params Method
+357110	error folder bin rep Editor type source classes Bug Problem classes referenced jars folders type resolved
+86779	type Type support Bug AST resolveWellKnownType resolve Type resolve Type support primitive type wrappers resolve Type
+421628	rules equality AST Type Binding docs Key isEqualTo Equal Javadocs Bug dom ast api document rules ITypeBinding IType Binding Type Binding equality IType Binding
+424710	eclipse java Declaration Java jdt List mapper Bug compiler CCE SingleNameReference Single Reference Single Reference localVariableBinding local Variable Binding local Variable Binding Single Reference local Variable Binding
+455427	compiler bug annotations Bug Bug test compiler test APT enabled
+407297	option javac parameter names ECJ Bug compiler Control generation parameter names option javac parameters
+424718	compiler compatibility method API Reference lombok eclipse plugins baseTypeReference base Type Reference AST base baseType base Type Bug compiler API compatibility AST TypeReference Type Reference Type Reference Type Reference
+424712	eclipse java org compiler NPE TypeBinding Type Binding Type Binding isProvablyDistinctTypeArgument Provably Distinct Type Argument Provably Distinct Type Argument Type Binding Provably Distinct Type Argument
+429833	eclipse bugs bug java jdt Code org Bug compiler Missing types NPE lambda analysis
+402198	program constructor resolution steps error compilation problem object Policy support Bug Bug compiler infrastructure Enhance IErrorHandlingPolicy IError Handling Policy Error Handling Policy support policy ignore errors IError Handling Policy
+424727	eclipse java compiler NullPointerException Pointer Exception Pointer Exception nullAnnotationUnsupportedLocation Annotation Unsupported Location Annotation Unsupported Location ProblemReporter Problem Reporter Problem Reporter java Pointer Exception Annotation Unsupported Location Problem Reporter
+424725	eclipse analyseCode analyse Code figure java Declaration Java Code problem jdt Java Builder infinite loop ArrayIndexOutOfBoundsException Array Bounds Exception Array Bounds Exception analyseArguments analyse Arguments analyse Arguments Array Bounds Exception analyse Arguments
+484114	completion condition work auto Predicate test content Bug content assist Flow sensitive typing doesn work autocompletion auto completion condition
+363293	jdt warnings Resource file resource Bug resource leaks org eclipse jdt compiler tool tests
+426778	compiler CourseProviderEmploymentStatistics Provider Employment Statistics d result Collections Employment courseProviderName Provider Total comparingInt comparing Code Bug inference Internal compiler error java lang NullPointerException Pointer Exception Pointer Exception org eclipse jdt internal compiler ast LambdaExpression Lambda Expression Lambda Expression analyseCode analyse Code analyse Code LambdaExpression Lambda Expression Lambda Expression java Pointer Exception Lambda Expression analyse Code Lambda Expression
+25377	task array mismatch Bug Error location correct empty array initializer
+418599	warnings Bug Bug rid compile warnings official icial build
+410402	failures Bug Bug Investigate failures
+426792	inference engine compliance BETA Bug inference impl generify gen erify type inference engine
+145202	element analyzer Bug positive reference analyzer negated
+425783	eclipse error org Patch Java BETA java Bug internal error occurred Requesting Java AST selection java lang StackOverflowError Stack Overflow Error Stack Overflow Error Stack Overflow Error
+415541	java initializer type Type annotations Object lang body field initialization code Bug compiler Type annotations body initializer dropped
+416560	parameter jdt AST LEVEL editor details attachment screenshot start length SHARED java Unit runtime explorer ast Bug Incorrect source range lambda expression parameter
+334652	InnerClass javadoc file eclipse guess Bug Javadoc content constructors
+404285	JLS Bug Bug dom ast Deprecate AST JLS
+135997	pathSeparator path Separator range source AST Expression ExpressionStatement Expression Statement Bug AST invalid source range recovered node
+402233	expression Expression consideration Type Java t poly Bug type Bug compiler infrastructure Implement Expression tIsMoreSpecific Specific Specific TypeBinding Type Binding Type Binding TypeBinding Type Binding Type Binding Specific Type Binding Type Binding
+425798	eclipse java compiler NPE ConstraintTypeFormula Constraint Type Formula Constraint Type Formula reduceSubType reduce Type reduce Type Constraint Type Formula reduce Type
+407364	ASTRewrite AST Type Bug dom ast Incorrect ASTRewrite AST Rewrite QualifiedType Qualified Type Qualified Type Qualified Type
+11076	launch list Bug Deleted configs remain favorite list
+398158	Variable qualifier ECJ grammar bug Bug Receiver qualifier simple qualified
+29516	Bug regressions Bug SearchEngine Search Engine Search Engine regressions reg res sions Search Engine
+388936	jclMin jcl Min Min jcl versions jar classpath Bug create jclMin jcl Min jcl Min libraries jcl Min
+365387	bug review Scanner code Source Bug compiler bug Issues follow post review verification
+386901	Module Bug Eclipse pass annotated classes annotation processor
+431963	NonNull parameter Auto stub code bug method getTypeAnnotations Type Annotations Bug DOM Confusion Conf usion type annotations varargs method parameter
+478042	bug possibility sibility Bug search Support Open Method single api
+29536	IResource getLocation Location Resource platform dev Bug Check IResource Resource getLocation Location Location Location
+73573	java eclipse Completion jdt Parser org Exception ctrl location ArrayIndexOutOfBoundsException Array Bounds Exception Array Bug CodeAssist Code Assist Code Assist ArrayIndexOutOfBoundsException Array Bounds Exception Array Bounds Exception genric type completion Code Assist Array Bounds Exception
+426851	Type location TypeUse Type space Ctrl press annotation Bug content assist content assist type annotation
+429934	eclipse org jdt Bug search references type lambda parameter AIIOBE
+27499	project Java java Variable cla unit iming file Bug Bogus ClasspathVariableInitializer Classpath Variable Initializer Classpath Variable Initializer JavaModel Java Model Java Model Classpath Variable Initializer Java Model
+396139	JRE JAVA Test team BETA Bug define JRE build targeting BETA JAVA
+217966	front API order modifiers JLS flags spec design step doc Bug Flags toString String String API deserves improvements String
+417659	test Type AST Rewriting Method Annotations debug Inheritence sets bug tracking Bug dom ast test failures ast structure debug tracing
+399224	method Method Problem bug Type TypeBinding Type Binding care getSingleAbstractMethod Single Method Stuff redefinitions skeleton returns Bug compiler internal Implement TypeBinding Type Binding Type Binding getSingleAbstractMethod Single Method Single Method Type Binding Single Method
+406392	diagnostics identification compiler instance ide foo Bug compiler codegen Improve identification ide ntification lambdas capture enclosing instance
+222080	ASTNode proposals list Bug problem attachment details Bug assist Wrong proposals order completing item array
+442245	eclipse source copy java files attachment details Bug compiler source files lead eclipse hang copy paste
+417669	Type Marker source annotation SimpleType Simple Type code Node TYPE ParameterizedType Parameterized Type String Bug dom Incorrect source ranges annotated SimpleType Simple Type Simple Type nested ParameterizedType Parameterized Type Parameterized Type Simple Type Parameterized Type
+413569	AST type Type String Array array model annotations Retention language problem Bug dom ast AST annotated multi dimensional array type formed med
+424845	settings compliance Java function Result Object list onResultOf Result JDT Ordering Bug Wrong resolution type compliance settings
+413592	method Formatter format Level formatting String cting kind Code Ctrl Body AST indentation DefaultCodeFormatter Code Formatter ASTRewriteFormatter ASTRewrite Formatter Bug method formatted ASTRewriteFormatter ASTRewrite Formatter AST Rewrite Formatter ASTRewrite Formatter
+419748	eclipse dom ASTParser jdt Converter AST ASTConverter org Parameterized Annotatable dom ast MethodDeclaration Method Declaration Method Declaration receiverType receiver Type receiver Type AnnotatableType Annotatable Type Annotatable Type Method Declaration receiver Type Annotatable Type
+392099	JSR compiler analysis field Bug compiler Apply annotation types analysis
+364450	type change path Bug Dubious path error triggers full rebuild
+409517	array org references multi arrays Bug compiler Type annotation problems elaborate array references
+383913	parameter method receiver Bug compiler Compiler reject explicit parameter disallowed contexts
+392119	bug impression compiler files imp Annotations Annotation isRuntimeInvisible Runtime Invisible Bug compiler Annotations hybrid targets don files
+162740	dir links org doc web Bug Error website web site
+95167	type org restriction Face J abc AbstractTextEditor Text Editor method content Bug JFace Bug content assist Spurious Access restriction error code assist
+79809	suggestion tag angle type brackets Simple parameter users SimpleType Simple Type draw Bug dom javadoc support type parameter Javadoc tags
+481223	eclipse egration org Proposal recommenders subwords exercise java Completion tests test warmup Test completion Computer Dear Recommenders performance Regression SearchableEnvironment Searchable Environment Search Environment findConstructorDeclarations find Constructor Declarations find Constructor Declarations Searchable Environment find Constructor Declarations
+391108	program ECJ methods Bug Target TYPE Bug compiler Compiler type annotations methods
+25539	eclipse org references type Exception SingleCompletionTest Single Completion Test Bug Unexpected inaccurate search
+406469	AST ASTRewrite Analyzer Type Bug dom ast ASTRewrite AST Rewrite support PackageQualifiedType Qualified Type Qualified Type Qualified Type
+497603	Object ECJ code mismatch Bug compiler inference type inference bug
+423872	eclipse AST java org dom IllegalArgumentException Illegal Argument Exception Illegal Argument Exception opening Path Illegal Argument Exception
+170954	code Bug proposed method
+383949	parameter Explicit lambda meaning JAVA Bug compiler Explicit parameter illegal lambda expressions
+73675	pipeline change CUs AST CU Bug dom AST creation pipeline
+383950	meta Marker compiler Type annotation TYPE Bug compiler Type annotations target type meta annotation TYPE
+430026	type parent parameter jsr Bug Lambda parameter wrong parent declares type
+430027	eclipse java model Mitigate issues Lambda model element hierarchy lacking support binary elements
+409544	lambda body Eclipse expression ording openjdk Bug compiler local variable declared lambda body assigned lambda body
+403410	modifiers parameters Formal Parameter spec Bug Modifiers rejected receiver parameters
+430035	method bridge LambdaWithBridge Lambda Bridge compiler Bridge Consumer String Bug compiler codegen Bridge methods generated lambdas method references
+417759	Element java Type Target ElementType Element Type program Bug Bug NPE analysis
+425951	java eclipse org java lang NullPointerException Pointer Exception Pointer Exception InferenceContext Inference Context Inference Context leavePolyInvocation leave Poly Invocation leave Poly Invocation InferenceContext Inference Context Inference Context java Pointer Exception Inference Context leave Poly Invocation Inference Context
+69598	space r cont ctrl Bug Auto Completion loop
+383973	Methods syntax tests testModifiers test Modifiers recovery DefaultMethodsTest Methods Test Bug compiler syntax recovery presence methods
+396258	syntax Annotation Bug NullTypeAnnotationTest Type Annotation Test annotations type roduce Bug adopt syntax annotations qualified type names NullTypeAnnotationTest Type Annotation Test Type Annotation Test Type Annotation Test
+361441	eclipse java jdt Error JDT Core AST creation
+424930	util arguments type Capacity Deque dequeCapacity deque Capacity Array Bug compiler Regression infer type arguments error compiler
+383968	methods ictfp method introduction bug Bug compiler update checking method modifiers methods
+383970	enum ictfp method modifier Bug compiler Detail message Illegal modifier method misses str ictfp
+388085	argument type MyClass Bug compiler Type annotations wildcard type argument supported
+426998	method String code methods error project Bug compiler method java lang java lang String applicable arguments java lang java lang String
+403444	AST eclipse dom jdt java org ASTViewContentProvider ASTView Content Provider ReduceInt Reduce Spec Expression String length foo core Bug dom ast CCE resolving binding malformed LambdaExpression Lambda Expression Lambda Expression JLS AST Lambda Expression
+430069	jdt tests core NullAnnotationModelTests Annotation Model Tests Model Bug Test failures JRE
+422901	Context referenceContext reference Context scope reference Lambda Engine bunch LambdaExpression Lambda Expression Completion Bug code assist Code assistant sensitive scope referenceContext reference Context reference Context type identity reference Context
+409586	ITypeBinding IType Binding Type Binding type TYPE Bug dom ast identify TYPE annotation ITypeBinding IType Binding Type Binding IType Binding
+382960	info annotation warnings java Bug Java problem markers deleted change info java
+488441	relevance proposal comment Press ctrl Proposal Bug content assist Substring string proposals incorrect relevance

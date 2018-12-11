@@ -1,0 +1,12 @@
+[SLING-1004] The folder where Sling servlets store their configuration should be configurable at deployment - ASF JIRA
+Integrating Sling as an external off-the-shelf component should be made as simple as possible, especially in web containers.
+ Today, when using the launchpad webapp, to configure the folder where Sling servlets will store their configuration, one as to open the war, change a file (either sling.properties or web.xml) and repack.
+
+ This is impractical for the following reasons: 
+  
+ it prevents Sling webapp war to be upgraded by simply replacing the war 
+ it places the responsibility of the environment configuration solely on the development team whereas in some organization this is the responsibility of another team 
+ it does not enable easy change of the configuration to follow environmental constraints (eg.
+Windows/*nix) 
+ 
+ See this mailing-list thread for further information, discussion and suggested solutions: http://mail-archives.apache.org/mod_mbox/incubator-sling-dev/200906.mbox/browser

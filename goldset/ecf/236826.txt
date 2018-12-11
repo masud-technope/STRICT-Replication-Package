@@ -1,2 +1,0 @@
-server-side/examples/bundles/org.eclipse.ecf.examples.remoteservices.server/launch/Generic Remote EnvironmentInfo Server.launch
-server-side/examples/bundles/org.eclipse.ecf.examples.remoteservices.server/src/org/eclipse/ecf/internal/examples/remoteservices/server/Activator.java

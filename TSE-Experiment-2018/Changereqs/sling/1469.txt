@@ -1,0 +1,4 @@
+[SLING-1469] Fix displaySourceFragments and let the option default to false - ASF JIRA
+The displaySourceFragments is currently not working as the jasper code assumes the generated class files to be in the filesystem.
+
+ The default of this option should be false, as this would allow to use the jsp scripting in production environments without any additional configuration.

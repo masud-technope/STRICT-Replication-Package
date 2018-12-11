@@ -1,0 +1,8 @@
+[SLING-1636] Provide a mechanism to detect if a dynamic classloader is still valid - ASF JIRA
+In some situations it is useful to know if a used classloader is still live/valid.
+Especially with dynamic class loaders it happens that a classloader gets invalidated but is still in use.
+In such cases the client of such a classloader should be able to detect this and reload classes.
+
+ One use case is scripting in Sling: we have the JCR based classloader and for example compiled scripts.
+A JCR classloader gets invalid as soon as something changes with the classes it has loaded in the repository.
+In this case the jsp script engine should reload the compiled classes

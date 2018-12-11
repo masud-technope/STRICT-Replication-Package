@@ -1,0 +1,3 @@
+[SLING-1367] NPE thrown during Repository acquisition. - ASF JIRA
+see http://markmail.org/message/nmzxftwivr5vzhes 
+ related to SLING-1366

@@ -1,0 +1,4 @@
+contrib/scripting/jsp-taglib-atom/pom.xml
+contrib/scripting/jsp-taglib-atom/src/main/java/org/apache/sling/atom/taglib/AbstractAbderaHandler.java
+contrib/scripting/jsp-taglib-atom/src/main/java/org/apache/sling/atom/taglib/EntryTagHandler.java
+contrib/scripting/jsp-taglib-atom/src/main/java/org/apache/sling/atom/taglib/internal/AbderaActivator.java

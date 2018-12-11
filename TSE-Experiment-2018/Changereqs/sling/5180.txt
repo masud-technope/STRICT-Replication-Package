@@ -1,0 +1,2 @@
+[SLING-5180] Create a Kryo based distribution package builder - ASF JIRA
+Kryo is a graph object serialization library for java, widely used in different ASF projects (Hama, Hive, Storm and others) which could well be used to implement a package builder able to serialize and deserialize Sling resources (backed or not by JCR nodes).

@@ -1,0 +1,21 @@
+37560 – Does not handle embedded xml correctly
+Chainsaw would not parse a file that had xml embedded in an NDC.
+Here are the
+error messages :
+Parsing error on line 345 and column 418
+The element type "log4j:NDC" must be terminated by the matching end-tag
+</log4j:NDC>".
+Here is the event:
+<log4j:event logger="com.tlr.bis.online.charges.jaxprc.trmr.StandardTRMRHandler"
+timestamp="1132342098624" level="DEBUG" thread="WebContainer : 0">
+<log4j:message><![CDATA[handleFault]]></log4j:message>
+<log4j:NDC><![CDATA[<soapenv:Envelope
+xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/"
+xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/"
+xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><soapenv:Header/><soapenv:Body><soapenv:Fault><faultcode>Client</faultcode><faultstring><![CDATA[The
+value "12-31-2005" has an invalid format for
+EffectiveDate]]></faultstring><faultactor/><detail
+encodingStyle=""><olc:DataFormatException
+xmlns:olc="http://thomson.com/tlr/bis/online/charges/"><severity>error</severity><dateTime>2005-11-18T13:28:18.173</dateTime><transactionId></transactionId><EffectiveDate>12-31-2005</EffectiveDate></olc:DataFormatException></detail></soapenv:Fault></soapenv:Body></soapenv:Envelope>]]></log4j:NDC>
+</log4j:event>

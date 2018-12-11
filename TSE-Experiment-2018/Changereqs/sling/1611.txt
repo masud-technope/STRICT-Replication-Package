@@ -1,0 +1,3 @@
+[SLING-1611] Add OSGi JMX support - ASF JIRA
+Discussion in SLING-1476 reminded me that I'd been wanting to add the JMX support bundles from Aries to Launchpad.
+These provide an implmentation of the JMX Management Model Specification from the OSGI r4 Enterprise spec.

@@ -1,1 +1,0 @@
-framework/bundles/org.eclipse.ecf.remoteservice.servlet/META-INF/MANIFEST.MF

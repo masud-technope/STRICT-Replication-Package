@@ -1,0 +1,4 @@
+[SLING-1725] Register internal post operations as services for consumption by servlets other than the SlingPostServlet - ASF JIRA
+As discussed in [1] it would be useful to have the internal operations of the Sling POST Servlet available as services for other bundles to reuse.
+
+ [1] http://markmail.org/message/a7vrtyhictf7tv4m

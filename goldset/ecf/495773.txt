@@ -1,1 +1,0 @@
-framework/bundles/org.eclipse.ecf.sync/META-INF/MANIFEST.MF

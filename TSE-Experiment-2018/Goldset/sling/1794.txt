@@ -1,0 +1,11 @@
+installer/it/pom.xml
+installer/it/src/test/java/org/apache/sling/installer/it/ConfigInstallTest.java
+installer/it/src/test/java/org/apache/sling/installer/it/OsgiInstallerTestBase.java
+installer/it/src/test/java/org/apache/sling/installer/it/ConfigInstallTest.java
+installer/core/src/main/java/org/apache/sling/installer/core/impl/OsgiInstallerImpl.java
+installer/factories/configuration/src/main/java/org/apache/sling/installer/factories/configuration/impl/ServicesListener.java
+installer/it/src/test/java/org/apache/sling/installer/it/ConfigInstallTest.java
+installer/it/src/test/java/org/apache/sling/installer/it/ConfigInstallTest.java
+installer/it/src/test/java/org/apache/sling/installer/it/OsgiInstallerTestBase.java
+installer/it/src/test/java/org/apache/sling/installer/it/OsgiInstallerTestBase.java
+installer/it/src/test/java/org/apache/sling/installer/it/OsgiInstallerTestBase.java

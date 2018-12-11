@@ -1,0 +1,2 @@
+[SLING-5048] Always distribute the entire rep:policy node - ASF JIRA
+Always distribute the entire rep:policy node

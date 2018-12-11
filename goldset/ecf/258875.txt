@@ -1,7 +1,0 @@
-framework/bundles/org.eclipse.ecf/src/org/eclipse/ecf/core/util/IFutureCallable.java
-framework/bundles/org.eclipse.ecf/javadoc.xml
-framework/bundles/org.eclipse.ecf/src/org/eclipse/ecf/core/util/TimeoutException.java
-framework/bundles/org.eclipse.ecf/src/org/eclipse/ecf/core/util/FutureStatus.java
-framework/bundles/org.eclipse.ecf/src/org/eclipse/ecf/core/util/CanceledException.java
-framework/bundles/org.eclipse.ecf/src/org/eclipse/ecf/core/util/IFutureStatus.java
-tests/bundles/org.eclipse.ecf.tests/src/org/eclipse/ecf/tests/core/util/FutureStatusTest.java

@@ -1,0 +1,5 @@
+40755 – Update source header per ASF Header policy
+The ASF has issued new guidelines for source file header at  http://www.apache.org/legal/src-
+headers.html that are required for all releases after November 1st.
+ This will require touching all or almost
+all of the source files for both the trunk and 1.2 branches.

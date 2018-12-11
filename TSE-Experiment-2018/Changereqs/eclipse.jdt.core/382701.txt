@@ -1,0 +1,12 @@
+Bug 382701 – [1.8][compiler] Implement semantic analysis of Lambda expressions & Reference expressions.
+This ER will serve as the top level umbrella entry to track semantic
+analysis support for Lambda expressions & Method and constructor references.
+(https://bugs.eclipse.org/bugs/show_bug.cgi?id=380501 will be used to
+track support for default methods.)
+Separate bugs will be spawned for unit tasks in this project and linked
+to this entry.
+When resolved, we would be able to reject every semantically illegal program
+with a suitable/appropriate diagnostic.
+The further treatment of well
+defined programs will be the subject matter of ERs that will be created
+later.

@@ -1,2 +1,0 @@
-incubation/bundles/org.eclipse.ecf.osgi.services.remoteserviceadmin/src/org/eclipse/ecf/osgi/services/remoteserviceadmin/HostContainerSelector.java
-compendium/bundles/org.eclipse.ecf.osgi.services.distribution/src/org/eclipse/ecf/osgi/services/distribution/DefaultHostContainerFinder.java

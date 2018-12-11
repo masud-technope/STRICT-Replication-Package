@@ -1,3 +1,0 @@
-protocols/bundles/org.eclipse.ecf.protocol.msn/src/org/eclipse/ecf/protocol/msn/ChatSession.java
-protocols/bundles/org.eclipse.ecf.protocol.msn/src/org/eclipse/ecf/protocol/msn/DispatchSession.java
-protocols/bundles/org.eclipse.ecf.protocol.msn/src/org/eclipse/ecf/protocol/msn/Session.java

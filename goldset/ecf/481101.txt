@@ -1,4 +1,0 @@
-releng/features/org.eclipse.ecf.core.ssl.feature/feature.xml
-releng/features/org.eclipse.ecf.core.feature/feature.xml
-releng/features/org.eclipse.ecf.filetransfer.httpclient4.ssl.feature/feature.xml
-releng/features/org.eclipse.ecf.filetransfer.ssl.feature/feature.xml

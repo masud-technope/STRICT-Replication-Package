@@ -1,0 +1,5 @@
+installer/core/pom.xml
+installer/core/src/main/java/org/apache/sling/installer/core/impl/tasks/BundleInfo.java
+installer/core/src/main/java/org/apache/sling/installer/core/impl/tasks/SystemBundleUpdateTask.java
+installer/core/src/main/java/org/apache/sling/installer/core/impl/tasks/TaskSupport.java
+installer/core/src/test/java/org/apache/sling/installer/core/impl/MockBundleContext.java

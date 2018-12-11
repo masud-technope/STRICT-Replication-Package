@@ -1,0 +1,3 @@
+[SLING-4902] Clarify javadoc on ResourceResolverFactory.getThreadResourceResolver() - ASF JIRA
+It should be explicitly mentioned that the returned resource resolver is never an admin resource resolver nor any service resource resolver (http://markmail.org/message/fdheh2gftnqjb4im#query:+page:1+mid:fdheh2gftnqjb4im+state:results).
+ So in most of the cases one can safely assume that the returned resolver is the one bound to the users account (which triggered the request for this thread).

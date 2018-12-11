@@ -1,0 +1,37 @@
+45704 – Failed to load logging.xml for JRE 1.5.0_16 and Webstart
+Due to changes in resource loader in JRE 1.5.0_16 and 1.6.0_7 (http://sunsolve.sun.com/search/document.do?assetkey=1-66-238628-1) log4j failed to load logging.xml file from jar (Webstart only).
+Problem happens if custom resource loader is used.
+Can you help?
+log4j:ERROR Could not parse url [jar:logging.xml].
+java.net.MalformedURLException: no !/ in spec
+at java.net.URL.<init>(Unknown Source)
+at java.net.URL.<init>(Unknown Source)
+at java.net.URL.<init>(Unknown Source)
+at com.sun.org.apache.xerces.internal.impl.XMLEntityManager.setupCurrentEntity(Unknown Source)
+at com.sun.org.apache.xerces.internal.impl.XMLVersionDetector.determineDocVersion(Unknown Source)
+at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(Unknown Source)
+at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(Unknown Source)
+at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(Unknown Source)
+at com.sun.org.apache.xerces.internal.parsers.DOMParser.parse(Unknown Source)
+at com.sun.org.apache.xerces.internal.jaxp.DocumentBuilderImpl.parse(Unknown Source)
+at javax.xml.parsers.DocumentBuilder.parse(Unknown Source)
+at org.apache.log4j.xml.DOMConfigurator$2.parse(DOMConfigurator.java:612)
+at org.apache.log4j.xml.DOMConfigurator.doConfigure(DOMConfigurator.java:711)
+at org.apache.log4j.xml.DOMConfigurator.doConfigure(DOMConfigurator.java:618)
+at org.apache.log4j.helpers.OptionConverter.selectAndConfigure(OptionConverter.java:468)
+at org.apache.log4j.LogManager.<clinit>(LogManager.java:122)
+at org.apache.log4j.Logger.getLogger(Logger.java:117)
+at myapp.Main.<clinit>(Main.java:94)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at com.sun.javaws.Launcher.executeApplication(Unknown Source)
+at com.sun.javaws.Launcher.executeMainClass(Unknown Source)
+at com.sun.javaws.Launcher.continueLaunch(Unknown Source)
+at com.sun.javaws.Launcher.handleApplicationDesc(Unknown Source)
+at com.sun.javaws.Launcher.handleLaunchFile(Unknown Source)
+at com.sun.javaws.Launcher.run(Unknown Source)
+at java.lang.Thread.run(Unknown Source)
+log4j:WARN No appenders could be found for logger (com.btec.cds.Main).
+log4j:WARN Please initialize the log4j system properly.

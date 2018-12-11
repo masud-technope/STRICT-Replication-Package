@@ -1,0 +1,6 @@
+is the provisioner extension point in UI or Core?
+The new provisioners extension point lives in the UI plug-in, but its namespace is in the org.eclipse.pde.core plug-in.
+
+Also, I suggest renaming it to targetProvisioners.  
+
+For the New and Noteworthy, I called it 'org.eclipse.pde.ui.targetProvisioners'

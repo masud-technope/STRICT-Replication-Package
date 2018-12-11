@@ -1,0 +1,5 @@
+src/java/org/apache/log4j/Hierarchy.java
+src/java/org/apache/log4j/LogManager.java
+src/java/org/apache/log4j/spi/DefaultRepositorySelector.java
+src/java/org/apache/log4j/spi/RootLogger.java
+tests/src/java/org/apache/log4j/LogManagerTest.java

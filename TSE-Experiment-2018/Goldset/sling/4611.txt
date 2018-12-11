@@ -1,0 +1,12 @@
+contrib/extensions/resourcemerger/pom.xml
+contrib/extensions/resourcemerger/src/main/java/org/apache/sling/resourcemerger/impl/CRUDMergingResourceProvider.java
+contrib/extensions/resourcemerger/src/main/java/org/apache/sling/resourcemerger/impl/MergedResource.java
+contrib/extensions/resourcemerger/src/main/java/org/apache/sling/resourcemerger/impl/MergedResourcePickerWhiteboard.java
+contrib/extensions/resourcemerger/src/main/java/org/apache/sling/resourcemerger/impl/MergingResourceProvider.java
+contrib/extensions/resourcemerger/src/main/java/org/apache/sling/resourcemerger/impl/MergingResourceProviderFactory.java
+contrib/extensions/resourcemerger/src/main/java/org/apache/sling/resourcemerger/impl/picker/MergingResourcePicker.java
+contrib/extensions/resourcemerger/src/main/java/org/apache/sling/resourcemerger/impl/picker/OverridingResourcePicker.java
+contrib/extensions/resourcemerger/src/main/java/org/apache/sling/resourcemerger/spi/MergedResourcePicker.java
+contrib/extensions/resourcemerger/src/main/java/org/apache/sling/resourcemerger/spi/package-info.java
+contrib/extensions/resourcemerger/src/test/java/org/apache/sling/resourcemerger/impl/MergedResourceProviderTest.java
+contrib/extensions/resourcemerger/src/test/java/org/apache/sling/resourcemerger/impl/OverridingResourceProviderTest.java

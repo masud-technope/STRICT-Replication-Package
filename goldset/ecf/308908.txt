@@ -1,2 +1,0 @@
-applications/kosmos/bundles/org.eclipse.ecf.presence.bot.kosmos/META-INF/MANIFEST.MF
-applications/kosmos/bundles/org.eclipse.ecf.presence.bot.kosmos/src/org/eclipse/ecf/internal/presence/bot/kosmos/ChatRoomMessageHandler.java

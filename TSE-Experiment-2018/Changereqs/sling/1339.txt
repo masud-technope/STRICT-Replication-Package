@@ -1,0 +1,3 @@
+[SLING-1339] move JSONGroovyBuilder to new module
+<p>new module will be<br/>
+o.a.s.extensions.groovy</p>

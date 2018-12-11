@@ -1,0 +1,7 @@
+build.xml
+docs/HISTORY.txt
+src/java/org/apache/log4j/Version.java
+src/java/org/apache/log4j/versionInfo
+tests/build.xml
+tests/src/java/org/apache/log4j/CoreTestSuite.java
+tests/src/java/org/apache/log4j/VersionTest.java

@@ -1,0 +1,8 @@
+launchpad/builder/src/main/provisioning/sling.txt
+launchpad/builder/src/main/provisioning/sling.txt
+contrib/launchpad/karaf/org.apache.sling.launchpad.karaf-features/src/main/feature/feature.xml
+bundles/extensions/event/src/test/java/org/apache/sling/event/it/AbstractJobHandlingTest.java
+bundles/jcr/it-jackrabbit-oak/pom.xml
+bundles/jcr/it-jackrabbit-oak/src/test/java/org/apache/sling/jcr/repository/it/CommonTests.java
+launchpad/builder/src/main/provisioning/sling.txt
+tooling/support/provisioning-model/src/test/resources/main.txt

@@ -1,0 +1,5 @@
+bundles/scripting/jsp/src/main/java/org/apache/sling/scripting/jsp/jasper/runtime/PerThreadTagHandlerPool.java
+bundles/scripting/jsp/src/main/java/org/apache/sling/scripting/jsp/jasper/runtime/TagHandlerPool.java
+bundles/scripting/jsp/src/main/java/org/apache/sling/scripting/jsp/jasper/runtime/JspFactoryImpl.java
+bundles/scripting/jsp/src/main/java/org/apache/sling/scripting/jsp/JspScriptEngineFactory.java
+bundles/scripting/jsp/src/main/java/org/apache/sling/scripting/jsp/jasper/runtime/JspFactoryImpl.java

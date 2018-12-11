@@ -1,0 +1,10 @@
+CategoryPath doesn't replace slashes to dots
+Running FindBugs on log4j sources -- as part of preparing lecture, in fact -- revealed a bug in org.apache.log4j.lf5.viewer.categoryexplorer.CategoryPath.
+
+In line 64 there is a code
+
+  processedCategory.replace('/', '.');
+
+and FindBugs correctly recognizes the error there as the result of replacement is ignored. The line should be
+
+  processedCategory = processedCategory.replace('/', '.');

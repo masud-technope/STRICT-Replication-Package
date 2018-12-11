@@ -1,0 +1,2 @@
+[SLING-4645] Update Tika to 1.10 - ASF JIRA
+POI Vulnerabilities: JCR-3871

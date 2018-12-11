@@ -1,0 +1,3 @@
+bundles/jcr/resource/src/main/java/org/apache/sling/jcr/resource/internal/JcrResourceResolverFactoryImpl.java
+bundles/jcr/resource/src/main/java/org/apache/sling/jcr/resource/internal/helper/Mapping.java
+bundles/jcr/resource/src/main/resources/OSGI-INF/metatype/metatype.properties

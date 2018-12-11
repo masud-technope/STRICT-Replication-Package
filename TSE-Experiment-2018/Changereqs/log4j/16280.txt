@@ -1,0 +1,11 @@
+16280 – Error Message always logged to log4j when calling close() on TelnetAppender
+When close() is called on TelnetAppender a java.net.SocketException will always
+be thrown in the run() method of inner class SocketHandler.
+ This forces the
+error log: "LogLog.error("Encountered error while in SocketHandler loop.", e);"
+on line 166 to be executed, thus logging information that frightens my sysadmin.
+The close() method needs to set the 'done' flag to true immediately, then send a
+final client socket connection to TelnetAppender to consume the last waiting
+serverSocket.accept(), before closing the serverSocket.
+ Ir just get rid of the
+log statement.

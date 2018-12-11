@@ -1,0 +1,7 @@
+[SLING-1631] Classloading problems when taglibs are used. - ASF JIRA
+When taglibs are used together with jsp scripting there are several problems:  1.
+The taglib cache does not detect changes to taglibs (contained in bundles) like the general classloading mechanism through the dynamic classloader - this can result in inconsistencies and classloading problems.
+ 2.
+The last modified check for taglibs does not work as expected.
+As soon as tags are used, they are considered as changed which results in recompilation of the jsp and of the tag where the second invalidates the classloader of the jsp.
+This classloader is later on used and then a classloading exception is thrown

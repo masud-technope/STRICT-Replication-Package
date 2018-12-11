@@ -1,0 +1,7 @@
+bundles/commons/classloader/src/main/java/org/apache/sling/commons/classloader/impl/Activator.java
+bundles/commons/classloader/src/main/java/org/apache/sling/commons/classloader/impl/Activator.java
+bundles/commons/classloader/src/main/java/org/apache/sling/commons/classloader/impl/DynamicClassLoaderManagerFactory.java
+bundles/commons/classloader/src/main/java/org/apache/sling/commons/classloader/impl/DynamicClassLoaderManagerImpl.java
+bundles/commons/classloader/src/main/java/org/apache/sling/commons/classloader/impl/PackageAdminClassLoader.java
+bundles/scripting/jsp/src/main/java/org/apache/sling/scripting/jsp/jasper/servlet/JspServletWrapper.java
+bundles/scripting/jsp/src/main/java/org/apache/sling/scripting/jsp/jasper/servlet/JspServletWrapper.java

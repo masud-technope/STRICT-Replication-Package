@@ -1,6 +1,0 @@
-server-side/examples/bundles/org.eclipse.ecf.examples.remoteservices.client/src/org/eclipse/ecf/examples/remoteservices/common/IRemoteEnvironmentInfo.java
-server-side/examples/bundles/org.eclipse.ecf.examples.remoteservices.client/META-INF/MANIFEST.MF
-server-side/examples/bundles/org.eclipse.ecf.examples.remoteservices.client/fragment.xml
-server-side/examples/bundles/org.eclipse.ecf.examples.remoteservices.server/META-INF/MANIFEST.MF
-server-side/examples/bundles/org.eclipse.ecf.examples.remoteservices.client/.classpath
-server-side/examples/bundles/org.eclipse.ecf.examples.remoteservices.client/build.properties

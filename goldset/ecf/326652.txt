@@ -1,2 +1,0 @@
-providers/bundles/org.eclipse.ecf.provider.localdiscovery/src/org/eclipse/ecf/provider/localdiscovery/RemoteServiceEndpointDescriptionImpl.java
-providers/bundles/org.eclipse.ecf.provider.localdiscovery/src/org/eclipse/ecf/provider/localdiscovery/ServiceEndpointDescriptionFactory.java

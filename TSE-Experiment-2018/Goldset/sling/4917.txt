@@ -1,0 +1,5 @@
+bundles/jcr/contentloader/pom.xml
+bundles/jcr/contentloader/src/test/java/org/apache/sling/jcr/contentloader/it/ContentBundleTestBase.java
+bundles/jcr/contentloader/src/test/java/org/apache/sling/jcr/contentloader/it/PaxExamUtilities.java
+bundles/jcr/contentloader/pom.xml
+bundles/jcr/contentloader/src/test/java/org/apache/sling/jcr/contentloader/it/P.java

@@ -1,0 +1,6 @@
+src/changes/changes.xml
+src/main/java/org/apache/log4j/AsyncAppender.java
+src/main/java/org/apache/log4j/helpers/FileWatchdog.java
+src/main/java/org/apache/log4j/net/SimpleSocketServer.java
+src/main/java/org/apache/log4j/net/SocketHubAppender.java
+src/main/java/org/apache/log4j/varia/ExternallyRolledFileAppender.java

@@ -1,0 +1,5 @@
+[SLING-1703] Mixin types aren't modified for sub nodes - ASF JIRA
+curl -F./jcr:mixinTypes=mix:created http://localhost:8888/test/content/child 
+ sets the mixin type for /test/content/child if that node exists, but 
+ curl -F./child/jcr:mixinTypes=mix:created http://localhost:8888/test/content 
+ doesn't.

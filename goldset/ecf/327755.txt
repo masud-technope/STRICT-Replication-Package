@@ -1,7 +1,0 @@
-releng/features/org.eclipse.ecf.remoteservice.sdk.feature/feature.xml
-releng/features/org.eclipse.ecf.discovery.dnssd.feature/feature.xml
-releng/features/org.eclipse.ecf.discovery.jmdns.feature/feature.xml
-releng/features/org.eclipse.ecf.discovery.local.feature/feature.xml
-releng/features/org.eclipse.ecf.discovery.slp.feature/feature.xml
-releng/features/org.eclipse.ecf.discovery.zookeeper.feature/feature.xml
-releng/features/org.eclipse.ecf.remoteservice.feature/feature.xml

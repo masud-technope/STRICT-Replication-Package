@@ -1,0 +1,2 @@
+bundles/scripting/jsp/pom.xml
+bundles/scripting/jsp/src/main/java/org/apache/sling/scripting/jsp/jasper/servlet/JspServletWrapper.java

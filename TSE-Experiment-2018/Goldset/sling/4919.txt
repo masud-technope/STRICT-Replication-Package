@@ -1,0 +1,2 @@
+bundles/jcr/davex/src/main/java/org/apache/sling/jcr/davex/impl/servlets/SlingDavExServlet.java
+bundles/jcr/webdav/src/main/java/org/apache/sling/jcr/webdav/impl/servlets/SlingWebDavServlet.java

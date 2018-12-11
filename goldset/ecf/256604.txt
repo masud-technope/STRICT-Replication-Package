@@ -1,2 +1,0 @@
-server-side/examples/bundles/org.eclipse.ecf.examples.remoteservices.client/META-INF/MANIFEST.MF
-framework/bundles/org.eclipse.ecf.discovery.ui/META-INF/MANIFEST.MF

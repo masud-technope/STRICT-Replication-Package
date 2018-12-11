@@ -1,0 +1,8 @@
+43078 – Optionally render MDC content in XMLLayout
+The log4j 1.3 XMLLayout would generate a log4j:properties element that contains MDC and
+LoggerRepository content.
+ This bug provides the same capability in log4j 1.2.
+ It is disabled by default as
+unexpected content may cause apps that consume the existing content to fail.
+ To enable output of MDC
+values, call layout.setProperties(true) or the equivalent configuration.

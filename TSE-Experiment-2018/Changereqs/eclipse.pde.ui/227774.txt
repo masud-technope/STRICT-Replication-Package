@@ -1,0 +1,2 @@
+Remove old Update Site Target Provisioner
+With the new p2 ui plug-in, we should remove the old update site provisioner.

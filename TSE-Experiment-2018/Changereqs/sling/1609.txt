@@ -1,0 +1,2 @@
+[SLING-1609] ImportOperation fails on non-default workspace path - ASF JIRA
+node generation assumes path is in the default workspace

@@ -1,0 +1,7 @@
+tests/build.xml
+tests/src/java/org/apache/log4j/AsyncAppenderTestCase.java
+tests/src/java/org/apache/log4j/VectorAppender.java
+tests/src/java/org/apache/log4j/defaultInit/TestCase1.java
+tests/src/java/org/apache/log4j/defaultInit/TestCase2.java
+tests/src/java/org/apache/log4j/defaultInit/TestCase3.java
+tests/src/java/org/apache/log4j/defaultInit/TestCase4.java

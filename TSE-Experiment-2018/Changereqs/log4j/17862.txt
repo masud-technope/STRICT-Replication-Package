@@ -1,0 +1,5 @@
+17862 – Version.getVersion() method requested
+The Apache Xerces package has a class Version with the static method getVersion
+():
+org.apache.xerces.impl.Version.getVersion()
+WOuld be nice to have the same in Log4J :-]
