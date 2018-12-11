@@ -121,7 +121,7 @@ QE=22	framework/bundles/org.eclipse.ecf.presence.ui/src/org/eclipse/ecf/presence
 ```
 
 Q.4: How to get suggested queries from STRICT for a single change request?
--------------------------------------------------------
+--------------------------------------------------------------------------
 ```
 java -jar strict-runner.jar -task suggest+execute -repoName ecf -bugID 194981
 ```
