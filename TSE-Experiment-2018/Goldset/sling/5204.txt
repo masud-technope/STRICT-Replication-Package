@@ -1,0 +1,5 @@
+contrib/extensions/resourcemerger/src/test/java/org/apache/sling/resourcemerger/impl/MergedResourceProviderTest.java
+contrib/extensions/resourcemerger/src/test/java/org/apache/sling/resourcemerger/impl/OverridingResourceProviderTest.java
+bundles/jcr/resource/src/main/java/org/apache/sling/jcr/resource/internal/helper/jcr/JcrResourceProvider.java
+bundles/resourceresolver/src/main/java/org/apache/sling/resourceresolver/impl/providers/ResourceProviderHandler.java
+bundles/resourceresolver/src/main/java/org/apache/sling/resourceresolver/impl/providers/ResourceProviderTracker.java

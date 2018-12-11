@@ -1,0 +1,3 @@
+contrib/extensions/distribution/api/src/main/java/org/apache/sling/distribution/DistributionRequestState.java
+contrib/extensions/distribution/core/pom.xml
+contrib/extensions/distribution/core/src/main/java/org/apache/sling/distribution/impl/DefaultDistributor.java

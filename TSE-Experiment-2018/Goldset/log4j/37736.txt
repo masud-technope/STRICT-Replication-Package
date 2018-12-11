@@ -1,0 +1,4 @@
+src/changes/changes.xml
+src/changes/changes.xml
+src/main/java/org/apache/log4j/Category.java
+tests/src/java/org/apache/log4j/LoggerTestCase.java

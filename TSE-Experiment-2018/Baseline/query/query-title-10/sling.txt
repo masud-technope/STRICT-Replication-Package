@@ -1,0 +1,76 @@
+1281	SLING Copy Move operations dont work ASF JIRA
+1794	SLING ConfigInstallTest fails semi randomly Configuration ASF JIRA Config Install
+4611	SLING Performance optimizing MergedResource getParent getChild ASF JIRA Merged Resource
+1284	SLING MemoryLeak ThreadLocal variable cleared ASF JIRA Memory Leak Thread
+1796	SLING versioning ASF JIRA
+1797	SLING versionable ancestor failure ASF JIRA
+1816	SLING Sling POST Servlet dynamically configurable ASF JIRA
+1304	SLING Remove currentNode binding scripting core reimplement jcr resource ASF
+1562	SLING Create sample user regirstration profile update ASF JIRA
+1435	SLING NoClassDefError classes installed Java ASF JIRA Def Error
+1691	SLING Improve startup behaviour ASF JIRA
+4895	SLING Service registry called block ASF JIRA
+4897	SLING Sling Web Console Log Tail Plugin ASF JIRA
+5025	SLING ResourceResolver methods ISE factory unregistered ASF JIRA Resource Resolver
+4900	SLING Clarify javadoc ResourceResolver getParentResourceType String ASF JIRA Resource Resolver
+1573	SLING Support Versionable nodes post servlet ASF JIRA
+4645	SLING Update Tika ASF JIRA
+4902	SLING Clarify javadoc ResourceResolverFactory getThreadResourceResolver ASF JIRA Resource Resolver Factory
+1703	SLING Mixin types modified nodes ASF JIRA
+4903	SLING ConcurrentModificationException MapEntries ASF JIRA Concurrent Modification Exception Map Entries
+1704	SLING Add support modifying jcr primaryType ASF JIRA primary Type
+5032	SLING field annotated Source ModelAdapterFactory query injectors ASF JIRA Model
+5170	SLING dependency handling code reusable ASF JIRA
+5043	SLING sling mocks Execute commit ContentLoader operations ASF JIRA Content
+3892	SLING AdapterWebConsolePlugin expose AdapterFactories ASF JIRA Adapter Web Console Plugin
+5044	SLING system bundle location number ASF JIRA
+1333	SLING POST Servlet handle TypeHint Reference path ASF JIRA Type
+4917	SLING BasicInitialContentIT fails org apache sling jcr contentloader module ASF
+5046	SLING distribution requests fine grained deepness specification
+4919	SLING Require configuration webdav services ASF JIRA
+1847	SLING Redirect logout work form authentication ASF JIRA
+5047	SLING Support differentiated distribution response type missing agent
+1336	SLING SlingPostServlet JSON ASF JIRA Sling Post Servlet
+5048	SLING distribute entire rep policy node ASF JIRA
+3897	SLING Sling Models Copy Paste error unbindInjectAnnotationProcessorFactory ASF JIRA unbind
+5049	SLING Scheduled tasks set meaningful thread execution ASF JIRA
+4922	SLING Validator allowed resource validation triggered ASF JIRA
+1339	SLING move JSONGroovyBuilder module JSONGroovy Builder
+5180	SLING Create Kryo based distribution builder ASF JIRA
+1469	SLING displaySourceFragments option ASF JIRA display Source Fragments
+1597	SLING Support loading initial configurations ConfigAdmin ASF JIRA Config Admin
+1725	SLING Register internal post operations services consumption servlets SlingPostServlet ASF
+1727	SLING Access Denied Exceptions fill logs tracebacks additional ASF JIRA
+5055	SLING HApi Potential infinite recursion reading hapi type path ASF
+5056	SLING FAILED distribution response reported succesful ASF JIRA
+1604	SLING Upgrade GWT Extension
+5189	SLING Improve start level handling merging models ASF JIRA
+1863	SLING upgrade GWT ASF JIRA
+1608	SLING unsafe AbstractSlingPostOperation ASF JIRA Sling Post Operation
+1609	SLING ImportOperation fails workspace path ASF JIRA Operation
+1611	SLING Add OSGi JMX support ASF JIRA
+1741	SLING exception thrown add subnode file node ASF JIRA
+1615	SLING importing content nodes parent node exists Sling POST creates
+4943	SLING ResourceNotFoundException Include resource path getMessage method ASF JIRA Resource
+3536	SLING Sling Models OOME DisposalCallbackRegistry ASF JIRA Disposal Callback Registry
+4944	SLING JcrResourceBundleProvider Potential race condition setting resourceResolver ASF JIRA Jcr
+1619	SLING attempting automatically set property shouldn failure ASF JIRA
+5204	SLING Implement provider lifecycle methods ASF JIRA
+1367	SLING NPE thrown Repository acquisition ASF JIRA
+5207	SLING ResourceResolver isResourceType leads endless loop resourceSuperType hierarchy cyclic ASF
+1626	SLING Launchpad NamespaceException sling registered namespace prefix ASF JIRA Namespace
+4955	SLING NPE ValidationModelRetrieverImpl ASF JIRA Validation Model Retriever Impl
+5211	SLING Display RuntimeService DTOs web console ASF JIRA Runtime Service
+1631	SLING Classloading problems taglibs ASF JIRA
+5088	SLING sling mock Threads created resource resolver JCR terminated properly
+1504	SLING Enable pluggable node generation ASF JIRA
+5219	SLING Mounting ResourceProvider impossible create child resources ASF JIRA Resource
+1636	SLING Provide mechanism detect dynamic classloader valid ASF JIRA
+2405	SLING Startup synchronization problems ASF JIRA
+1638	SLING Reload jsp classloader invalid ASF JIRA
+1004	SLING folder Sling servlets store configuration configurable deployment ASF JIRA
+1519	SLING URL Mappings URL paths work ASF JIRA
+2415	SLING Ability delete child nodes deleting parent node SlingPostServlet ASF
+1395	SLING Multivalue String properties loaded jcr contentloader ASF JIRA
+1277	SLING dependency jcr api optional ASF JIRA
+1662	SLING Add GString GSP Script engine

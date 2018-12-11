@@ -1,8 +1,0 @@
-releng/features/org.eclipse.ecf.remoteservice.rest.feature/org.eclipse.ecf.remoteservice.rest.cquery
-releng/features/org.eclipse.ecf.remoteservice.rest.feature/org.eclipse.ecf.remoteservice.rest.mspec
-releng/features/org.eclipse.ecf.remoteservice.rest.feature/buckminster.cspex
-tests/bundles/org.eclipse.ecf.tests.remoteservice.rest/Rest API Test.launch
-tests/bundles/org.eclipse.ecf.tests.remoteservice.rest/org.eclipse.ecf.tests.remoteservice.rest.launch
-releng/features/org.eclipse.ecf.remoteservice.rest.feature/buckminster.cspex
-releng/features/org.eclipse.ecf.remoteservice.rest.feature/org.eclipse.ecf.remoteservice.rest.cquery
-releng/features/org.eclipse.ecf.remoteservice.rest.feature/org.eclipse.ecf.remoteservice.rest.mspec

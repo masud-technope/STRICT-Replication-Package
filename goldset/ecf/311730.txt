@@ -1,5 +1,0 @@
-compendium/bundles/org.eclipse.ecf.osgi.services.discovery/src/org/eclipse/ecf/internal/osgi/services/discovery/RemoteServiceEndpointDescriptionImpl.java
-compendium/bundles/org.eclipse.ecf.osgi.services.discovery/src/org/eclipse/ecf/osgi/services/discovery/RemoteServiceEndpointDescription.java
-compendium/bundles/org.eclipse.ecf.osgi.services.discovery/src/org/eclipse/ecf/osgi/services/discovery/RemoteServicePublication.java
-compendium/bundles/org.eclipse.ecf.osgi.services.distribution/src/org/eclipse/ecf/internal/osgi/services/distribution/DiscoveredServiceTrackerImpl.java
-compendium/bundles/org.eclipse.ecf.osgi.services.discovery/src/org/eclipse/ecf/internal/osgi/services/discovery/ServicePublicationHandler.java

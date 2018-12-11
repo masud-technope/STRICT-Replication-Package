@@ -1,0 +1,9 @@
+launchpad/testing/src/test/java/org/apache/sling/launchpad/webapp/integrationtest/servlets/post/ReferenceTypeHintTest.java
+launchpad/testing/src/test/java/org/apache/sling/launchpad/webapp/integrationtest/servlets/post/ReferenceTypeHintTest.java
+launchpad/testing/src/test/java/org/apache/sling/launchpad/webapp/integrationtest/servlets/post/TypeHintTest.java
+bundles/servlets/post/pom.xml
+bundles/servlets/post/src/main/java/org/apache/sling/servlets/post/impl/helper/SlingPropertyValueHandler.java
+bundles/servlets/post/src/main/java/org/apache/sling/servlets/post/impl/helper/ReferenceParser.java
+bundles/servlets/post/src/main/java/org/apache/sling/servlets/post/impl/helper/SlingPropertyValueHandler.java
+bundles/servlets/post/src/main/java/org/apache/sling/servlets/post/impl/operations/ModifyOperation.java
+bundles/servlets/post/src/main/java/org/apache/sling/servlets/post/impl/helper/SlingPropertyValueHandler.java

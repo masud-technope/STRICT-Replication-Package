@@ -1,0 +1,14 @@
+35831 – log4j 1.2 does not build on JDK 1.5
+javac tasks specify the bytecode target as 1.1 but do not specify the java source language version.
+ The
+JDK 1.5's javac's default source version is "1.5" and it does not support creating JDK 1.1 bytecode from
+JDK 1.5 source.
+ If the source is specified as "1.3", then the compiler will not accept any JDK 1.4 (assert)
+or JDK 1.5 (generics) specific constructs and can generate JDK 1.1 compatible bytecode.
+In addition, some of Java Management Extensions are included in JDK 1.5, but not the
+"com.sun.jdmk.comm.HtmlAdaptorServer" from the unsupported jmxtools.jar.
+ I've modified the
+determination of jmx-available to require the previous marker class and HtmlAdaptorServer to be
+available.
+The serialization of exceptions seemed to be slightly changed (but possibly not in an incompatible way)
+and I lower the point at which testSerializationWithException stops comparing against the witness.

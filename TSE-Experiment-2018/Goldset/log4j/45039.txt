@@ -1,0 +1,3 @@
+src/main/java/org/apache/log4j/spi/LocationInfo.java
+src/changes/changes.xml
+src/main/java/org/apache/log4j/spi/LocationInfo.java

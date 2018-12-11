@@ -1,0 +1,3 @@
+launchpad/installer/src/main/java/org/apache/sling/launchpad/installer/impl/LaunchpadConfigInstaller.java
+launchpad/installer/src/main/java/org/apache/sling/launchpad/installer/impl/LaunchpadConfigInstaller.java
+launchpad/installer/src/main/java/org/apache/sling/launchpad/installer/impl/ServicesListener.java

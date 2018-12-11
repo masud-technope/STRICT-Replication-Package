@@ -1,0 +1,9 @@
+NPE getting status code
+Created attachment 120215
+Update error log
+
+Trying to update I20081211-0100 I went to the Install dialog and selected "Eclipse Release tools", EMF SDK, and Graphical Modelling Framework SDK.
+
+Trying to do the update opens a number of error dialogs about NPEs and then fails.  I've attached the log.
+
+PW

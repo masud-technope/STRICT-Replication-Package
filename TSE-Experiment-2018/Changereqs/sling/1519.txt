@@ -1,0 +1,8 @@
+[SLING-1519] URL Mappings for URL paths containing "-" does not work - ASF JIRA
+Consider the following mapping for JCR Resource Resolver URL Mapping: 
+  /content/somesite/en-us/-/ 
+ This breaks, because the dash in "en-us" is considered a separator instead of being part of the incoming URL path thus giving a mapping 
+  "/content/somesite/en" <- > "us//" 
+ To fix this situation in a broader context the "-" should be replaced as the character indicating bidirectional mapping by a ":" and the code adapted to not break on dashes any more.
+
+ For backwards compatibility, the dash should still be supported as a bidirectional indicator.

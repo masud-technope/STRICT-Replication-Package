@@ -1,0 +1,7 @@
+src/java/org/apache/log4j/plugins/PluginConfigurator.java
+src/java/org/apache/log4j/LoggerRepositoryExImpl.java
+src/java/org/apache/log4j/xml/PluginConfigurator.java
+tests/build.xml
+tests/input/xml/plugins1.xml
+tests/src/java/org/apache/log4j/xml/MockReceiver.java
+tests/src/java/org/apache/log4j/xml/PluginConfiguratorTest.java

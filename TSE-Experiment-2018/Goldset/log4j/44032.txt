@@ -1,0 +1,3 @@
+src/changes/changes.xml
+src/main/java/org/apache/log4j/spi/ThrowableInformation.java
+tests/src/java/org/apache/log4j/spi/ThrowableInformationTest.java

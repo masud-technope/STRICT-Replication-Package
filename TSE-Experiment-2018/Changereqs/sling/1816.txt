@@ -1,0 +1,5 @@
+[SLING-1816] Make Sling POST Servlet dynamically configurable - ASF JIRA
+Currently the SlingPostServlet is a regaular DS 1.0 component which is stopped and restarted for updated OSGi configuration.
+This gives a certain amount of down-time during configuration update and also places some load on the system.
+
+ To make configuration updates as transparent and low latency as possible, it would probably be good support the new DS 1.0 functionality for dynamic configuration update using the "modify" method.

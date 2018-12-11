@@ -1,0 +1,4 @@
+[SLING-4895] Service registry should not be called from within synchronized block - ASF JIRA
+RIght now, if e.g.
+an amendment is added/removed/updated, all registration/unregistration is done in a "large" synchronized block.
+This should be avoided

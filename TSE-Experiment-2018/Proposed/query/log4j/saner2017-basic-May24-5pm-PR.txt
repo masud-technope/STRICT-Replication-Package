@@ -1,0 +1,60 @@
+44032	log Category java Appender Append Appenders Writer subAppend Append apache ThrowableInformation Throwable Throwable getThrowableStringRep Throwable String Rep Throwable String Rep lines Throwable Throwable String Rep
+41219	Writer Throwable Stack Trace println printStackTrace print Stack Trace API org traces log change stacktrace Test Logger BasicConfigurator Basic Configurator Log Stacktraces Stack traces exceptions disappear occsionally
+44038	log Exception bug java log susceptible exceptions thrown Exception classes
+41735	file target File maxBackupIndex max Backup fileName file Backup failedRename failed Rename RollingFileAppender Rolling File Appender Rolling File Appender delete files rollover Rolling File Appender
+38024	format Format log event LoggingEvent Logging Event MethodNotFound Method Layout compatible
+45704	Source sun log Launcher Failed load logging xml JRE Webstart Web start
+34825	tests Encoding set motivation discussion list tests WriterAppender Writer Appender Writer Appender setEncoding set Encoding set Encoding Writer Appender set Encoding
+25355	log attackers ack eavesdropping SSL require TLS SSL outgoing mails SMTPAppender SMTP Appender
+32527	log java lang l xml org log initialization java dom path
+48784	apidocs XMLSample sample xml attachment details links Links code broken JavaDocs Java Docs Java Docs Java Docs
+40212	catalina java Field org log NullPointerException Pointer Exception Pointer Exception getLogger Logger Logger called ShutdownHook Shutdown Hook Shutdown Hook Pointer Exception Logger Shutdown Hook
+45335	java NDC Coyote HTTP lazyRemove lazy Remove thread threads comment lang shutdown number org NullPointerException Pointer Exception Exception calls NDC remove NullPointerException Pointer Exception Pointer Exception Pointer Exception
+32536	Repository custom selector Exception Log Method Manager java defaultRepository Repository org LogManager Log Manager Selector Discussions apache Custom RepositorySelector Repository Selector Repository Selector defaultRepository Repository Repository NullPointerException Pointer Exception Pointer Exception LogManager Log Manager Log Manager getLogger Logger Logger Repository Selector Repository Pointer Exception Log Manager Logger
+16280	Socket log Appender Handler TelnetAppender Telnet Appender sys frightens serverSocket server Socket Error Message logged log calling close TelnetAppender Telnet Appender Telnet Appender Telnet Appender
+41373	event build fail
+45982	Pattern log Layout EnhancedPatternLayout Enhanced Pattern Layout output PatternLayout Pattern Layout Pointer Support layout specification output MDC key pairs
+23202	FQCN dlog methods dlog methods support FQCN wrapper classes
+42281	gcj traces expectation spaces Unit tests fail java gcj JRockit Rockit
+45481	d Source unused imports
+42283	Eclipse Java imports members Eclipse Java compiler warnings usused imports members serializationUID serialization UID serialization UID
+38061	log Handler appender system type Logger Problem configuring config uri errorHandler error Handler error Handler property file error Handler
+46512	Category FindBugs Find Bugs Bugs CategoryPath Category Path error Path viewer CategoryPath Category Path Category Path doesn replace slashes dots Category Path
+40755	ASF source headers November apache src Update source header ASF Header policy
+37560	NDC soapenv xmlns xml log org http string bis event online Envelope Data Body tlr transactionId transaction Env detail fault handle embedded xml correctly
+48953	source imports variables Unused imports variables test source GCJ compile warnings
+9150	file spaces File FileAppender File Appender problem check FileAppender File Appender File Appender parent path exists File Appender
+46271	Appender Category java log apache Appenders SyslogAppender Syslog Appender NullPointerException Pointer Exception Exception Pointer Log org NullPointException Point Exception Point Exception SyslogAppender Syslog Appender Syslog Appender Point Exception Syslog Appender
+35519	JDK log Ant Filter unit log unit tests fail JDKs JDK Ant
+46144	NullPointerException Pointer Exception Exception Writer java Appender string QuietWriter Quiet Writer QuietWriter Quiet Writer Quiet Writer write ignore Exceptions Quiet Writer
+26433	Remote Server management java homeServer Server Exception JMX Bean domain log org Object getName M printStackTrace print Stack Trace Trace apache rmi JMX problem org apache log Level serializable
+45636	Format Jan String time DateFormat Format epoch Time Layout test tests DateLayout Layout Layout failing ill initialized DateFormat Format Format Layout Format
+46404	apache Appender java Socket Test Exception log INFO org root AxisFault Axis Fault Server Appenders Konsole Category jakarta client Fault priority appender Client Simple NPE logging AxisFault Axis Fault Axis Fault SocketAppender Socket Appender Socket Appender Axis Fault Socket Appender
+41156	programs grams log threads reasonable names
+17862	Version getVersion Version WO Version getVersion Version Version method requested Version
+43078	content MDC Layout XMLLayout configuration setProperties set Properties Optionally Option ally render MDC content XMLLayout XML Layout
+48588	URL DOMConfigurator FileNotFoundException File Exception Configurator DOM log files stream DOMConfigurator DOM Configurator close input stream configured based URL
+40412	ICE org NOTICE apache dev html jars release NOTICE ICE file distributions jars
+41565	log Pattern user GMT appender pattern Layout layout stdout Archive Timezone Time zone specifier spec ifier pattern layout reported work
+24159	commons log toString String Appender message deadlock user conditions locks Appenders platforms libraries org Category thread Ross Elias objects view Log create deadlock conditions concurrent donation
+33888	abbreviation logger log enhancement elements Enhance abbreviation options logger layout pattern converters convert ers
+46049	Filter appender exe syntax Level PropertyConfigurator Property Configurator JavaDoc Java Doc Configurator Filter support PropertyConfigurator Property Configurator Property Configurator Property Configurator
+41186	Appender Pattern log Info Converter buffer Async apache Pointer Dispatcher DiscardSummary Discard Summary Event Layout Append AsyncAppender Async Appender Async Appender DiscardSummary Discard Summary Discard Summary events create NullPointerExceptions Pointer Exceptions Pointer Exceptions layouts Async Appender Discard Summary Pointer Exceptions
+44644	Layout charset Appender text Content Type errors html ContentType Content Type messages XALAN Post UTF tra ContentType Content Type Content Type Layout text html Content Type
+30950	pass args log Info fine IMO Add Logger dlog methods Throwable args
+37736	log appender Event Hierarchy patch calls LoggerEventListener Logger Event Listener Logger Event Listener appenderRemovedEvent appender Removed Event appender Removed Event levelChangedEvent level Changed Event level Changed Event methods called Logger Event Listener appender Removed Event level Changed Event
+43113	trunk log Move log branch log trunk
+47465	JAR test file configuration log URL Tomcat Reading configuration files JAR locks JAR file
+49002	trace gcj ations Unit tests fail gcj Apache Harmony stack trace expectations expect ations
+36332	xml cvs Cur Curt techdocs javadoc docs header Builder Javadoc incorrect reference classes
+40172	list SyslogAppender Syslog Appender bug Appender Syslog log release
+42094	log Plugin Chainsaw classes log component model
+45039	Stack Trace getStackTrace Stack Trace method JDK print printStackTrace print Stack Trace log implementations weaknesses Throwable getStackTrace Stack Trace Stack Trace stack trace JDK Stack Trace
+35568	log test unit Parser Pattern DRFA log unit tests stray str imports test order change
+42099	log Filter Expression ExpressionFilter Expression Filter Expression Filter backport port Expression Filter
+35831	source JDK version code Html target exceptions serialization point witness Adaptor log build JDK
+40951	log release log release
+17531	logger log hierarchy Watch Configurator PropertyConfigurator Property Configurator fine correction PropertyConfigurator Property Configurator Property Configurator configureAndWatch configure Watch configure Watch don reset configuration Property Configurator configure Watch
+33531	Filters satisifies filter Event enhancement feature Event filter based rolling
+42108	Event log LoggingEvent Logging Event Logging LoggingEvent Logging Event Logging Event accessors access ors compatible log Logging Event
+44157	InterruptedIOException Interrupted IOException log Exception code interrupt InterruptedException Interrupted Exception InterruptedIOException Interrupted IOException log Interrupted IOException

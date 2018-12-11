@@ -1,0 +1,48 @@
+32536 – Custom RepositorySelector with no defaultRepository causes NullPointerException in LogManager.getLogger()
+If a developer sets a custom selector which has no defaultRepository set, the
+selector is accepted and used.
+ When logging commences a NullPointerException
+is thrown from LogManager.getLogger.
+ This is confusing to the user.
+Discussions on log4j-dev list have considered three solutions:
+(http://nagoya.apache.org/eyebrowse/BrowseList?listName=log4j-
+dev@logging.apache.org&by=thread&from=945266)
+1.
+ LogManager imposes its default LoggerRepository on the selector which
+didn't have one.
+2.
+ LogManager.setRepositorySelector traps the error and throws a
+RuntimeException pointing more accurately to the error.
+3.
+ LogManager.setRepositorySelector traps the error and throws a custom
+checked exception.
+Having previously suggested solution 3, I now believe solution 2 to be correct
+for a number of reasons:
+It is declared in the general contract of the getDefaultRepository method of
+the RepositorySelector interface that:
+"In the initial phases of configration, the returned value may be null.
+However, after the RepositorySelector is properly registered with LogManager,
+the returned value should never be null."
+This is clear warning to someone writing a custom selector.
+Throwing a custom checked exception will force the user to catch that exception
+in her code for something that she should only ever experience once.
+Existing code in the LogManager.setRepositorySelector method throws
+IllegalArgumentException's if either the selector or guard object are null
+(or if the guard is not correct).
+This behaviour should be extended to check the defaultRepository of the passed
+in selector and throw an IllegalArgumentException if it is null.
+The attached patch (full file and diff) makes this change to LogManager which
+makes it very explicit what the error is:
+
+java.lang.IllegalArgumentException: RepositorySelector must have a non-null defaultRepository.
+at org.apache.log4j.LogManager.setRepositorySelector(LogManager.java:154)
+at org.apache.log4j.test.MyCustomSelector.main(MyCustomSelector.java:57)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+at java.lang.reflect.Method.invoke(Method.java:324)
+
+I am also attaching a second patch which is a (very basic!) unit test to cover
+the proposed changes.
+Regards
+Andy

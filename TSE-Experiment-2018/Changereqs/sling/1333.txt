@@ -1,0 +1,3 @@
+[SLING-1333] POST Servlet should handle @TypeHint = Reference and value is a path - ASF JIRA
+If  param = /some/path  param@TypeHint = Reference 
+ then  node.param = UUID of node at /some/path

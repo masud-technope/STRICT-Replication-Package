@@ -1,3 +1,0 @@
-releng/org.eclipse.ecf.releng/projectSet-anonymous.psf
-releng/org.eclipse.ecf.releng/projectSet-extssh.psf
-releng/org.eclipse.ecf.releng/projectSet-anonymous.psf

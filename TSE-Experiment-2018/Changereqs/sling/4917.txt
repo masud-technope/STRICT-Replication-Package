@@ -1,0 +1,72 @@
+[SLING-4917] BasicInitialContentIT fails for the org.apache.sling.jcr.contentloader module - ASF JIRA
+The mentioned test suite fails with the following errors: 
+ 
+ -------------------------------------------------------------------------------
+Test set: org.apache.sling.jcr.contentloader.it.BasicInitialContentIT
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 2, Skipped: 0, Time elapsed: 1.061 sec <<< FAILURE! - in org.apache.sling.jcr.contentloader.it.BasicInitialContentIT
+initialContentInstalled(org.apache.sling.jcr.contentloader.it.BasicInitialContentIT)  Time elapsed: 1.03 sec  <<< ERROR!
+java.io.IOException: Error resolving artifact org.apache.sling:org.apache.sling.launchpad.karaf:jar:0.1.1-SNAPSHOT: Could not find artifact org.apache.sling:org.apache.sling.launchpad.karaf:jar:0.1.1-SNAPSHOT
+at org.ops4j.pax.url.mvn.internal.AetherBasedResolver.resolve(AetherBasedResolver.java:354)
+at org.ops4j.pax.url.mvn.internal.AetherBasedResolver.resolveFile(AetherBasedResolver.java:312)
+at org.ops4j.pax.url.mvn.internal.AetherBasedResolver.resolve(AetherBasedResolver.java:296)
+at org.ops4j.pax.url.mvn.internal.Connection.getInputStream(Connection.java:131)
+at org.apache.felix.framework.util.SecureAction.getURLConnectionInputStream(SecureAction.java:508)
+at org.apache.felix.framework.cache.JarRevision.initialize(JarRevision.java:170)
+at org.apache.felix.framework.cache.JarRevision.<init>(JarRevision.java:82)
+at org.apache.felix.framework.cache.JarRevision.<init>(JarRevision.java:60)
+at org.apache.felix.framework.cache.BundleArchive.createRevisionFromLocation(BundleArchive.java:868)
+at org.apache.felix.framework.cache.BundleArchive.reviseInternal(BundleArchive.java:549)
+at org.apache.felix.framework.cache.BundleArchive.<init>(BundleArchive.java:148)
+at org.apache.felix.framework.cache.BundleCache.create(BundleCache.java:251)
+at org.apache.felix.framework.Felix.installBundle(Felix.java:2476)
+at org.apache.felix.framework.Felix.installBundle(Felix.java:2436)
+at org.apache.felix.framework.BundleContextImpl.installBundle(BundleContextImpl.java:129)
+at org.apache.felix.framework.BundleContextImpl.installBundle(BundleContextImpl.java:107)
+at org.ops4j.pax.exam.nat.internal.NativeTestContainer.installAndStartBundles(NativeTestContainer.java:307)
+at org.ops4j.pax.exam.nat.internal.NativeTestContainer.start(NativeTestContainer.java:175)
+at org.ops4j.pax.exam.spi.reactors.AllConfinedStagedReactor.invoke(AllConfinedStagedReactor.java:79)
+at org.ops4j.pax.exam.junit.PaxExam$2.evaluate(PaxExam.java:294)
+at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:271)
+at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:70)
+at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:50)
+at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+at org.ops4j.pax.exam.junit.PaxExam.run(PaxExam.java:111)
+at org.apache.maven.surefire.junit4.JUnit4Provider.execute(JUnit4Provider.java:283)
+at org.apache.maven.surefire.junit4.JUnit4Provider.executeWithRerun(JUnit4Provider.java:173)
+at org.apache.maven.surefire.junit4.JUnit4Provider.executeTestSet(JUnit4Provider.java:153)
+at org.apache.maven.surefire.junit4.JUnit4Provider.invoke(JUnit4Provider.java:128)
+at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:203)
+at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:155)
+at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:103)
+
+bundleStarted(org.apache.sling.jcr.contentloader.it.BasicInitialContentIT)  Time elapsed: 0.005 sec  <<< ERROR!
+
+java.lang.Exception: Unable to lock bundle cache: java.nio.channels.OverlappingFileLockException
+at org.apache.felix.framework.cache.BundleCache.<init>(BundleCache.java:152)
+at org.apache.felix.framework.Felix.init(Felix.java:593)
+at org.ops4j.pax.exam.nat.internal.NativeTestContainer.start(NativeTestContainer.java:174)
+at org.ops4j.pax.exam.spi.reactors.AllConfinedStagedReactor.invoke(AllConfinedStagedReactor.java:79)
+at org.ops4j.pax.exam.junit.PaxExam$2.evaluate(PaxExam.java:294)
+at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:271)
+at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:70)
+at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:50)
+at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+at org.ops4j.pax.exam.junit.PaxExam.run(PaxExam.java:111)
+at org.apache.maven.surefire.junit4.JUnit4Provider.execute(JUnit4Provider.java:283)
+at org.apache.maven.surefire.junit4.JUnit4Provider.executeWithRerun(JUnit4Provider.java:173)
+at org.apache.maven.surefire.junit4.JUnit4Provider.executeTestSet(JUnit4Provider.java:153)
+at org.apache.maven.surefire.junit4.JUnit4Provider.invoke(JUnit4Provider.java:128)
+at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:203)
+at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:155)
+at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:103)

@@ -1,2 +1,0 @@
-examples/bundles/org.eclipse.ecf.examples.remoteservices.quotes.consumer/META-INF/MANIFEST.MF
-examples/bundles/org.eclipse.ecf.examples.remoteservices.quotes.consumer/src/org/eclipse/ecf/examples/remoteservices/quotes/consumer/ConsumerUI.java

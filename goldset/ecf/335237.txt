@@ -1,5 +1,0 @@
-protocols/bundles/org.apache.zookeeper/META-INF/MANIFEST.MF
-providers/bundles/org.eclipse.ecf.provider.zookeeper/buckminster.cspex
-releng/features/org.eclipse.ecf.discovery.zookeeper.feature/feature.xml
-releng/org.eclipse.ecf.releng.bm/ecf.b3aggr
-releng/org.eclipse.ecf.releng.bm/ecf.rmap

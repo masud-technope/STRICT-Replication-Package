@@ -1,1 +1,0 @@
-framework/bundles/org.eclipse.ecf.remoteservice.ui/src/org/eclipse/ecf/remoteservices/ui/MethodInvocationDialog.java

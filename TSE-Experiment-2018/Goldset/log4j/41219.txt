@@ -1,0 +1,8 @@
+src/java/org/apache/log4j/spi/NullWriter.java
+src/java/org/apache/log4j/spi/ThrowableInformation.java
+src/java/org/apache/log4j/spi/VectorWriter.java
+tests/src/java/org/apache/log4j/spi/ThrowableInformationTest.java
+src/java/org/apache/log4j/spi/NullWriter.java
+src/java/org/apache/log4j/spi/ThrowableInformation.java
+src/java/org/apache/log4j/spi/VectorWriter.java
+tests/src/java/org/apache/log4j/spi/ThrowableInformationTest.java

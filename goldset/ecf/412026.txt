@@ -1,2 +1,0 @@
-examples/bundles/org.eclipse.ecf.examples.eventadmin.app/products/EventAdmin Client (activemq).product
-examples/bundles/org.eclipse.ecf.examples.eventadmin.app/products/EventAdmin Server (activemq).product

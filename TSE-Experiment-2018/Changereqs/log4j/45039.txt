@@ -1,0 +1,6 @@
+45039 – Use Throwable.getStackTrace to obtain stack trace when JDK 1.4 or later is available
+The LocationInfo constructor obtains the location of the logging request by capturing the output of Throwable.printStackTrace and then parsing it to find the earliest caller of any method on the fully qualified class name.
+ Unfortunately, this can be sensitive to differences in implementations of Throwable.printStackTrace (see bug 42281 and 30588 for examples) or general weaknesses in the parsing of the output (see bug 44888).
+JDK 1.4 added Throwable.getStackTrace() to provide direct access to this info, but since log4j still supports running on earlier platforms it can not depend on the availability of this method.
+ Building log4j does require at least a JDK 1.4 due to the use of Maven, so it could have explicit calls to Throwable.getStackTrace() as long as it was prepared to catch an exception if the method was not found and would fallback to the JDK 1.3 compatible behavior.
+ Or it could just use reflection.

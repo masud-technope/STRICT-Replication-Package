@@ -1,2 +1,0 @@
-framework/bundles/org.eclipse.ecf/src/org/eclipse/ecf/core/ContainerFactory.java
-framework/bundles/org.eclipse.ecf/src/org/eclipse/ecf/core/IContainerFactory.java

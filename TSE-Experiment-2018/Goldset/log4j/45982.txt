@@ -1,0 +1,6 @@
+tests/witness/PatternParser_mdc
+src/changes/changes.xml
+src/main/java/org/apache/log4j/helpers/PatternParser.java
+tests/input/patternLayout.mdc.1.properties
+tests/src/java/org/apache/log4j/PatternLayoutTestCase.java
+tests/witness/patternLayout.mdc.1

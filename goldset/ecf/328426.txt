@@ -1,3 +1,0 @@
-protocols/bundles/ch.ethz.iks.slp/META-INF/MANIFEST.MF
-protocols/bundles/org.apache.zookeeper/META-INF/MANIFEST.MF
-providers/bundles/org.eclipse.ecf.provider.dnssd/META-INF/MANIFEST.MF

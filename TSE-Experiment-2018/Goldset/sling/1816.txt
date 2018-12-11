@@ -1,0 +1,6 @@
+bundles/servlets/post/src/main/java/org/apache/sling/servlets/post/impl/SlingPostServlet.java
+bundles/servlets/post/src/main/java/org/apache/sling/servlets/post/impl/helper/DefaultNodeNameGenerator.java
+bundles/servlets/post/src/main/java/org/apache/sling/servlets/post/impl/operations/AbstractCreateOperation.java
+bundles/servlets/post/src/main/java/org/apache/sling/servlets/post/impl/operations/ImportOperation.java
+bundles/servlets/post/src/main/java/org/apache/sling/servlets/post/impl/operations/ModifyOperation.java
+bundles/servlets/post/src/test/java/org/apache/sling/servlets/post/impl/RequestPropertyTest.java

@@ -1,0 +1,5 @@
+launchpad/test-services/src/main/resources/SLING-INF/content/property-types-test.json
+launchpad/test-services/src/main/resources/SLING-INF/nodetypes/test.cnd
+launchpad/testing/src/test/java/org/apache/sling/launchpad/webapp/integrationtest/ContentLoaderMiscPropertyTest.java
+bundles/jcr/contentloader/src/main/java/org/apache/sling/jcr/contentloader/internal/DefaultContentCreator.java
+bundles/jcr/contentloader/src/main/java/org/apache/sling/jcr/contentloader/internal/readers/JsonReader.java

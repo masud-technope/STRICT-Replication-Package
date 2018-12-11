@@ -1,5 +1,0 @@
-framework/bundles/org.eclipse.ecf.identity/build.properties
-framework/bundles/org.eclipse.ecf.remoteservice.rpc/build.properties
-framework/bundles/org.eclipse.ecf/build.properties
-incubation/bundles/org.eclipse.ecf.bulletinboard/build.properties
-providers/bundles/org.eclipse.ecf.provider.filetransfer.httpclient4/build.properties

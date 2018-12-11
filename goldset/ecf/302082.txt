@@ -1,5 +1,0 @@
-providers/bundles/org.eclipse.ecf.provider.xmpp/META-INF/MANIFEST.MF
-framework/bundles/org.eclipse.ecf.provider/META-INF/MANIFEST.MF
-providers/bundles/org.eclipse.ecf.provider.rss/META-INF/MANIFEST.MF
-framework/bundles/org.eclipse.ecf.remoteservice.rest/META-INF/MANIFEST.MF
-providers/bundles/org.eclipse.ecf.provider.r_osgi/META-INF/MANIFEST.MF

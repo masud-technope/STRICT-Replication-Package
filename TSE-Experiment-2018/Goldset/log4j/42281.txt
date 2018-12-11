@@ -1,0 +1,11 @@
+tests/src/java/org/apache/log4j/HierarchyThresholdTestCase.java
+tests/src/java/org/apache/log4j/MinimumTestCase.java
+tests/src/java/org/apache/log4j/PatternLayoutTestCase.java
+tests/src/java/org/apache/log4j/net/SocketServerTestCase.java
+tests/src/java/org/apache/log4j/xml/DOMTestCase.java
+tests/src/java/org/apache/log4j/xml/XMLLayoutTestCase.java
+tests/src/java/org/apache/log4j/MinimumTestCase.java
+tests/src/java/org/apache/log4j/PatternLayoutTestCase.java
+tests/src/java/org/apache/log4j/net/SocketServerTestCase.java
+tests/src/java/org/apache/log4j/util/JunitTestRunnerFilter.java
+tests/src/java/org/apache/log4j/xml/DOMTestCase.java

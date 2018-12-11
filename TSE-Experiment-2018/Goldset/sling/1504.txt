@@ -1,0 +1,6 @@
+bundles/servlets/post/pom.xml
+bundles/servlets/post/src/main/java/org/apache/sling/servlets/post/NodeNameGenerator.java
+bundles/servlets/post/src/main/java/org/apache/sling/servlets/post/impl/SlingPostServlet.java
+bundles/servlets/post/src/main/java/org/apache/sling/servlets/post/impl/helper/DefaultNodeNameGenerator.java
+bundles/servlets/post/src/main/java/org/apache/sling/servlets/post/impl/helper/NodeNameGenerator.java
+bundles/servlets/post/src/main/java/org/apache/sling/servlets/post/impl/operations/ModifyOperation.java

@@ -1,0 +1,17 @@
+src/changes/changes.xml
+pom.xml
+src/main/java/org/apache/log4j/xml/DOMConfigurator.java
+src/main/javadoc/org/apache/log4j/xml/doc-files/log4j.dtd
+src/main/javadoc/org/apache/log4j/xml/examples/XMLSample.java
+src/main/javadoc/org/apache/log4j/xml/examples/doc-files/XMLSample.java
+src/main/javadoc/org/apache/log4j/xml/examples/doc-files/sample1.xml
+src/main/javadoc/org/apache/log4j/xml/examples/doc-files/sample2.xml
+src/main/javadoc/org/apache/log4j/xml/examples/doc-files/sample3.xml
+src/main/javadoc/org/apache/log4j/xml/examples/doc-files/sample4.xml
+src/main/javadoc/org/apache/log4j/xml/examples/doc-files/sample5.xml
+src/main/javadoc/org/apache/log4j/xml/examples/sample1.xml
+src/main/javadoc/org/apache/log4j/xml/examples/sample2.xml
+src/main/javadoc/org/apache/log4j/xml/examples/sample3.xml
+src/main/javadoc/org/apache/log4j/xml/examples/sample4.xml
+src/main/javadoc/org/apache/log4j/xml/examples/sample5.xml
+src/main/javadoc/org/apache/log4j/xml/log4j.dtd

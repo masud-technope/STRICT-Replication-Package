@@ -1,0 +1,2 @@
+bundles/extensions/models/impl/src/main/java/org/apache/sling/models/impl/ModelAdapterFactory.java
+bundles/extensions/models/impl/src/test/java/org/apache/sling/models/impl/MultipleInjectorTest.java

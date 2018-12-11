@@ -1,0 +1,15 @@
+41373 – T113 causes the build to fail
+This is probably a know issue but couldn't find any reference to it, there is a
+class (T113) inside src/org/apache/log4j/test/serialization/T that causes the
+build to fail, because it references the now non-existant priority field on
+LoggingEvent.
+Should this class even exist, it has a default package.
+PROOF:
+Hashtable eventToHashtable(LoggingEvent event) {
+Hashtable ht = new Hashtable();
+ht.put("categoryName", event.categoryName);
+ht.put("renderedMessage", event.getRenderedMessage());
+ht.put("priorityStr", event.priority.toString());
+ht.put("throwableInfo", event.getThrowableInformation());
+return ht;
+}

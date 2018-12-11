@@ -1,0 +1,17 @@
+contrib/extensions/distribution/extensions/pom.xml
+contrib/extensions/distribution/api/src/main/java/org/apache/sling/distribution/serialization/DistributionPackage.java
+contrib/extensions/distribution/api/src/main/java/org/apache/sling/distribution/serialization/DistributionPackageBuilder.java
+contrib/extensions/distribution/api/src/main/java/org/apache/sling/distribution/serialization/DistributionPackageInfo.java
+contrib/extensions/distribution/core/src/main/java/org/apache/sling/distribution/agent/impl/SimpleDistributionAgent.java
+contrib/extensions/distribution/core/src/main/java/org/apache/sling/distribution/packaging/impl/DistributionPackageUtils.java
+contrib/extensions/distribution/core/src/main/java/org/apache/sling/distribution/queue/impl/ErrorQueueDispatchingStrategy.java
+contrib/extensions/distribution/core/src/main/java/org/apache/sling/distribution/transport/impl/MultipleEndpointDistributionTransport.java
+contrib/extensions/distribution/core/src/main/java/org/apache/sling/distribution/transport/impl/SimpleHttpDistributionTransport.java
+contrib/extensions/distribution/core/src/test/java/org/apache/sling/distribution/queue/impl/SelectiveQueueDispatchingStrategyTest.java
+contrib/extensions/distribution/it/pom.xml
+contrib/extensions/distribution/README.md
+contrib/extensions/distribution/extensions/pom.xml
+contrib/extensions/distribution/extensions/src/main/java/org/apache/sling/distribution/serialization/impl/kryo/KryoDistributionPackageBuilderFactory.java
+contrib/extensions/distribution/extensions/src/main/java/org/apache/sling/distribution/serialization/impl/kryo/KryoResourceDistributionPackageBuilder.java
+contrib/extensions/distribution/extensions/src/test/java/org/apache/sling/distribution/serialization/impl/kryo/KryoResourceDistributionPackageBuilderTest.java
+contrib/extensions/distribution/extensions/src/test/resources/kryo/dp.kryo

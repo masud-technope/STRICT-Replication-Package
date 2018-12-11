@@ -1,0 +1,4 @@
+tests/src/java/org/apache/log4j/xml/XMLLayoutTest.java
+src/changes/changes.xml
+src/main/java/org/apache/log4j/xml/XMLLayout.java
+tests/src/java/org/apache/log4j/xml/XMLLayoutTest.java

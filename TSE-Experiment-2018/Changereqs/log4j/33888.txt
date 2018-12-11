@@ -1,0 +1,14 @@
+33888 – Enhance abbreviation options for logger and class layout pattern converters
+Per discussion on log4j-dev:
+http://marc.theaimsgroup.com/?l=log4j-dev&m=110940034014619&w=2
+This enhancement extends the existing abbreviation option on the logger and
+class conversion patterns.
+log4j 1.2 supported the following abbreviation patterns.
+"%c"  - Full logger name
+"%c{2}" - Right-most two elements of logger name
+The enhancement adds the following:
+"%c{1.}" - replace non-terminal elements with first character only
+"%c{1~.}" - replace non-terminal with first character and use ~ to mark
+abbreviation.
+"%c{1.*.3.}" - (example of stacking) replace first element with first character,
+use full second element, following non-terminate elements with first 3 characters.

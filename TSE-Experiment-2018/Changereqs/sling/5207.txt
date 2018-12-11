@@ -1,0 +1,5 @@
+[SLING-5207] ResourceResolver.isResourceType leads to endless loop when resourceSuperType hierarchy is cyclic - ASF JIRA
+although illegal it is technically possible to create two resources which superResourceType hierarchy creates cycles pointing to each other directly or indirectly.
+
+ with the current implementation of ResourceResolver.isResourceType this leads to an endless loop.
+the implementation should detect such and error and throw an exception.

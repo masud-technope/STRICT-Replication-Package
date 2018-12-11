@@ -1,0 +1,5 @@
+[SLING-5025] Make ResourceResolver methods throw ISE in case the according factory is unregistered - ASF JIRA
+In SLING-4360 the ResourceResolver.isLive() method was extended to check if the ResourceResolverFactory has been unregistered in the mean time.
+That check should be done in addition for every method on the resource resolver and should throw an ISE in case the factory is no longer registered.
+
+ See also the discussion at http://www.mail-archive.com/dev@sling.apache.org/msg49364.html.

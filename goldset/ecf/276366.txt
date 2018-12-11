@@ -1,2 +1,0 @@
-providers/bundles/org.eclipse.ecf.provider.filetransfer.httpclient.ssl/about.html
-providers/bundles/org.eclipse.ecf.provider.filetransfer.httpclient/about.html

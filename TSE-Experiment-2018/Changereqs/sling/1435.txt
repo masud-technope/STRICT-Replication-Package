@@ -1,0 +1,12 @@
+[SLING-1435] After a NoClassDefError classes are still not found even if they have been installed in the meantime with Java 6 - ASF JIRA
+Scenario - note that this works fine with Java 5, but on Java 6 we have: 
+  
+ A jsp instanties a class from bundle A with the new operator 
+ JSP is loaded - everything is working fine 
+ Bundle A is uninstalled 
+ JSP invocation results in NoClassDefFoundError (which is expected) 
+ Bundle A is installed 
+ JSP is invoked and as soon as the new operator is called a NoClassDefFoundError is called 
+ 
+ It seems that Java 6 behaves differently than Java 5: The jsp can be loaded and executed, but as soon as the class from Bundle A is used, Java 6 memorieses that the class was gone inbetween and it is not possible to update this state somehow.
+All involved classloaders are not queried anymore

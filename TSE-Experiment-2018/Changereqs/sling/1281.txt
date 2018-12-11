@@ -1,0 +1,20 @@
+[SLING-1281] Copy Move operations dont work. - ASF JIRA
+To reproduce:  
+ Create 2 content items:  
+  
+ curl -X POST http://localhost:8080/d1 -u admin:admin 
+ curl -X POST http://localhost:8080/d2 -u admin:admin 
+ 
+ Attempt to copy one item on top of the other:  
+  
+ curl -F ":operation=copy" -F ":dest=d2" http://localhost:8080/d1 -u admin:admin 
+ 
+ Correctly encounter: 412 "Cannot copy JcrNodeResource, type=nt:unstructured, path=/d1 to /d2: destination exists"  
+ Attempt to copy one item on top of the other with :replace set to true:  
+  
+ curl -F ":operation=copy" -F ":dest=d2" -F ":replace=true" http://localhost:8080/d1 -u admin:admin 
+ 
+ This should now succeed, however, it is returning:  
+ 500 javax.jcr.PathNotFoundException: /d2  
+ and we know for sure /d2 exists!  
+ I think this might be related to changes in the pooling.

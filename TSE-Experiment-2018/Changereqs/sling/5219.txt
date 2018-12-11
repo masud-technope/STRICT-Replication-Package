@@ -1,0 +1,14 @@
+[SLING-5219] Mounting a ResourceProvider makes it impossible to create child resources under it - ASF JIRA
+(I am not sure where the problem is exactly, but setting it under Servlets POST for now ).
+
+ Consider the following scenario: 
+  
+ JCR provider mounted at / 
+ FS provider mounted at /content/blog/images 
+ No resources in the JCR repo for /content or /content/blog 
+ 
+ A POST call to create /content or /content/blog ( I have used httpie ) fails  
+ 
+ http --auth=admin:admin -f POST http://localhost:8080 /content 'sling\:target=/content/blog/posts' 
+ 
+ If I remove the FS provider then the call succeeds.

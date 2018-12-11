@@ -1,0 +1,12 @@
+[SLING-4611] Performance: Consider optimizing MergedResource#getParent and getChild - ASF JIRA
+For some pages up to 29% of the rendering time is spent in AbstractResource.getChild.
+In my case, 75% of the resources are MergedResources and the rest are JcrNodeResources (for which I have already opened SLING-4596).
+
+ Therefore, I would suggest implementing the following optimization: 
+ The merged resources should be stored in MergedResource and when getChild is called, it would use getChild on them directly and merge the child resources.
+This would have the advantage that the ParentHidingHandler would not have to be called again for the parent resources and could even make SLING-4568 obsolete.
+Moreover, it would leverage optimizations of the merged resource implementations (e.g.
+SLING-4596 for JcrNodeResource#getChild).
+
+ A problem with this approach is that possible in JCR (and maybe also some other resource providers) to set ACLs which allow to read children but not their parents.
+Therefore, getChild will in addition have to check for each search path which isn't covered with a merged resource if this path does really not exist.

@@ -1,0 +1,4 @@
+launchpad/integration-tests/src/main/java/org/apache/sling/launchpad/webapp/integrationtest/servlets/post/PostServletVersionableTest.java
+bundles/servlets/post/src/main/java/org/apache/sling/servlets/post/VersioningConfiguration.java
+bundles/servlets/post/src/main/java/org/apache/sling/servlets/post/impl/SlingPostServlet.java
+bundles/servlets/post/src/main/resources/OSGI-INF/metatype/metatype.properties

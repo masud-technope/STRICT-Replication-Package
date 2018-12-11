@@ -1,1 +1,0 @@
-tests/bundles/org.eclipse.ecf.tests.filetransfer/src/org/eclipse/ecf/tests/filetransfer/URLRetrieveTest.java

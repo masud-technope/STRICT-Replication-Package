@@ -1,0 +1,5 @@
+bundles/extensions/groovy/pom.xml
+bundles/extensions/groovy/src/main/java/org/apache/sling/extensions/groovy/scripting/internal/GSPScriptEngine.java
+bundles/extensions/groovy/src/main/java/org/apache/sling/extensions/groovy/scripting/internal/GSPScriptEngineFactory.java
+launchpad/integration-tests/src/main/java/org/apache/sling/launchpad/webapp/integrationtest/SlingResourceTypeRenderingTest.java
+launchpad/integration-tests/src/main/resources/integration-test/rendering-test.gsp

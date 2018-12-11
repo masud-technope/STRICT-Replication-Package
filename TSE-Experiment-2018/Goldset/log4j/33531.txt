@@ -1,0 +1,8 @@
+tests/src/java/org/apache/log4j/rolling/FilterBasedRollingTest.java
+src/java/org/apache/log4j/rolling/FilterBasedTriggeringPolicy.java
+src/java/org/apache/log4j/rolling/RollingFileAppender.java
+src/java/org/apache/log4j/rolling/SizeBasedTriggeringPolicy.java
+src/java/org/apache/log4j/rolling/TimeBasedRollingPolicy.java
+src/java/org/apache/log4j/rolling/TriggeringPolicy.java
+tests/build.xml
+tests/input/rolling/filter1.xml

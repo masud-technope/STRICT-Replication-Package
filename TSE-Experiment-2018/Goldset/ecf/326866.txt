@@ -1,0 +1,4 @@
+tests/bundles/org.eclipse.ecf.tests.osgi.services.distribution.generic/org.eclipse.ecf.tests.osgi.services.distribution.generic.launch
+tests/bundles/org.eclipse.ecf.tests.osgi.services.distribution.r-osgi/org.eclipse.ecf.tests.osgi.services.distribution.r-osgi.launch
+compendium/bundles/org.eclipse.ecf.osgi.services.discovery/src/org/eclipse/ecf/internal/osgi/services/discovery/Activator.java
+compendium/bundles/org.eclipse.ecf.osgi.services.discovery/src/org/eclipse/ecf/internal/osgi/services/discovery/ServicePublicationHandler.java

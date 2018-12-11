@@ -1,2 +1,0 @@
-examples/bundles/com.mycorp.examples.timeservice.consumer.ds/launch/TimeServiceConsumer.ds.jms.activemq.product
-examples/bundles/com.mycorp.examples.timeservice.host/launch/TimeServiceHost.jms.activemq.product

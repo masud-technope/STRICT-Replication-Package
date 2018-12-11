@@ -1,0 +1,4 @@
+bundles/jcr/resource/pom.xml
+bundles/jcr/resource/src/main/java/org/apache/sling/jcr/resource/internal/scripting/CurrentNodeBindingsValuesProvider.java
+bundles/scripting/core/pom.xml
+bundles/scripting/core/src/main/java/org/apache/sling/scripting/core/impl/DefaultSlingScript.java

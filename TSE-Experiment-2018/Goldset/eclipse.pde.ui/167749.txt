@@ -1,0 +1,4 @@
+ui/org.eclipse.pde.ui/plugin.xml
+ui/org.eclipse.pde.ui/schema/provisioners.exsd
+ui/org.eclipse.pde.ui/schema/targetProvisioners.exsd
+ui/org.eclipse.pde.ui/src/org/eclipse/pde/internal/ui/wizards/provisioner/AddTargetPluginsWizard.java

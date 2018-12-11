@@ -1,0 +1,2 @@
+bundles/extensions/serviceusermapper/src/main/java/org/apache/sling/serviceusermapping/impl/Mapping.java
+bundles/extensions/serviceusermapper/src/main/java/org/apache/sling/serviceusermapping/impl/ServiceUserMapperImpl.java

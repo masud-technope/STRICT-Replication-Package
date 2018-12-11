@@ -1,0 +1,3 @@
+[SLING-1863] upgrade GWT to 2.1 - ASF JIRA
+GWT 2.1 has been released - http://googlewebtoolkit.blogspot.com/2010/10/announcing-final-release-of-gwt-21.html 
+ the contrib module should be upgraded.

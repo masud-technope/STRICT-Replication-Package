@@ -1,0 +1,1 @@
+bundles/extensions/adapter/src/main/java/org/apache/sling/adapter/internal/AdapterWebConsolePlugin.java

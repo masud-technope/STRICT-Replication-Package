@@ -1,0 +1,14 @@
+bundles/commons/json/pom.xml
+bundles/commons/json/src/main/java/org/apache/sling/commons/json/groovy/JSONGroovyBuilder.java
+bundles/commons/json/src/main/java/org/apache/sling/commons/json/groovy/internal/JSONGroovyBuilderBindingsValuesProvider.java
+bundles/commons/json/src/test/groovy/org/apache/sling/commons/json/groovy/JSONGroovyBuilderTest.groovy
+bundles/extensions/groovy/pom.xml
+bundles/extensions/groovy/src/main/java/org/apache/sling/commons/json/groovy/JSONGroovyBuilder.java
+bundles/extensions/groovy/src/main/java/org/apache/sling/commons/json/groovy/dummy.txt
+bundles/extensions/groovy/src/main/java/org/apache/sling/commons/json/groovy/internal/JSONGroovyBuilderBindingsValuesProvider.java
+bundles/extensions/groovy/src/main/java/org/apache/sling/extensions/groovy/json/JSONGroovyBuilder.java
+bundles/extensions/groovy/src/main/java/org/apache/sling/extensions/groovy/json/internal/JSONGroovyBuilderBindingsValuesProvider.java
+bundles/extensions/groovy/src/test/groovy/org/apache/sling/commons/json/groovy/JSONGroovyBuilderTest.groovy
+bundles/extensions/groovy/src/test/groovy/org/apache/sling/extensions/groovy/json/JSONGroovyBuilderTest.groovy
+launchpad/builder/src/main/bundles/list.xml
+pom.xml

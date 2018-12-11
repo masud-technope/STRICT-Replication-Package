@@ -1,2 +1,0 @@
-providers/bundles/org.eclipse.ecf.provider.irc/META-INF/MANIFEST.MF
-providers/bundles/org.eclipse.ecf.provider.irc.ui/src/org/eclipse/ecf/internal/irc/ui/wizards/IRCConnectWizard.java

@@ -1,0 +1,404 @@
+74753	opens telling failing attempting dialog codeassist	Bug codeassist failing type parameter
+482309	organize persist ctrl attachment attached details	Bug Organize Imports work accessible binary types
+421902	beta deleting program editor reconciler save modify	Bug reconciler Deleting declaration errors
+66570	matters bundleactivator osgi framework bundle correctly proposal	Bug Code assist fails capitalization
+404489	representations alternatively ioerror solution eofexception qualifiedtype represented documented good filenotfoundexception jsr representation markerannotation legal retentionpolicy	Bug dom ast Incorrect conversion JSR TYPE annotations qualified
+421897	exhibits eliminated beta influence choice candidates eliminate earlier latest overload compiles flagged resolves program jsr	Bug compiler Errors lambda body influence overload resolution
+343060	reproducible reproduce steps hierarchies major tested versions oracle compared reflection inheritance program startswith reflect details clazz	Bug Method getMethods returns methods compared standard compiler inheritance hierarchies Methods
+478225	norm rounddispatcher stacktrace classservicefactory dialogs buildall baseannotationprocessormanager popup turning spring gracefully springframework dumped discovernextprocessor ideannotationprocessormanager endless batchimagebuilder saferunner browse worker deal abstractimagebuilder pluggable plug noclassdeffounderror invoking jobs processannotations escaping boot ide sun broken events activated	Bug JDT APT doesn deal gracefully broken annotation processors
+71702	tmp work toarray doesn	Bug code completion doesn work Array
+71705	lenth codeassist failure simple	Bug CodeAssist failure simple test Code Assist
+391196	erroneously beta rejects written permitted program meta reports locations represents creating resolvetype annotated compile	Bug compiler Compiler rejects type annotations valid locations
+430108	indigo kepler wizard addsuperinterface wizards settitle noticed product jproject setdescription produced conflicts extend produce settypename setmodifiers implemented packages detected	Bug type wizards Creating pkg type pkg result code error
+69658	typo sense latest	Bug typo javadoc ClassInstanceCreation Instance Creation
+421927	beta lambdas diagnostic	Bug compiler Bad diagnostic Unnecessary lambdas
+383015	typeelidedformalparameter actionlistener users highlight won typically improve shouldn doit reporting includes	Bug compiler Improve error reporting illegal modifier TypeElidedFormalParameter Type Elided Formal Parameter
+336934	reproduce commented collides gettypeorpackage attachment attached	Bug compiler NPE Scope getTypeOrPackage Type
+392245	takelist spare agree tricky introduce assuming repeating sense	Bug compiler Define NonNullByDefault applies TYPE locations
+412726	isfunctionalinterface corresponds functional checking creation	Bug API checking anonymous creation corresponds Functional
+406586	makey beta unavailable program	Bug compiler Missing error unavailable enclosing instance
+120892	consisting received ctor completions parentheses inconsistent parenthesis constructors	Bug assist inconsistent completions constructors methods
+430136	adjustments hovers mementotests mementos unstable inherently stay stable ascii gethandleidentifier delimiters jem separate groups good forbidden	Bug model JavaElement JEM LAMBDA METHOD memento delimiter Java Element
+93249	additionally revision observe stub invocationtargetexception propose inserted interruptedexception fully	Bug Code assist doesn propose full method stub
+383046	subsequent incomplete reported lambda	Bug compiler Error reported lambda expression subsequent parse error
+426048	displays viewsupport astprovider internalboundcheck internalcreateast npes bootloader vendor corporation internalresolveleaftype semantically balanced reproduce reducing steps saferunner faultintypesforfieldsandmethods stage worker product paste shifting javaeditor faultintypes sdk lot compose compilationunitresolver win jobs resolvetypeexpecting resolveannotations getannotationtagbits oracle resolvetypesfor boundcheck parameterizedsingletypereference combination functionalinterface ide	NPE TypeVariableBinding internalBoundCheck parentheses balanced Type Variable Binding internal Bound Check
+427072	ambiguous compile don	Bug compiler Regression bug Method ambiguous type
+383062	mirrored publicscanner determine mirror scanner	Bug compiler Mirror internal scanner PublicScanner Scanner
+425040	distinguished heuristic solution rely produces acceptable iff documented occurrence bad fails ambiguous cases disabled	Bug formatter Add option Insert type annotation
+399453	attaches arrayallocationexpression preceding annotationsondimensions attached dimension indexes	Bug compiler Annotation preceding dimension array creation expression type
+426074	erroneously beta parameterization rejected ecj program	Bug compiler Functional parameterization inference problem intersection types
+418919	ball defect beta annotatabletypesystem raising drop storeannotations carry decide conditions	Bug compiler internal Remove forcing creation annotated bindings
+406627	amd beta expectation generatemethodinfoattributes reconciled program doit retentionpolicy retention codegen classfile	Bug compiler codegen Annotations lambda parameters dev
+427105	contract notice differences builds touch verification presence editor reconciler	Bug builder Differences incremental full builds method contract verification presence type annotations
+385132	verbatim fixes bottom grammar arrow misplaced caused	Bug compiler syntax error ARROW COLON COLON shouls
+406636	aiiob bootstrapmethodsentry classfilestruct classfiletest bootstrapmethodsattribute beta aioob verifyclassfile generates arrayindexoutofboundsexception jsr	binary tools AIOOB disassembling file
+427117	press ctrl foreach works work assist space	Bug code assist code assist lambda parameter work
+415850	runjdtcoretests regressions cope produces caused big provide	Bug Ensure RunJDTCoreTests cope annotations enabled JDTCore Tests
+418921	presently copyse annotationstotype pure beta feature copied moved reflect	Bug compiler annotations locations moved type copied pure annotation
+416886	beta reenable qualifiedtypereference asserts getqualifiedname	Bug dom ITypeBinding qualifier QualifiedTypeReference wrong IType Binding Qualified Type Reference
+394356	programmer writes latest rejected misplaced requires jsr	Bug compiler Type Annotations names rejected
+416885	reproduce incompatibleclasschangeerror nosuchmethoderror membername windows callsite lambdametafactory metafactory follow jre caused nosuchmethodexception methodhandle methodhandles methodtype issue	compiler IncompatibleClassChange error Incompatible Change
+424053	consolidate relating server	Bug compiler Consolidate type inference
+385137	staticnestedclass moment annotating staticfield beta preceded absence supports accesses jre disallowed good triggers compiling program	Bug compiler Type annotations allowed member access
+472178	sourcefilepaths race addstackitem fileastrequestor stackitems numberofstackitems encodings stackmapframe verificationtypeinfo recreate bindingkeys ide issue createasts arrayindexoutofboundsexception	Bug Compiler java lang ArrayIndexOutOfBoundsException codegen StackMapFrame addStackItem StackMapFrame java Array Bounds Exception Stack Map Frame add Stack Item Stack Map Frame
+449659	grt fixing investigate enable	Bug compiler Investigate status disabled generics tests
+417923	astrewritingstatementstest typeannotationsconvertertest requirements removal items white spaces arraytype	Bug dom ast white space requirements ArrayType NASTFlattener ASTRFlattener Array Type
+401551	hard javadocs leaving apis matter grammar removing rules	Bug DOM AST Remove grammar rules Javadocs deprecate pre JLS APIs
+430219	minutes abstractnullannotationtest testreference nullannotationtest runprotected protectable fillindefaultnonnullness abstractregressiontest createargumentbindings runbare basicrun faultintypesforfieldsandmethods checkimplicitnullannotations regressiontestsetup compilertestsetup implicitnullannotationverifier faultintypes icompilerrequestor testresult resolvetypesfor createannotatedtype protect testcase junit testsuite url compilationunitscope nonnullbydefault	Bug compiler NPE Annotation Parameter Type
+376977	reproducible rrr playing password quickfix reproduce hibernate steps typeclass persistence met paste entity blah	Bug Content Assist Quick suggestion nested annotations argument list
+417937	typeuse drops importrewritecontext refactoring invoked handled filenotfoundexception addimport importrewrite	Bug ImportRewrite addImport ITypeBinding drops TYPE annotations Rewrite add IType Binding
+398490	good request special opening	Bug Don source file build path
+415911	beta head triggers npe annotated snippet	Bug compiler NPE TYPE annotated method missing type
+135328	xdoclet validating wizard ejb bean patch	Bug EJB Creation Wizard fails ejb jar xml invalid
+420004	shortly beta patch follow restored calling	Bug compiler Target meta annotations restored properly binary annotation types
+422051	avoided additionally situation versions ecj simply javachasabug	Bug compiler tests cleanup excuses JavacHasABug InterfaceMethodTests Javac ABug Method Tests
+418979	sit anotations reproduce alter follow qualifiedtype represented issue	Bug dom ast Bad source ranges annotated QualifiedType type ParameterizedType Qualified Type Parameterized Type
+391331	replicate sillyannotation beta applies appears written mixed returning targets	Bug compiler Compiler replicate annotations mixed targets
+24747	nonexistent mentioned incorrect	Bug incorrect compile error message
+431275	hitting monitors processresourcedelta updatecurrentdeltaandindex equinox master headless traversedelta blocked updateroots setresolvedclasspath elementadded addtoparentinfo deadlock hit traces deltaprocessingstate app saferunner addclasspathchange worker getresolvedclasspathentry owns targeted noticed product resolveclasspath bugzilla resourcechanged deltaprocessor utility workbench patch stacks ibm	Bug Deadlock JavaModelManager PerProjectInfo DeltaProcessingState Java Model Manager Project Info Delta Processing
+425142	viewsupport astprovider usecase reducesubtype internalcreateast somethingbreaks findmethodbinding reduceoneconstraint saferunner worker optimizing solve methodreference resolvestatements javaeditor lot boundset compilationunitresolver constrainttypeformula bigger listed computecompatiblemethod ambiguity jobs findmethod nio functionalinterface parameterizedgenericmethodbinding consumer	Bug compiler NPE ConstraintTypeFormula reduceSubType Constraint Type Formula reduce Type
+422064	drun djdk enumtest abstractregressiontest pointing stringindexoutofboundsexception beta batchcompilertest	Bug tests errors compiler regression tests javac
+74934	viewsupport astprovider internalcreateast worker javaeditor compilationunitresolver jobs intliteral computeconstant arrayindexoutofboundsexception save occurs compilationunitdeclaration resolvetype	Bug ArrayIndexOutOfBoundsException literal Array Bounds Exception
+399537	beta program trigger specification checked computed functional site	Bug compiler Exceptions thrown lambda body match specification function descriptor
+402609	beta aioob triggers program	Bug compiler AIOOB exception program method references
+404657	analogy executelater believes complainondeferredchecks complainondeferredfinalchecks duplicateinitializationoffinallocal finallyflowcontext beta noticed iseffectivelyfinal loopingflowcontext resets analyseassignment	Bug compiler Analysis effectively variables fails loops
+402618	beta silently compiles program fails undefined fail	Bug compiler Compiler fails resolve type annotations method constructor references
+420038	beta tolerated turn oracle fault tolerate issue program literals compatibility	Bug compiler Tolerate illegal type annotations array dimensions literals compatibility
+425156	rewritten flagged invoked incompatible reported	Bug Lambda argument flagged incompatible error
+381121	react master questions suitably nonwildtypeargumentsopt methodreference grammar reduced jsr	Bug grammar Arrays allowed reference expressions
+405699	remoteexception misses getexception copysubtree catchclauses isn recordmodifications modifications catchclause recorded attachment trystatement modification details	Bug ast rewrite AST Rewrite misses modification node ASTNode copySubtree copy Subtree
+425152	internalanalysecode analyzed testcase analysecode messagesend lambdaexpression leading nullpointerexception npe	compiler Lambda Expression resolved flow analyzed leading NPE
+425153	relationship verifyerror compiles ecj effectively program expect bad	Bug wildcard incompatible types lambda expression
+483534	intentional stored allowed failure multiple open	Bug search Open Method error parameterized methods
+480462	news confusing guava procedure google computation annotate indirectly jvm attachment attached common details command javax work	Bug add external annotations Guava libraries
+399567	parallelstream orderedset ambiguousmethodtest exe inherits windows unrelated named reports defaults markers duplicate multiple lines inherited pointer warnings lambda	Bug error message reference compiler
+65738	making notice automatic builds automatically	Bug builder Build automatically save
+110797	artifact heavily review business aka people rely series fixme tasks	Bug multiple task tags single tasks view complete tag
+43212	icvsfile historyview ctrl recognized compiles suggestions job istatus save work bind snippet	Bug variable recognized code completion
+424138	myex worse reconcileworkingcopyoperation convertcompilationunit beta astconverter makeconsistent ranges jsr markerannotation anno bad structure illegalstateexception clause	dom ast Bad source ranges qualified TYPE annotation clause
+420041	notice foocontainer preserved step repeatable includes generated	Bug Deprecated annotation type preserved generated file
+404690	solves bridges revisit generating strategy	Bug compiler revisit bridge generation bug fixed
+412882	majority changeclasspathoperation spending validatelibrarycontents verifyarchivecontent validatelibraryentry setclasspathoperation classpathchanged classpathvalidation getzipfile closezipfile executeoperation spent patch validated javamodeloperation validateclasspathentry large portion existed runoperation	Bug Unnecessary validation optional library classpath entries
+423122	misses recompiled dependency functional incremental explicit changed	Bug Missing incremental build dependency lambda expression functional
+418000	annotatedconstruct getannotationsbytype language repeated extension	Bug compiler Support language model API repeated annotations
+25815	ctrl propose proposed assist	Bug Code Assist propose member type
+82137	observe math work returned	Bug select Code resolve doesn work imports
+426206	tolerates exposed issue comparator argv integer	Bug compiler Compiler tolerates illegal code
+227546	invoking proposed codeassist runnable	Bug assist method declaration completion enum constant
+429279	sourceindex populating skeleton speed profiles ways profile spent candidates collected obvious disabling	Bug Java search support degrades indexing performance
+413913	investigate failures bug	Bug Investigate failures
+426214	moment idea introduced investigate guess versions supporting latest	Bug Eclipse compiler unicode characters identiifers
+424167	finalized relates haven suggests tricky resolvepolyexpressionarguments integrate hooked pgmb difficult selecting mostspecificmethodbinding solution sides applicability finding attempts computecompatiblemethod overload examples nesting deep issue accepted suitable invoked	Bug Fully integrate type inference overload resolution
+291040	keyadapter itexteditoractiondefinitionids submission dialogs click deeply ctrl button view word work	Bug codeSelect work deeply nested method invocation nested anonymous code Select
+126180	causing raised reporting npe enclosing access	Bug compiler NPE reporting invalid enclosing type
+430307	viewsupport createpartcontrol reproducible historyaction shortly fabricated easier handleidentifier prepared steps intconsumer reopened interphase stores menu gethandlefrommemento guess solution plain arrowposition mementotokenizer getchildrenoftype workbench lambdamethod jem follow restored encountered hasmoretokens view appended scenario nexttoken jsr restore	Bug model NPE children LambdaExpression restored handleIdentifier Lambda Expression handle Identifier
+479469	springframework boot embedded wrap	Bug formatter wrap references
+176364	conti ctrl propose	Bug assist missing proposals statements
+3313	notes overhead addfield compilationunitstructurerequestor typical easily severe senders notice sourcetypeelementinfo	Bug Severe Performance Java Model redundancies GFKTUN
+420080	parentmethod intmethod testinterface produces duplicated named overridden	Bug Overridden method reported duplicated
+402673	internalcreateast converttofielddeclaration checkandaddmultiplefielddeclaration buildbodydeclarations converttovariabledeclarationfragment menu compilationunitresolver accesses hint astconverter unsupportedin view jsr properly asts lambdaexpression	dom ast ASTs JLS create node types
+419057	master beta misses bogus implicitly	Bug ITypeBinding getModifiers misses implicit member IType Binding Modifiers
+193784	annotationprocessors licenses dtd servlet jsp subject distribution license app rights microsystems terms	Bug Proprietary licenses
+404728	viewsupport astprovider internalcreateast reproduce saferunner worker resolvestatements javaeditor compilationunitresolver qualifiedsuperreference jobs referenceexpression attachment attached localdeclaration	NPE QualifiedSuperReference error Qualified Reference
+403705	investigate failures	Bug Investigate failures
+418041	astprovider internalcreateast generatemissingabstractmethods addmissingabstractproblemmethod addspecialmethods saferunner javaeditor compilationunitresolver unmodifiablelist generatemethodinfoheader view readonly constantpoolname generatecode compilationunitdeclaration typevariablebinding edit	NPE AST creation
+42243	misleading isn flagged diagnosis compiled	Bug Incorrect syntax diagnosis source mode
+10499	represented classinstancecreation exceptions imethodbinding	Bug DOM AST access IMethodBinding ClassInstanceCreation IMethod Binding Instance Creation
+424195	realm createandrunworkbench busyindicator showwhile astprovider npeoncollector readanddispatch bootloader hours createtextedit batchoperation internalcreateast platformui vendor equinox codemanipulation tocollection corporation initializebounds reproduce toname resolveusing handleevent dec basicrun processjar steps app saferunner commands compilationunitproblemfinder observable organize buildstructure corext beta press resolvestatements product jarentry widgets javaeditor sdk launcher executeoperation plugins workbench compilationunitresolver editing javamodeloperation win tested predicate measure oracle widget jarfile actions invocationtargetexception nio swt caused distinct capturebinding ide depending handlers session sun collectors addition tofile jface application occurred detection good execute happen contexts	compiler NPE CaptureBinding initializeBounds Capture Binding initialize Bounds
+385293	silently grammar accepts accepted stored normal	Bug compiler compiler accepts normal modifiers type arguments
+335118	majority advantage dog easier sufficient correlation potentialnullreference coding understand browse bring cool involving unnecessarily signal connection improve requires	Bug avoid code pattern unnecessarily signal potential JDT Core code
+400650	corrected annotatabletype testing entire subtypes	Bug ASTRewrite Implementation Testing annotations subtypes Type TypeParameter Type Parameter
+95505	convinient letters addactionlistener press behaviour	Bug code completion
+421148	shortly reproduce underflow beta trivial turned follow casts preserved triggers	Bug compiler Verify error annotated casts unused locals
+25890	displays proposes complains inherits ctrl exp suggestions concrete	Bug code assist displays members expressions
+424226	staticmethod fun compiles functionalinterface	Bug method method reference
+396576	track implement singlevariabledeclaration	Bug Implement AST Rewrite extended dimensions
+380194	notation pasted massage experimented constructorreference shortly throwsopt lambdaparameters defaultvalueopt production interfacememberdeclaration methoddeclarator lambdabody formalparameterlistopt nonwildtypeargumentsopt aka methodreference annotationtypeelementdeclaration altered primarynonewarray virtual dimsopt	Bug compiler lambda Change ECJ grammar support JSR
+391464	beta places arrayqualifiedtypereference arraytypereference parameterizedsingletypereference parameterizedqualifiedtypereference good triggers	Bug compiler Compiler fails resolve annotations places
+424242	removeif improved quick good attachment details functional user include	Bug compiler Lambda expression signature mismatch message include method signature
+418096	cleanly hard fold story easy versa vice showing beta care preceding components testing incorrectly	Bug compiler Misattribution annotations style array declarations
+384317	programs stands reusing beta kosher ways black ill early	Bug compiler smarts needed Scanner jumpOver jump
+406846	printitem getinterfaceabstractcontracts eachwithindex itemwithindexvisitor redeclarespublicobjectmethod lambdaexpressionstest getimplicitmethod resolvestatements parametercompatibilitylevel polytypebinding behaviour raise getsingleabstractmethod computecompatiblemethod didn findmethod ecj separate changing issue referenceexpression testcase finished iscompatiblewith built messagesend xxx item adding aslist fixed	compiler NPE method reference lambda code compiled compliance
+427320	getdeclaredconstructors differentiate getannotatedreturntype viewpoint typeannos agree ctor treated question reflection jsr expect aslist	Bug dom ast Type annotation constructor returned IBinding getAnnotations Annotations
+400710	supermethodaccess accessmethod nosuchmethoderror leads produces reason assumed generates invoke thread	Bug compiler synthetic access method generates wrong code
+462147	mars documentation cover	Bug Documentation compiler options Mars cycle
+384320	mixing contrived beta black feature choose strategy incorrectly assumes expressions	Bug compiler Syntax error mixing type annotations reference expressions
+415043	investigated incomp todos descend nulltypeannotationtest translate nulltagbits scenarios introduced resolvetypefor polytypebinding individually annotationfortypeuse overlap respect annotationtargetmask front synth nullannotatedreadablename fixme createannotatedtype annotatable treatment follow detail	Bug Follow type annotations bug
+391500	beta dropped program reports expressions	Bug compiler Type annotations Qualified Allocation Expressions dropped
+399695	stmts migrate obsolete turn	Bug compiler migrate parser syntax methods
+427337	aimpl unimplemented raising appearing inspect supposed getparameterannotations track quick readonly issue gettypeannotations getparametertypes annotationbinding	Bug dom ast Type annotation appearing parameter annotation
+228691	overview reproduce annotating steps issubtype isassignable meaning transformations structures acceptable opposed primitives desired classtype correspond language autoboxing sun issue returning intended attachment	Bug JDT impl sun mirror util Types isAssignable returns wrapper primitive assignment Assignable
+405843	critical requirements driven sourcetypeconverter expose raise track correction individual	Bug SourceTypeConverter expose type annotations Source Type Converter
+424286	published incorporated verified	Bug Update type inference spec version
+419165	assumably stability asap registering experience ats srikanth relies interferes lone catching violates eagerly retrieval beta assigns raising strange storage lazily	Bug compiler TypeBinding assignment interferes hashmap storage retrieval Type Binding
+66908	popup observe shadowing confused invoke duplicate entries assist	Bug Code assist javadoc confused duplicate java lang String
+417113	subsequently partly todos adjustments delegation pile allarenonnull conforming instantiations nullannotationtagbits stb delegating annotationstotype copyse mixing resetting fillindefaultnonnullness flowanalysistest released testlambda demonstrates dangerous checkimplicitnullannotations nulltagbits problematic challenge clearing testbinary resolvetypefor leaving getnonnullannotation isnonnull investigate respective matter assigning nullannotatedreadablename invoking portion getannotationtagbits resolvetypesfor reverted	Bug compiler Encoding type annotations compiler bindings
+403810	adjusting iproblems moment tagging adjusted	Bug tags adjusting
+499048	aug misc attaching sdk win windows compiles ide convenience	Bug Compile error org eclipse internal ide misc DisjointSet Disjoint Set
+422259	blanks reduced	Bug dom ast AST Formatter removes blanks annotations
+430451	surrounding compilerinvocationtests fixes dash failing patch jre attachment	Bug Tests fail org eclipse jdt compiler tool tests CompilerInvocationTests JRE Compiler Invocation Tests
+193909	improve imported getfullyqualifiedname selected common	Bug improve content assist
+400761	badfunction	Bug compiler diagnostic
+401796	sentence sentences puts consists independent treat issue inherit considered	Bug compiler don treat methods overriding independent inherited method
+402818	carrying halt leaves beta attempting	Bug formatter Code carrying interfaces halt formatting
+402819	beta program properly formatted doit	Bug formatter formatting intersection types
+405889	getjavalanginvokemethodhandleslookup review beta resilience codegen	Bug compiler codegen Resilience NPE needed Scope getJavaLangInvokeMethodHandlesLookup Java Lang Invoke Method Handles Lookup
+340365	addproperty trystatementwithresources propertylist typo inconsistencies beta consistency front apis ordering grammar nodelist internalgetchildlistproperty ordered treesize moved	Bug Problems APIs TryStatementWithResources DisjunctiveType Statement Resources Disjunctive Type
+168331	ilistentry ilist abstractmethoderror introduced getentry worked fixed complain compile time doesn	Bug compiler AbstractMethodError method Method Error
+85384	writing proposed	Bug assist proposed writing method declarations
+402831	congruence abstraction shortly trap incompatibility beta introduce functionalexpression applicability patch signal limited	Bug compiler internal ReferenceExpression implement ReferenceContext Reference Expression Reference Context
+382350	beta interfacename construct issue enhanced program unable accessible	Bug compiler Unable invoke inherited method syntax
+382347	moment beta rejected hold accepts inheritance	Bug compiler Compiler accepts incorrect method inheritance
+157069	introduces caret describes computer scenario dosomething	Bug content assist Imports computer introduces wrong compile error
+382353	concerns basically sites beta describe boo zoo annotate	Bug compiler Implementation property modifiers accepted methods
+161175	feasible basis carried noticed expensive slow triggered machine server jarpackagefragmentroot large share converts takes	Bug JarPackageFragmentRoot slow initialize Jar Fragment Root
+382355	pointless chosen erroneous beta rejected accepts	Bug compiler Compiler accepts erroneous method
+383378	measurement guide hard degradation effort turning figures reliable naive worth slight yield observe design variations choice mentioned scenarios narrow introduced impact	Bug compiler analyze performance impact scanner parser
+399773	constitute moment lacks beta grammar casts ecj program	Bug compiler expression additional bounds form intersection types
+380313	machine windows functionality latest refer inconsistent details	Bug Inconsistent stack error Java
+399770	desirable meant inappropriate beta appearing early functionalinterface fact detection	Bug compiler Implement support FunctionalInterface Functional
+399768	astconverter typeannotations cases	Bug DOM AST Type Annotation Tests
+399769	unambiguous releases issues reserved keywords proposed	Bug compiler identifier trigger diagnostic
+42402	outerclass expands	Bug OuterClass code assist InnerClass
+399780	manipulate beta disallow implicitly produce program declare	Bug compiler Compiler methods disallow methods interfaces
+381345	todos codesnippetclassfile beta moves writes major assuming	Bug care Java major version
+147877	head isn unicode character	Bug source array access isn correct
+405934	reproduce eofexception viewer presence converted prior attachment attached	Bug dom ast thrown Exceptions Type Annotations malformed nodes AST level
+427438	viewsupport astprovider internalcreateast generatearguments development saferunner worker beta javaeditor compilationunitresolver patch jobs allocationexpression conditionalexpression compiling tools clazz	Bug compiler NPE org eclipse jdt internal compiler ast ConditionalExpression generateCode ConditionalExpression java Conditional Expression generate Code Conditional Expression
+399791	tagging carrying buildbodydeclarations beta apis astconverter construction abstracttypedeclaration	Bug dom ast AST APIs support code carrying interfaces methods
+416175	wildcards triggers npe snippet nonnull arraylist	Bug compiler NPE code snippet annotations wildcards
+367023	viewsupport astprovider internalcreateast continuously addstackitem generatestackmaptableattribute completecodeattribute isolate saferunner worker javaeditor stackmapframe compilationunitresolver jobs attached generatecode	Error JDT Core AST creation
+381358	elicit encountering slew typeelidedformalparameter disambiguate moment elidedsemicolonandrightbrace mangled gracefully tricky lambdabody beta operators emit reads complained strategy rejected recognize holder generates colon issue triggers program jsr	Bug Compiler gracefully reject JSR constructs source levels
+403881	assumptions beta tokennameidentifier program formatting elementtype	Bug formatter Receiver parameter halts formatting
+427433	viewsupport astprovider internalcreateast piece findmethodbinding testerror development saferunner understand worker beta getimplicitmethod resolvestatements parametercompatibilitylevel javaeditor mostspecificmethodbinding choose compilationunitresolver patch jobs findmethod compiling	compiler NPE org eclipse jdt internal compiler lookup Scope parameterCompatibilityLevel Scope java parameter Compatibility Level
+416183	overload compiles fails resolution nullable analysis	Bug compiler Overload resolution fails annotations
+428468	march stages touches master wanted finishing beta boxes versions release dialog bundle branch batch strings	Bug compiler Finishing touches Java release
+41395	aug anonymouslocaltypedeclaration buildanonymoustypebinding addanonymoustype buildlocaltype resolvestatements stackoverflowerror nestedtypebinding qualifiedallocationexpression overflow localtypebinding closing resolvetype abstractmethoddeclaration	Bug StackOverflowError pasting code Stack Overflow Error
+416181	rejected good expect bad nonnull	Bug compiler Inalid assignment rejected compiler
+399794	beta referenceexpression corresponds properties primary	Bug dom ast Add node type compiler node ReferenceExpression Reference Expression
+399792	facility beta apis casts construct doit	Bug dom ast AST APIs support casts intersection types
+399793	beta elided parenthesis lambdaexpression properties	Bug dom ast Add node type compiler node LambdaExpression Lambda Expression
+287164	mentioned receive configure txt copied configuration	Bug Report build path error source folder source folder output folder
+406973	recognizes methodparameters machine virtual recognized classfiles properly	Bug Parse MethodParameters attribute classfiles Method Parameters
+94653	surface selecting qualifier selection	Bug select Selection invalid raw member type surface raw type
+420283	beta intersection serializable compile	Bug Wrong error Type visible intersection type
+401848	reproduce introduced testcase adds	Bug ASTRewrite type annotations adds additional
+434630	reproduce switching issue attachment attached details	Bug generics Unexpected type mismatch error nested types generics
+406982	methodparameters structure generation	Bug compiler Generation MethodParameters Attribute classfile Method Parameters
+114116	nicely suggests nice understand worked suggestion containers	Bug assist suggestion collections
+335309	fup tested attached	Bug formatter FUP bug add regression test
+71113	cover specs area improve handled	Bug improve DOM AST specs bindings JLS constructs
+426447	inferbinaryname demonstrates eclipsefilemanager javafilemanager iae scenario javafileobject testcase	Bug JDT implementation JavaFilerManager inferBinaryName IAE Java Filer Manager infer Binary
+402892	understand beta style	Bug formatter Code formatter understand type annotations
+427479	hardware missingimplementation overview reproduce breaking steps nyi beta sdk collecting tested fresh windows lambdas inferencecontext compiling attachment dependency	Bug Internal compiler error java lang UnsupportedOperationException Breaking dependency cycle NYI Unsupported Operation Exception
+375248	reproducible viewsupport astprovider internalcreateast twr executeimports topath branchstatement reproduce standardcopyoption steps uncomment saferunner openstream worker generatesubroutineinvocation placeend aioobe javaeditor compilationunitresolver exceptionlabel jobs malformedurlexception nio jre net sun arrayindexoutofboundsexception	AIOOBE twr block
+424403	createinitialconstraintsforparameters inferinvocationapplicability constraintexpressionformula causing ispertinenttoapplicability getsingleabstractmethod recordqualifiedreference referenceexpression inferencecontext properly compilationunitscope functional fails	compiler method call method reference argument fails resolve properly
+144858	misleading discards offending behave lacking resilient amount leave construct presence reduce tools instances	Bug compiler resilient duplicate locals
+424415	eventual happening referenceexpression triggers functional resolution	Bug compiler Eventual resolution ReferenceExpression happening Reference Expression
+427483	treeset lambdas compareto reports support	Bug Java Variables lambdas resolved
+165346	conservative operatorexpression covered operators nullstatus produce conditionalexpression	Bug compiler org eclipse jdt internal compiler ast OperatorExpression nullStatus FlowInfo conservative Expression Status Flow Info
+400871	accommodate amended overhaul chosen spells beta scenarios mechanism determined address overload evolve	Bug compiler Overhaul overload resolution reconcile JLS
+230885	attachment attached details npe	Bug content assist NPE ParameterGuesser createVariable Parameter Guesser create Variable
+489963	insertions linear complicated estimated improves profiling rate drops cost drop growth alternative expensive factor lot remain fast increase patch sense	Bug Improve performance Region
+334315	prevents noclassdeffounderror didn ant debugging occurred dump load task	Bug compiler Problem types missing superclass superinterfaces Object missing types
+412150	reflected supports decoded accessing	Bug compiler Enable reflected parameter names annotation processing
+412151	semantics repeating subset repeatable documented meta	Bug compiler Check repeating annotation collection type
+412149	emitted designated	Bug compiler Emit repeated annotations designated container
+427504	viewsupport astprovider oneexpr internalcreateast inferinvocationtype findmethodbinding addconstraintstoc varargtypes ejc finddefaultabstractmethod saferunner worker getimplicitmethod resolvestatements javaeditor compilationunitresolver jobs findmethod inferencecontext	compiler TypeVariableBinding ArrayBinding Type Variable Binding Array Binding
+96765	myenum work	Bug Code completion work enum constants
+412155	gtk bootloader terminates vendor corporation reproduce crashes linux oracle refer separate calling classcastexception attachment attached	Bug compiler Calling deprecated method separate lambda ClassCastException terminates AST generation Exception
+291322	randomly freed retry windows caused lock subsequent	Bug Test errors running JDT Core tests Windows
+31230	offers prefixed solution suggested configure	Bug Code assist variable names prefix suffix
+412153	mentioning validity contiguous issued duplicated configurable repeated repeatable	Bug compiler Check validity annotations repeatable
+427532	syso casts presence fails intersection serializable assist lambda	Bug code assist Completion engine intersection casts
+401941	getannotationsproperty instructions scale review fixes reduces cleaned annotatabletype major traversal apis ordering large implementations shape accessors operations getextradimensions	Bug dom ast DOM AST structure review
+426515	getinner press paste caret misses feed explorer ctrl random jre launch workaround active editor reconciler client enter	Bug dom ast Bindings reconciler missing type annotations
+31261	strange limit reported behavior errors	Bug Strange behavior errors max errors compilation unit
+426520	touching callable inserts components concurrent spaces bad	Bug formatter inserts spaces annotated qualified type
+388634	chooses route runjdtcoretests misses levels running detected	Bug Test failure Compliance compliance
+426534	accessibility vararg checked argv inference methods	Bug compiler Accessibility vararg element type checked methods
+69152	addproperty astprovider internalcreateast exceptionininitializererror bootloader vendor buildbodydeclarations worker indicator newconditionalexpression microsystems launching javaeditor workbench displayed win	NPE internal error occurred Override indicator installation job
+27173	resolveconstructorbinding resolvemethodbinding classinstancecreation methodinvocation	Bug API add methodInvocation resolveMethodBinding method Invocation resolve Method Binding
+418347	omi beta notice ecj generates debugging handled properly locations generation dimension	Bug compiler Type annotations locations handled properly code generation
+384567	buggy compiles accepts	Bug compiler Compiler accepts illegal modifiers declaration
+393781	accident gui enhancement correction declares quick suggestion imported attachment details	Bug matching argument list message informative matches
+416307	confuses nok specifies substitution subclass checking fails nullable	Bug compiler subclass type parameter substitution confuses checking
+420413	beta newarraytype client dimension auto	Bug dom ast AST newArrayType Type create dimension array Array Type
+405051	newindexurl ideally populates metadata concept rebuilt initializeafterload approach computeindexlocation ways sense latest indexmanager javamodel simply refreshexternalarchives archives indexer calling	Bug JavaModel refreshExternalArchives happen search primed Java Model refresh External Archives
+415291	influences incompatibilities differentiate incompatibility situations involving conversions overload involved unsafe works implemented patterns reporting details	Bug differentiate type incompatibilities annotations
+416313	reassign javalangfunctionalinterface junitframeworkassert beta eliminate duplicates broken suitable	Bug compiler Typeids unique plausibly broken cherry picking
+422468	clarify enhance contextual classic claim easy requiring claims selectonname selectionparser beta problematic involving deeply users pertinent situation solution flattened completely completionparser identify lost issues	Bug assist Code assist issues type elided lambda parameters
+426565	hard debugger plan render secret green attachment details annotationbinding	Bug compiler standard syntax AnnotationBinding toString Annotation Binding String
+407106	failing making ctrl suggestion function	Bug code assist Code assist failing lambda expression parameter function call body
+152135	hours thingy breakpoints great popup pushing mouse people	Bug breakpoints Hovering conditional breakpoint condition
+426563	findmethodbinding getnonwildcardparameterization findgroundtargettype causing aioobe parametercompatibilitylevel polytypebinding computecompatiblemethod findmethod takes invoked arrayindexoutofboundsexception iscompatiblewith parameterizedtypebinding messagesend	AIOOBE method error invoked lambda expression argument
+178760	drag connections drop	Bug Copy Paste mechanism work
+39499	addselectionchangedlistener geteditorsite iselectionchangedlistener createpartcontrol inst selectionchangedevent selectionchanged	Bug keyword completion work anonymous classes
+405069	beta track generation	Bug compiler codegen Generate code method references
+405066	reviewed capability released beta sections infrastructure patch generating bootstrapmethods portion invokedynamic methodhandles methodtype	Bug compiler codegen Implement code generation infrastructure JSR
+423496	december pipermail experts incorporation mail browse genericsregressiontest openjdk mentioned mentions	Bug Implement incorporation rule
+380501	wider concerns topic shortly published aka feature tracked virtual	Bug compiler Add support methods JSR
+41554	easier olivier debugging searching attached sourcetype assertion	Bug Assertion failure search
+384595	beta accepts ecj accepted formal action syntax	Bug Modifiers annotations accepted lambda formal parameter list
+423505	partly lack milestone reaching mentioned	Bug Implement Specific Method Inference
+426590	produces broken undefined	Bug compiler Compiler error tenary
+234074	elaborated launched jre depending account	Bug Compliance test fails launched JRE Dcompliance
+410207	misleading reproduce steps export deals bring reduced indirectly application issue incorrectly editor attachment works reports	Bug Compiler incorrectly reports error message resolved indirectly referenced required files
+426589	javafx ease beans duration vargs jre millis rules modify accessible fail	Bug compiler Compiler error method constructor invocation vargs argument
+421469	stacktrace beta resolvestatements intfunction ctrl performing completionengine jsr openable localdeclaration codeassist compilationunitdeclaration abstractmethoddeclaration nullpointerexception runnable npe snippet function	code assist NPE LocalDeclaration resolve anonymous lambda body Local Declaration
+438875	unix encodings encoding delimiter utf	Bug Set correct project file encodings Unix delimiter
+384600	beta contexts allowed action expressions	Bug allowed lambda Reference expressions contexts don
+407131	family referenceexpression	Bug dom ast ASTRewrite support ReferenceExpression nodes family Reference Expression
+422489	astprovider internalcreateast getstaticfactory inferelidedtypes beta resolvestatements parametercompatibilitylevel javaeditor polytypebinding doesnotcompletenormally compilationunitresolver computecompatiblemethod compoundassignment collectors allocationexpression	compiler NPE CompoundAssignment analyseCode creating AST java util stream Collectors Compound Assignment analyse Code
+421473	lvb delayed staring shortly race eagerly beta problematic solution detached patch transfer declaringscope follow effects holder requires calls	Bug compiler Delayed assignment declaring scope arguments creates race condition
+395886	withdraw disallow signals pqtr annotate qualifiedtypereference handled proper presence subtypes constructs specification segment form	Bug DOM AST Withdraw annotations property nodes
+417388	ideally referencing basetypebinding correctly resolvedtype typereference	Bug TypeBinding TypeReference parameter type annotations Type Binding Type Reference
+402028	play contracts contract solution completely address interaction raised question takes investigation	Bug compiler analysis reference expressions
+390761	clashing essentially asiterable mapstream bivalue eliminating leaves beta influence kosher chance replaces eliminate parameterization compiles isomorphic	Bug compiler Incorrect error method clashing inherited method
+420458	leaves beta dimensional methodrefparameter works multi	Bug dom ast JLS ASTParser multi dimensional array reference Javadoc
+22132	today understand documentation leads care desired appears fieldref converts fieldaccess instances asts proposal special qualifiedname user dom change	Bug JDT ASTs QualifiedName FieldAccess Qualified Field Access
+383600	grammar constructed requires require jsr attached constructors proposal	Bug compiler Receiver annotations constructors require grammar change support qualified
+405104	beta track lambdas	Bug compiler codegen Implement support serializeable lambdas
+401030	hooked namedmethodscope portions createargumentbindings islambdasubscope beta islambdascope createmethod resolvetypesfor alternate	Bug analysis support lambda methods
+420482	executabletypeimpl elementprocessor patch invoked getparametertypes testcase attachment typemirror	Bug ExecutableTypeImpl getParameterTypes include type annotation type parameter Executable Type Impl Parameter Types
+390784	pruning epsilon feedback interspersed prototyped orders programs violate complicated prone happy decoration shortly forbids clutter permissive typeannotationsopt machinery lalr basically satisfy integral altogether fashion ugly maintaining production prepared discriminate ness forces simpler magnitude stacked generator brand mention protocol classorinterface beta reduces difficult design composed describe lot situation places flavors solution classorinterfacetype acceptable patch interfacetype absence semantic grammar downstream phase recognized track	Bug compiler Redesign ECJ grammar type annotations support JSR
+388739	concept detecting criteria beta introduced rewritten rely	Bug compiler methods detecting declared
+383624	git breaking review released chunks beta deal olivier patch consists grammar symbol release testing construction jsr	Bug compiler Revive code generation support type annotations Olivier work
+401035	genericdietrecoverytest beta testmethodwitherror failing reconcilertests started parser problem	Bug tests started failing
+426633	inapplicable differ invokes generates program accessible site	Bug compiler Compiler generates code invokes inapplicable method
+407191	activates surfacing covers surface classfmt binarytypebinding items incomplete relevant classfilereader free	Bug Binary access support type annotations
+409236	dropping constituents generator beta dropped intersection	Bug compiler Type annotations intersection types dropped code generator
+425621	nonwildtypearguments rejected classtype program jsr spec form	Bug compiler Missing error raw type constructor reference explicit type arguments
+423582	readanddispatch saferunner checkcasttypescompatibility widgets polytypebinding iscastcompatible hovering hover swt correction cce jface classcastexception reports correctly functional goo process dom text note lookup runtime	CCE TypeBinding isCastCompatible PolyTypeBinding Type Binding Compatible Poly Type Binding
+426652	terminates unconstrained glb loops tolist assumed implicitly collectors	Bug inference inference loops infinitely unconstrained inference variable
+392862	express nullness evaluation extended	Bug compiler Evaluate annotations array types
+409245	accounting moment optimizations beta writes dropped accepts bridge adds	Bug compiler Type annotations dropped call routed synthetic bridge method
+143001	recover rebuild broken blockstatements fake	Bug Statement recovery doesn recover broken statement
+384667	highlighting scheme signaling closer large construct entire bit	Bug compiler source positions lambda expressions
+384666	lambdaexpressionsyntaxtest prefer tostringaction conditionally wrt selecting tokennamenotatoken small didn separate improve debugging suggestions nexttoken contained relevant terminaltokens including	Bug compiler improve debuggability Parser wrt lambda expressions
+408230	selectionrequestor selectfrom acceptlocalvariable resolvestatements mentioned hovering selectionengine hover typesignature inferred localdeclaration	hovering NPE hovering type inferred parameter lambda expression
+415399	emits generator beta dropped linenumbertable immutable runtimeinvisibletypeannotations program invokespecial aload	Bug compiler Type annotations constructor dropped code generator
+429733	beta launcher produces verifyerror reason assignable uninitialized sun getdeclaredmethods works running frame details command invokespecial	bytecode Bad type operand stack
+409250	andy addfieldattributes violating typeannotationcodestream annotating review extendedannotation getlocalvariabletable concern iextendedannotation beta cover places carries response fieldtype entity matter discovered phase newarray loose executed	Bug compiler loose ends code generation
+402080	click beta navigate broken jump	Bug code select Unable navigate method declaration method reference
+384687	beta rejected invocations good len bad action explicit	Bug Wildcard type arguments rejected lambda reference expressions
+414380	qnr wanted observed reassigned temporarily indexoffirstfieldbinding reverted chain desired	Bug compiler internal QualifiedNameReference indexOfFirstFieldBinding point field Qualified Reference Field Binding
+60081	jumps javap sdk verifyerror sun jump enclosed named attached compiled branch	Bug Compiler java lang VerifyError Illegal target jump branch Verify Error
+424631	referenceexpression functional generatecode modified inference	Bug inference NPE ReferenceExpression generateCode Reference Expression generate Code
+426676	kepler infers wiki dec distribution beta windows compiles supplier distinct infer workaround program works inferred work inference support function	Bug compiler Wrong method type inferred lambda expression
+414384	abbreviated explaining rendered respect nullity shape nesting generates runtimeinvisibletypeannotations representation marked	Bug type annotation abbreviated marked type
+403132	reproduce displayed astconverter issue converted program attachment attached details correctly	Bug DOM Incorrect ASTConversion Annotations classes Receiver
+69308	emptied complicated ease offer deal dealing astnodes	Bug ASTNodes deal modifiers offer method setModifiers List modifiers set Modifiers
+116419	offered failure assist potential	Bug code assist regression POTENTIAL METHOD DECLARATION offered
+456395	attachment details sample compile	Bug compile Java code
+404169	bunch goal drop framework testcase junit	Bug deprecation warnings test projects junit framework
+391893	manipulating beta expose provide support dom	Bug DOM AST Add receiver parameter support DOM AST
+391895	beta internally carry managed side support multiple extended	Bug dom ast Annotation support extended dimensions
+391894	beta arraycreation modified	Bug compiler Support type annotations ArrayCreation nodes Array Creation
+366298	familiar medium great click bundles sdk making osgi attempts forced generally jre dependencies deploy account bundle	Bug publish org eclipse jdt annotation bundle
+391898	manipulations beta expose captures arity fact side dimension	Bug compiler Add DOM AST support annotations varargs
+421607	produces won casts ecj reason assignable program frame compiled intersection	Bug compiler Verify Error intersection casts
+390883	asiterable bivalue mapstream beta compiles program iterable	Bug compiler Unable override method
+418528	runalljava testannotatedbinarytype beta tells typebindingtests failing suites issue pass	Bug internal Tests pass suite fail suite suites
+383714	elicit splitting moment correctness basis beta dealing modes reads diagnostics issues rejected	Bug compiler Compile fails reject constructs modes
+390882	annotating crashes beta compiles style proper program reject built top enabled	Bug compiler Compiler reject type annotations nested names qualified top level types
+382701	programs serve semantically subject semantic matter track treatment separate tasks suitable diagnostic program linked	Bug compiler Implement semantic analysis Lambda expressions Reference expressions
+415470	speaking convenient sites applying beta typeannotation interned strictly myclass written permitted program	Bug compiler Type annotations declaration vanishing
+27370	mylist wasn completions discovered constructors assist space workspace superclass	Bug code assist working
+414444	ability discussion versions loose configure automatically require	Bug Configure annotation bundle TYPE
+384750	basically eliminated beta semantic rejected depending accepted reject	Bug Compiler reject invalid method reference expressions
+103148	handy prone nuisance untyped mytype writable easy life confirm enumset pseudo staticmethod	Bug assist Code completion breaks method generics staticMethod params Method
+357110	reproducible refactor reproduce steps classfolder circumstances outputfolder describe explorer displayed workaround indirectly good opened editor removing subclass folders called referenced libraries	Bug Problem classes referenced jars folders type resolved
+86779	convenient wrappers dealing resolvewellknowntype	Bug AST resolveWellKnownType support primitive type wrappers resolve Type
+421628	itypebindings picture collapse established javadocs explained apis ibindings general equality updates	Bug dom ast api document rules ITypeBinding equality IType Binding
+424710	mappertest regex processtaskmanager wizard findmethodbinding reproduce resolvepolyexpressionarguments dec steps development fixes beta resolvestatements paste flatmap functionalexpression patch resolvetypeexpecting examples problemfieldbinding cce changing accepted singlenamereference foreach tools mapper matcher classcastexception removing running messagesend patterns	Bug compiler CCE SingleNameReference localVariableBinding Single Reference local Variable Binding
+455427	investigate processors times dummy	Bug test compiler test APT enabled
+407297	jep supports lead follow distinct ecj	Bug compiler Control generation parameter names option javac parameters
+424718	dimannotations topic languages rise breaking nice functions basetypereference google compilers aware plugins apis basetype issues prevent language detail request	Bug compiler API compatibility AST TypeReference Type Reference
+424712	gtk astprovider internalcreateast isprovablydistincttypeargument bootloader vendor corporation reproduce isprovablydistinct checkunsafecast dec steps development saferunner worker checkcasttypescompatibility beta resolvestatements product javaeditor linux compilationunitresolver patch jobs oracle view	compiler NPE TypeBinding isProvablyDistinctTypeArgument Type Binding Provably Distinct Type Argument
+429833	astprovider backspace internalcreateast saferunner internalanalysecode press javaeditor caret compilationunitresolver analysecode messagesend lambdaexpression place charat compilationunitdeclaration	Bug compiler Missing types NPE lambda analysis
+402198	presently enhance programmer steer abstraction switches cleaner steps exposed beta infrastructure direction solution analyzed	Bug compiler infrastructure Enhance IErrorHandlingPolicy support policy ignore errors IError Handling Policy
+424727	stacktrace reconcileworkingcopyoperation checkillegalnullannotation resolveusing saferunner compilationunitproblemfinder beta nullannotationunsupportedlocation resolvestatements installed executeoperation javamodeloperation runoperation caused binaries makeconsistent jface allocationexpression compiling reconciler removing	compiler NullPointerException nullAnnotationUnsupportedLocation ProblemReporter java Pointer Exception Annotation Unsupported Location Problem Reporter
+424725	processtaskmanager unsure december analysearguments internalanalysecode leaves figure large desired release infinite arrayindexoutofboundsexception trystatement	Java Builder infinite loop ArrayIndexOutOfBoundsException analyseArguments Array Bounds Exception analyse Arguments
+484114	piece typing choice predicate completing automatically longer condition work sensitive	Bug content assist Flow sensitive typing doesn work autocompletion condition
+363293	raises leaks filemanager leak fixed compiled	Bug resource leaks org eclipse jdt compiler tool tests
+426778	courseprovidername courseprovideremploymentstatistics comparingint donetrainingstotal thencomparing reversed converting severe stat	Bug inference Internal compiler error java lang NullPointerException org eclipse jdt internal compiler ast LambdaExpression analyseCode LambdaExpression java Pointer Exception Lambda Expression analyse Code Lambda Expression
+25377	view selected task compile text select	Bug Error location correct empty array initializer
+418599	official drops download rid	Bug rid compile warnings official build
+410402	investigate failures bug	Bug Investigate failures
+426792	beta mind designed inference	Bug inference impl generify type inference engine
+145202	negated raises analyzer positive	Bug positive reference analyzer negated
+425783	wiki development beta pde installed stackoverflowerror feature patch fire requesting editing occurred	Bug internal error occurred Requesting Java AST selection java lang StackOverflowError Stack Overflow Error
+415541	lnonnull emitted beta instruction dropped linenumbertable localvariabletable performs effective symbol runtimeinvisibletypeannotations sourcefile program checkcast astore invokespecial spec dup constructors clinit	Bug compiler Type annotations body initializer dropped
+416560	astprovider misc steps paste reconcileflags javaeditor explorer workbench breakpoint astlevel shared attachment attached details includes startposition	Bug Incorrect source range lambda expression parameter
+334652	directs technically typing trouble attaches separately layer someclass documentation product users guess ctrl asked portion hover appears	Bug Javadoc content constructors
+404285	beta dom	Bug dom ast Deprecate AST JLS
+135997	click olivier latest view pathseparator addition middle	Bug AST invalid source range recovered node
+402233	proposing route consideration constitutes beta infrastructure differs wise decide turn requires poly	Bug compiler infrastructure Implement Expression tIsMoreSpecific TypeBinding TypeBinding Specific Type Binding Type Binding
+425798	reducesubtype addtypeboundsfromwildcardbound findmatches findmethodbinding javasearchparticipant reduceoneconstraint requirenonnull worker locatematches incorporate beta solve resolvestatements boundset constrainttypeformula computecompatiblemethod jobs findmethod basicsearchengine parameterizedgenericmethodbinding matchlocator	compiler NPE ConstraintTypeFormula reduceSubType Constraint Type Formula reduce Type
+407364	testcases qualifiedtype	Bug dom ast Incorrect ASTRewrite QualifiedType Qualified Type
+11076	configs configurations favorites remain	Bug Deleted configs remain favorite list
+398158	moment unannotatablename variabledeclaratoridorthis reads grammar	Bug Receiver qualifier simple qualified
+29516	regressions failing	Bug SearchEngine regressions Search Engine
+388936	converterjclmin involves jclmin versions minimal creating	Bug create jclMin libraries jcl Min
+365387	week constitutes integral review mirrored publicscanner feature discover minor patch referred issues backing	Bug compiler bug Issues follow post review verification
+386901	stepping module moon nonnls processingtask matters pulled processtaskmanager asterisks annotatedelements debugger annotounit handed app sourceunits unmodifiableset starttime getlog tuple icu commons discover launched originally dropped stats getvalues depends getelementsannotatedwith blue logging apache typically invocations reason roundenvironment roundenv session annotationmirror getfilename pass bundle stringbuilder	Bug Eclipse pass annotated classes annotation processor
+431963	confusion stub invoked gettypeannotations varargs snippet auto todo	Bug DOM Confusion type annotations varargs method parameter
+478042	possibility support open	Bug search Support Open Method single api
+29536	posting reproduce steps matchlocator getlocation	Bug Check IResource getLocation Location
+73573	genric resumeonsyntaxerror ctrl completionparser completionengine dietparse arrayindexoutofboundsexception occurs codeassist space	Bug CodeAssist ArrayIndexOutOfBoundsException genric type completion Code Assist Array Bounds Exception
+426851	typeuse press selecting caret ctrl suggested locations assist	Bug content assist content assist type annotation
+429934	findmatches stacktrace memberdeclarationvisitor aiiobe javasearchparticipant worker locatematches createhandle aioobe reportmatching lambdamethod jobs intern basicsearchengine written matchlocator occurred arrayindexoutofboundsexception pending accurate lambdaexpression	Bug search references type lambda parameter AIIOBE
+27499	claiming navigating classpathvariableinitializer manually observe ctrl indexed bogus step	Bug Bogus ClasspathVariableInitializer JavaModel Classpath Variable Initializer Java Model
+396139	upgrade javadoctestforclass regressions commits reproduce offers functions newer download beta observe difficult closer team targeting latest head examples builds green	Bug define JRE build targeting BETA JAVA
+217966	reacting notion inspired design documentation tells choice solutions front odd ordering obvious language refers step	Bug Flags toString API deserves improvements String
+417659	testclassinheritenceannotations testlistinserts tracing astrewritingmethoddecltest astrewritingtypeannotationstest testmethodreturntypechanges grouped listed astconverter tracking	Bug dom ast test failures ast structure debug tracing
+399224	pmb tighten ideally skeleton nosuchsingleabstractmethod beta getsingleabstractmethod care stuff problemmethodbinding inheritance problemreasons	Bug compiler internal Implement TypeBinding getSingleAbstractMethod Type Binding Single Method
+406392	presently reliably stand identification beta identify diagnostics issues	Bug compiler codegen Improve identification lambdas capture enclosing instance
+222080	reproduce unzip completing expect attachment attached item identity details open	Bug assist Wrong proposals order completing item array
+442245	hangs hang paste automatic portion turned lead building editor copied	Bug compiler source files lead eclipse hang copy paste
+417669	annotatabletype appears dialog ranges parameterizedtype bad structure simpletype annotated incorrect	Bug dom Incorrect source ranges annotated SimpleType nested ParameterizedType Simple Type Parameterized Type
+413569	annotates washington artifact explains picture leftmost extradimension design arr sense dimensional semantic outermost matter distinguish nesting brackets correspond formed language view live documented componenttype jsr html impossible specification	Bug dom ast AST annotated multi dimensional array type formed
+424845	onresultof guava beta natural google ordering workaround extract comparator comparable resolution work collections	Bug Wrong resolution type compliance settings
+413592	formatnode extracting parseclassbodydeclarations standalone stand pressing selecting astrewriteformatter ctrl indentationlevel extracted debugging lineseparator extract properly iregion works formatted	Bug method formatted ASTRewriteFormatter ASTRewrite Formatter
+419748	convertandsetreceiver internalcreateast buildbodydeclarations annotatabletype compilationunitresolver astconverter jsr	dom ast MethodDeclaration receiverType AnnotatableType Method Declaration receiver Type Annotatable Type
+392099	serve challenge investigate supporting takes good	Bug compiler Apply annotation types analysis
+364450	observe undo dubious rebuild fatal indirectly changing incomplete building triggers	Bug Dubious path error triggers full rebuild
+409517	styles dimensional dim multi work fully arrays dimensions	Bug compiler Type annotation problems elaborate array references
+383913	facilitate sought validations mutable beta attaching syntactic disallowed parts written permitted readonly	Bug compiler Compiler reject explicit parameter disallowed contexts
+392119	regressions shortly annotationdependencytests nullannotationtest isruntimeinvisible hybrid beta	Bug compiler Annotations hybrid targets don files
+162740	equinox coding documents links html failed	Bug Error website
+95167	forbidding texteditor abcd abstracttexteditor spurious notice ctrl workbench osgi matter head loaded swt red	Bug content assist Spurious Access restriction error code assist
+79809	complicated users solution angle brackets suggestion tagelement ranges inserted accessing includes closing bracket simpletype	Bug dom javadoc support type parameter Javadoc tags
+481223	reliably wishes computecompletionproposals git kepler simulated exercise milestone simulates findconstructordeclarations neon atm integration production mars findtypesandpackages switching prevented team completiononsingletypereference ctrl searchableenvironment timeout versions large warmup completionengine operationcanceledexception scenario started	performance Regression SearchableEnvironment findConstructorDeclarations Searchable Environment find Constructor Declarations
+391108	beta compiles ecj program elementtype	Bug compiler Compiler type annotations methods
+25539	singlecompletiontest getexception inaccurate searching total istatus matches	Bug Unexpected inaccurate search
+406469	astrewriteflattener astrewriteanalyzer adapt qualifiedtype	Bug dom ast ASTRewrite support PackageQualifiedType Qualified Type
+497603	compiles ecj attachment attached details fine	Bug compiler inference type inference bug
+423872	clicking astprovider internalcreateast decorate settypeannotationsandsourcerangeonarray converttoarray saferunner buildbodydeclarations worker javaeditor converttype compilationunitresolver jobs nio astconverter	dom IllegalArgumentException opening Path Illegal Argument Exception
+170954	proposes proposed	Bug proposed method
+383949	issuing surrounding meaning beta compiles program special	Bug compiler Explicit parameter illegal lambda expressions
+73675	great handed pipeline guarantee hook speed looked initially cus didn share	Bug dom AST creation pipeline
+383950	treats poor moment beta style meta spec	Bug compiler Type annotations target type meta annotation TYPE
+430026	myfunction compose declares jsr lambdaexpression	Bug Lambda parameter wrong parent declares type
+430027	enclosestype findmatches memberdeclarationvisitor javasearchparticipant lacking worker locatematches reportmatching compose sense issues jobs hierarchyscope getprimaryelement basicsearchengine matchlocator occurred encloses lambdaexpression sourcetype returnstatement	model Mitigate issues Lambda model element hierarchy lacking support binary elements
+409544	permits setint openjdk assigning net jsr html specification	Bug compiler local variable declared lambda body assigned lambda body
+403410	rejects latest rejected params spec	Bug Modifiers rejected receiver parameters
+430035	stringconsumer bridges originates abstractmethoderror alternative emit altmetafactory invokes consumer lambdas produce bridge direct creating codegen	Bug compiler codegen Bridge methods generated lambdas method references
+417759	beta typeannotation program npe analysis nonnull	Bug NPE analysis
+425951	bootloader resolvetypeforqualifiedallocationexpression processtaskmanager metadata wiki findmethodbinding vendor corporation reduceoneconstraint development constraintexpressionformula beta solve resolvestatements product pde feature plug plugins boundset patch win computecompatiblemethod invoking findmethod oracle qualifiedallocationexpression ide encountered parameterizedgenericmethodbinding	java lang NullPointerException InferenceContext leavePolyInvocation InferenceContext java Pointer Exception Inference Context leave Poly Invocation Inference Context
+69598	pressing cont ctrl completions	Bug Auto Completion loop
+383973	spoil demonstrates testmodifiers beta introduced presence disabled syntax	Bug compiler syntax recovery presence methods
+396258	simplify adopt nulltypeannotationtest forces interpreted introduce spec	Bug adopt syntax annotations qualified type names NullTypeAnnotationTest Type Annotation Test
+361441	viewsupport astprovider pops internalcreateast bootloader vendor reproduce macosx steps invalidmethod saferunner worker resolvestatements product javaeditor users sdk compilationunitresolver jobs ide parameterizedgenericmethodbinding session dialog framework classcastexception attached messagesend	Error JDT Core AST creation
+424930	dequecapacity newdefaultmap arraydeque deque earlier supplier	Bug compiler Regression infer type arguments error compiler
+383968	introduction admit beta combination adds unchanged	Bug compiler update checking method modifiers methods
+383970	constantly misses detail permitted legal	Bug compiler Detail message Illegal modifier method misses
+388085	simpler appears immutable ecj myclass	Bug compiler Type annotations wildcard type argument supported
+426998	narrowed sitting originally compiles named free longer mark duplicate snippet	Bug compiler method java lang java lang String applicable arguments java lang java lang String
+403444	resolveexpressiontype drill reduceint stoi stringtoint views defaultbindingresolver inspect cce resolving reduce jsr classcastexception	Bug dom ast CCE resolving binding malformed LambdaExpression JLS AST Lambda Expression
+430069	grt nullannotationmodeltests incrementaltests address jre failures	Bug Test failures JRE
+422901	upgrade bunch assistant syso beta places selectionengine completionengine breaks	Bug code assist Code assistant sensitive scope referenceContext type identity reference Context
+409586	reflected solution carry identify dom	Bug dom ast identify TYPE annotation ITypeBinding IType Binding
+382960	manually disappear rebuild trigger removing deleted	Bug Java problem markers deleted change info java
+488441	press ctrl higher relevant proposal starting substring	Bug content assist Substring proposals incorrect relevance

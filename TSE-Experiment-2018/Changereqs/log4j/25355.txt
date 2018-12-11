@@ -1,0 +1,4 @@
+25355 – allow to require "TLS/SSL only" for outgoing mails of your SMTPAppender
+If my application sends out sensitive info about a severe/fatal application
+state via log4j, I don't want eavesdropping attackers to learn about that!
+see also Bug 24969  for an RFE re SMTP AUTH

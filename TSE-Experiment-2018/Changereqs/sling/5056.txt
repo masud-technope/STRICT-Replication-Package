@@ -1,0 +1,4 @@
+[SLING-5056] FAILED distribution response states are reported as succesful - ASF JIRA
+During SLING-5047 a bug was introduced which causes failed distributions to be reported as successful.
+
+ [1] https://github.com/apache/sling/commit/39649c3676fa22219bc3090c387482ad1fdab405

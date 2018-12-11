@@ -1,3 +1,0 @@
-examples/bundles/org.eclipse.ecf.example.collab/plugin.xml
-framework/bundles/org.eclipse.ecf.provider/plugin.xml
-framework/bundles/org.eclipse.ecf/src/org/eclipse/ecf/core/sharedobject/AbstractSharedObject.java

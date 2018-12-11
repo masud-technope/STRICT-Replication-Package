@@ -1,0 +1,2 @@
+[SLING-5032] Even if a field is annotated with Source the ModelAdapterFactory will query all injectors - ASF JIRA
+Even if a field is annotated with Source the ModelAdapterFactory will query all injectors instead of directly picking the indicated injector, which is wasteful.

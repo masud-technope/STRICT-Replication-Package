@@ -1,0 +1,26 @@
+41565 – Timezone specifier in pattern layout reported not to work
+Raised on log4j-user on 2007-01-08 by Eric Kolotyluk and revisited 2007-02-07:
+Archived as
+http://marc.theaimsgroup.com/?l=log4j-user&m=116828839225317&w=2
+http://marc.theaimsgroup.com/?l=log4j-user&m=117088896313157&w=2
+Thanks for the info.
+I reviewed the bug information too.
+I'm still not
+sure what to do next.
+I'm using the following pattern in my Logging.properties file
+log4j.rootLogger=INFO, stdout
+log4j.appender.stdout=org.apache.log4j.ConsoleAppender
+log4j.appender.stdout.layout=org.apache.log4j.PatternLayout
+log4j.appender.stdout.layout.ConversionPattern=%-5p %d{yyyy.MM.dd
+HH:mm:ss,SSS}{GMT} Z [%t] %c{1} - %m%n
+and this is what I get in the log file
+INFO  2007.01.04 07:47:45,454{GMT} Z .
+.
+.
+Where the time is definitely not GMT.
+We're using Java 1.4.2_12 as a
+runtime.
+The 1.4.2 javadoc seems to indicate that GMT is an acceptable
+timezone.
+It looks as though PatternLayout is not recognizing the second
+set of braces after %d{yyyy.MM.dd HH:mm:ss,SSS}

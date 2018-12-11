@@ -1,0 +1,3 @@
+bundles/scripting/jsp-taglib/pom.xml
+bundles/scripting/jsp-taglib/src/main/java/org/apache/sling/scripting/jsp/taglib/DefineObjectsTEI.java
+bundles/scripting/jsp-taglib/src/main/java/org/apache/sling/scripting/jsp/taglib/DefineObjectsTag.java

@@ -1,1 +1,0 @@
-providers/bundles/org.eclipse.ecf.provider.bittorrent/META-INF/MANIFEST.MF

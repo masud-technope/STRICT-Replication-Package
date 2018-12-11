@@ -1,0 +1,9 @@
+tests/build.xml
+tests/src/java/org/apache/log4j/EncodingTest.java
+tests/src/java/org/apache/log4j/util/BinaryCompare.java
+tests/witness/encoding/UTF-16.log
+tests/witness/encoding/UTF-16BE.log
+tests/witness/encoding/UTF-16LE.log
+tests/witness/encoding/UTF-8.log
+tests/witness/encoding/ascii.log
+tests/witness/encoding/latin1.log

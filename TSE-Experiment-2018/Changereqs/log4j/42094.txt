@@ -1,0 +1,4 @@
+log4j 1.3 component model package
+log4j 1.3 defined a component model with classes such as Component, ComponentBase, Plugin, 
+PluginRegistry etc that were used both by log4j 1.3 and chainsaw.  This enhancement packages those 
+classes to support hosting Chainsaw on log4j 1.2.

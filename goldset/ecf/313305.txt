@@ -1,4 +1,0 @@
-releng/org.eclipse.ecf.releng.bm/rmap2b3aggr.xsl
-releng/org.eclipse.ecf.releng.bm/ecf.b3aggr
-releng/org.eclipse.ecf.releng.bm/rmap2b3aggr.xsl
-releng/org.eclipse.ecf.releng.bm/ecf.b3aggr

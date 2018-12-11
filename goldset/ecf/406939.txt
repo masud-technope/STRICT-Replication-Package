@@ -1,3 +1,0 @@
-releng/org.eclipse.ecf.releng.bm/ecf.rmap
-releng/org.eclipse.ecf.releng.bm/ecf.rmap
-releng/org.eclipse.ecf.releng.bm/ecf.rmap

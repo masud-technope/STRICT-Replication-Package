@@ -1,0 +1,2 @@
+[SLING-1638] Reload jsp if used classloader is invalid - ASF JIRA
+The jsp scripting should use the new dynamic class loader interface to check if the used class loaders for a jsp are still valid.

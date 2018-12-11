@@ -1,2 +1,0 @@
-framework/bundles/org.eclipse.ecf.identity/.classpath
-framework/bundles/org.eclipse.ecf.identity/.settings/org.eclipse.jdt.core.prefs

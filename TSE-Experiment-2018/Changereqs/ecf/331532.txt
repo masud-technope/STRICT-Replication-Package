@@ -1,0 +1,2 @@
+org.eclipse.ecf.osgi.services.distribution.DefaultHostContainerFinder.findHostContainers(ServiceReference, String[], String[], String[]) returns org.eclipse.ecf.provider.generic.TCPClientSOContainer
+DefaultHostContainerFinder should not find TCPClientSOContainer as it's not usable to act as a service provider.

@@ -1,2 +1,0 @@
-examples/bundles/org.eclipse.ecf.example.collab/plugin.xml
-framework/bundles/org.eclipse.ecf.docshare/plugin.xml

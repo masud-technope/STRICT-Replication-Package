@@ -1,0 +1,7 @@
+[SLING-1797] Looking for versionable ancestor may cause failure - ASF JIRA
+The AbstractSlingPostOperation.findVersionableAncestor method tries to find a versionable ancestor to the node to be modified during the request by repeatedly calling Item.getParent() until the root or a versionable node is reached.
+
+ If the current request does not have access to an ancestor thus visited an AccessDeniedException is thrown by the getParent() method thus failing the POST request early and probably unrelated to any actually requested operation.
+
+ Fix is to catch the AccessDeniedException and assume no versionable ancestor.
+If the operation then fails, it will fail due to the actual operation failing possibly because an ancestor which should be checked out.

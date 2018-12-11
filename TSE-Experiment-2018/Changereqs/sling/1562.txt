@@ -1,0 +1,5 @@
+[SLING-1562] Create sample for user self-regirstration and profile update - ASF JIRA
+In the context of SLING-1370 it would be useful to have some sample GUi with the following functionality: 
+  
+ Allow users to register themselves with the repository 
+ Allow users to update their profile: email address, first name, last name, OpenID identity (or identities), etc.

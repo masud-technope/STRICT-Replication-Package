@@ -1,3 +1,0 @@
-examples/bundles/org.eclipse.ecf.example.sdo.editor/plugin.xml
-examples/bundles/org.eclipse.ecf.example.sdo.editor/src/org/eclipse/ecf/example/sdo/editor/PublishedGraphTracker.java
-examples/bundles/org.eclipse.ecf.example.sdo.editor/src/org/eclipse/ecf/example/sdo/editor/SharedSDOEditor.java

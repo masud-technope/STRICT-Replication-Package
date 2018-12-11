@@ -1,0 +1,6 @@
+src/changes/changes.xml
+src/main/java/org/apache/log4j/net/TelnetAppender.java
+tests/src/java/org/apache/log4j/CoreTestSuite.java
+tests/src/java/org/apache/log4j/net/TelnetAppenderTest.java
+src/java/org/apache/log4j/net/TelnetAppender.java
+tests/src/java/org/apache/log4j/net/TelnetAppenderTest.java

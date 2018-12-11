@@ -1,0 +1,4 @@
+[SLING-1284] MemoryLeak: ThreadLocal variable is never cleared - ASF JIRA
+The JspFactoryImpl by default uses a thread local for caching a page context pool.
+This thread local is never cleared creating a memory leak.
+ I think the easiest solution is to disable the pool - don't know if this has a real performance impact

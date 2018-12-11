@@ -1,0 +1,6 @@
+[SLING-1619] attempting to automatically set a protected property shouldn't cause a failure - ASF JIRA
+this: 
+ curl -u admin:admin "-Fjcr:created=" "-Fjcr:primaryType=sling:Folder" http://localhost:8888/test/content/folder 
+ currently returns an error because jcr:created is a protected property in nt:hierarchyNode.
+
+ We should just skip this property

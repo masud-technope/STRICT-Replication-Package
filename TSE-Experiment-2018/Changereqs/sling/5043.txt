@@ -1,0 +1,4 @@
+[SLING-5043] sling-mocks: Execute commit() after ContentLoader operations - ASF JIRA
+as discussed in SLING-5028 after each ContentLoader import call a commit() should be executed.
+this is esp.
+important when "real" jackrabbit or oak repositories are used, and what users would expect.

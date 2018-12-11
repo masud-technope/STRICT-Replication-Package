@@ -1,0 +1,6 @@
+[SLING-3892] AdapterWebConsolePlugin does not expose all AdapterFactories - ASF JIRA
+The AdapterWebConsolePlugin does not expose all AdapterFactories because it relies on on a Map which uses the service as the key instead of the ServiceReference (https://github.com/apache/sling/blob/trunk/bundles/extensions/adapter/src/main/java/org/apache/sling/adapter/internal/AdapterWebConsolePlugin.java#L110).
+ That is a problem for all adapters being registered through Sling Models because that is reusing the same service instance for registering all adapterFactories (https://github.com/apache/sling/blob/trunk/bundles/extensions/models/impl/src/main/java/org/apache/sling/models/impl/ModelPackageBundleListener.java#L100).
+
+ Please change that map so that the reference acts as key instead of the service itself.
+Otherwise each time the addServiceMetadata is called, it will overwrite the previous AdaptableDescription.

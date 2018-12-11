@@ -1,2 +1,0 @@
-providers/bundles/org.eclipse.ecf.provider.jmdns/src/org/eclipse/ecf/internal/provider/jmdns/JMDNSPlugin.java
-providers/bundles/org.eclipse.ecf.provider.discovery/src/org/eclipse/ecf/internal/provider/discovery/Activator.java

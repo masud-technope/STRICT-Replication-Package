@@ -1,1 +1,0 @@
-providers/bundles/org.eclipse.ecf.provider.datashare/src/org/eclipse/ecf/internal/provider/datashare/Activator.java

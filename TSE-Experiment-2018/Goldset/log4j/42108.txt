@@ -1,0 +1,11 @@
+pom.xml
+src/main/java/org/apache/log4j/spi/LoggingEvent.java
+src/java/org/apache/log4j/spi/LocationInfo.java
+tests/src/java/org/apache/log4j/CoreTestSuite.java
+tests/src/java/org/apache/log4j/spi/LocationInfoTest.java
+src/java/org/apache/log4j/spi/LoggingEvent.java
+src/java/org/apache/log4j/AppenderSkeleton.java
+src/java/org/apache/log4j/net/SocketAppender.java
+src/java/org/apache/log4j/spi/LocationInfo.java
+src/java/org/apache/log4j/spi/LoggingEvent.java
+src/java/org/apache/log4j/spi/ThrowableInformation.java

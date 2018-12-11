@@ -1,2 +1,0 @@
-releng/org.eclipse.ecf.releng.maps/ecf.core.map
-releng/org.eclipse.ecf.releng.maps/ecf.core.map
