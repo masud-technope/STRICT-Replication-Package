@@ -145,14 +145,14 @@ TSE : Replication Package
 ============================================================
 Subject Systems:
 ------------------------------------------------------------
-- *ecf* (345)
-- *eclipse.jdt.core* (404)
-- *eclipse.jdt.debug* (229)
-- *eclipse.jdt.ui* (695)
-- *eclipse.pde.ui* (525)
-- *log4j* (60)
-- *sling* (76)
-- *tomcat70* (551)
+- **ecf** (345)
+- **eclipse.jdt.core** (404)
+- **eclipse.jdt.debug** (229)
+- **eclipse.jdt.ui** (695)
+- **eclipse.pde.ui** (525)
+- **log4j** (60)
+- **sling** (76)
+- **tomcat70** (551)
 
 Experimental Data:
 --------------------------------------------------------------
