@@ -141,8 +141,10 @@ java -jar strict-runner.jar -task suggest+execute -repoName ecf -outputFile ./sa
 This command collects the queries from STRICT and their results, and then save them in the given output file.
 
 
+============================================================
 TSE : Replication Package
 ============================================================
+
 Subject Systems:
 ------------------------------------------------------------
 - **ecf** (345)
