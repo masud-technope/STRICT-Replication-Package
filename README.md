@@ -34,7 +34,8 @@ Materials Included
 ----------------------------------------
 **Tool Installation & Run**
 
-- ```strict-runner``` is the functional prototype of STRICT, our proposed query reformulation technique. 
+- ```strict-runner``` is the functional prototype of STRICT, our proposed query reformulation technique.
+**This is a light weight version of the original tool, machine learning not included**.
 We also include ```strict-running-snapshot``` for STRICT.
 - ```change-requests/``` contains the change requests from [**ECF Issue Repository**](https://bugs.eclipse.org/bugs/describecomponents.cgi?product=ECF)
 - ```corpus/``` contains the raw and normalized source code files from [**ECF**](https://github.com/eclipse/ecf). The ```method``` folder contains the method definitions, and ```norm-method``` contains
@@ -43,6 +44,8 @@ the normalized version of the methods. Normalization steps are discussed in the 
 - ```lucene``` contains the Lucene index constructed from the corpus.
 - ```models``` contains the trained models by Stanford NLP group for the POS tagging.
 - ```pp-data``` contains the stop words or programming keywords used by STRICT for natural language pre-processing. 
+- ```samurai-data``` contains auxiliary data for token splitting.
+- ```input-data``` contains auxiliary input data.			
 
 **License & Others**
 
@@ -140,8 +143,8 @@ java -jar strict-runner.jar -task suggest+execute -repoName ecf -outputFile ./sa
 ```
 This command collects the queries from STRICT and their results, and then save them in the given output file.
 
+------------------------------------------------------------------------------------------------
 
-============================================================
 TSE : Replication Package
 ============================================================
 
@@ -156,6 +159,19 @@ Subject Systems:
 - **sling** (76)
 - **tomcat70** (551)
 
+Replication Tool
+------------------------------------------------------------
+- ```strict-replicator.jar``` : Prototype for replicating the results submitted to TSE 
+
+Required parameters for the operations
+-----------------------------------------------
+-  **-task** : expects a task to be performed. Two values - ```evaluate``` and ```evaluateQE```. 
+-  **-algorithm** : expects an algorithm name from ```TR```,```PR```, ```TPR```, ```TRC```, ```PRC```, ```TPRC```, ```Best-RF``` and ```Best-NS```. 
+-  **-K** : expects the value for top results.
+-  **-baselineKey** : expects the type of baseline query from a change request. It takes two values ```T```, ```D``` and ```W```. 
+Here, ```T``` stands for the title, ```D``` stands for Description and ```W``` stands for the whole texts from the change request.
+-  **-difficultOnly** : if ```true```, high quality baseline queries are avoided in the evaluation. 
+
 Experimental Data:
 --------------------------------------------------------------
 - ```TSE-Experiment-2018/Baseline/query``` : Baseline queries extracted from the 2,885 change requests.  
@@ -165,16 +181,41 @@ Experimental Data:
 - ```TSE-Experiment-2018/Corpus/*.ckeys``` : Corpus document-index key mapping.
 - ```TSE-Experiment-2018/Goldset``` : Ground truth for 2,885 change requests.
 - ```TSE-Experiment-2018/Lucene``` : Lucene index for concept location. Please decompress before using.
-- ```TSE-Experiment-2018/Proposed/query``` : Queries suggested by the proposed technique.
-- ```TSE-Experiment-2018/Proposed/rank``` : Query Effectiveness (QE) of the suggested queries.
-- ```TSE-Experiment-2018/Proposed/resampling ``` : Re-sampled versions of Query Difficulty measures.
-- ```TSE-Experiment-2018/Proposed/qdiff-model``` : Query Difficulty model for the proposed approach.
-- ```TSE-Experiment-2018/Proposed/nosampling``` : Query Quality prediction results without resampling.
+- ```TSE-Experiment-2018/Proposed-STRICT/query``` : Queries suggested by the proposed technique.
+- ```TSE-Experiment-2018/Proposed-STRICT/rank``` : Query Effectiveness (QE) of the suggested queries.
+- ```TSE-Experiment-2018/Proposed-STRICT/resampling ``` : Re-sampled versions of Query Difficulty measures.
+- ```TSE-Experiment-2018/Proposed-STRICT/qdiff-model``` : Query Difficulty model for the proposed approach.
+- ```TSE-Experiment-2018/Proposed-STRICT/nosampling``` : Query Quality prediction results without resampling.
 - ```TSE-Experiment-2018/SelectedBug``` : IDs of the change requests under study.
 - ```TSE-Experiment-2018/tokens*``` : Tokens generated from project source and change requests for Splitting algorithm, Samurai.
 - ```TSE-Experiment-2018/Traditional/query``` : Queries suggested by three traditional techniques-- TF, IDF, TF-IDF.
 - ```TSE-Experiment-2018/Traditional/rank``` : Query Effectiveness (QE) of the traditional queries.
-- ```TSE-Experiment-2018/Weight-training``` : Auxiliary data for weight training for the proposed algorithm using Genetic Algorithm.   
+- ```TSE-Experiment-2018/Weight-training``` : Auxiliary data for weight training for the proposed algorithm using Genetic Algorithm. 
+
+Getting Started with Replication
+------------------------------------------------------------
+
+Q.6: How to reproduce/replicate the queries and results submitted to TSE?
+--------------------------------------------------------------------------
+```
+java -jar strict-replicator.jar -task replicateTSE
+```
+This task might take 1-2 hours due to significant amount of calculations for 2,885 queries.
+
+Q.7: How to replicate the Hit@K, MAP and MRR?
+--------------------------------------------------------------------------
+```
+java -jar strict-replicator.jar -task evaluate -K 10 -algorithm Best-RF
+```
+The above command reports the STRICT's performance for Top-10 results.
+
+Q.8: How to replicate the Query Improvement, Worsening and Preserving ratios?
+--------------------------------------------------------------------------
+```
+java -jar strict-replicator.jar -task evaluateQE -algorithm Best-RF -baselineKey C -difficultOnly false
+```
+The above command reports the STRICT's query rank improvement against the ```code-only``` baseline queries from 2885 
+change requests.
 
 
 Please cite our work as

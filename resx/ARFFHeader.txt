@@ -1,0 +1,27 @@
+@relation qdmodel
+
+@attribute bugid string
+@attribute avgIDF numeric
+@attribute maxIDF numeric
+@attribute stdIDF numeric
+@attribute avgICTF numeric
+@attribute maxICTF numeric
+@attribute stdICTF numeric
+@attribute avgEntropy numeric
+@attribute maxEntropy numeric
+@attribute medianEntropy numeric
+@attribute stdEntropy numeric
+@attribute QS numeric
+@attribute SCS numeric
+
+@attribute sumSCQ numeric
+@attribute avgSCQ numeric
+@attribute maxSCQ numeric
+@attribute avgVAR numeric
+@attribute sumVAR numeric
+@attribute maxVAR numeric
+@attribute avgPMI numeric
+@attribute maxPMI numeric
+@attribute classlabel {'2','1','0'}
+
+@data

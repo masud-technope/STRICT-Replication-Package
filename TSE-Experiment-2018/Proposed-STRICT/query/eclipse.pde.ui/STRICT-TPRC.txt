@@ -1,0 +1,525 @@
+149506	extension folding Extensions plug source editor Bug Code folding nudge
+267264	target location ations installations locations bundles group Add features alogn Profile adding required point Bug target Add group location EditProfileContainerWizard Edit Profile Container Wizard Edit Profile Container Wizard Edit Profile Container Wizard
+229382	java eclipse create Dialog List dialogs invoke Workbench Event Method AbstractElementListSelectionDialog Element List Selection Dialog Attribute widgets browse Eclipse Display set reflect Main activity Row start Widget Selection Elements internal Impl Handle adaptor IdAttributeRow Attribute Row Application PlatformUI Platform access Element App createAndRunWorkbench create Workbench NativeMethodAccessorImpl Method Accessor Impl equinox swt Text Selected handle Launcher ElementListSelectionDialog Element List Selection Dialog rows NPE identifier browse button
+182277	eclipse supplied system osgi packages distinguished framework rs javax parsers parse Plug Bug Plug Dependencies View System packages distinguished framework packages
+232463	Restore Platform remains pref reset Defaults box Target Bug Target Platform pref fully reset Restore Defaults
+203795	java Viewer Tree eclipse win widgets site Method Control Proc Event viewers description Workbench create invoke Dispatch reflect Display features Item xml AbstractTreeViewer Tree Viewer Main Eclipse handle swt update baz feature start version Notify org Safe Version internal category qualifier Call Expand def core W jface Handle adaptor windowProc window Proc runtime TreeViewer Tree Viewer Provider Window wm PlatformUI Platform equinox StructuredViewer Structured Viewer createAndRunWorkbench create Workbench string Label RELEASE Wrapped Application App WrappedViewerLabelProvider Wrapped Viewer Label Provider cat lang bla Widget encoding exception opening editing site xml features invalid qualifier strings
+119824	MANIFEST ange META result org comparison INF Bug Strange Str ange structure comparison MANIFEST
+173072	feature create xml tab version versions opened plugins don Bug Wrong plugin editor opened clicking plugin
+394260	commit Unix dev project Manifest xml Windows feature issue issues Feature decided including mhonarc Delimiters includes reset msg res works ings resp Bug Feature Manifest editors don respect res pect delimiters
+138260	META build INF PDE plugin properties bundle included includes update plugins OSGi OSG ENTRY requires include Bug Enforce META INF included build properties
+177177	bundle extension points eclipse add app save equinox OSGi org required point Bug Extension points dependencies
+383001	math bidi Processor localization file typeDescription type Description type mathProcessorName math Processor error Text appended declares Bug Typo Key mathProcessorName math Processor math Processor localization properties file math Processor
+175134	Add plugins view search Search option selected Plug won jars Java precision projects based Bug Add Java Search easier find
+173085	working set Set instance Element Plug Bug Plug working set IWorkingSetElementAdapter IWorking Set Element Adapter Working Set Element Adapter API IWorking Set Element Adapter
+175138	eclipse java Eclipse invoke Workbench widgets Method launcher Display Main Widget reflect swt start error Tree SWT editor adaptor win equinox Impl Handle Application PlatformUI Platform runAsyncMessages Async Messages showlocation App createAndRunWorkbench create Workbench Framework jar NativeMethodAccessorImpl Method Accessor Impl Launcher RunnableLock Runnable Lock arguments EclipseAppLauncher Eclipse App Launcher Widget disposed error
+119843	file plug called javaCompiler java Compiler java Export generated project Bug Exporting plug leaves file javaCompiler java Compiler java Compiler args java Compiler
+147494	bundles order buttons mated list Automated manifest Dependencies Bug Automated Auto mated Management Dependencies Provide buttons
+179238	filtered tree button border list eats itioned Bug Extension list filtered tree clear button bad positioned pos itioned
+206887	target IES plugins workspace def takes required number appeared transferred Building ect Bug Building workspace IES target large number plugins takes longer
+153640	OSG OSGi SimpleLogService Simple Log Service Log Bug Template OSGi OSG Services Usage SimpleLogService Simple Log Service Simple Log Service Simple Log Service
+153641	OSG OSGi Template Bug Template OSGi OSG Services Usage Preferences
+230447	classpath PDE warning check project nature Bug Invalid warning bundle classpath
+151599	attributes proposal headers popup Ant format Bug Info Presentation manifest attributes headers
+226349	eclipse install jar javax bundle Bundle file ibm servlet version plugins update Eclipse icu ENTRY SDK win jsp jsch Bug Eclipse logs seemingly ingly useless install bundle error bundle
+35888	plugin builder extension couple Attribute Java Adding copyright change Builder copy Bug Bug Adding extensions plugin manifest editor
+123953	Eclipse bound Log log file opening Error Log view Open Log Eclipse file association
+190515	Add Bug Add Java Search progress dialog
+172080	header error Externalize project file Click generated String created Quick Builder externalized source Plug Bundle Create Bug Quick broken Externalize manifest header
+280630	API attachment Bug API Baseline dialog resize vertically
+56371	activated ins viewer plug swt notice ice identified noticed source registry Bug Registry View activated plugins
+179259	fragment plug Add host editor Visibility registered workspace Create PDE Bug PDE editor fragments Runtim tim Visibility Add
+151609	eclipse ations dep deprecations org Bug Remove deprecations dep rec ations plugin xml
+177212	View Dependency Manifest update focused model ocusing removed NPE Editor Bug Dependency View update models removed
+251970	result version OSGi generates header Services required imported string generated osgi error Bug tooling OSGi OSG Declarative Decl arative Services template generates invalid MANIFEST
+269381	HyperlinkEvent Hyperlink Event link Entered Selection Exited Adapter type DS File Bug tooling Compiler warnings
+229441	shouldn flag point plug Bug invalid flagging flag ging internal extension points
+129093	Feature wizard feature Plug project field hronizing behave synchronizing Properties aggressive Bug Feature Wizard aggressive overwriting writing fields
+198724	jar source ClassPath Path adding Bundle include bin Path project Bug Raise warning bundle classpath source folders
+220235	properties project Compiler Plug enable saved CVS eclipse dialog Bug Project specific Plug Manifest Compiler properties broken
+166984	SWT launch configs Application Bug Eclipse Application launch config fails SWT fragment workspace
+331855	Add Bug Bug Add Scan builder tests nightly build
+292938	extension point schema plugin Open link editor xml Extension warning checked enclosed message Windows presented tab Bug Open extension point schema link fails plugin xml editor
+233562	search PluginSearchOperation Plugin Search Operation Search pde Bug copies PluginSearchOperation Plugin Search Operation Plugin Search Operation Plugin Search Operation
+114779	platform plug arm matches target Architecture exporting itecture dropdown type doesnt win drop doesn arch typed ironmnet environment Bug PDE doesnt doesn plug exporting target platform environment matches plug platform filter
+174168	version exported dialog opened Bug Wrong dialog enter version number exported
+321624	named Pgm Create launch product consoleLog console Log Log application target pressing prod project Xmx configuration Bug Pgm Arguments duplicated launching product editor
+308313	build validate Build java org core occurred Reporter Manifest eclipse Manager builder Checker MESSAGE ENTRY Builder Plug ManifestConsistencyChecker Manifest Consistency Checker ErrorReporter Error Reporter builders List BuildManager Build Manager Error ers resources Consistency BuildErrorReporter Build Error Reporter events Bug Plug Manifest Builder fails errors exceptions build workspace
+140381	project warning source folder build PDE root java Bug Convert produces warnings build properties existing
+189533	count Group list Target plugins putting Preferences Target putting ting count Group check box
+210018	save image spy images isn Loader Image approach lose Bug spy improve saving image functionality
+240737	product start set levels transforms Transforms suf hook eclipse Bug product set start levels product
+474220	launching org Bug Update org eclipse pde launching Java
+218223	add type element view log Plug Search PDE OOME Person seconds enabledWhen enabled platform pegs eclipse xml SHIFT button Bug PDE editor browse type OOME
+183405	missing Dependencies opens Editor Title ins Plug Bug Manifest Editors Required Plug ins title missing Dependencies
+277611	target installed Platform bundles ations plugins brings Updatesite install Bug target Target Platform brings plugins previous installations install ations
+154739	qualified editor tab Bug PDE editor tab tooltip fully qualified opened plugin deps view
+322672	API build PDE Bug PDE API create build model
+136314	java eclipse invoke Event Management Method Workbench Selected widgets Display reflect handle button Main Eclipse Table runtime editor Impl buttonSelected button Selected adaptor Application PlatformUI Platform createAndRunWorkbench create Workbench DependencyManagementSection Dependency Management Dependency Widget NativeMethodAccessorImpl Method Accessor Impl Launcher lang internal sendEvent send Event EclipseAppLauncher Eclipse App Launcher press NPE org eclipse pde internal editor plugin DependencyManagementSection Dependency Management Dependency Management Dependency Management
+183417	extensions swapping ping set braces fragment characters labels defined action ordered created Bug Bidi Elements labels extensions fragment manifest characters order incorrect
+435321	Supplier MySupplier Supplier leading method range constructor screen Constructor required marking Bug range marking constructor method reference
+304258	target test format data Bug target Improve target persistence tests file format
+178309	based required created add application needed product brings javax RCP loaded Curtis delta happen configuration Bug add required bundles product editor brings javax servlet
+263299	target args ini contribute eclipse check file feature profile append platform set preference installation replace container tab current bundle Arguments launch user add retrieve ion provide install definition features created choose Bug target definition Support appending app ini args launch
+246926	version plug selection PDE product created versions Bug product files version selection dependencies
+214156	Quick Quickfix Activator Bug Quickfix Quick remove Bundle Activator lazy start
+179345	Cancel wizard wait dialog note operation screen click source shot cross attached Bug plugin dialog unable cancel operation
+195729	plug CVS importing Provide Bug Provide plug ins CVS plug ins tab
+101524	move Move plugin extensions refactoring classes existed extension possibilities participant isteres Support reg point moving Bug Support extension refactoring extension point ids
+209046	button press tab template templates add doesn result editor ress left context Bug context ids templates
+130199	workspace Require Imported navigate Packages manifest Open bundle click Bug navigation ManifestEditor Manifest Editor Manifest Editor Manifest Editor
+155796	deprecation warnings fixes caused Bug Patch jface text deprecation
+312466	Model initialized model call root WorkspacePluginModelManager Workspace Plugin Model Manager remove leaves create removeModel remove Model Models hooked bundle Bug early call modify bundle root leaves WorkspacePluginModelManager Workspace Plugin Model Manager Workspace Plugin Model Manager initialized Workspace Plugin Model Manager
+90264	Eclipse Catalog leads dot dollar Proxy ClassNotFoundException Exception xml catalog usage core CatalogProxyConverter Catalog Proxy Converter Bug nested classes extensions leads ClassNotFoundException Exception Exception Exception
+224409	mark extension developers flags dev points packages Bug ability mark extension points internal
+174232	eclipse plist macosx org Info carbon file moved jar equinox plugins ini vmargs Bug macosx Info plist
+201880	plugin Registry Runtime Bundle versions displayed Eclipse packaged Plugin view identifes plugins Content Browser Plug ifes Object BundleSymbolicName Bundle Symbolic bundle installation version Bug Plugin Registry view incorrect versions
+94366	feature Create configuration template called product mail Move editor Bug Feature appears feature selection dialog
+297115	error build folder messages files source message required don bin output beaninfo bean trailing recognize Bug error messages don recognize directories
+324773	feature xml tab Recompute Dependencies check box editor plug set Bug patch feature xml editor Recompute check box dependencies tab stay set
+147619	bundle Set header validated file Bundle Localization detected Bug Bundle Localization header validated
+209056	eclipse ini configuration config PDE stemmed provisioned generating generated generate find launch Bug config ini generated eclipse launch configuration work target
+134311	project Finish wizard Wizard error validated Project complain invalid folder character Bug validation Java project source output folders Plug Project Wizard
+312495	apply project BundleProjectDescription Bundle Project Description eclipse workspace product deferring problem created Description Project adopting data ring issue compared creating reproduce core roximately sibility takes Bug BundleProjectDescription Bundle Project Description Bundle Project Description apply slow call clean workspace Bundle Project Description
+116919	plugin dependency deleted tab plugins xml loses Plug code add references addition Bug Plug Manifest Editor loses dependency addition add ition
+165045	warning src file source zip includes build export actions created properties Bug plugin source leaves warning missing src zip
+176315	servlet view bundle javax target org eclipse plugin dependencies child services bugging osgi depend dir delete causing ging http spi reload service disk atin Bug whackiness dependencies view
+197817	Search Add caught Plug source view Java enter workspace Open problem Bug Plug removed Java Search imported source
+264383	reset definition contents type resets edited initialize res Bug target target definition wizard resets res ets contents
+224447	file change based vice question updated error Bug change internal manifest file picked
+168126	source project exported folders plug importing references buildpath Bug Warnings project importing source folders project exported source
+484548	feature create label eclipse Requires Feature editor init Eclipse createClient create Client Dependencies createFormContent create Form Content required RequiresSection Requires Viewer FeatureDependenciesPage Feature Dependencies definitions clicking internal Bug Feature manifest file label NPE clicking Dependencies tab
+180417	launch feature configs Eclipse cool OSG create dev OSGi including designated add Bug Initialize feature launch configurations
+436418	View ins num Plug Window Bug Regression Plug ins view Find References
+180420	wizard Plug plug OSGi OSG developers dev needed friend change Platform persisted Bug Plug wizard defaults biased plug development
+237764	create eclipse Dialog Spy java NPE SpyDialog Spy Dialog logged spy res exception Plug loop ActivePartSection Active Alt ENTRY spy NPE active
+179401	buttons create Variables created combo Installed Alt Shells Bug Shells created launcher buttons wrong parents
+148687	filter extension Extension enhancement perspective add point points Bug Extension Point enhancement
+221390	user reveal forced Hide bundles Bug Hide selection user
+407755	manifest create plug OSGi release bundle wording remove adding ning OSG plugin Bug forceful ceful wording adding OSGi OSG bundle manifest manifest editor
+264394	preferences ations usage dep Bug Adopt proper preferences story
+113870	extension fragment point test roperly defined xml generator Bug PDE editor improperly imp roperly process extension points defined fragments
+210131	plug ins extension disabled problems references include handle enhancement Bug Extension Registry enhancement include disabled plug ins
+186578	menu Explorer view Navigator Plug takes pattern menus add consistency Pack Bug Plug ins view menu submenus menus
+182483	Plug view changing Dependencies mode updates objects sorting setting Bug Plug Dependencies View sorting lost changing presentation mode
+284885	launching launch plug include features based customize Bug launching manage launch configurations features feature based launching
+270549	Services label shot document screen rendered editor component tab Bug tooling Services label rendered
+274646	API reporting Progress Bug Progress reporting API comparison hits
+229584	fixing introduced Compute feature Bug Compute dependencies feature broken
+139482	eclipse org plugins MESSAGE pack resolved product ystem log SUBENTRY osgi Plug win delta core plug arch Add file Launch jar filesystem RCP RISC linux ldauthor list ins dev hpux workspace tencompetence launch Fragment exists Platform version arguments metadata files Configuration Missing update error Bug Launch Configuration adds unneccesary plugins
+203993	HTML Content platform eclipse html File extension plugins doc errors Bug Schema HTML generator CHKPII errors
+199896	ins workspace plug required Plug wasting Open express moved existing fragments Bug Wizard layout express exp ress wasteful teful
+233699	version types type range comp versions OSGi Version OSG serialized impl parsing serializing IVersion IVersionType IVersion Type comparisons Eclipse parsed API izing comparing Equality semantics result covers Bug Add support version types OSGi OSG
+177379	java eclipse Operation Event add invoke Eclipse Project Action Workbench Method jface handle plugin Dialog internal org Finish widgets Display Widget reflect Adding Main Wizard jar start project Pressed NewLibraryPluginCreationOperation Library Plugin Creation Operation library Item Files Library Creation Dependencies Add Plugin jakarta Finder dependencies action Impl Handle adaptor Application Observe Orbit init Workspace oro PlatformUI Platform ModalContext Modal Context execute NPE wizards Context equinox createAndRunWorkbench create Workbench WizardDialog Wizard Dialog ActionContributionItem Action Contribution Item NPE creating project jar org apache oro
+158945	bundle space required MANIFEST version handle add ystem files Bug PDE handle space required bundle version
+310496	NLS bind string feature Required missing Target org java Bug NLS string
+201966	Open enabled eclipse schema Click extension toc point file Choice Reproduce Bug Schema Editors Buttons enabled editor editable
+209138	Add presented host fragment Automated Bug host plugin presented Automated Auto mated Management Dependencies Add dialog fragment
+227570	API Builder Extending org Internal type eclipse resources Bug Extending Ext API API problem
+274678	file error checking dialog hit displays dialogs content feature Bug category file selection dialog displays error dialogs searching
+217333	Location Data Tab property block Bug MainTab Main Tab Main Tab Location hyperlinked Main Tab
+217332	include don set reference configurator Bug reference URL dealing simple configurator
+323827	colour log turn widget error filter view ice Bug Wrong colour parent composite error log view
+229626	severity tag remains error Bug changing unsupported API tag severity update problems
+50425	list extension view Plug extensions Extension identifying d type Bug Plug Registry view provide Extension Points subtree
+229624	Text izing read Res Bug Text wrapped cutted cut ted plugins wizard
+274687	target delta synch pack Bug target Reloading target platform delta pack synch
+185597	school Plug platform Eclipse won build OSGi contribute create Bug Errors creating school plug ins
+209155	java eclipse core refactoring execute org Event Delete Registry commands PDERegistryStrategy PDERegistry Strategy Strategy widgets Wizard Eclipse Manager plug Dispatch Workbench create Method Handler occurred Extension Action internal Display Changed jdt Finish workspace Dialog invoke Workspace required actions Refactoring Java equinox delete Model Control built Launcher Main Widget PDE Tree Listener project resource Change ins Pressed Operation jface text reflect MESSAGE Command Perform log add errors createRegistry create Registry Key WorkspacePluginModelManager Workspace Plugin Model Manager start runtime Delta Resources ltk swt send WorkbenchKeyboard Workbench Keyboard ENTRY Context resolved launch SelectionDispatchAction Selection Dispatch Action projects windowProc window Proc compile Proc access path LTKLauncher Impl Handle Keyboard ide PlatformUI Platform Project invoking adaptor NotificationManager Notification Manager Problems UIPerformChangeOperation UIPerform Change Operation NPE PDERegistryStrategy PDERegistry Strategy PDE Registry Strategy deleting plug ins PDERegistry Strategy
+232706	pattern init field bug created internal Organize Bug Organize Manifest Mark internal internal pattern
+139526	org eclipse dependency required description runtime plugin Bug Extra Dependency
+213255	schemas implemented app Schemas schema eclipse point bring element n specs create Eclipse extension appinfo info weren maintaining validators prop Bug Extension point schemas valid Schemas
+272641	suffix header MANIFEST Bundle leave substitution ernalization OSGI Bug Externalize Strings MANIFEST suffix header
+210181	packages Add Bug Add decoration optional packages
+481537	copyright eclipse Bug copyright copy tool org eclipse pde tests
+196874	delete object behaviour tree selected cut Selection objects Extensions Open viewer level hierarchy ress invoking Reproduce Bug Manifest Editors Selection behaviour wrong delete Extension tree viewer
+272654	field text created focus element creating Bug Manifest Editors Select text creating attribute element
+216329	type api refactoring qualified filters participants required cached persist Bug api tooling Refactoring participants required filters
+231688	error registry eclipse filter runtime Bug filter error MANIFEST
+101644	editor Browse plugin Overview Bug Browse plugin editor init actual
+201998	generate files host plug fragment file set PDE locale properties ized project content plugin created Java Repeat fragments izes reviewed externalized copying version updated Bug Provide wizard generates fragments
+177420	bundle version Configuration Launch ates versions losing EquinoxLaunchConfiguration Equinox Launch Configuration jar depending obtaining iterates generate Bundles generating generated chosen LaunchConfigurationHelper Launch Configuration Helper bundles IPluginModelBase IPlugin Model Base Bug EquinoxLaunchConfiguration Equinox Launch Configuration Equinox Launch Configuration bundle version launching Equinox Launch Configuration
+404744	intended clients ssed appears Open scanner tag tags visibility Bug Flag tags invalid parent type
+481559	Remove pde Bug Remove redundant Javadoc statements org eclipse pde tests
+181523	org eclipse Dependencies Plug ees Util osgi services PluginComparator Plugin Comparator View Bug Plug Dependencies View Sorting correct
+197906	plugin xml color compare HEAD change viewer syntax react listener Development checked Bug plugin xml compare viewer react color
+490770	eclipse change org git ze API report freeze StructuredSelection Structured Selection Selection commit type platform drops reported Object Bug Freeze Free report mention compatible
+146711	structure PDE allowed folder file tool Localization enter Bug PDE Externalize Strings tool folders Localization field
+181524	Fragment bauman version Manifest proposal Bug Manifest Content Assist proposals Fragment Host
+213268	dialog Open extension enter qualified filter match Plug points extensions preceded Navigate binding keybinding Extensions plug Bug open plug artifact filter stringent str ingent
+461083	target Software definition file Site Eclipse selected Edit opening panel dialog editor resolving categories Target displays workspace Bug target Target definition editor prematurely editing Software Site
+354586	API hy problem navigator fis Warnings Errors determining descriptions Missing check Bug API Errors Warnings severity fishy fis
+134434	exported bundles bundle tooling packages asked imported Export allowing box dialog check error adding SMF Selection eloper header checked dictates decide defined impacts prerequisite left developer dev handing required checkbox dependent PDE extension Bug Selection Dialog packages exported
+274724	size Click dialog Development Change increase honour font commit tooling Bug tooling component wizard honour dialog font
+183587	eclipse Add api project Plug required Java External Libraries view org Bug External Plug Libraries misses closed project Java Search
+125221	dialog tab context Properties Browse Target Schema Point Plug parent Fragment export Details PDE click Dependencies Content Extension Patch nt link Profile Ext Bug doc missing context
+208164	search extension highlighted Regression Bug Regression Extension search longer highlighted plugin editor
+266548	target list workspace moved files Move targets Apply don button wizard error Bug target Move target button targets moved top
+198961	plug dependency ant feature version dependencies ins satisfies org Add Feature removed button eclipse compute Bug Feature dependency calculations cal culations include
+198965	feature version icon rule outline Editor red appears Feature meets tracking Bug Feature Editor find feature dependencies correctly
+149816	coloring jdt eclipse org xml remove plugin source Editor edit java block text Bug Manifest Editor plugin xml source editor syntax coloring confused
+131391	bulb source Provide Fixes Lightbulb Bug Provide Lightbulb Light bulb Quick Fixes build properties source
+190780	java eclipse invoke Workbench Method Eclipse Display Main reflect widgets start ManagedForm Managed Form SWT swt editor adaptor Handle Impl Application PlatformUI Platform runAsyncMessages Async Messages lang internal App equinox NativeMethodAccessorImpl Method Accessor Impl Form createAndRunWorkbench create Workbench CategorySection Category Launcher Managed Category RunnableLock Runnable Lock launcher EclipseAppLauncher Eclipse App Launcher Site Editors NPE DND
+307524	xml plugin Editor org source wst eclipse reflected specifies creating Manifest snippet view XML works tab ends Bug org eclipse wst xml Plug Manifest Editor unreliable
+232771	Save launching save called OSGi dialog projects including preLaunchSave pre Launch Save adapt Status Bug Unexpected confirmation dialog launching
+97605	Dialog cut imize max estate control Bug Dialog cut High Contrast
+184646	ins Add ers Plug Launchers Required acts bundles functionality launch Bug Launchers Launch ers Add Required Plug ins acts weird
+184647	OSGi Feature OSG ializing initializing feature existing ions Wizards Bug Feature Wizards Initialize OSGi OSG config
+184644	Included editor org appears eclipse Bug Feature Editor Sorting incorrect
+308547	add classpath root Manifest bundle WEB editor INF based Bug classpath entries Manifest editor check bundle root
+151884	java widgets Menu eclipse Method Event invoke Workbench Display Control menu handle reflect Proc Main windowProc window Proc Eclipse editor MenuManager Menu Manager swt Manager runtime Impl adaptor Application PlatformUI Platform createAndRunWorkbench create Workbench NativeMethodAccessorImpl Method Accessor Impl Widget PDESourcePage PDESource Launcher action lang EclipseAppLauncher Eclipse App Launcher sendEvent send Event DelegatingMethodAccessorImpl Delegating Method Accessor Impl Table NPE opening context menu site xml editor source
+186701	plug swt Hellow errors win compiler linux w fragment Bug Target Environment Amnesia
+151885	eclipse java Development CCE PreferenceDialog Preference Dialog Project Plugin Properties Dialog perform performOk perform Pressed Safe jface core preference Property Util CCEs CCE PDE Properties plugin projects
+173393	generated PDE plugin Export problem Template extended template Platform Eclipse box missing content file Bug Missing Entries Manifest generated Template Wizard
+226640	pde tags HEAD Launch org comparing Bug Missing tags
+242000	noreference Bug noreference tag fields
+256343	noimplement API interfaces noextend update don client tags IPlugin Bug update API tooling tags avoid errors
+263505	removed Annotations RemovedProfile Removed Profile Bug removed profile longer
+238934	reset PluginModelManager Plugin Model Manager java ClasspathUtilCore Classpath Util Core eclipse Manager Fragment core Pointer add isPatchFragment Patch Fragment Util Changed Classpath workspace Core projects Bug NPE resetting reset ting target platform
+178517	eclipse add editor bundle org loading wiki isv sibility possibility press buddy Activation Code Lazy Manifest LazyStart Lazy Start Bundle topic osgi Bug Manifest Editor Code completion Manifest editor Equinox specific extensions
+201044	version Plug fragment host wizard doesn maximum Bug pde fragment wizard doesn transfer host maximum version wizard manifest
+159066	PDE ighted users needed request supply add ition helper underlying addition OSGi diag team Bug feedback
+128345	target file platform modifies preference editor Bug Reload target platform target editor
+163161	plugin action PDE Extension xml Add extension file creates Bug PDE Extension Wizard creates bad plugin xml file
+290138	java Changed eclipse Text Event editor handle update Viewer Document Adapter fire invoke Workbench selectionChanged selection Changed text StyledText Styled Text SimpleCSItemDetails Simple CSItem Details Method reflect Eclipse Set Display Main swt Selection jface DefaultDocumentAdapter Document Adapter set start DetailsPart Details widgets Tree ms AbstractDocument Document Details internal Strategy custom Handle runtime adaptor OpenStrategy Open Strategy Application saved StructuredViewer Structured Viewer ManagedForm Managed Form PlatformUI Platform lang equinox createAndRunWorkbench create Workbench left App select losing viewers Widget work fireSelectionChanged fire Selection Changed select nodes cheat sheet editor
+261474	Diff don Quick properties ruler rs rule diff menu build Bug Manifest Editors Quick Diff Numbers don work build properties editor
+488805	performs model build modification bugs won descriptor participant loading Compilation Bug DSAnnotationCompilationParticipant DSAnnotation Compilation Participant Annotation Compilation Participant performs unnecessary model modification DSAnnotation Compilation Participant
+157030	java eclipse Event invoke Method widgets Workbench Control Display reflect send Main Eclipse runtime Exit Impl adaptor lang Application PlatformUI Platform createAndRunWorkbench create Workbench editor NativeMethodAccessorImpl Method Accessor Impl handle sendEvent send Event Widget Launcher order DelegatingMethodAccessorImpl Delegating Method Accessor Impl EclipseAppLauncher Eclipse App Launcher clicked Table Dispatch Pointer read swt file org hit App Unresponsive caused torrent NPEs NPE
+321891	bundle missing require add issue PDE test caused option quick fixes rived testers chose works practise dependency Bug Missing quick
+117094	Plug pde eclipse word key plugin ContentPage Content order appending Project plug TVT inserting pderesources Content def create org plugins change erting Bug TVT TCT plug key change word order required
+221547	bound removed installs change Bug Profiles bind installs change
+394606	doc Add Bug Add doc Plug Image Browser view
+367980	versions Version qualified release ranges Range ting bundle VersionRange Version Range pre supports working translated understand Bug Support pre release versions
+130411	files copyright add copy statement created Java Bug Copyright Copy statements missing java files
+113004	working Plug set project element ice Bug Plug dependencies element disappears working set
+130414	Open manifest item misleading menu Bug Open misleading
+269685	plug folders org imported Bug Importing plug ins source files
+372087	splash product exported screen works find Eclipse bmp set rcp started splashscreen location Bug Splash exported product
+203126	Working working Set project block location Configuration set implementors Platform Bug WorkingSets Working Sets Working Sets location WorkingSetConfigurationBlock Working Set Configuration Block Working Set Configuration Block changed implementors impl ementors Working Sets Working Set Configuration Block
+156021	java eclipse Event widgets Hyperlink invoke handle AbstractHyperlink Hyperlink Workbench Method Display reflect String editor Main clicking Eclipse plugin lang runtime Activated Row Reference adaptor Application PlatformUI Platform Attribute createAndRunWorkbench create Workbench Widget Activate Launcher NativeMethodAccessorImpl Method Accessor Impl Impl sendEvent send Event ReferenceAttributeRow Reference Attribute Row Exception clicking translatable attribute
+130424	registry eresting view HOST coalesced Registry Bug Registry view fragments
+227706	filter Task filters tasks leaking resource UTF version Node workspaces signatures api encoding eclipse editors path Listener Bug filter Method API parameter breaks rebuild
+219513	xml plug extension contribute Bug validation delete empty useless plugin xml
+174457	finish wizard plug press button enabled template templates asked contributed project Template Selection wizards Select incomplete main time displayed ice Project illustrate Bug finish button correct plug project wizard time Template Selection visible
+280955	Activator avoid BundleActivator Bundle Activator org Plugin changing age adding OSGi implement runtime OSG bundle pulls opens convert Bug Don Activator extend Plugin
+176509	java eclipse widgets invoke Event Text Workbench Display handle Method FormText Form Text click link view Eclipse Plug Main reflect Compiled start runtime adaptor Impl Handle core Activated Widget Application equinox internal createAndRunWorkbench create Workbench PlatformUI Platform App NativeMethodAccessorImpl Method Accessor Impl Development sendEvent send Event Launcher Click Assertion Table handleMouseClick handle Mouse Click AssertionFailedException Assertion Failed Exception Assertion Failed Exception clicking dependencies link Assertion Failed Exception
+81281	add Java Search plugins view search manage target Plugins Add developers dev PDE itions Bug automatically add target plugins Java search
+173447	org texteditor eclipse hyperlink paste description schema target extension ating ITextEditor IText Editor hyperlinkDetectorTargets hyperlink Detector Targets workbench Bug Generated schema description valid HTML
+150916	wizard Plug expands res screen plug izes Bug Plug wizard resizes res izes full screen height
+149900	PDE ton required resp Locks adding Bug PDE Locks adding ton required plugins sweet time
+202124	java eclipse handle Click Event plugin Table Workbench invoke Dependency Viewer Method reflect Eclipse Display Open Main Requires start widgets appeared fire internal OpenStrategy Open Strategy Strategy handleDoubleClick handle Click app RequiresSection Requires jface Handle adaptor StructuredViewer Structured Viewer runtime lang project Application equinox PlatformUI Platform createAndRunWorkbench create Workbench editor doubleclicking dialog App Selected Widget workspace Impl clicked NativeMethodAccessorImpl Method Accessor Impl Add TableSection Table win Launcher clicking Editor Manifest deleted sendEvent send Event Pointer NullPointerException Pointer Exception Pointer Exception Manifest Editor doubleclicking clicking sync Dependency Pointer Exception
+167313	target wizard Add system dialog location File read directory sha invoke files reuse sense plug add description honor sharing file choose open wanted font Bug File System Target Provisioner wizard glitches
+204187	java eclipse Eclipse widgets Text invoke spy Workbench Event Method handle FormText Form Text Monkey Display Form reflect restart Main App start NPE Click core Search internal Impl Activated Handle Web adaptor Toolkit Application PlatformUI Platform equinox createAndRunWorkbench create Workbench NativeMethodAccessorImpl Method Accessor Impl lang Widget View GenericScriptableView Scriptable View Launcher runtime handleMouseClick handle Mouse Click sendEvent send Event spy NPE clicking hyperlink spy
+343455	Launch java launch eclipse Configuration project workspace launching res NPE core disk DebugUIPlugin Debug UIPlugin EclipseApplicationLaunchConfiguration Eclipse Application Launch Configuration Eclipse hosted NPE Launching workspace project deleted disk
+108954	project file jar created MANIFEST classpath creation META INF validation Bug Error project creation manifest file created classpath
+121245	fragment match dialog ion matching Bug fragment dialog exposes notion ion matching rules
+229791	version configurations save Bug save version info launch configurations needed
+157087	Viewer Comparator Sorter ICU plug s java Collator set icu text endorsing APIs migrated ViewerComparator Viewer Comparator ship adopting StructuredViewer Structured Viewer ibm slated Platform ViewerSorter Viewer Sorter Bug adopt ICU Collator APIs API StructuredViewer Structured Viewer Structured Viewer Structured Viewer
+308633	launch based features version feature config ignores Feature define eclipse doesn Bug Feature based launch ignores version numbers
+228765	existing enabled file ini config Bug existing config ini product editor
+183708	view Plug manifest editor Open hing Bug Plug Dependencies View hing opening view manifest editor
+183715	xyz references project update renaming choose Refactoring Bug Refactoring renaming bundle update references dependents
+248231	duplicates editor Services prevented form document add Disallow based Bug tooling Sort disallow duplicates Services list
+241074	hellorcp strings HelloRCP RCP externalized rcp template Window project Advisor Bug templates HelloRCP RCP template externalized strings RCP
+163258	project plugin view Localization Bundle xml displays editor properties root attribute label application View MANIFEST INF based Bug Bundle Localization Manifest Header honored plugin xml editor
+216504	headers provide box Activation check lazy based activation plug header Start platform port changed initialized support Bug Support multiple Lazy Activation headers
+155070	Ant script export feature option generated project generates features Bug Exporting feature saving Ant script generates functional script
+145854	template OSG Bug Create template OSGi OSG service
+227774	update provisioner Target Remove Update Site Target Provisioner
+197056	field attribute navigate types ommend deprecated Bug Schema Editors Move attribute field deprecated field
+171462	editor org eclipse texteditor jface Bug clean templates
+61894	plugin source feature sorted xml improves required synchronizing add comp plugins dependencies read Plug imp content hronizing sync Bug Sort plugin dependencies feature content automatically manifest files
+109003	plugin xml MANIFEST folders project subfolder edits folder root test Bug editing plugin xml located subfolder folder plugin project edits MANIFEST root
+175566	java create eclipse text Image Preference editor init createContents create Contents Tab SyntaxColorTab Syntax Color Tab Assistant images preference Configuration Contents Viewer XMLConfiguration EditorPreferencePage Editor Preference PDEQuickAssistAssistant PDEQuick Assist Assistant Previewer Color Manifest editor preference leaks images
+143823	XML parsers instantiated utilized parse PDE ized parser instance discarded document Notice util documents alidated Bug XML parser instantiated utilized util ized XML instance document parse discarded
+202195	belong PDEBuilderHelper PDEBuilder Helper called method Builder PDE Bug Create PDEBuilderHelper PDEBuilder Helper PDE Builder Helper PDEBuilder Helper
+213457	extension tag element point assist elementB element plugin content B test tags depending owes defined err elementA element tab sibility xml context Bug erroneous err oneous extension validation content assist
+266711	NPE set validation NPEs target enting empty prev Bug target Making target empty NPE
+171473	pass parse Dictionary Manifest functions parseBundleManifest parse Bundle Manifest Bundle Bug Remove references Headers parseManifest parse Manifest parse Manifest parse Manifest
+221655	Plug view ins description content plug Search Add eresting Filter Java View Remove hidden Bug plug ins view useless content description
+197077	editor CVS description file exsd Repositories schema Read Bug Schema Editors Read description writable
+319965	Plug Project Feature check Referenced Fragments plug click ins clicking plugins box highlighting feature multiselection Bug Feature Project Referenced Plug ins Fragments multiselection functionality
+199129	don Bundle s ernalization Manifest header Bug Bundle Localization header Fragments externalized
+149976	dependencies manifest result header link Dependencies Automated editor add rules MANIFEST remains code implement list bunch ensure mated source Auto formatting parts Bug Automated Auto mated Management Dependencies add dependencies link result illegally formatted header
+383448	missing osgiminimum installed minimum execution OSG Bug osgiminimum osgi minimum missing Principal
+199134	java ExtensionsSection Extensions Extensions eclipse Provider Image Label WrappedViewerLabelProvider Wrapped Viewer Label Provider NPE update ExtensionLabelProvider Extension Label Provider Viewer jface access NPE Extensions
+146912	Bundle update bundle AbstractModel Model file missing reports Helper Bug AbstractModel Model Model update NLResourceHelper NLResource Helper Resource Helper bundle localization Model NLResource Helper
+168417	exported ting eclipse plugin export Ant file saved Script ant Bug Generated Ant Script export plugin projects working
+115173	eclipse template org add appserver needed idea creating plugins missing dependencies update project custom erver apache Bug template missing
+226788	project editor cache remove PDE result input find calls PDEModelUtility PDEModel Utility closing Input Bug PDEModelUtility PDEModel Utility PDE Model Utility cache correctly PDEModel Utility
+170474	project Activator compile ancies set wizard java depend plug choose Bug Dependancies Dep ancies initially set project creation wizard
+160233	packages syntax handle attributes group grouped understand list icu bundle fed manifest util revert parsing data eloper runtime PDE dev imported model applied exported editor eclipse plug Bug PDE understand export groupings group ings
+228840	string project Project Plug Thai paste emp type validation successful skip created Bug Invalid Plug error severity warning
+223727	platform file replace editor properties merge formats mechanism Bug Product editor handle platform config ini files
+199149	refactoring PDE Manifest highlighting feel areas Organize ugly Bug Manifest highlighting needed PDE refactoring areas
+164337	exceptions PDE project Bug exceptions PDE refactoring participant
+226800	xml parsed spi docs cheatsheet Bug xml docs parsed correctly
+152054	tooltip description hovering attribute Bug tooltip description
+342512	Plug Sample garbage Editor Action mnemonics Menu add xml adds Manifest changed formats bugXXXXX bug XXXXX Linux Enter project labels Bug Plug Manifest Editor adds garbage mnemonics saving
+241145	code refactoring ubator PDE assistance org Bug refactoring move code separate plug ins
+206335	org point checking plugins builder extension generated generate eclipse Bug convertSchemaToHtml convert Schema Html convert Schema Html task problems plugins convert Schema Html
+264696	target platform backing definition preference files current metadata set create based handle exception Bug target current target backing target definition file deleted
+335353	Font size add Plug Preferences Target Appearance Platform Bug Font size inconsistent add target definition
+230911	java eclipse plugin source Event handle core Selected Viewer Selection File invoke Workbench Method exsd ibm path extension fails Util schema find Point editor internal Display reflect Main Eclipse files widgets target access description ant start Changed org PointSelectionPage Point Selection jface Extension Strategy pde SchemaUtil Schema Util directory StructuredViewer Structured Viewer ExtensionsSection Extensions Impl Handle adaptor program platform PlatformUI Platform Stream runtime createAndRunWorkbench create Workbench Windows equinox handleEvent handle Event returns fire OpenStrategy Open Strategy rcp Application Extensions App util NativeMethodAccessorImpl Method Accessor Impl Input Widget JIT viewers Launcher Platform swt plugins spaces EclipseAppLauncher Eclipse App Launcher Source exp Loop update sendEvent send Event Lookup Extension Point descriptions fail source plugin directory spaces
+199169	document change compare click merge xml plugin zoo root HEAD view structure viewer element Bug plugin xml structure merge viewer document root
+280070	java eclipse Event create Menu invoke Workbench Method Display Spy Eclipse reflect Main widgets start ActiveMenuSection Active Menu Dialog spy internal runtime Navigate Impl Handle adaptor PlatformUI Platform Application gtk handle build App equinox createAndRunWorkbench create Workbench Text NativeMethodAccessorImpl Method Accessor Impl Widget scan lang linux Launcher sendEvent send Event JIT DelegatingMethodAccessorImpl Delegating Method Accessor Impl EclipseAppLauncher Eclipse App Launcher Item MenuSpyHandler Menu Spy Handler Table MenuSpyDialog Menu Spy Dialog Bug NPE Plugin Spy Navigate menu
+258560	API retrieve launching properties EEVMType tooling Type files Bug API retrieve properties definition files
+153093	description tab update field editor text label site Bug Inconsistent placement labels update site editor
+169480	commas plug parser tab guess editor allowed comma field MANIFEST displayed flag Bug MANIFEST editor display plug names commas
+296457	build Add execute error missing entry compliance order fixes properties compiler tag match revert bin eclipse Bug Problems problems quick fixes build properties
+297483	build folder entry warn library Bug warn file folder output library entry
+405015	tag noreference ice problem Bug Unsupported tag secondary type problems created
+155158	delete doesn cries Bug Product editor doesn support delete key
+66069	feature Build Publish site entry Remove jar Feature button add xml editor Bug site xml editor Publish command add foo jar
+211477	Plug wizard opened Preference opening Bug Preference opened Plug Wizard wrong parent
+215579	bundle IPluginModelBase IPlugin Model Base Entry version Candidate getBestCandidate Candidate rejecting ModelEntry Model Entry installed Model eclipse Base considered disabled Bug ModelEntry Model Entry Model Entry getBestCandidate Candidate Candidate bad choices Model Entry Candidate
+218648	Log entry Error Bug Error Log Export Log exports error
+441883	enforce xml MANIFEST plugin RTL bidi Compare Bug bidi Compare editors MANIFEST plugin xml enforce LTR
+202272	project drop tab Accessibility arrow Host focus Overview left version Bug drop fragment project Overview tab confusing
+309795	Platform wait projects workspace thought reload Set Target TargetPlatform Target Platform resolved compile set problem restart installation Bug workspace didn compile restart reload Target Platform
+138795	feature Feature translated Model names platform model called ITargetFeature ITarget Feature find presentation obj Label returns starting createNLResourceHelper create NLResource Helper trace AbstractModel Model getTranslatableLabel Translatable Label Target ommend honor Manager plug Bug Presentation names features
+231977	plugin eclipse core copy org lang tested builder select extensions ive children click tree managed copying cdt managedbuilder Bug copying multiple extensions triggers java lang ClassCastException Exception Exception Exception
+280119	XML debug TOC errors source view Bug TOC Editor debug XML errors
+163384	plugin jar classpath bundle lib classes order bin entries debug fragment picked ged Bug Wrong order classpath entries hosting
+96828	Target PDE seconds Platorm tab Locale Dialog Platform Eclipse Environment java takes Monitor Window time glass reading Bug PDE Preference Target Platform expensive
+329287	registry org removed runtime error head eclipse checked Bug org eclipse core runtime compatibility registry error removed
+150081	include user header ManifestElement Manifest Element ImportPkg Pkg included Manifest completions Bug content assist ImportPkg Pkg Pkg completions include imported pkgs Pkg
+227904	bug polish Bug Bug editor polish
+230987	DS Changed Add model Item caught raise Action IModelChangedEvent IModel Changed Event resolve adds DSAddItemAction DSAdd Item Action Bug DSAddItemAction DSAdd Item Action Add Item Action isn raising IModelChangedEvent IModel Changed Event Model Changed Event INSERT event DSAdd Item Action IModel Changed Event
+490062	warning add component build bundle INF work service generation header XML modify properties policy Bundle create Policy registering definition generate user practice Activation set entry raised files OSG Bug generate lazy activation policy OSGi OSG annotations
+151112	META settings Organize INF Bug Organize Manifests adds settings META INF Export
+218697	workspace API profile plug description projects manager modified data timestamps components manifest Bug dynamic plug project API description API component
+220745	java preferences Preference eclipse Launch AbstractPDELaunchConfiguration PDELaunch Configuration Initializer Preferences Defaults Display initialize Eclipse Configuration launcher internal Node Scope Check ScopedPreferenceStore Scoped Preference Store SWT Service Color Store core DefaultPreferences Preferences Helper applyRuntimeDefaults apply Runtime Defaults swt PreferenceServiceRegistryHelper Preference Service Registry Helper Runtime DebugUIPlugin Debug UIPlugin pde debug text NPE launching nightly build
+222793	Address ContactAddress Contact Address Bundle Contact PDE Bug Bundle ContactAddress Contact Address Contact Address generate warning translated Contact Address
+151113	dependency Version Remove remove Bug Remove dependency PluginVersionIdentifier Plugin Version Identifier Plugin Version Identifier Plugin Version Identifier
+267848	plug comp PDE complains lains pug Bug PDE illegally complains comp lains externalized strings
+230989	doesn DS Service Component DSComponent rens entes getReferentes Referentes DSService Bug DSComponent Component DSService Service getChildrens Childrens Child rens methods doesn work Childrens
+171601	preferences Java color jdt access ulting platform properties JavaPlugin Java Plugin JDT Store friend PDE reuses Bug Remove internal references Java preferences
+164438	imported features plug feature signed PDE recognized project MANIFEST Bug Signed features mistaken plug ins
+201306	deprecated File Buffer XMLErrorReporter XMLError Reporter Text disconnect IPath org Path method core type Bug XMLErrorReporter XMLError Reporter XML Error Reporter deprecated calls XMLError Reporter
+231001	java eclipse feature invoke Eclipse Event Workbench Selected Method compute Main widgets reflect Display Requires Feature internal start editor Table core Imports adaptor Handle Application Impl PlatformUI Platform RequiresSection Requires App createAndRunWorkbench create Workbench NativeMethodAccessorImpl Method Accessor Impl equinox dependencies handle Widget lang Launcher buttonSelected button Selected sendEvent send Event NPE computing feature dependencies
+201304	deprecated ErrorReporter Error Reporter File IPath Text disconnect Reporter type method Path core org Bug ErrorReporter Error Reporter Error Reporter deprecated calls Error Reporter
+418392	bug compatibility issue wanted left dependency runtime Bug PDE Build dependency runtime compatibility optional
+203356	target bundles location directory test workspace bundle ice adding locations dev Add box notice add plugins checked click looses create Platform testbundles platform provisioner projects check Bug target platform looses previous bundles adding directory target plugins
+227932	externalized Project pde Bug externalized Strings
+185955	target Target wizard combo version setting Plug platform Bug Target setting Plug Project wizard remembers
+210529	update install core examples provisioned SDK installing error log org test Bug update Error installing examples provisioned pro vis ioned SDK
+293474	plugin editor created Editing tab Bug Editing extensions PDE editor creates invalid plugin xml
+153195	generates CVS generated exports modifies flagged cgenrcp root project Create xml manifest fact overview Bug Create OSGI Bundle Manifest generates exports CVS metadata
+201325	target ins Include plug Features Plug Target checking works tab find tabs box displayed checkbox Bug Target Editors plug ins features Include plug ins target checked
+181878	love Multi Site needed Bug Site Editor Multi select love needed
+158326	Tree java Viewer eclipse create build Proc widgets swt win flashes CheckboxTreeViewer Checkbox Tree Viewer Item Build set viewers Display org Checked locks Children Control Send TreeViewer Tree Viewer nid runAsyncMessages Async Messages Call RunnableLock Runnable Lock AbstractTreeViewer Tree Viewer windowProc window Proc Synchronizer Opening build properties big plug locks flashes cursor
+204404	bundles option selected choosing OSGi selecting start Configuration Launch Bug Bundles Launch Configuration option selected bundles
+158331	copied classes Text HTML PDE Platform JDT jface Bug rid copied HTML rendering classes
+181883	Host list Fragment referencing bauman source eclipse Bug Manifest Content Assist referencing Fragment Host Proposal
+311933	plug required launch features application doesn validate feature sdk based selects eclipse code config PluginBlock Plugin Block won ins Bug Validate feature based launch config application plug requirement req uirement
+216703	dialog resize Validate size Eclipse PDE banished displayed character OSGi usability configuration violations applies Bug Validate dialog narrow
+181884	Fragment Host Require Bundle Bug Manifest Content Assist Require Bundle fancy Fragment Host
+172675	field externalized fragment ernalization project Provider Click problem occur event model ice updated header works source General Externalization plug Notice Bundle Set option appears Bug Provider form fields fragment overview updated externalization ext ernalization quick applied
+152199	proposals Bundle values RequiredExecutionEnvironent Required Execution Environent sorted beautify Bug Content Assist sort beautify proposals
+151172	Bundle ClassPath Path type making headers Classpath reserved misspell treat distinguish Bug PDE Manifest Editor treat OSGI manifest headers insensitive
+209547	spy Bug spy improve logging
+152200	extension descriptions point wizard schema selected parsing penalty memory visited Bug Amnesia retrieving extension point descriptions
+175756	SDK source Eclipse ECLIPSE replace find Plug update org dir listed left INF Configuration Bug PDE imports signatures source
+166546	plug list add tab packages eresting Add choose Runtime exported nt times differ Bug Exporting plug project plug ins classes
+209554	projects platform checking HEAD Bug check problems platform
+173712	Plug jar wizard project Finish enable button fails Bug Plug Project jar wizard fails enable Finish button
+138903	template values hardcoded view theme extension accomplish point spec allowed perspectives stick ain Bug Template perspectives spec tives extension point
+129689	eclipse application java org Main invoke core Eclipse pdelaunch changed test runtime Method win reflect ms Application add required ENTRY pde file RCP MESSAGE dev arguments machine resolved metadata workspace testing SUBENTRY plugins lang bundle Missing launch Framework hibernate Unable add extra dependencies RCP project
+238235	localization bundle plugin OSGi OSG OSGI Bundle localize INF alize reasons specifies Bug Bundle Localization OSGI INF bundle properties plugin properties
+201369	listeners Schema Manifest removed Extension file Point deleted side fixing ting Editor updates testing Bug Deleting Extension Point file problems
+172703	extension launch cut cuts org mode shortcuts eclipse launching Eclipse list shortcut point launchShortcuts launch Shortcuts icon editor debug arrange Workbench runtimeWorkbenchShortcut runtime Workbench Shortcut call Shortcut PDE eresting coded anize pde markup Launch Bug list launch shortcuts cuts PDE editor extensible ext ensible
+273049	sheet Pointer java NullPointerException Pointer Exception enter lang CheatSheet Cheat Sheet cheat Cheat Bug CheatSheet Cheat Sheet Cheat Sheet Registering cheat sheet fails java lang NullPointerException Pointer Exception Pointer Exception Cheat Sheet Pointer Exception
+295577	Create Mac set target args bit arg ice launched configs Snow configurations product error Bug target Target args configs created product configurations
+221852	export feature enabled features don bother Create Bug export features enabled SDK
+268966	org source plug ins path attachments jared sourcepath exported broken Bug binary plug ins update source attachment replacing existing jared plug ins
+229024	attribute api PDE called recognized meta info schema type Bug meta attribute schema insensitive
+489122	PDE Bug templates annotations OSGi OSG PDE templates
+198310	PDE Externalize Preview Tools Bug PDE NLS wizard Preview
+102055	Feature Small SmallFeature Small Feature L feature LargeFeature Large Feature Create add Bug Feature xml editor editing included features
+198309	level file Preview applied Java granular allowing Bug Preview granular
+255659	usage instantiates compiler Eclipse Manager EclipseFileManager Eclipse File Manager jdt Input reported eclipse Bug Illegal usage reported fragments host
+128683	bundle remove exported detect J Organize MANIFEST jface org Bug Organize Manifest detect remove exported bundles
+172716	Add debug form Bug Manifest Editor Add debug export buttons form header
+217772	assist Bundle Bug Provide advanced content assist Bundle ActivationPolicy Activation Policy Activation Policy Activation Policy
+172721	plugin editor xml extension Open point read schema Bug Extension point schema editor opens read plugin xml editor
+170678	jars account Dependency ClassPath Path Bundle Bug Dependency Management account packages binary jars
+65204	document web Safari site supported xml support loading led importing cgi leave generated webpage nil indicating failure res data documentLoad document Load mozillazine enc point discovered resp hide browsers Load Bug XSLT web site xml supported Mac Safari
+205493	create Description BundleDescription Bundle Description plug copies resolver bundle created save project modifies entry range leave version Bundle cached Bug Invalid Manifests multiple BundleDescription Bundle Description Bundle Description project Bundle Description
+215743	file view editor error working result Schema project paying set Bug schema errors displayed problems explorer views
+195267	java eclipse Requires invoke button Event Workbench Selected Feature Method Display Eclipse handle RequiresSection Requires reflect editor click Main widgets start rcp internal org features Table Handle adaptor Application PlatformUI Platform Features lang App createAndRunWorkbench create Workbench equinox dependencies Widget buttonSelected button Selected Launcher swt Add Impl sendEvent send Event NativeMethodAccessorImpl Method Accessor Impl Features dependencies add features fail
+264901	workspace definition target stored preference cancel table handles column overlay definitions metadata moved moving def Platform Curtis selected opened order dies copying action Move rit Bug target target plaform pref table move operation
+96962	compiling problem type workspace solve guiding access rs ding refering existing users yesterday opened exporting Bug Quickfix Quick solve restriction access problem
+248519	style SWT screen decorated BORDER created comp File DS Definition resolves java versions res don care controls DSFileWizardPage DSFile Wizard Bug tooling Component Definition Fields SWT BORDER style
+475855	TVT appeared concatenation word context Platform construction Language attachment Bug patch TVT IES Platform String concatenation appeared app eared Polish Language
+148171	PDE Tools Organize Bug PDE Tools Open Manifest
+465614	file bidi fields processing Branding editor Licensing Product paste Launching Configuration URL Bug fields Product editor bidi processing
+264904	wizard target created model workspace existing options Bug target File Target Definition
+229070	ignore Java launch API set scanning Bug PDE ignore API errors launching
+228044	Test parameter test Application testApplication test Application product runs UITestApplication UITest Application UI Bug testApplication test Application test Application parameter unusable product test Application
+219852	Bundle plugin update properties Bug refactoring changing plugin properties update Bundle Localization
+158418	project Creating targeting OSGi starndard Framework created OSG adds Bug Creating osgi bundle project adds lazy start header
+166610	extension bundle PDE eclipse point find runtime transferred registry namespace extensions denote ates points org valid code validates plug contributes models assumes surfaced Bug PDE extension registry Equinox
+125648	libs discover needed code imports analysis proven project poject Generate ant batch plugin result workflow Bug Generate imports creating project jar
+187094	eclipse feature org java Label jface Viewer Image Provider occurred orbit viewers xml NPE Wrapped ENTRY WrappedViewerLabelProvider Wrapped Viewer Label Provider invoking getImage Image plug PDELabelProvider PDELabel Provider Orbit NPE opening feature manifest
+160475	decorated editor based form error bundles raw Decorate Required Plug mated appears Auto eloper Bug Decorate erroneous err oneous additional bundles raw editor
+280286	engine hit report search max threshold Bug Search engine report threshold hit
+172767	JRE target combo button box editor app Bug buttons needed target editor
+173791	project file properties category plugin Category Add Bundle Remove externalized unused find labeled check identifes anize ifes prop PDE plug removes Bug PDE Tools Organize Manifest incorrectly identifes ident ifes externalized Bundle Category unused
+180960	project check delete system source file CVS reproduce workspace org eclipse platform load Bug Project check project filesystem files ystem
+291559	build preferences Create covering properties Bug Create preferences build properties problems
+156385	java add eclipse invoke Event Method Workbench Selected Requires reflect handle widgets Display RequiresSection Requires plugin Main internal Eclipse Table editor runtime Impl adaptor core Application PlatformUI Platform createAndRunWorkbench create Workbench Widget NativeMethodAccessorImpl Method Accessor Impl lang buttonSelected button Selected Launcher plugins Add sendEvent send Event NPE add dependencies plugin
+173793	tool adding Organize running project achieve commit preview comparing Bug adding Preview Organize Manifest tool
+217824	java Eclipse Loader Main plug eclipse duplicate build launcher ins launching lang start Exception invoke binary importing Platform Access org URLClassLoader URLClass Loader find ulted Target longer start importing binary plug ins
+461549	reload update Bug bug increment init created clears Dont error resolution Bug patch target Dont increment sequence number reload provide tooltips tool tips reload update
+184041	target platform environment dependencies plug notice ice swt fragment change create reproduce Bug Changing target environment update plugin container
+443114	test extension project custom caused Regression Bug extension editor longer custom icons
+94956	java eclipse Event Main extension invoke Wizard jface Action Dialog Workbench handle Method wizard reflect Display widgets finish Widget create Pressed point Item action Workspace PlatformUI Platform ModalContext Modal Context WizardDialog Wizard Dialog Context createAndRunWorkbench create Workbench NewSchemaFileWizard Schema File Wizard Schema lang execute ActionContributionItem Action Contribution Item File handleEvent handle Event sendEvent send Event BaseExtensionPointMainPage Base Extension Point Main NativeMethodAccessorImpl Method Accessor Impl internal schema Impl buttonPressed button Pressed Table Loop wizards creating NewWizardAction Wizard Action validation NPE creating extension point schema PDE wizard
+181997	create Item AbstractLauncherToolbar Launcher Toolbar createValidateItem create Validate Item Bug AbstractLauncherToolbar Launcher Toolbar Launcher Toolbar leaks menus Launcher Toolbar
+272107	tab doesn content tree WinXP Win Editing label Bug target Minor issues content tab
+298742	build Add file project called missing modified source fixes java entries click follow Bug Duplicate unordered problems build properties
+153329	update plugin xml icon Bug Refactor Rename resources update plugin xml
+226037	target location platform setting populate user based bundles scan policy change directory host Bug initialization policy target platform based location
+496382	app Add Bug Bug Eclipse app layout Add API Baseline doesn accept app bundle
+156414	PDE OSGi Widget generated OSG manifest error MANIFEST link editor creating Bug Widget Disposed error creating OSGi OSG manifest
+191231	removed AbstractLauncherTab Launcher Tab Starting method parent Composite Bug Binary compatibility breakage age method removed AbstractLauncherTab Launcher Tab Launcher Tab Launcher Tab
+218878	product include definition file extend Bug prov extend product definition
+162557	java eclipse Widget widgets invoke Selected Event Table Workbench Selection Method refresh handle editor reflect Display SWT Viewer thrown internal Changed button set DependencyManagementSection Dependency Management swt Main Eclipse Management core Build runtime text Dependency Application buttonSelected button Selected adaptor StructuredViewer Structured Viewer PlatformUI Platform createAndRunWorkbench create Workbench viewers clicking Impl Launcher sendEvent send Event NativeMethodAccessorImpl Method Accessor Impl SWTException SWT Exception thrown DependencyManagementSection Dependency Management Dependency Management refresh Dependency Management
+247553	Export version OSGi meta Plug versioning considered OSG archives attribute MANIFEST exported hold existing add Bug Export version creating Plug existing JAR archives
+262918	set ins eclipse start runtime auto configuration org launching plug application workspace Plug Bug org eclipse core runtime set auto start
+191232	removed EquinoxPluginsTab Equinox Plugins Tab compatibility method Equinox Bug Binary compatibility breakage age method removed EquinoxPluginsTab Equinox Plugins Tab Equinox Plugins Tab Equinox Plugins Tab
+170756	Add navigator packages PDE eclipse missing MANIFEST tag exported add Bug Quick Add missing packages add internal packages internal
+184068	exporting org rtance importing Bug PDE Tooling support Exports
+400129	context NPE Click project Context registering dialog Finish error corner Bug NPE registering context plugin project
+212745	running title dialog ins importing warns issues ns Wording App war warning talks Bug Wording wrong title dialog warns war importing running target
+188168	Framework restart Errors workspace dialog displayed running launching Bug Errors Workspace dialog displayed
+216840	preference war adding warranted setting bugs ted ignore validating Activator start ating Bug validating valid ating Bundle Activator exists lazy start header
+212755	error dialog log running app locked post won deleted comment Bug PDE error dialog logs error app running
+206610	workspace platform result build tests resolved Bug build fresh workspace
+225047	plugin DBCS values characters Externalize Strings wizard JDT encoding converting PDE caught ISO project including xml Ext escaped body property enalize checked appears Bug DBCS Externalize Strings halts DBCS characters
+299792	eclipse java Event execute commands Workbench Key Assistant compute text Display Method widgets Proposals Assist Handler Control WorkbenchKeyboard Workbench Keyboard invoke Action org Dispatch Widget reflect win internal PDE Quick Eclipse Keyboard Operation Main start editor swt windowProc window Proc send ion Completion core Command QuickAssistAssistant Quick Assist Assistant Proc Source Handle PDEQuickAssistAssistant PDEQuick Assist Assistant PlatformUI Platform adaptor Processor Popup equinox Content util createAndRunWorkbench create Workbench Proposal Application Viewer jface assist ContentAssistant Content Assistant App Checks Project Launcher computeCompletionProposals compute Completion Proposals Arrays lang CCE invoking quick editor
+278289	Category doc file wizard Bug doc Category Editor
+121622	product tabs eresting platform Bug specific tabs product editor open current
+129817	project Template build dependencies save change tab Wizard plugin desired add HEAD create file Bug dependencies templates longer
+166680	order META define folder services compiler tool called bundle java eclipse jsr n INF project Bug META INF bundle manifest
+183070	eclipse dependencies org mode drop ees Plug includes filters table Bug Plug Dependencies View Optional work table mode
+139037	directory format resolve translated platform Bug PDE resolve translated names plugins directory format
+272164	box set check preference Bug check box king
+319268	PDE projects dependencies workspace META launched parses compile Eclipse Plug find poll eclipse Unit resolution pollute ute Manager runtime Bug PDE confused PDE projects
+227105	eclipse assist org content parameter scheme schemeId scheme source command showView View xml type Bug plugin xml source editor support content assist identifiers
+183072	Sort button Add manifest editor Bug Manifest Editors Add Sort button Dependencies
+150305	tab box tabbing cursor PDE bin g bug field disappear contributing text Windows Bug Combo box lose cursor Linux
+183073	context menu extension editor drilled pressed Bug Manifest Editors
+135976	extension PDE namespace runtime user support plugin included contributing Bug Enhance PDE support extension points namespace
+165672	add list plugins required picking included user eclipse view set selected plugin Bug erring depend EMF bugs cgi installed starting spinning open runtime execute wanted def spi https Bug Option wanted add specific set plugins minimally min imally required plugins
+469803	space Eclipse ctrl completing References Bug patch Eclipse SourceReferences Source References Source References supported ctrl space suggestions Source References
+260913	metadata Bug move Bug metadata Move concrete metadata classes internal
+159540	dialog parent Dialog behaves Add shell preferences preference Target source workbench code platform Shell directory location Source button switched screen eclipse invoke hide corner Bug Add source location dialog target platform preferences workbench parent shell
+182075	Content proposals qualifiers include erts Bug Manifest Content Assist Version proposals include qualifiers
+171838	target retrieve Environment box editor time fill create Bug Environment Target editor slow initialize
+257852	add extension addNewWizardShortcuts add Wizard Shortcuts decl Perspective PDEPerspective perspectiveExtensions perspective Extensions Bug Clean PDEPerspective PDE Perspective
+383802	RAP Eclipse application Developers Application download RCP configuration Bug button defaults RAP Eclipse RCP RAP Developers download
+181058	friends warning missing error references friend update Missing table Bug Missing friends settable set table warning error
+195394	java eclipse Event Workbench invoke ImportPackageSection Method Eclipse handle Display reflect Action Widget Main start widgets Source org plugin Item internal action Handle adaptor Application PlatformUI Platform lang equinox createAndRunWorkbench create Workbench access App Launcher ActionContributionItem Action Contribution Item sendEvent send Event NativeMethodAccessorImpl Method Accessor Impl Impl EclipseAppLauncher Eclipse App Launcher Table editor runtime Search EclipseAppHandle Eclipse App Handle Select Dispatch Manifest Editors NPE org eclipse pde internal editor plugin ImportPackageSection
+230209	Miner flagged extension instantiates ins registered leave tantiates instanatiating allowed extend rs anatiating noinstantiate folded api point Bug api tooling Illegally instantiates ins tantiates flagged extending noinstantiate
+157504	eclipse java Event invoke Action Project Method jface Dialog Workbench handle plugin Operation Finish widgets Display create Widget reflect core Wizard wizard Main Pressed Eclipse Item internal runtime Fragment action adaptor Impl Application Workspace PlatformUI Platform execute showlocation ModalContext Modal Context createAndRunWorkbench create Workbench NewProjectCreationOperation Project Creation Operation Context button WizardDialog Wizard Dialog win ActionContributionItem Action Contribution Item Launcher NativeMethodAccessorImpl Method Accessor Impl wizards NewFragmentProjectWizard Fragment Project Wizard CCE define fragment
+417603	error tag Ant org formatted AntCorePreferences Ant Core Preferences Preferences applying Core core build Bug Unjustified tag error incremental build
+181063	Dependencies Action ShowResultsAction Action java running dependencies NPE eclipse ecies Bug NPE running Find Unsed Dependencies Dependencies View
+167749	ers extension Provision targetProvisioners target Provisioners lives point eclipse provisioner pro visioner extension point Core
+429902	product Tycho features install attribute create root files editor git ations configuration won feature adding add advanced eclipse Mode demo dered Configuration wanted installMode install Mode Product element Bug Support root level features attribute installMode install Mode install Mode root product configuration editor install Mode
+174923	bundle update references Bug Rename bundle action
+98123	eclipse update Eclipse launch java workspace Method Classpath core reflect set org runtime plugins build configuration click invoke pde platform osgi target Platform error Update Script lang Application Job Workspace Fragments Impl NativeMethodAccessorImpl Method Accessor Impl Computer BuildScriptGenerator Build Script Generator base rs workbench check Select Copied Plug tools Development fails Activator EclipseStarter Eclipse Starter Delegating getClasspath Classpath External troublemakers setClasspath set Classpath compatibility issues
+252751	tests tag failed Bug tag tests mysteriously failed
+326472	plug target missing definition delete editor remove required ice Bug remove missing plug Target Definition editor
+302928	selected projects software Eclipse site Helios add works definition click item Group dialog Bug Target Definition problems Helios
+205655	java eclipse Workbench dev Editor invoke Method Eclipse ide Navigation log Display pde org Main reflect Entry core widgets runtime start find History pdelaunch create NPE win SWT NavigationLocation Navigation Location Impl Handle adaptor internal swt lang equinox thought matches Application Framework createAndRunWorkbench create Workbench sdk arguments PlatformUI Platform runAsyncMessages Async Messages product launch metadata ratt App NPE ManifestEditorMatchingStrategy Manifest Editor Matching Strategy Manifest Editor Matching Strategy Manifest Editor Matching Strategy
+284496	XML Editor Context Bug Context Editor debug XML errors
+97109	eclipse java Changed Event Viewer invoke jface Workbench Method Table reflect handle Display editor Selection plugin Main widgets Array Strategy fire util ExportPackageVisibilitySection Export Visibility win selectionChanged selection Changed OpenStrategy Open Strategy Platform xml ManagedForm Managed Form createAndRunWorkbench create Workbench table StructuredViewer Structured Viewer PlatformUI Platform lang viewers runtime Visibility occurred Select TablePart Table NativeMethodAccessorImpl Method Accessor Impl Widget TableSection Table Managed Selected fireSelectionChanged fire Selection Changed Impl Form sendEvent send Event Problems Open Clicking entry Classpath table plugin xml editor ArrayStoreException Array Store Exception Array Store Exception Array Store Exception
+221019	classpath jar included Require include update Bug Duplicated Duplicate entries classpath container
+256859	characters feature xml PDE Warning bundle chapter warning OSGi complains api comp lains spec display Bug PDE Warning illegal characters feature xml complains comp lains chars
+312156	based plug selected box Bug selected Feature based config plug ins based
+241503	res Cycles cycles Dependency Graph dependency screen Bug Cycles Dependency Graph resizable res izable
+230239	impacted IDSModel org IDS Factory POJO Bug plugin org eclipse pde core
+483163	created Bug bug Bug Remove unnecessary whitespace eclipse pde repo
+187228	RCP radio click button wizard Platform Click create project missing Plug press ice Compare Bug RCP templates missing
+147298	targeting Management Require OSG Dependency Bug Dependency Management projects targeting OSGi OSG
+181091	version dealing view ant Plug don bundle Bug Plug Dependencies View version number label
+50018	plugin xml update classpath path build roves Bug update path prompt save plugin xml
+218983	sync File workspace underlying causing filters sisting Bug Save cycle sync resources
+201572	selected plug add Plug Bug radio Add ensure addition exported Bug Manifest Editors Friends selected addition add ition
+181093	fragments view don brings dependencies swt workbench Hide win Plug Bug Plug Dependencies View Hide Fragments dependencies
+230248	bug qualified dialog plug requested sort item Bug open plug artifact dialog sort items
+287599	bundles missing summary required details skipped Bug Provide summary missing required bundles
+247663	overview outline view displayed displays text Bug outline view displayed garbled text editor overview displayed
+370536	plugin add editor extension create tab product Creating Extension Product contribution creating point xml action configuration closed Bug Creating product plugin Extension tab empty editor closed opened
+138093	click version choose Imported Add Version button Properties Bug Adding Imported Provide Version
+216946	test eclipse JUnit target Eclipse org Unit platform jdt situation preferences deselected files workspace Create junit process J tates folder projects Bug Unable JUnit Unit tests org eclipse jdt junit runtime target platform
+82803	product launch app Bug launch config product app
+135025	plugins list type filter match plugin find dependency removed Bug improve plugins fragments filter
+153460	Build validate eclipse build java Reporter check Manager core Checker BuildErrorReporter Build Error Reporter ManifestConsistencyChecker Manifest Consistency Checker builders ErrorReporter Error Reporter ers Error swt BuildManager Build Manager motif occurs Consistency events Bug NPE occurs retrieving content CVS
+163707	header policy exclude include Policy Start Bundle org LazyStart Lazy Start require comma OSGi bundle directives proposed introduced Lazy advanced Activation required type loaded Eclipse released lazy Bug Support Bundle ActivationPolicy Activation Policy Activation Policy OSGi OSG Activation Policy
+482171	filter services Dialog Selection PackageSelectionDialog Selection Dialog packages expects path find PDE enter Bug PackageSelectionDialog Selection Dialog Selection Dialog filter startswith starts Selection Dialog
+264056	target don Open IURI Input handle IURIEditorInput IURIEditor Input work Bug target open external target files Open File
+264057	selected target warning Bug target warning target selected preference
+169852	J Configuration Launch Unit deprecated JUnitLaunchConfigurationDelegate JUnit Launch Configuration Delegate API JUnitBaseLaunchConfiguration JUnit Base Launch Configuration Bug Update JUnitLaunchConfigurationDelegate JUnit Launch Configuration Delegate Unit Launch Configuration Delegate JUnit Launch Configuration Delegate
+154493	xml plugin explorer Bug plugin xml
+225148	development load plugins PDE doesn worked target reports hasn environment heard submit Bug PDE target doesn work easily
+109440	plugin JAR plugins projects jar project converting wizard log dependencies files job Explorer updated ented reference jars importing code action ystem view replace experience rel lab Bug Improvements Improve ments Convert plugin project
+212869	java eclipse invoke Event Workbench Method Selected Eclipse handle Display widgets reflect Main Requires bundle start internal Table RequiresSection Requires editor Handle Application Impl adaptor PlatformUI Platform plugin App Widget NativeMethodAccessorImpl Method Accessor Impl create equinox createAndRunWorkbench create Workbench Launcher buttonSelected button Selected lang Add sendEvent send Event EclipseAppLauncher Eclipse App Launcher TableSection Table DelegatingMethodAccessorImpl Delegating Method Accessor Impl SharedPartWithButtons Shared Buttons Dispatch Shared Manifest Editors system bundle dependency
+185225	developed view foo implement eloped dev forgot fool Bug view doesn refresh plug
+311183	Create features plug launch called workspace Eclipse selected Select Apply add Bug additional plug feature launch silently removed
+138127	file edit plugin Bug Dependecy Dep ecy Analysis side edit plugin xml file
+166801	eclipse moved runtime org extension missing html doc core isv points needed add Bug docs core runtime applications core runtime products ext pts missing
+484244	Activators methods Bug Remove unused methods Activators ivators PDE
+309137	selected content count named pointing conf software Helios faced repo Bug target Software Site content wizard selection count
+258969	install choose dialog dig find file start Bug API Baseline dialog Browse start current install
+344996	NPE leads running Bug API Freeze Free check leads NPE
+166819	project won Bundle renamed Renaming Bug Renaming project won renamed Bundle SymbolicName Symbolic Symbolic Symbolic
+220069	view set Input Deferred Plug Tree Viewer newInput Input String spec PluginsView Plugins View Root Workbench Adapter fTreeViewer Tree Viewer eclipse content sets fRoot Root loading getDeferredTreeRoot Deferred Tree Root IDeferredWorkbenchAdapter IDeferred Workbench Adapter Text background Bug Plug ins view malformed content description
+118694	config ini launcher target platform launching environments Bug Simplify config ini launcher
+166826	Eclipse java eclipse Loader Main runtime launcher start launching plug core required lang invoke Exception Platform org Launch ENTRY launch runtime workbench binary imported plug ins
+204719	parsing IO bugs Provide Bug Provide IOExceptions Exceptions parsing exsd files
+234414	java eclipse Event handle widgets invoke plugin link Finish AbstractHyperlink Hyperlink plug Method wizard editor Workbench Dialog create Eclipse Main Display reflect Hyperlink Wizard enter Pressed start click exist internal Note Plugin Host opens exception Open jface Fragment FragmentGeneralInfoSection Fragment General Info initialized Impl meta adaptor Click Handle Application Activated Info PlatformUI Platform MESSAGE handleEvent handle Event NPE creating plugin Host plug link
+264106	workspace reside Remove target file targets check delete resides button metadata checkbox dialog add ides deletion exist box res lost list files Bug target Provide careful handling Remove button pressed
+206765	workspace assumes PDE project OSGi Manifests OSG Manifest file INF Bug PDE shoud ignore osgi Manifests workspace projects
+176045	remember handler element fields click tab extension Bug Extension editor doesn remember field
+108466	plugin jar classpath eclipse getResources Resources Resources runtime entry Loader returns Eclipse entries add files file project String java Bug Dups Eclipse ClassLoader Loader Loader getResources Resources Resources String Loader Resources
+79794	Hyperlink Source PDE hyperlink source Configuration URL Viewer text offer editor links pressed getHyperlink Hyperlink Click detect Text writing IHyperlink Bug Adopt hyperlink feature
+381875	eclipse pde core build target Bug Javadoc errors org eclipse pde core target
+102326	keypass ning pass key Bug signing field keystores update JarSigning Jar Signing stored keytool jarsigning Bugzilla Support Bug Feature Fragment Export JarSigning Jar Signing Jar Sig ning dialog keypass key pass field Jar Signing
+171962	attribute extension content type element set press eclipse good choose Bug translatable attribute set
+432063	test tests eclipse org drops testresults Bug test failures builds
+225210	build project validate Manifest java Build Bundle Error Manager eclipse Checker core builder BuildManager Build Manager item Reporter IllegalArgumentException Illegal Argument Exception ers events ManifestConsistencyChecker Manifest Consistency Checker BundleErrorReporter Bundle Error Reporter include AutoBuildJob Auto Build Job Log builders Plug validateFiles validate Files Illegal plug Consistency Roots Utils Path find Fragment Export click Container validateExportPackages validate Export Packages Project ManifestUtils Manifest Utils Plug Manifest builder IllegalArgumentException Illegal Argument Exception Illegal Argument Exception Bundle Classpath Illegal Argument Exception
+380857	eclipse delimiters org bee tools git diff Bug mixed delimiters
+486328	eclipse pde core org ListenerList Listener List dot drops Listener List plugins compile Bug Warning pde core pde
+170941	Environment Java Application Eclipse JRE Bug Execution Environment launching Eclipse Application
+244673	method navigator API remove tenance file Invalid Action eclipse turned HEAD noreference Bug Invalid API problems method changed noreference
+182215	view menu Plug context invoke icon focus point toolbar plug pressed database empty populate glasses Bug Plug Dependencies view Initial empty confusing
+238539	Frame works link OSGI org Description extension Bug doc Description extension point org eclipse pde osgiFrameworks osgi Frameworks osgi Frame works osgi Frameworks
+307149	packages bundle resolved Manifest add imported files java errors OSGi importing expected Bug Adding packages Manifest rebuild
+238536	order feature editor https cgi matters bugs Bug Feature editor Included feature order matters
+151502	fields Extensions editor plug Bug Change order fields extensions
+443338	plugin file Eclipse Application eclipse attachment issue application ion Open Core xml update descriptor remove connected runs Bug Errors saving plugin descriptor file
+151501	orientation buttons Extensions editor toggle plug Extension Bug Vertical layout weird Extensions
+183250	features add allowed Add product based Bug Product Editor add duplicate features
+296917	build eclipse validate java core Build occurred org MESSAGE Reporter resources Manifest ENTRY win Checker arguments Manager showLocation Location ErrorReporter Error Reporter Error ManifestConsistencyChecker Manifest Consistency Checker BuildManager Build Manager pde OTI Log BuildErrorReporter Build Error Reporter workspace Problems Worker ers builders Errors invoking STACK Bug NPE building workspace
+133072	flag java thread rebuilding eclipse Java launching Eclipse loaded Platform appears invoke removing SWT Utilities App Application JFrame running invokeLater invoke check MacOSXVMInstall Mac OSXVMInstall org IPlatformRunnable IPlatform Runnable pass win swing g carbon Frame wanted Bug launch Eclipse Application argument
+201681	tree representing Manifest viewers form table Bug Manifest Editors Weird character representing open bracket tree table viewers
+474069	valueOf flyweight change replace parseBoolean parse Bug Replace valueOf
+208855	action java visibility eclipse handle view limiting ender Log object Menu set Event Builder Manager contribute Contribution MenuManager Menu Manager contributions reduce accept PopupMenuExtender Popup Menu Extender menu add contributes Action mechanisms widgets Ext logivew log ivew set selections select ions accept object contributions
+231382	remove javadoc resolution Bug Remove javadoc resolution remove icon
+125913	focus field text Click brings dialog tab project Extensions editor Bug Extension dialog focus filter text field
+183260	target build eclipse note download RCP update workspace missing Eclipse pack Bug sync switching targets
+207836	plug references search ins point extension Bundle project don versions Bug Search extension point references don multiple versions
+479192	dot java pde Loader eclipse core resourceLoader resource Loader org plugins Resource Warning src moving git Bug Warning PDE moving java
+154593	Classpath deletes Update Access Bug PDE Tools Update Classpath deletes Access Rules
+153575	actions org Action eclipse Bug refactor actions
+215014	java eclipse invoke Event Workbench Method Eclipse Main Display reflect widgets start Util XMLUtil plugin editor Attribute Impl Handle org Schema Application adaptor PlatformUI Platform click Widget App equinox NativeMethodAccessorImpl Method Accessor Impl createAndRunWorkbench create Workbench ata getSchemaElement Schema Element tector handle Launcher lang sendEvent send Event DelegatingMethodAccessorImpl Delegating Method Accessor Impl EclipseAppLauncher Eclipse App Launcher clicking NPE XMLUtil XML Util getSchemaElement Schema Element Schema Element clicking attribute warning Schema Element
+265198	target warn developing preference eloping Eclipse Bug target warn compatibility
+136172	friends remove internal directive quickfix Bug quickfix remove redundant internal
+308214	features bundles launch installed selected bundle provisioned running configuration eloper selecting Bug bundle selection features OSGi OSG launch configuration
+231409	update convert configuration ion Activity type find causing Bug Conversion org eclipse update core causing weird
+252913	ensure component Bug tooling ensure component xml files included bin includes
+465909	Click Product Plug click Convert project create bar Finish file epf scroll Configuration Bug GVT Truncation setup Convert Preferences
+90102	references Export search Search Packages Bug Search references Export Packages
+68606	wizard project error status plug Plug warning box start creating suggests Bug Plug Project wizard error creating box project
