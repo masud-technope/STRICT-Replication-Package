@@ -168,6 +168,9 @@ Required parameters for the operations
 ------------------------------------------------------------
 -  **-task** : expects a task to be performed. Two values -- ```evaluate``` and ```evaluateQE```. 
 -  **-algorithm** : expects an algorithm name from ```TR```, ```PR```, ```TPR```, ```TRC```, ```PRC```, ```TPRC```, ```Best-RF``` and ```Best-NS```. 
+```
+TR=TextRank, PR=POSRank TPR=TR+PR, TRC=TextRank + Weighted K-Core, PRC=POSRank + Weighted K-Core, TPRC=TR + POSR + Weighted K-Core, Best-RF=Best Query using Random Forest Learning, Best-NS=Best Query without re-sampling
+```
 -  **-K** : expects the value for the Top results.
 -  **-baselineKey** : expects the type of baseline query from a change request. It takes four values ```T```, ```D```, ```C``` and ```W```. 
 Here, ```T``` stands for the title, ```D``` stands for Description, ```C``` stands for code-only, and ```W``` stands for the whole texts from the change request.
@@ -175,21 +178,22 @@ Here, ```T``` stands for the title, ```D``` stands for Description, ```C``` stan
 
 Experimental Data
 --------------------------------------------------------------
-- ```TSE-Experiment-2018/Baseline/query``` : Baseline queries extracted from the 2,885 change requests.  
+- ```TSE-Experiment-2018/Baseline/query``` : Baseline queries extracted from the 2,885 change requests. They make use of title, description, code tokens and whole texts. ```query-code``` is our chosen baseline.
 - ```TSE-Experiment-2018/Baseline/rank``` : Query Effectiveness (QE) of the baseline queries.  
-- ```TSE-Experiment-2018/Changereqs``` : 2,885 change requests from eight subject systems. 
-- ```TSE-Experiment-2018/Corpus/method.7z``` : Corpus containing the method bodies from source code documents of all systems. Please decompress before using.
+- ```TSE-Experiment-2018/Changereqs``` : 2,885 change requests from the eight subject systems. 
+- ```TSE-Experiment-2018/Corpus/method.7z``` : Corpus containing the method bodies from source code documents of all systems. **Please decompress before use**.
+- ```TSE-Experiment-2018/Corpus/norm-method.7z``` : Corpus containing the normalized method bodies from all the systems. **Please decompress before use**.
 - ```TSE-Experiment-2018/Corpus/*.ckeys``` : Corpus document-index key mapping.
 - ```TSE-Experiment-2018/Goldset``` : Ground truth for 2,885 change requests.
-- ```TSE-Experiment-2018/Lucene``` : Lucene index for concept location. Please decompress before using.
-- ```TSE-Experiment-2018/Proposed-STRICT/query``` : Queries suggested by the proposed technique.
+- ```TSE-Experiment-2018/Lucene``` : Lucene index for concept location.
+- ```TSE-Experiment-2018/Proposed-STRICT/query``` : Queries suggested by the proposed technique for various algorithms.
 - ```TSE-Experiment-2018/Proposed-STRICT/rank``` : Query Effectiveness (QE) of the suggested queries.
 - ```TSE-Experiment-2018/Proposed-STRICT/resampling ``` : Re-sampled versions of Query Difficulty measures.
 - ```TSE-Experiment-2018/Proposed-STRICT/qdiff-model``` : Query Difficulty model for the proposed approach.
 - ```TSE-Experiment-2018/Proposed-STRICT/nosampling``` : Query Quality prediction results without resampling.
 - ```TSE-Experiment-2018/SelectedBug``` : IDs of the change requests under study.
-- ```TSE-Experiment-2018/tokens*``` : Tokens generated from project source and change requests for Splitting algorithm, Samurai.
-- ```TSE-Experiment-2018/Traditional/query``` : Queries suggested by three traditional techniques-- TF, IDF, TF-IDF.
+- ```TSE-Experiment-2018/tokens*``` : Tokens generated from project source and change requests for Splitting algorithm -- ```Samurai```.
+- ```TSE-Experiment-2018/Traditional/query``` : Queries suggested by three traditional techniques-- ```TF```, ```IDF```, ```TF-IDF```.
 - ```TSE-Experiment-2018/Traditional/rank``` : Query Effectiveness (QE) of the traditional queries.
 - ```TSE-Experiment-2018/Weight-training``` : Auxiliary data for weight training for the proposed algorithm using Genetic Algorithm. 
 
@@ -202,6 +206,9 @@ Q.6: How to reproduce/replicate the queries and results submitted to TSE?
 java -jar strict-replicator.jar -task replicateTSE
 ```
 This task might take 1-2 hours due to significant amount of calculations for 2,885 queries.
+The produced materials will be saved at ```TSE-Experiment-2018/Proposed``` folder. Results could be slighly different due to the random sampling.
+
+
 
 Q.7: How to replicate the Hit@K, MAP and MRR?
 --------------------------------------------------------------------------
@@ -210,13 +217,28 @@ java -jar strict-replicator.jar -task evaluate -K 10 -algorithm Best-RF
 ```
 The above command reports the STRICT's performance for Top-10 results.
 
+```
+Hit@10:0.4643411793250092
+MAP@10:0.28994384855071037
+MRR@10:0.288947863416532
+Time needed:32 s
+```
+
+
 Q.8: How to replicate the Query Improvement, Worsening and Preserving ratios?
 --------------------------------------------------------------------------
 ```
 java -jar strict-replicator.jar -task evaluateQE -algorithm Best-RF -baselineKey C -difficultOnly false
 ```
-The above command reports the STRICT's query rank improvement against the ```code-only``` baseline queries from 2885 
+The above command reports the STRICT's query rank improvement against the ```code-only``` baseline (default) queries from 2885 
 change requests.
+
+```
+Dataset size:2885
+Improved:0.5470895985568347, Worsened:0.28263805466658826, Preserved:0.170272346776577
+Improved MRD:-401.7369774919614	 Worsened MRD:198.55050505050505
+Time needed:0 s
+```
 
 ---------------------------------------------------------------------------
 
