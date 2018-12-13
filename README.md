@@ -169,7 +169,8 @@ Required parameters for the operations
 -  **-task** : expects a task to be performed. Two values -- ```evaluate``` and ```evaluateQE```. 
 -  **-algorithm** : expects an algorithm name from ```TR```, ```PR```, ```TPR```, ```TRC```, ```PRC```, ```TPRC```, ```Best-RF``` and ```Best-NS```. 
 ```
-TR=TextRank, PR=POSRank TPR=TR+PR, TRC=TextRank + Weighted K-Core, PRC=POSRank + Weighted K-Core, TPRC=TR + POSR + Weighted K-Core, 
+TR=TextRank, PR=POSRank TPR=TR+PR, TRC=TextRank + Weighted K-Core, 
+PRC=POSRank + Weighted K-Core, TPRC=TR + POSR + Weighted K-Core, 
 Best-RF=Best Query using Random Forest Learning, Best-NS=Best Query without re-sampling
 ```
 -  **-K** : expects the value for the Top results.
@@ -244,7 +245,7 @@ Time needed:0 s
 ---------------------------------------------------------------------------
 
 
-Please cite our work as
+Please cite our works as
 ------------------------------------------------------------
 ```
 @INPROCEEDINGS{saner2017masud,
