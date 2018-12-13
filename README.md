@@ -218,6 +218,8 @@ java -jar strict-replicator.jar -task evaluateQE -algorithm Best-RF -baselineKey
 The above command reports the STRICT's query rank improvement against the ```code-only``` baseline queries from 2885 
 change requests.
 
+---------------------------------------------------------------------------
+
 
 Please cite our work as
 ------------------------------------------------------------
