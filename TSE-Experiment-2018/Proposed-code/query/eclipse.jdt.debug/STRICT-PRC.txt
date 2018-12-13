@@ -1,0 +1,229 @@
+34816	breakpoint occurred program String sun attempting set byte Error jdi Exception char Bug Eval Error postif prefix byte char short
+346116	inspect Add Attributes attach jar stops java application Java files code file Prj debug class Eclipse Util method Bug Java files open inspecting code Class file
+78853	type don assignment Bug Variable assignment type mismatch
+335363	font increased text truncated Add dialog size Bug Java Breakpoint Bug Add Java Exception Breakpoint dialog truncated text checkboxes font size increased
+229380	enabled bootstrap entry pressing user button Bug buttons incorrectly enabled classpath tab
+13834	click set file source displayed Add breakpoints ruler context action Breakpoint Bug set breakpoints external source
+413705	drops win debug org eclipse Bug failures MoveCompilationUnitTests Move Compilation Unit Tests Move Compilation Unit Tests Move Compilation Unit Tests
+28177	Add receiving update Debug expression frames Stack watch VectorTests Vector Tests Bug Stack frames updating watch expression
+301584	eclipse org jdt java invoke execute jdi debug Impl core send JDIThread Type model ast check invokeMethod invoke Method Object Method ValueImpl Impl class JDI Reference Thread ObjectCollectedException Object Collected Exception ASTEvaluationEngine ASTEvaluation Engine String problem Push StringReferece String Referece sendMessage send Message instructions Bug sun jdi ObjectCollectedException Object Collected Exception Object Collected Exception breakpoint condition evaluation Object Collected Exception
+353821	creating expecting coming Creation Decorator Project tests ProjectCreationDecorator Project Creation Decorator java Test eclipse projects Debug org Bug Test failures latest builds
+455199	Debugging def test call method Import NoDebuggingCase Debugging Case type Test Acceptor void accept typeImport type Import Operation Bug debug Debugging doesn work properly classes
+102427	method display inspect getValue execute indicating Bug inspect display static import methods
+184862	Card List deck int Integer rank Hand suit return Int Rank parse args deckSize deck Size evaluate cardsPerHand cards Hand hand Deck parseInt parse Int num Suit handView hand View deal View prototype Bug evaluation evaluation static method generics work
+37918	running attach format console putting Sphere WebSphere Web Sphere Device Bug Console format Japanese
+495641	jdt plugins images png Bug pngs jdt jdt doc plugins
+112670	toggle view variables invokes assist keystrokes Bug toggle selection treeitem variables view
+27679	eclipse org lang java debug Java Plugin String initialize core PluginRegistry Plugin Registry shutdown Registry invoke reflect rogress Debug Method Store accept jdt runtime Internal preference IP Preference Impl Platform plugins sun URL Loader perspective AbstractUIPlugin Abstract UIPlugin Default plugin Bug NPE shutdown initializing preference store
+1569	result context foo inspecting GDKNZ Bug Bug inspect context inspect result GDKNZ
+245793	workspace required running path Attempte JRE loc projects JU JUnit nit Bug Eclipse Variables editing JRE preferences
+43554	method signature breakpoint Creating Bug Creating breakpoint method signature method entry breakpoint
+28195	eclipse org lang core java shutdown PluginRegistry Plugin Registry invoke reflect rogress debug Method disconnect accept Internal String Impl Registry Launch Plugin runtime Platform plugins Loader sun URL Delegating Bug NPE shutdown debug remote launch
+472612	eclipse org java invoke start equinox reflect dev Eclipse Method widgets Display confess Null NullPointerException Null Pointer Exception Main Popup Impl swt error Workbench https Handle create shortened read runtime createAndRunWorkbench create Workbench launcher cac lang App Messages package ide core Action RunnableLock Runnable Lock Manual runAsyncMessages Async Messages execute Pointer databinding Async committers PlatformUI Platform NullPointerException Null Pointer Exception Null Pointer Exception PopupInspectAction Popup Inspect Action Popup Inspect Action close Null Pointer Exception Popup Inspect Action
+376354	type result Number add breakpoint number return set regression Bug regression set breakpoint final type
+10282	changed Bug Rendering changed variables
+177193	message code classes array create JDWP set messages debugger demand force implementation byte limiting send bytes achieved Array streamline markets size supported Bug Setting range values array objects request
+449066	eclipse bug org hover Text CLOSED user text error runtime resolution java Hover product Info Eclipse enter committers whiteboard Java jdt reports getHoverInfo Hover Info field report package list status problem Stacktraces Incubator confess bugs component cgi Proxy JavaEditorTextHoverProxy Java Editor Text Hover Proxy Recommenders comment Editor Messages Note remember Bug jdt Unexpected runtime error computing text hover
+26159	org eclipse NPE test Binding method Move methodBinding method Binding evaluate breakpoint Linked node tests code class calls snippet invoke hit core resources resolveBinding resolve Binding step Bug NPE evaluating snippet anonymous class
+13364	set Bug visual indication breakpoint condition set
+255031	project build load compile eclipse reproduce ignore console Missing Bug Missing EEs prevent project build
+37942	JAR determine JARs config dialog Launch listed classpath Bug Launch config dialog determine full location JARs JAR listed classpath
+432190	oracle shared deploy docs api html Action ActionType Action Type Bug Update default Javadoc locations docs api
+10811	debug Remove removed JavaHCRManager Java HCRManager HCRManager TerminateAndRemove Terminate Remove Bug Deregistered launches removed JavaHCRManager Java HCRManager Java HCRManager
+171075	Java Text Hover Manager problem Editor waiting eclipse hover compute interrupting result receiving disconnects JavaDebugHover Java Debug Hover TextViewerHoverManager Text Viewer Hover Manager org Receive seperated text Viewer Packet Bug Java Editor Disconnecting Debug Session
+10817	copied folder output java shared Bug configs java packages copied output folder
+388172	breakpoints eclipse java Event handle Breakpoint debug org create test determine JavaBreakpoint Java Breakpoint dispatch JavaLineBreakpoint Java Breakpoint Locations core JDI jdt Java Exception deleted ArrayIndexOutOfBoundsException Array Bounds Exception showlocation cocoa error Impl JDI ArrayIndexOutOfBoundsException Array Bounds Exception Array Bounds Exception debugging deleted breakpoints Array Bounds Exception
+329294	inspect occur Build Bug Linkage display watch binding attached src Declarations Helios linkageSectionMatcher linkage Matcher Matcher linkage variable Bug Unable resolve binding error inspect display watch variable
+472657	warning googled build Set ignore type error bit JDT Bug Set Redundant type arguments highter warning ignore
+161364	debugging formed Display code method extends error Inspect feature block Bug Evaluating Code Generics work debugging
+189012	view Change Primitive Bug Change dialogs
+99416	Test Vector TestCase Test Case TestResult Test Result VectorTest Vector Test Case Impl stack Result invoke Capacity Object Debug runTest Test breakpoint Evaluation Runner Bug Evaluation context superclass fails resolve instvar subclass
+130145	accompanying accompanies MyEnum Enum reserved Enum method foo IBM Corporation breakpoint entry fails Eclipse License Bug Method entry breakpoint fails method Enum parameter
+9825	icon action view color prefer showing breakpoints Bug Action icon inconsistencies
+371300	eclipse default launching workspace JRE IVMInstall environment installs method JDK set NLS nstall IVMI install computeVMInstall compute VMInstall JavaRuntime Java Runtime modified confusion System println IExecutionEnvironment IExecution Environment returns Configuration IL behaviour project maven creates configuration Environment resolveVM resolve Bug JavaRuntime Java Runtime Java Runtime computeVMInstall compute VMInstall method returns workspace default compatible version launch configuration Java Runtime compute VMInstall
+105573	warning compiler error stack ExTest Test String Test exception Pointer trace Bug suspend uncaught exception compiler warning
+33893	JREs JRE preference update Bug Preference import import existant JREs JRE
+345196	eclipse org java execute Text invoke commit save Save Operation Method Copy Impl Event widgets Working Compilation jdt Document Dispatcher perform Workbench update reflect internal Unit Widget Key commands start Abstract Display Provider Model Handler core File Dispatch executeOperation execute Operation Control Commit Saveable doSave Save sun Action Editor Eclipse handle send Delegating swt javaeditor win Main Workspace windowProc window Proc Binding Marker equinox Resource Handle Context createAndRunWorkbench create Workbench texteditor TextFileDocumentProvider Text File Document Provider Proc Modify commitWorkingCopy commit Working Copy create read performSave perform Save App bindings Canvas Buffer KeyBindingDispatcher Key Binding Dispatcher Annotation lang CompilationUnitDocumentProvider Compilation Unit Document Provider NPE saving file debugging ant task
+268393	change Bug letting Image attempt Bug Debugger letting change null String
+29297	folders output path find debug folder project version Bug Debug honor multiple output folders
+30837	breakpoint NPE suspended code Loss Bug Loss suspended breakpoint
+214650	zip launching implementing Installs source file archive class paths library src libraries JRE files talked bundle lib path charconv Bug Execution Env description file source archive
+187000	looses step focus selection linux thread suspend press debug stack collapsed Bug Debugger looses selection focus lot thread stack debug
+150652	action enable method evaluate return view required evaluation expression Display Bug evaluation Force early return
+173187	method breakpoints expand showing user file distinguish type Bug Breakpoint unclear refactoring
+148615	Test recognize nit derive JUnit class selected methods Bug JUnit nit JUnit nit recognize JunitTestCase Junit Test Case Junit Test Case Test superclass Junit Test Case
+13957	Java Copy setting LaunchingPlugin Launching Plugin resourceCopyExclusionFilter resource Copy Exclusion Filter Exclusion Launching Core Bug LaunchingPlugin Launching Plugin Launching Plugin specification resourceCopyExclusionFilter resource Copy Exclusion Filter resource Copy Exclusion Filter Launching Plugin resource Copy Exclusion Filter
+9861	click works scrapbook getProperty Property separator Bug Double click work strings scrapbook
+22662	build container handle inter project library Bug IClasspathContainerPage IClasspath Container lasspath Container context build path IClasspath Container
+422016	warning missing function classes marked install detect inferred number add debug triggers attributes don objects Bug reference expressions lambdas file triggers warning missing numbers
+54407	pass files today work touch Bug pass properties files
+30344	error result text scrapbook message pop dismissed leaving code Bug Insertion scrapbook error messages unhelpful
+77449	drop don target dialog box check Bug user monitor info unavailable
+68233	debugging handle Event JavaBreakpoint Java Breakpoint java eclipse Breakpoint dispatch Pointer lang backtrace workbench debug org jdt program running Java core times hyades Null areas continue find breakpoints pointer Null Pointer JavaBreakpoint Java Breakpoint Java Breakpoint Java Breakpoint
+138377	stack Clicking console lookup hyperlink source Bug patch console source lookup Clicking Java stack trace hyperlink console unusably slow
+383625	Set defined extend JDI EventSet Event Set version event compiles rely sun jdi Bug JDT version sun jdi event EventSet Event Set Event Set doesn extend java util set Event Set
+142476	project TVT click xml boxes border File Text created Category choose Testing reassigned field Emitter box Bitmap Bug TVT TCT Text boxes ovelap borders
+237709	Working Preference Copy JRE user vm creates set Server vmWorkingCopy Working Copy Web Installed vmId Runtime create created change Bug preferences Installed JRE tab pick JRE created Preference
+28304	occurred invoking Operation Exception UnsupportedOperationException Unsupported Operation Exception method String Bug variables UnsupportedOperationException Unsupported Operation Exception Unsupported Operation Exception report user toString String String WTK Unsupported Operation Exception String
+324246	classpath defined java builder pass enhancer Bug pass project classpath external programs defined builders
+325777	Install connect Java jdk Mac files configure Contents bundle running detection detected JDK JVM Eclipse delivering detect Attempt transitioning bundles cgi Bug Eclipse JRE JDK detection Mac detect jdk bundles
+64663	Variables hex Bug variables Variables Change accept hex
+352413	underscores window literals accept supports Java Bug Debugger support binary literals underscores setting literals
+506014	returned return view observed reply flickering variables removed bug don decided discussing method discussions Bug constantly method return node variables view
+275614	Debug view expand auto expanded started perspective threads bug switch Bug REGRESSION threads longer expanded Debug view visible
+1695	thread support process constrain Bug DCR support process thread specific breakpoints GIYJTQ
+85665	adding selected dialog Bug JRE container dialog empty combo
+31907	row people table Java Bug Java Variable Settings row
+204455	launch Attach Connection configuration remembered Launch type Java Type Application Bug ConnectionType Connection Type Connection Type remembered Remote Java Application Launch Config Connection Type
+19623	tool ExternalTools External Tools Bug ExternalTools External Tools External Tools Display full command external tool External Tools
+92838	missing add cycles CONSOLE PROCESS api TYPE Bug api add missing tags API cycles
+53929	tree path Classpath jar dialog Bug Classpath tree entries FULL path
+211625	XstartOnFirstThread Xstart Thread understand Xstart appears add attempting JVM named includes Thread Bug option omit XstartOnFirstThread Xstart Thread Xstart Thread SWT projects MacOS Mac Xstart Thread Mac
+385192	variables environment rendering Process Bug environment variables rendering Process Properties user friendly
+16046	launch cancel wait user dialog configuration finish Launch Cancel button Bug Bug Launch configuration dialog doesn cancel launch
+72371	Bug Bug Streams left open exception
+90805	hit resumed breakpoint showing Filters view evaluating set frame stepped beep evaluated method FiltersAction Filters Action pane Action Drop Bug Drop frame failed evaluation message error dialog evaluation flag cleared
+145592	InnerClass Class foo add field debugger touch modify Bug Debugger confused watchpoints fields
+53952	breakpoint String type import util Test Vector Bug Generic type local variables displayed
+53959	names breakpoint qualified Variables view Set import String Bug Nested generic type names correctly displayed
+13015	breakpoint condition evaluates Bug stepping conditional breakpoint
+349400	support Java June fixing Bug Add Java support Debug
+414939	Referenced Launch eclipse org debug mixedmode Bug Error checking org eclipse debug examples mixedmode
+312038	java launching File called locked thread oss stat compute eclipse directory src JREContainer jdt jar zip Library times Attributes ontainer switched isFile File org StandardVMType Standard VMType Unix iterating System Stracing TreeViewer Tree Viewer Viewer Bug JREContainer JREC ontainer hasChildren Children Children locks Children
+7404	step Add work Hitting entry Bug Add Filter step filtering broken
+330987	applied bundle version Bug Missing tags increment bundle version
+32494	enable Display snippet Execute Inspect Bug Insp Display actions menu enabled scrapbook
+241394	captured console eclipse problem text input xception IOException read expected import Reader introduced fine buffer IME IOE Input panel Bug Console input text properly eclipse console panel
+248054	set breakpoints Text Bug pick annotation Breakpoints Highlighted breakpoint Bug set breakpoint annotation Highlighted
+94452	step update exceptions timeout starts attempting stepping Bug Timeout exceptions
+341232	set breakpoint doesn Eclipse method compilation reports Bug breakpoints Bug Eclipse set simplest conditional breakpoints reports condition compilation errors doesn
+232699	Connect eclipse connect click response TVT Debug Ryding John left plugins SocketAttachingConnectorImpl Socket Attaching Connector Impl jdimodel jar ConnectMessages Connect Messages Space Messages Attaching Connector missing Impl org Host Bug TVT TCT TVT Space missing colon sign French
+400636	work Display debugging view Bug codeassist work Display view
+11514	JSP pattern source generated field proposed place Java debugger Bug Feature support JSP debugging
+24826	type eclipse hyperlinks Listener test ant OptionTests Option Tests Bug Console hyperlinks java type names numbers
+52474	build Java Exploring start Perspective check CVS workspace Platform attempt point Bug Blocked opening Java Perspective CVS check
+249593	jdt compiler product org eclipse level core workspace default Bug set default compiler level product
+404731	eclipse org java refactoring debug Event core swt dispatching selected Conflicting Process console Working Text Eclipse jdt exist equinox internal Impl update Java Handler Perspective start MESSAGE dispatch STACK handle set Move workbench notify ENTRY Configuration launch services commands perform Log UIEventHandler UIEvent Handler removed ltk Participant invoke event Change Exception changed Element Launch execute Context Workbench Helper send Manager launching model MyTextTest Text Test widgets src Main Underlying erform Display vent UI Test Renderer advanced Resource events Method compute Stack lang osgi Bar sync updateResourceMapping update Resource Mapping reflect Timesheet handleEvent handle Event processScheduled process Scheduled Scheduled TimesheetHelper Timesheet Helper dispatchEvent dispatch Event UIE SET ProcessConsolePageParticipant Process Console Participant handlers ToolBarContributionRecord Tool Bar Contribution Record Container selectedElement selected Element Console EOF views service Model syncExec sync Exec topic Launch configuration refactoring exceptions Entries Configuration vanish usage Eclipse IDE
+18174	String append buf char launching works launch parse Argument fIndex Args arguments return quote Arguments passed escape Java expect Parser ArgumentParser Argument Parser arg Bug Quotes execution arguments Java launch
+33534	Ant Bug Ant Editor range indication supported
+337658	eclipse java org execute Search reflect handle Action invoke Clipboard find Method Matches Open OpenFromClipboardAction Open Clipboard Action Event jdt matching start core Command lang es Workbench perform Eclipse internal Display commands add invoking widgets thrown Handler Main sun search Progress Impl equinox send debug Handle CommandContributionItem Command Contribution Item createAndRunWorkbench create Workbench Invocation Item Job read InvocationTargetException Invocation Target Exception Exception App Widget Checks enabled Engine Bug MatchLocator Match Locator Manager PlatformUI Platform Realm Locator databinding create runtime launcher Bug java lang reflect InvocationTargetException Invocation Target Exception Invocation Target Exception thrown invoking Open Clipboard Invocation Target Exception
+419577	eclipse org java jdt Event Dialog create widgets Pressed swt Display LibrariesWorkbookPage Libraries Workbook execute Send returns Control JRE Method Eclipse Workbench invoke Widget wizards handle internal Tree send Selected launching customButtonPressed custom Button Pressed libaryPageCustomButtonPressed libary Custom Button Pressed commands NPE selecting start buttonPressed button Pressed Wizard edit Inspecting Workbook sendEvent send Event Button Java configure runtime thrown reflect Entry WorkbenchKeyboard Workbench Keyboard Action Key JavaRuntime Java Runtime BuildJREDescriptor Build JREDescriptor Container TreeListDialogField Tree List Dialog Field pressing Main Runtime cocoa sun Impl dialogs equinox buildpaths Handler Keyboard Handle windowSendEvent window Send Event createAndRunWorkbench create Workbench handleEvent handle Event button Controls Description translate Build configured read App jdk call NPE JRE Library dialog JRE installed
+40707	disabling enabled setting Open set Bug Breakpoint remains enabled disabling setting hit count
+34052	program CTRL EOF reads recognize System input Bug CTRL Recognized EOF
+40708	breakpoint dialog title Properties Bug breakpoint properties dialog title
+24839	debug org eclipse Timeout mode debugging build IBM TimeoutException Timeout Exception Exception Bug TimeoutException Timeout Exception Timeout Exception debugging org eclipse tests Timeout Exception
+21769	stack runProtected Protected Protected junit debug Add Test log breakpoint framework test eclipse frame point org program Terminate Result code Case TestCase Test Case step Bug Invalid code stepping junit code
+8458	action Bug Inspect action variables view
+94474	Edit deselect dismiss Installed source attachment Bug Unable change source attachment JRE jar
+21776	action Evaluate Frames ava enabled Bug IJ Bug Evaluate action enabled java stack frames
+16152	Bug NLS pass Bug NLS pass
+22815	viewers Bug Support delete key viewers
+23328	suspend fFull Full breakpoint hit resume set resumes assert step size program assertTrue assert True thread Bug Resume fails suspend breakpoint stepping BUG
+29474	debugger menu support visibility context element elements supported Contributions contributions Bug property Bug Contributions Context menu contributions support visibility element
+297248	eclipse java org execute Action invoke Event Text start Method throws Workbench actions Exception Eclipse reflect widgets Abstract toggle Qualified Click Display commands extends Main handle sun Breakpoint Impl Void Script send Toggle equinox Delegate Handle read createAndRunWorkbench create Workbench App Contributed Runtime breakpoint ToggleBreakpointAdapter Toggle Breakpoint Adapter Adapter core Checks Environment RuntimeException Runtime Exception lang fScriptEnvironment Script Environment NPE setting breakpoint
+124203	debug context introduced manager Bug View management respect debug context manager
+15662	display result Select Bug Display null
+412982	return enable writing breakpoint modify trick checkbox JDT Bug breakpoints conditional breakpoint condition return false default
+246577	Supports code eclipse understand set asks equals supported fSupportsDisableGC Supports Disable debugger method SupportsDisableGC Supports Disable Disable support initiated debugging Classic Runtime catch Bug SupportsDisableGC Supports Disable Supports Disable initiated true support Supports Disable
+15667	src selecting path stack realized Bug Adding Jar src lookup path remote launch
+10035	projects ini path files application projectdir Junit project dir Bug Launcher support variables
+165174	stepping selection lost launch code turned Bug viewers selection lost launch view stepping sync block
+428862	Object Ljava Exception breakpoint hit missing debug install displayed Quick Stream throws number String java attributes lang method Byte IOException Serialized Test Class QuickSerializedLambdaTest Quick Serialized Lambda Test Lambda popup Consumer exit Java Input ClassNotFoundException Class Exception Array reach options Assertion Bug Unable install breakpoint
+372030	thread resume suspended selected wanted resumed Resume investigate single Suspend Bug resume single thread suspended
+167740	array menu Edit details Bug variables views Edit details formatter menu array types
+21823	model debug performing Bug java debug model adapters
+12609	don evaluate Test timeout test testCapacity test Capacity Bug Eval error eval timeout
+9026	view Bug Compilation error breakpoints showing breakpoints view
+319298	launch installed replaced Bug Support launch variables
+120651	assist list content display CTRL bring work Content type Variables Display Bug Display Content Assist work consistently Variables View
+125771	method source created Bug unable create method breakpoints external source
+414029	API debug generified Bug Adapt Platform Debug API
+369480	builds JRE Add recognized Installed workspace Execution IBM jar Java launchingsupport Bug Fixed bug launchingsupport jar compatible JRE recognized latest builds
+271700	java Declaring test eclipse testDeclaringTypes test Declaring Types resume Debug AbstractDebugTest Abstract Debug Test tests build debug testDeclaringTypes test Declaring Types test Declaring Types failing nightly build test Declaring Types
+297808	issues created Eclipse facing compatibility Bug JDT bug versions clone Safari Bug resolve compatibility issues Eclipse constant internals JDT
+311120	eclipse java org create util debug set Workbench View invoke Breakpoint Source Method Stack start breakpoints error reflect occurred internal including Debug Control core Content Changed createPartControl create Control Display Manager Eclipse widgets Abstract Left Java reorganize Reference Default Main Activate escape createControl create Control Impl initialize PartStack Stack equinox presentations Helper Presentable Breakpoints Handle regex refresh Viewer createAndRunWorkbench create Workbench Check Input Build read App NativeMethodAccessorImpl Native Method Accessor Impl sun Presentation AbstractDebugView Abstract Debug View Properties RunnableLock Runnable Lock Provider sequence BreakpointManager Breakpoint Manager Window ViewReference View Reference PlatformUI Platform Realm runAsyncMessages Async Messages BreakpointsView Breakpoints View Pattern Breakpoints totally hosed Unable create view org eclipse debug BreakpointView Breakpoint View Breakpoint View Illegal unsupported escape sequence Build CheckPropertiesFiles Check Properties Files Check Properties Files Breakpoint View Check Properties Files
+27989	perform API time configuration launch check checks Provide Debug group notified suggestion Tab Bug Provide final verification launch configuration API
+88923	create compiled thread methods Bug evaluation Evaluations create compiled expression thread
+79706	hit add set build formatter IDE Menu start Bug Detail formatter fails simple case
+94047	preference Variables Sets opening plugins Classpath shudders nit activated Bug ActionSets Action Sets Action Sets classpath Toolbar shudders opening Classpath Variables preference Action Sets
+12640	created remove Java Breakpoint workspace removeFromTarget remove Target Bug Workspace runnable correctly
+81249	toString String String Bug toString String String variable label suspended threads String
+206693	eclipse created Installed based resolves location wiki JRE Bug JRE location wrong installing description file
+86887	Java assumes create JSP Project IFile Manager JavaModelManager Java Model Manager handle IJavaProject IJava Project Model Bug Conditions work JSP breakpoints
+18792	caught enabled selections Bug Minor caught uncaught enabled single selection
+208744	watchpoints set breakpoints Bug fields reason Bug breakpoints Unable set watchpoints field declarations
+29036	eclipse lang org Ljava Object Lorg Tree win Event widgets swt handle Viewer Proc Children java Expand viewers String equals ield create Control treeExpanded tree Expanded Dispatch Abstract Filtered Display send Call AbstractTreeViewer Abstract Tree Viewer jface Workbench invoke reflect LRESULT Window sendEvent send Event debugging debug Widget read Bug NPE debugging
+407402	defined checked JRE linux eclipse Bug MAC Checked JRE system JRE JRE defined eclipse ini
+34670	DELETE classpath Launch Java Bug lists event Bug Java Launch Configs DELETE key event lists classpath tab
+53102	resolving accepted Project installed Bug location Bug Breakpoint installed accepted location verification
+10096	JRockit jar Workspace JR ockit JRE program Finish build JavaMail Java Mail Java exe wizard debug starts relaunching Eclipse set xerces Generational Running starting view problems command Mail History java ways man smtp instance launched javaw test xml pressing modifying Impl demonstrates Bug Eclipse aware launched JVM JRockit ockit
+401270	eclipse jdt java accept handle org Breakpoint Event core debug hread create Compiled ode breakpoint Hit Exception suspend dom ASTNode ast dispatch Stack JDIT engine ASTN ASTInstructionCompiler ASTInstruction Compiler internal JavaBreakpoint Java Breakpoint JDIThread breakpoints Declaration Instruction model valuation util handleSuspendForBreakpoint handle Suspend Breakpoint Bug JDI Event Dispatch Exception conditional breakpoint
+13684	Launch Configuration eclipse Attribute ava IJavaLaunchConfigurationConstants IJava Launch Configuration Constants add Add swt ATTR set Constants win IL jar TYPE List Copy org plugins classpathList classpath List Type Exception INSTALL IJ config getId classpath aunch launch SWT lc CoreException Core Exception Bug CoreException Core Exception Core Exception thrown project Core Exception
+12665	breakpoint Add import Workbench error claiming dialog copy workbench eclipse Bug ClassNotLoaded Class Loaded Class Loaded JDI exception conditional breakpoint Class Loaded
+414076	java remove org eclipse terminated debug core jdt dispatch model test util JDID Itr Bug CME Running test suite
+53115	Ant build logging support Entry handles AntCorePrefs Ant Core Prefs Bug Contribute remote Ant support extraClasspathEntry extra Classpath Entry extra Classpath Entry extra Classpath Entry
+144253	force source CHANGE stack Bug source lookup Stack Frame CHANGE events longer force source lookup
+53634	libraries JRE running Bug default JRE libraries don work running application
+18306	launch configuration platform prevents defend runtime config support Bug safe runnables listeners untrusted code
+76675	Matching stack IOConsole Pattern based Requires consoles Bug Pattern Matching independent IOConsole IOC onsole IOConsolePartitioner IOConsole Partitioner IOC onsole Partitioner IOConsole Partitioner
+31110	source Lookup Advanced Debugger Debbugger work Bug Debbugger Source Lookup work variables
+217994	args JRE arg Create test Dvm Set configuration level launch launching Bug patch launching Debug honors JRE args Launcher args
+197011	JRE Add adding click system Fill Edit Click reproduce lost Installed libraries Bug Add JRE fails retain system library modifications
+401815	PList PL drops linux tests create installs ist parser Bug PList ist parser test failures tests
+140179	default create JDK Bug default JDK set
+426903	getOne declaring method oracle listed inspect find error type default JDK guides docs javase jpda Bug evaluate super call default method
+139152	Java validates Debug preferences preference Bug preferences Java Debug preference validates uninitialized fields
+463252	eclipse drops debug org plugins Bug Compile log warning JDT Debug
+66453	Focus restore saved breakpoint savedFocus saved Focus restoreFocus restore Focus String set build correspond condition string System Expected Bug String concatenation unexpected result conditional breakpoint expression
+12695	breakpoint Java set thread breakpoints adapter hidden creating Bug full set breakpoints hit thread
+43927	assist work Content Space Bug Content assist work breakpoint properties
+73624	class method selected time expect bringing asks avoid user Bug Don prompt main class main class selected
+43418	JRE directory choose Click Browse Bug busy cursor choosing JRE base directory
+392607	determined fails test JDI Bug JDI test suite work Mac OSX
+49052	scrapbook restart arg Bug changing arg scrapbook properties restart
+307109	JREs match JavaSE Java Bug JREs JRE perfect match JavaSE Java Java
+9122	waited debug junit workspace Bug debugging extremally slow latest
+19363	Missing Bug Missing wizard banner library container
+183206	tests failure reproduced refactoring ensure Bug refactoring Mysterious refactoring failure caused tests fail
+384930	eclipse org java Changed atch Factory handle evaluate selectionChanged selection Changed Event Viewer Provider Workbench invoke Expression cast implement debug Java expressions start Variables Method variables Adapter services reflect Authority Eclipse IW jface Source fire actions Display widgets Main sun Selected JavaExpressionContentProvider Java Expression Content Provider Impl update equinox View internal Abstract IWatchExpressionFactoryAdapter IWatch Expression Factory Adapter Content send Handle fireSelectionChanged fire Selection Changed Selection Select createAndRunWorkbench create Workbench handleSelect handle Select read runtime sourceChanged source Changed lang Strategy App Watch jdt Bug CCE WatchHandler Watch Handler Watch Handler getFactory Factory Factory Watch Handler Factory
+421806	debugger work verify Java support values supporting expose JEP treat stepping raise JDT breakpoints Bug Debug support Java
+57257	dispatch debug Bug ArrayOutOfBoundsException Array Bounds Exception Array Bounds Exception debug event dispatch Array Bounds Exception
+49068	space JRE amount Bug Large space top Installed JREs JRE pref
+6063	Display Java Bug Snippet Display catch JavaSourceViewerConfiguration Java Source Viewer Configuration Java Source Viewer Configuration Java Source Viewer Configuration
+399798	extension sourcepath creates updating eclipse contribute developing won javadoc library classpath StandardVMType Standard VMType source provide ext libraries Bug StandardVMType Standard VMType contribute default source Javadoc locations ext libraries Standard VMType
+9649	Progress Add workspace process memory Bug rebuild returns
+188339	code expression watch view replaced selected inspect statements statement block Bug scrapbook Expressions scrapbook convert watch expression correctly
+49077	default tacked Bug append jar default bootpath
+108473	Tomcat debug Eclipse time mode running Bug CPU Bug Performance performance eclipse severely degrades time
+16313	launching eclipse org debug initialize java Launch resolve occurred launch Configuration Source Exception Path Locator Java initializeDefaults initialize Defaults StandardSourcePathProvider Standard Source Path Provider ModalContextThread Modal Context Thread Bug NPE StandardSourcePathProvider Standard Source Path Provider Standard Source Path Provider Standard Source Path Provider
+8634	breakpoints workspace Bug Exception breakpoints persisted
+12740	eclipse org assuming swt shell win Select SWT view expand set Finish lang project load class breakpoint file File code Windows dll Layout loadLibrary load Library test directory time String java List list system field Export Directory display Text menu Bug Wierd behavior debugging standalone SWT
+300992	breakpoint option dialog build properties Bug breakpoint properties dialog problems target class
+323020	Bug Bug test failure Mac
+60364	code eliminated debug JDT Bug debug deprecated runtime code
+384458	class breakpoint project debug println scope stopped method Bug debug variable scope
+109009	importing tests breakpoints Bug Tests breakpoint import export
+3536	JDK JDKs installed Bug Support search JDK installations HPND
+171984	stroke Breakpoint bound Bug Open Breakpoint Properties dialog key stroke
+339414	Walking IJavaDebugTarget IJava Debug Target considers ava supports supplied provide Debug Target allowing Bug HeapWalking Heap Walking Heap Walking manager support debug targets provide IJavaDebugTarget IJava Debug Target ava Debug Target adapter Heap Walking IJava Debug Target
+465363	eclipse org Text Stand Hover hover Java dev find confess rcp Info recommenders stacktraces jdt cdce getHoverInfo Hover Info Stacktrace java https shortened JavaDebugHover Java Debug Hover text package supplied Manual findLocalVariable find Local Variable committers aecd Eclipse guide SISPSIE JavaDebugHover Java Debug Hover Java Debug Hover findLocalVariable find Local Variable find Local Variable Java Debug Hover find Local Variable
+27093	location apporpriate Javadoc investigate Bug Javadoc location initial
+64984	work Bug Inspect doesn work Display View
+212442	tests import causing failures comparing Bug Failing importbreakpoints tests
+181220	setting occurs font Random change instance text bug view expanded problem util behaviour java debugging variables updating Bug Variable text font update correctly columns turned
+72169	context debug providing Resource Manager Selected access Bug debug context thread
+42984	directory working ant set script running echo Ant project dir Bug set working directory args Ant processes
+290285	model custom commands refresh JDWP sending API presented Bug API custom JDWP commands model refresh
+18926	JRE Installed JDK add error stating pops window default Click Bug unable add JDK Installed JRE Preferences
+407542	remove find debug NLS Bug Check remove unused NLS strings Debug
+419316	loaded init Object Check features JDIDebugTarget JDIDebug Target Target JDID requested Java entered returns ebug instances lang references guaranteed admit java method assumes executed returned throw Bug References instances throw NPE Eclipse
+29683	JRE project build classpath container save choose Bug naming prompt JRE resolution
+380918	Project JUnit nit JU exist fails view linked Progress Launch projects Launching classpath project entry failing missing launch Bug Launching failing missing optional project
+290288	panes supports Java supply Bug Detail panes editors Java breakpoints
+22005	runnables thread review synch Bug Review runnables
+394225	evaluates Display Bug Display evaluates true true true true true incorrectly
+343039	including knew consuming sessions deadlock Dunno Bug Turn monitors default
+16378	tabs Missing launch Workbench remains Bug Missing icons launch config creation tabs
+110074	breakpoint working Bug Breakpoints default breakpoint working set
+396795	colour detail breakpoint background changing Prevent selection Bug Prevent breakpoint detail panes changing background colour selection
+394233	add dies Mac arg option Access test launching Thread InvalidThreadAccess Invalid Thread Access missing checked Invalid Bug InvalidThreadAccess Invalid Thread Access Invalid Thread Access launching plugin test suite standard Mac Invalid Thread Access
