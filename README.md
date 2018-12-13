@@ -148,7 +148,7 @@ This command collects the queries from STRICT and their results, and then save t
 TSE : Replication Package
 ============================================================
 
-Subject Systems:
+Subject Systems
 ------------------------------------------------------------
 - **ecf** (345)
 - **eclipse.jdt.core** (404)
@@ -163,16 +163,17 @@ Replication Tool
 ------------------------------------------------------------
 - ```strict-replicator.jar``` : Prototype for replicating the results submitted to TSE 
 
-Required parameters for the operations
------------------------------------------------
--  **-task** : expects a task to be performed. Two values - ```evaluate``` and ```evaluateQE```. 
--  **-algorithm** : expects an algorithm name from ```TR```,```PR```, ```TPR```, ```TRC```, ```PRC```, ```TPRC```, ```Best-RF``` and ```Best-NS```. 
--  **-K** : expects the value for top results.
--  **-baselineKey** : expects the type of baseline query from a change request. It takes two values ```T```, ```D``` and ```W```. 
-Here, ```T``` stands for the title, ```D``` stands for Description and ```W``` stands for the whole texts from the change request.
--  **-difficultOnly** : if ```true```, high quality baseline queries are avoided in the evaluation. 
 
-Experimental Data:
+Required parameters for the operations
+------------------------------------------------------------
+-  **-task** : expects a task to be performed. Two values -- ```evaluate``` and ```evaluateQE```. 
+-  **-algorithm** : expects an algorithm name from ```TR```, ```PR```, ```TPR```, ```TRC```, ```PRC```, ```TPRC```, ```Best-RF``` and ```Best-NS```. 
+-  **-K** : expects the value for the Top results.
+-  **-baselineKey** : expects the type of baseline query from a change request. It takes four values ```T```, ```D```, ```C``` and ```W```. 
+Here, ```T``` stands for the title, ```D``` stands for Description, ```C``` stands for code-only, and ```W``` stands for the whole texts from the change request.
+-  **-difficultOnly** : if it is ```true```, the high quality baseline queries are avoided in the evaluation. 
+
+Experimental Data
 --------------------------------------------------------------
 - ```TSE-Experiment-2018/Baseline/query``` : Baseline queries extracted from the 2,885 change requests.  
 - ```TSE-Experiment-2018/Baseline/rank``` : Query Effectiveness (QE) of the baseline queries.  
