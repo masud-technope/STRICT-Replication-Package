@@ -5,16 +5,10 @@ Replication Package of STRICT: Search Term Identification for Concept Location u
 
 Abstract
 --------------------------------
-During maintenance, software developers deal with numerous  change requests that are written in an unstructured fashion using natural language.
-Such natural language texts illustrate the change requirement involving various domain related concepts. 
-Software developers need to find appropriate search terms from these concepts so that they could identify the possible locations in the source code using a search technique. 
-Once such locations are identified, they can implement the requested changes there.
+During maintenance, software developers deal with numerous  change requests that are written in an unstructured fashion using natural language. Such natural language texts illustrate the change requirement involving various domain related concepts. 
+Software developers need to find appropriate search terms from these concepts so that they could identify the possible locations in the source code using a search technique. Once such locations are identified, they can implement the requested changes there.
 Studies suggest that developers often perform poorly in identifying suitable search terms from a change request. 
-In this article, we propose a novel technique --STRICT-- that (1) automatically identifies suitable search terms from a change request using three graph-based term weighting algorithms -- TextRank, POSRank and WK-Core, and (2) then suggests appropriate search query using query quality analysis and machine learning. Our approach thus 
-determines a term's importance based on not only its co-occurrences with other important terms but also its syntactic relationships and cohesion with them. Experiments using 2,885 change requests from eight subject systems report that STRICT can offer higher quality queries 
-than baseline queries from 43%--72% of the requests, and they achieve 26% higher accuracy, 25% higher precision and 26% higher reciprocal rank than the baseline. 
-Comparison with three state-of-the-art approaches demonstrate that our approach improves 16% more baseline queries and achieves 25% higher accuracy, 
-37% higher precision and 38% higher reciprocal rank than that of the state-of-the-art.
+In this article, we propose a novel technique --STRICT-- that (1) automatically identifies suitable search terms from a change request using three graph-based term weighting algorithms -- TextRank, POSRank and WK-Core, and (2) then suggests appropriate search query using query quality analysis and machine learning. Our approach thus determines a term's importance based on not only its co-occurrences with other important terms but also its syntactic relationships and cohesion with them. Experiments using 2,885 change requests from eight subject systems report that STRICT can offer higher quality queries than baseline queries from 43%--72% of the requests, and they achieve 26% higher accuracy, 25% higher precision and 26% higher reciprocal rank than the baseline. Comparison with three state-of-the-art approaches demonstrate that our approach improves 16% more baseline queries and achieves 25% higher accuracy, 37% higher precision and 38% higher reciprocal rank than that of the state-of-the-art.
 
 
 Accepted Papers
@@ -24,11 +18,16 @@ STRICT: Information Retrieval Based Search Term Identification for Concept Locat
 
 Mohammad Masudur Rahman, Chanchal K. Roy
 ```
+**Download this paper:**  [<img src="http://homepage.usask.ca/~masud.rahman/img/pdf.png"
+     alt="PDF" heigh="16px" width="16px" />](http://homepage.usask.ca/~masud.rahman/papers/masud-SANER2017-pp.pdf)
+
 ```
 TextRank based search term identification for software change tasks
 
 Mohammad Masudur Rahman, Chanchal K. Roy
 ```
+**Download this paper:**  [<img src="http://homepage.usask.ca/~masud.rahman/img/pdf.png"
+     alt="PDF" heigh="16px" width="16px" />](http://homepage.usask.ca/~masud.rahman/papers/masud-SANER2015.pdf)
 
 Materials Included
 ----------------------------------------
@@ -255,6 +254,9 @@ title={STRICT: Information Retrieval Based Search Term Identification for Concep
 year={2017},
 pages={79--90} }
 ```
+**Download this paper:**  [<img src="http://homepage.usask.ca/~masud.rahman/img/pdf.png"
+     alt="PDF" heigh="16px" width="16px" />](http://homepage.usask.ca/~masud.rahman/papers/masud-SANER2017-pp.pdf)
+
 ```
 @INPROCEEDINGS{saner2015masud,
 author={Mohammad Masudur Rahman and C. K. Roy},
@@ -263,6 +265,9 @@ title={TextRank based search term identification for software change tasks},
 year={2015},
 pages={540-544} }
 ```
+**Download this paper:**  [<img src="http://homepage.usask.ca/~masud.rahman/img/pdf.png"
+     alt="PDF" heigh="16px" width="16px" />](http://homepage.usask.ca/~masud.rahman/papers/masud-SANER2015.pdf)
+     
 --------------------------------------------
 Please contact **Masud Rahman** (masud.rahman@usask.ca) 
 
