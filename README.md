@@ -3,9 +3,7 @@ STRICT-Replication-Package
 Replication Package of STRICT: Search Term Identification for Concept Location using Graph-Based Term Weighting
 
 
-Abstract
---------------------------------
-During maintenance, software developers deal with numerous  change requests that are written in an unstructured fashion using natural language. Such natural language texts illustrate the change requirement involving various domain related concepts. 
+**Abstract:** During maintenance, software developers deal with numerous  change requests that are written in an unstructured fashion using natural language. Such natural language texts illustrate the change requirement involving various domain related concepts. 
 Software developers need to find appropriate search terms from these concepts so that they could identify the possible locations in the source code using a search technique. Once such locations are identified, they can implement the requested changes there.
 Studies suggest that developers often perform poorly in identifying suitable search terms from a change request. 
 In this article, we propose a novel technique --STRICT-- that (1) automatically identifies suitable search terms from a change request using three graph-based term weighting algorithms -- TextRank, POSRank and WK-Core, and (2) then suggests appropriate search query using query quality analysis and machine learning. Our approach thus determines a term's importance based on not only its co-occurrences with other important terms but also its syntactic relationships and cohesion with them. Experiments using 2,885 change requests from eight subject systems report that STRICT can offer higher quality queries than baseline queries from 43%--72% of the requests, and they achieve 26% higher accuracy, 25% higher precision and 26% higher reciprocal rank than the baseline. Comparison with three state-of-the-art approaches demonstrate that our approach improves 16% more baseline queries and achieves 25% higher accuracy, 37% higher precision and 38% higher reciprocal rank than that of the state-of-the-art.
