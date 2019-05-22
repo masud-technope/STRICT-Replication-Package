@@ -266,6 +266,10 @@ pages={540-544} }
 **Download this paper:**  [<img src="http://homepage.usask.ca/~masud.rahman/img/pdf.png"
      alt="PDF" heigh="16px" width="16px" />](http://homepage.usask.ca/~masud.rahman/papers/masud-SANER2015.pdf)
      
+
+# Related Projects: [ACER](https://github.com/masud-technope/ACER-Replication-Package-ASE2017), [BLIZZARD](https://github.com/masud-technope/BLIZZARD-Replication-Package-ESEC-FSE2018), and [QUICKAR](https://github.com/masud-technope/QUICKAR-Replication-Package-ASE2016)
+
+Something not working as expected?
 --------------------------------------------
 Please contact **Masud Rahman** (masud.rahman@usask.ca) 
 
