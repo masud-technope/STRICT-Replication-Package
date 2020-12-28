@@ -16,16 +16,16 @@ STRICT: Information Retrieval Based Search Term Identification for Concept Locat
 
 Mohammad Masudur Rahman, Chanchal K. Roy
 ```
-**Download this paper:**  [<img src="http://homepage.usask.ca/~masud.rahman/img/pdf.png"
-     alt="PDF" heigh="16px" width="16px" />](http://homepage.usask.ca/~masud.rahman/papers/masud-SANER2017-pp.pdf)
+**Download this paper:**  [<img src="https://web.cs.dal.ca/~masud/img/pdf.png"
+     alt="PDF" heigh="16px" width="16px" />](https://web.cs.dal.ca/~masud/papers/masud-SANER2017-pp.pdf)
 
 ```
 TextRank based search term identification for software change tasks
 
 Mohammad Masudur Rahman, Chanchal K. Roy
 ```
-**Download this paper:**  [<img src="http://homepage.usask.ca/~masud.rahman/img/pdf.png"
-     alt="PDF" heigh="16px" width="16px" />](http://homepage.usask.ca/~masud.rahman/papers/masud-SANER2015.pdf)
+**Download this paper:**  [<img src="https://web.cs.dal.ca/~masud/img/pdf.png"
+     alt="PDF" heigh="16px" width="16px" />](https://web.cs.dal.ca/~masud/papers/masud-SANER2015.pdf)
 
 Materials Included
 ----------------------------------------
@@ -252,8 +252,8 @@ title={STRICT: Information Retrieval Based Search Term Identification for Concep
 year={2017},
 pages={79--90} }
 ```
-**Download this paper:**  [<img src="http://homepage.usask.ca/~masud.rahman/img/pdf.png"
-     alt="PDF" heigh="16px" width="16px" />](http://homepage.usask.ca/~masud.rahman/papers/masud-SANER2017-pp.pdf)
+**Download this paper:**  [<img src="https://web.cs.dal.ca/~masud/img/pdf.png"
+     alt="PDF" heigh="16px" width="16px" />](https://web.cs.dal.ca/~masud/papers/masud-SANER2017-pp.pdf)
 
 ```
 @INPROCEEDINGS{saner2015masud,
@@ -263,8 +263,8 @@ title={TextRank based search term identification for software change tasks},
 year={2015},
 pages={540-544} }
 ```
-**Download this paper:**  [<img src="http://homepage.usask.ca/~masud.rahman/img/pdf.png"
-     alt="PDF" heigh="16px" width="16px" />](http://homepage.usask.ca/~masud.rahman/papers/masud-SANER2015.pdf)
+**Download this paper:**  [<img src="https://web.cs.dal.ca/~masud/img/pdf.png"
+     alt="PDF" heigh="16px" width="16px" />](https://web.cs.dal.ca/~masud/papers/masud-SANER2015.pdf)
      
 
 # Related Projects: [ACER](https://github.com/masud-technope/ACER-Replication-Package-ASE2017), [BLIZZARD](https://github.com/masud-technope/BLIZZARD-Replication-Package-ESEC-FSE2018), and [QUICKAR](https://github.com/masud-technope/QUICKAR-Replication-Package-ASE2016)
