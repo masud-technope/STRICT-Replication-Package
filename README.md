@@ -30,7 +30,7 @@ Subject Systems
 - **time** (7)
 - **tomcat70** (33)
 
-**Total:955**
+**Total: 955**
 
 
 
@@ -57,7 +57,7 @@ Experimental Data
 - ```models``` : Contains the models for POS tagging by Stanford CoreNLP library.
 - ```pp-data``` : Stop words used for pre-processing.
 
-**Proposed & Existing Techniques **
+** Proposed & Existing Techniques **
 
 - ```Proposed-STRICT/query``` : Queries suggested by the proposed technique.
 - ```Proposed-STRICT/rank``` : Query Effectiveness (QE) of the suggested queries (Method-level granularity).
@@ -93,7 +93,7 @@ Experimental Data
 - ```Rahman & Roy/rank-class``` : Query Effectiveness (QE) of the queries (Document-level granularity).
 
 
-**License & Others**
+** License & Others **
 - ```README```
 - ```LICENSE```
 
