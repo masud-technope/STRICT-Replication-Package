@@ -59,7 +59,7 @@ Experimental Data
 
 Source Code 
 ------------------------
-Please fork our  [**source code repository**](https://github.com/masud-technope/STRICT-QR-Module) for details.
+Please check the  [**source code repository**](https://github.com/masud-technope/STRICT-QR-Module) for details.
 
 Proposed & Existing Techniques
 ----------------------------
