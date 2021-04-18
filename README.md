@@ -5,7 +5,7 @@ These texts illustrate the change requirements using various domain-related conc
 so that they could identify the relevant locations in the source code using a search technique. Once such locations are identified, they can implement the requested changes there. Studies suggest that developers often perform poorly in choosing the right keywords from a change request. In this article, we propose a novel technique --STRICT-- that (1) identifies suitable keywords from a change request using three graph-based term weighting algorithms -- TextRank, POSRank and WK-Core, and (2) then delivers an appropriate query using query quality analysis and machine learning. Our approach determines a term's importance based on not only its co-occurrences with other important terms but also its syntactic relationships and cohesion with them. Experiments using 955 change requests from 22 Java-based subject systems show that STRICT can offer better search queries than 
 the baseline queries (i.e., preprocessed version of a request text) from 44%--63% of all requests. Our queries also achieve 20% higher accuracy, 10% higher precision and 7% higher reciprocal rank than that of the baseline queries. Comparisons with six existing approaches from the literature demonstrate that our approach can outperform them in improving the baseline queries. Our approach also achieves 14% higher accuracy, 15% higher precision and 13% higher reciprocal rank than that of the six other existing approaches.
 
-Subject Systems
+Subject Systems (22)
 ------------------------------------------------------------
 - **adempiere-3.1.0** (12)
 - **apache-nutch-1.8** (9)
@@ -36,7 +36,6 @@ Subject Systems
 
 Experimental Data
 --------------------------------------------------------------
-
 - ```Baseline/query``` : Baseline queries extracted from the 955 change requests. They make use of title, description, structured tokens and whole texts. ```query-whole``` is our chosen baseline.
 - ```Baseline/rank``` : Query Effectiveness (QE) of the baseline queries (Method-level granularity).
 - ```Baseline/rank-class``` : Query Effectiveness (QE) of the baseline queries (Document-level granularity).
@@ -56,9 +55,14 @@ Experimental Data
 - ```samurai-data``` : Meta data required by the Splitting algorithm -- ```Samurai```.
 - ```models``` : Contains the models for POS tagging by Stanford CoreNLP library.
 - ```pp-data``` : Stop words used for pre-processing.
+- ```strict.lib``` : Contains the dependencies used by the proposed technique - STRICT.
 
-** Proposed & Existing Techniques **
+Source Code 
+------------------------
+Please fork our  [**source code repository**](https://github.com/masud-technope/STRICT-QR-Module) for details.
 
+Proposed & Existing Techniques
+----------------------------
 - ```Proposed-STRICT/query``` : Queries suggested by the proposed technique.
 - ```Proposed-STRICT/rank``` : Query Effectiveness (QE) of the suggested queries (Method-level granularity).
 - ```Proposed-STRICT/rank-class``` : Query Effectiveness (QE) of the suggested queries (Document-level granularity).
@@ -92,8 +96,8 @@ Experimental Data
 - ```Rahman & Roy/rank``` : Query Effectiveness (QE) of the queries (Method-level granularity).
 - ```Rahman & Roy/rank-class``` : Query Effectiveness (QE) of the queries (Document-level granularity).
 
-
-** License & Others **
+License & Others
+----------------------
 - ```README```
 - ```LICENSE```
 
