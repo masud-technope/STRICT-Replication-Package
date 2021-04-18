@@ -94,7 +94,7 @@ Proposed & Existing Techniques
 - ```Scanniello/rank``` : Query Effectiveness (QE) of the Scanniello et al. queries (Method-level granularity).
 - ```Scanniello/rank-class``` : Query Effectiveness (QE) of the Scanniello et al. queries (Document-level granularity).
 - ```Scanniello/Method-PageRank``` : PageRank score calculated for Scanniello et al.
-- ```Scanniello/CFG*``` : CFG extracted from methods using [java-callgraph](https://github.com/gousiosg/java-callgraph).
+- ```Scanniello/CFG*``` : CFG extracted from the source code of subject systems using [java-callgraph](https://github.com/gousiosg/java-callgraph).
 
 
 - ```Rahman & Roy/query``` : Queries suggested by our earlier work - Rahman & Roy, SANER 2017.
