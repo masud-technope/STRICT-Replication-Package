@@ -30,13 +30,12 @@ Subject Systems
 - **time** (7)
 - **tomcat70** (33)
 
-**Total:955**
+**Total: 955**
 
 
 
 Experimental Data
 --------------------------------------------------------------
-
 - ```Baseline/query``` : Baseline queries extracted from the 955 change requests. They make use of title, description, structured tokens and whole texts. ```query-whole``` is our chosen baseline.
 - ```Baseline/rank``` : Query Effectiveness (QE) of the baseline queries (Method-level granularity).
 - ```Baseline/rank-class``` : Query Effectiveness (QE) of the baseline queries (Document-level granularity).
@@ -56,8 +55,15 @@ Experimental Data
 - ```samurai-data``` : Meta data required by the Splitting algorithm -- ```Samurai```.
 - ```models``` : Contains the models for POS tagging by Stanford CoreNLP library.
 - ```pp-data``` : Stop words used for pre-processing.
+- ```strict.lib``` : Contains the dependencies used by the proposed technique - STRICT.
 
-**Proposed & Existing Techniques **
+Source Code 
+------------
+Please fork our  [**source code repository**](https://github.com/masud-technope/STRICT-QR-Module) for details.
+
+
+Proposed & Existing Techniques
+----------------
 
 - ```Proposed-STRICT/query``` : Queries suggested by the proposed technique.
 - ```Proposed-STRICT/rank``` : Query Effectiveness (QE) of the suggested queries (Method-level granularity).
@@ -93,7 +99,8 @@ Experimental Data
 - ```Rahman & Roy/rank-class``` : Query Effectiveness (QE) of the queries (Document-level granularity).
 
 
-**License & Others**
+License & Others
+-------
 - ```README```
 - ```LICENSE```
 
