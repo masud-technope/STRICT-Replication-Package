@@ -84,13 +84,18 @@ Proposed & Existing Techniques
 - ```Kevic/query``` : Queries suggested by Kevic & Fritz.
 - ```Kevic/rank``` : Query Effectiveness (QE) of the Kevic & Fritz queries (Method-level granularity).
 - ```Kevic/rank-class``` : Query Effectiveness (QE) of the Kevic & Fritz queries (Document-level granularity).
+- ```Kevic/model``` : Machine learning model & prediction of search terms.
+
 
 - ```Rocchio/query``` : Queries suggested by Rocchio.
 - ```Rocchio/rank``` : Query Effectiveness (QE) of the Rocchio queries (Method-level granularity).
 - ```Rocchio/rank-class``` : Query Effectiveness (QE) of the Rocchio queries (Document-level granularity).
 
-- ```Scannielo/rank``` : Query Effectiveness (QE) of the Scannielo et al. queries (Method-level granularity).
-- ```Scannielo/rank-class``` : Query Effectiveness (QE) of the Scannielo et al. queries (Document-level granularity).
+- ```Scanniello/rank``` : Query Effectiveness (QE) of the Scanniello et al. queries (Method-level granularity).
+- ```Scanniello/rank-class``` : Query Effectiveness (QE) of the Scanniello et al. queries (Document-level granularity).
+- ```Scanniello/Method-PageRank``` : PageRank score calculated for Scanniello et al.
+- ```Scanniello/CFG*``` : CFG extracted from methods using [java-callgraph](https://github.com/gousiosg/java-callgraph).
+
 
 - ```Rahman & Roy/query``` : Queries suggested by our earlier work - Rahman & Roy, SANER 2017.
 - ```Rahman & Roy/rank``` : Query Effectiveness (QE) of the queries (Method-level granularity).
