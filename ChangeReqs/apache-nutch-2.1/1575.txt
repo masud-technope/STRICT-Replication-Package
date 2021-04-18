@@ -1,0 +1,2 @@
+support solr authentication in nutch 2.x
+can solr authentication in nutch 2.x like 1.x

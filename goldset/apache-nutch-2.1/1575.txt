@@ -1,0 +1,3 @@
+org.apache.nutch.indexer.solr.SolrDeleteDuplicates:setup(Context)
+org.apache.nutch.indexer.solr.SolrWriter:open(TaskAttemptContext)
+org.apache.nutch.indexer.solr.SolrWriter:stripNonCharCodepoints(String)

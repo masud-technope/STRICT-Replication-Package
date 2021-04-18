@@ -1,0 +1,16 @@
+641	Implement distance methods segements method exists calculates point Segments Lines
+1121	Brent counter iteration iterations Optimizer count iter ideally optimizer defined
+835	Fraction percentage included numerator patch addition rare greater method test
+775	check occur ListPopulation populationLimit chromosomes population negative constructor positive Population
+776	range elitismRate constructors elitism setting checks List Elitism Population method
+777	needed Ordered Policy Crossover Point Chromosomes
+841	gcd System patch times current println method rng version Equals
+905	values cosh sinh Infinity range Math result negative overflow Strict
+778	general contract math limited Element consistent commons multiply method values
+779	ListPopulation iterator list chromosomes Calling remove population unmodifiable returns wrap
+718	large wrong returns inverseCumulativeProbability inverse trials fixed method System reproduce
+782	block original stopping user criterion code Brent early implying exit
+878	ratio LLR chi Likelihood test Lehman increasingly infinitely inference wiki
+849	ulps thread port http dtic tests proposed log values lead
+915	random field Empirical deprecated problem Random Distribution broken Clirr mistaken
+764	RandomGenerator sample late concerns accept instance release methods Size supply

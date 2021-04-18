@@ -1,0 +1,1 @@
+NamingContextListener:lifecycleEvent(LifecycleEvent)

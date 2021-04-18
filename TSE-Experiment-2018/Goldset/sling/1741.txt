@@ -1,2 +1,0 @@
-bundles/servlets/post/src/main/java/org/apache/sling/servlets/post/impl/operations/ModifyOperation.java
-launchpad/integration-tests/src/main/java/org/apache/sling/launchpad/webapp/integrationtest/servlets/post/PostServletCreateTest.java

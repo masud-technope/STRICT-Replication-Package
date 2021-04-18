@@ -1,2 +1,0 @@
-ui/org.eclipse.pde.ui/plugin.xml
-ui/org.eclipse.pde.ui/src/org/eclipse/pde/internal/ui/refactoring/BuildPropertiesChange.java

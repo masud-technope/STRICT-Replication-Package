@@ -1,0 +1,7 @@
+SimpleTcpCluster:setManagerClassName(String)
+SimpleTcpCluster:messageReceived(ClusterMessage)
+SimpleTcpCluster:setProtocol(String)
+SimpleTcpCluster:setManagerClassName(@)
+SimpleTcpCluster:registerClusterValve()
+SimpleTcpCluster:unregisterClusterValve()
+SimpleTcpCluster:SimpleTcpCluster()

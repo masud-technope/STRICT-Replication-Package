@@ -1,0 +1,15 @@
+1030	Vector Weighted Points Classification change distance centroid clustered	Vector Classification Points clustered Weighted Property Cluster Driver	Regression Clustered Points WeightedPropertyVectorWritable WeightedVectorWritable Weighted Property Vector Writable Weighted Vector Writable
+1242	hashCode hash Code code function maps hash Functions behavior Code	Functions Hash Code hash	key redistribution function associative maps
+1261	Vectors Taste MAX Hadoop Similarity Integer size idToIndex	Similarity Hadoop Vectors User Code user	TasteHadoopUtils idToIndex size Integer MAX Taste Hadoop Utils
+1284	Dummy Record DummyRecordWriter Dummy Record Writer Map map Writer Writables testing	Record Map Reduce Dummy Writer	DummyRecordWriter bug reused Writables Dummy Record Writer
+1301	String Sequential SequentialAccessSparseVector Sequential Access Sparse Vector Access toString String Sparse Vector patch	Access Sparse String Sequential Vector	toString method SequentialAccessSparseVector excess comma String Sequential Access Sparse Vector
+1308	Candidate Items CandidateItemsStrategy Candidate Items Strategy visibility Strategy custom AbstractCandidateItemsStrategy Candidate Items Strategy	Candidate Items Strategy	extend CandidateItemsStrategy restricted visibility Candidate Items Strategy
+1317	Row Similarity check checkArgument check Argument error Preconditions issue Argument	Similarity Similarities Row Argument check max Job	Clarify messages Preconditions checkArgument check Argument
+1319	Addition argument filter Prefix command Filter Directory seqdirectory	Addition Filter Prefix	seqdirectory filter argument silently
+1345	tests code modules testing bits threads pieces minutes		Enable randomised testing Mahout modules
+1351	Vector Dense Cluster descriptors DenseVector Dense Vector Access clustering Seq	KMeans Access Sparse Seq Job Vector Dense	Adding DenseVector support AbstractCluster Dense Vector Cluster
+1364	Lucene Randomized Runner RandomizedRunner Randomized Runner discussion Carrot Mac Mahout	Runner Randomized	Upgrade Mahout codebase Lucene
+1368	Summarizer Online OnlineSummarizer Online Summarizer TDigest quantiles quartile estimation quantile	Summarizer Online	Convert OnlineSummarizer TDigest Online Summarizer
+1379	Summarizer Quality point cluster data Cluster OnlineSummarizer Online Summarizer getQuartile Quartile	Quality Summarizer Quartile Cluster Online	ClusterQualitySummarizer fails Digest clusters data point Cluster Quality Summarizer
+1398	Data delimiter users time constructor processLine process Mahout delimiterPattern delimiter Pattern	Data Pattern process delimiter Model File	FileDataModel provide constructor delimiterPattern File Data Model delimiter Pattern
+1409	Vector Matrix error View check test correct MatrixVectorView Matrix Vector View	Vector Matrix View	MatrixVectorView check error Matrix Vector View

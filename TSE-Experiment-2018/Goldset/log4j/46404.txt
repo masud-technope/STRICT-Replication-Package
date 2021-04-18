@@ -1,4 +1,0 @@
-src/changes/changes.xml
-src/main/java/org/apache/log4j/jdbc/JDBCAppender.java
-src/main/java/org/apache/log4j/net/SocketAppender.java
-src/main/java/org/apache/log4j/net/SocketHubAppender.java

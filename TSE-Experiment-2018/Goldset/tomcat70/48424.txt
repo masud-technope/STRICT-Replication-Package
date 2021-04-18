@@ -1,2 +1,0 @@
-java/org/apache/catalina/connector/Connector.java
-java/org/apache/catalina/mbeans/MBeanUtils.java

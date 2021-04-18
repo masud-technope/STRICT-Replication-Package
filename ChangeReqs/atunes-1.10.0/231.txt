@@ -1,0 +1,2 @@
+Can't add image if repository was read by older app version
+How to reproduce: 1. Read repository by older version of aTunes 2. Update to latest SVN 3. Try to add an image (assuming supported file format) Result: Adding image not possible. Problem: public boolean isSupportsInternalImage() returns false as was never set to true (as not supported in old versions).

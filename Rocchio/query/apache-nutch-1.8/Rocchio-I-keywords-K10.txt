@@ -1,0 +1,9 @@
+1396	Upgrade Tika tika tear custom config tikaconfig customconffil parse conf customtikaconfig teardown
+1381	override subcollection field subcollect coll collection indexer conf doc collect fieldnam surl configur
+1351	DomainStatistics aggregate TLD Domain Statistics domain context mode statist longwrit job util counter jobnam mycount
+1399	TestProtocolHttpClient fails Test Protocol Http Client httpclient test fetchpag protocol jsp server startserv basic cooki start
+1352	Improve regex urlfilters normalizers synchronization urlfilter filter urlfilt sign net urlstr pattern rule regexurlfilt urlfilterexcept
+1356	ParseUtil ExecutorService manually thread handling Parse Util Executor Service pool executor pars hostdb resolv conf shutdown wait numresolverthread num
+1405	overwrite CrawlDatum injected entries Crawl Datum depth datum inject score injectedscor scoring scoringfilterexcept crawldatum crawl getmetadata
+1262	Map duplicating content types single type contenttyp extens pars ext mime parser list mimetyp extlist log
+1407	BasicIndexingFilter optionally add domain field Basic Indexing Filter doc titl filter basic inlink pars nutchdocu document test indexingfilt

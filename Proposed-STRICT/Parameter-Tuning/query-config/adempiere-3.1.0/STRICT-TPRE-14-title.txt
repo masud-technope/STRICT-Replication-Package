@@ -1,0 +1,12 @@
+37	tracker viewer Compiere patch sourceforge attempt func aid screen detail post resolution Bug response		Report viewer scrolling broken
+106	invoices payment problem Payment version column Select function Selection VPay Term Compiere DueDate bug	Term Select VPay payment	invoices Payment Selection
+109	invoices process Bug status draft Garden Invoices sourceforge option func printing drafted Compiere range		Print Invoices process draft selection
+113	Consolidated Bug func group aid detail order shipment invoiced Compiere php tracker sourceforge atid		Consolidated shipments invoiced
+114	Invoices bug header Bug document order aid Consolidated group func tracker http consolidated orders		Voiding reversal consolidated Invoices
+116	Country address Address organization City sequence settings user ZIP ENTRIES enter users initial Location		Organization Update Location Address
+525	order product process box Sales vendor Generate current prepare purchase dialog vendors creates Adempiere		Process Generate Sales order bug
+768	Journal Debit Total record currency tab Credit Sum field rate required Key sum Accounted		Wrong Sum Total Debit Credit Journal
+814	Production products fractions product production items ProductionLines Production Lines BOM Lines quantity quantities generates automatically fractional	Production Lines	Production fractional Qty production
+815	Cost type Landed cost Distribution distribution Costs form allocation select work LandedCost Landed Cost	Landed Cost	LandedCost Cost Distribution type Cost work Landed Cost
+820	Price Requisition Purchase product POCreate Error Order RequisitionPOCreate Requisition POCreate List exception list price pricelist	Price Requisition POCreate Product List	ProductNotOnPriceList Error creating Requisitio Product Price List
+1240	Production product tab row serial Patio globalqss Layda production create balanced Balanced set Furniture		Posting balanced producing produc

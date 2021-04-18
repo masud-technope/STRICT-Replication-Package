@@ -1,0 +1,16 @@
+1888	generics Kernel Add Add generics Kernel
+1762	lock scope javax table relationship test unit problem persistence Lock javax persistence lock scope EXTENDED doesn properly lock join tables
+1699	Lob support Streaming Streaming Lob support
+1764	args connection databases Data Basic DriverClassName Driver apache dbcp Driver environments Automatically enable connection pooling unmanaged environments
+1765	problem Table threads stress testing row doesn unit TableGenerator Table Generator start TableGenerator doesn properly utilize heavy stress Table Generator
+1830	connectionPassword connection Password connection External EMF toProperties Properties StringValue String writeExternal write External Password Impl INVISIBLE Deserialization EMF connectionPassword overwritten INVISIBLE connection Password
+1863	HSQLDB Object HSQL dictionary Blobs useGetObjectForBlobs Object Blobs set update update HSQL dictionary HSQLDB
+1896	record data database OpenJPA Open JPA objects key version store object filesystem OpenJPA store POJOs record exists Open JPA
+1865	iterator enhancements FindBugs Find Bugs entrySet entry Set Bugs Find keySet key Set Set code entry inefficient keySet iterator entrySet iterator key Set entry Set
+1613	access property JPA field enhancer Access OpenJPA Open JPA Exception Superclass assumption Exception thrown enhancing property access MappedSuperclass annotated properties Mapped Superclass
+1837	element blob Collection org Oracle types fields EmbedValue Embed SNAPSHOT persistence ElementCollection Embeddable blob fails Oracle Element Collection
+1870	column MySQL SQL Column OPENJPA annotation account storage size introduced users Blob types override column definition Column annotation MySQL SQL
+1743	support EMF work anchor configuration ant Tool mappingtool anchors Invoking Tool configuration support EMF anchors
+1943	Query lock query timeout database statements EntityManagerImpl Entity Manager Impl data QueryImpl Query Impl Manager Query timeout hint honored consistently pessimistic lock issued database requires multi statements locking scheme
+1784	map Map String LocalizedString Localized String Entity entity Localized change UPDATE foo Map updates flushed
+1627	Column Transaction TransactionId Transaction String mamount transaction ASC processDate process mprocdate maccno ORderBy ElementJoinColumn EmbeddedId wrong columns SQL ORder Element Join Column Embedded

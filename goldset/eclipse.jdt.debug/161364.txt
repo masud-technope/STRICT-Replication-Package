@@ -1,0 +1,3 @@
+SourceBasedSourceGenerator:buildMethodDeclaration(MethodDeclaration)
+SourceBasedSourceGenerator:buildRunMethod(List)
+SourceBasedSourceGenerator:appendTypeParameters(StringBuffer, List)

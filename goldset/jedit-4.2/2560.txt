@@ -1,0 +1,2 @@
+org.gjt.sp.jedit.browser.VFSDirectoryEntryTable:processKeyEvent(KeyEvent)
+org.gjt.sp.jedit.browser.BrowserView:BrowserView(VFSBrowser)

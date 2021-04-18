@@ -1,0 +1,17 @@
+31779	file UnifiedTree folder Unified moment returns bug listFiles workspace refresh resources UnifiedTree ensure file folder exists Unified Tree
+23140	xxx extssh ssh authentication password xxxx repository client illegal Failed CVS EXTSSH vulnerable man middle attacks dns poisoning
+13926	rectangle BusyIndicator showWhile Busy Indicator Context inserting attached shot position JFace Text Editor Leaves Black Rectangle Content Assist text insertion
+19686	hover file mouse stops Stable reopen Stay whitespace switching bring hover stops working mousing file
+21062	ConfigureProjectWizardMainPage Configure feel Main Steps adding repositories resource incorrect Bring Reusing ConfigureProjectWizardMainPage target mgmt leads incorrect resource string dialog Configure Project Wizard Main
+19976	site offer internet connected Explorer modify Finish Dav bad properties Dav Choosing add bad site user modify site properties
+22696	window topics Hierarchy view open topic popup perspective doesn showing doesn work window open
+18761	anonymous FTP creating support connections password connection checkbox user target support creating anonymous FTP connections
+17707	Deploy warning Foo site STEPS overwrite Warning Site choose Choose DAV Reselecting location misleading warning
+19307	ftp oti rejected enter acceptable programs option FTP connect url FTP Valid ftp url rejected
+19691	Team export Incoming preferences Outgoing Remove saved Ensure settings workspace Team Preferences working export
+13069	files memory converting GZIP sendFile buffers usage send larger delimiters CVS Core Sending large files result excessive memory usage
+15277	suite test searched tests handled easier recreate Recreate ends recursive Recreate test suite add suite
+16787	showStartingPage returns Control disposing returning getControl dispose Starting showPage lazy Wizards Wizards recreated returning
+30644	High cut COntrast Contrast VCM preference Ext Team Decorations Connection VCM preference cut High Contrast
+12118	ssh extssh EXTSSH connection server nice operate compatible revision user CVS EXTSSH extssh user ssh server compatible protocol
+22809	Properties dialog Repos resized Labels labels file deep Resize resize Properties dialog Repos Properties Info Dialog Labels resize dialog

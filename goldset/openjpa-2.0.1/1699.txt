@@ -1,0 +1,6 @@
+org.apache.openjpa.jdbc.sql.DB2Dictionary:isFatalException(int, SQLException)
+org.apache.openjpa.jdbc.meta.strats.AbstractLobTest:getStreamContentAsString(Object)
+org.apache.openjpa.jdbc.sql.DB2Dictionary:nullSafe(String)
+org.apache.openjpa.jdbc.meta.strats.AbstractLobTest:setUp()
+org.apache.openjpa.jdbc.meta.strats.AbstractLobTest:getLobEntityClass()
+org.apache.openjpa.jdbc.meta.strats.AbstractLobTest:testSetFlushAndReset()

@@ -1,0 +1,2 @@
+RenameLinkedMode:start()
+RenameLinkedMode:undoAndCreateRenameSupport(String)

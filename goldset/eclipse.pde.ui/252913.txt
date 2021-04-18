@@ -1,0 +1,5 @@
+DSCreationOperation:writeManifest(IProject, SubProgressMonitor)
+DSCreationOperation:initializeDS(IDSComponent, IFile)
+DSCreationOperation:writeBuildProperties(IProject, SubProgressMonitor)
+DSCreationOperation:writeDSPropIntoManifest(IProject, SubProgressMonitor)
+DSCreationOperation:execute(IProgressMonitor)

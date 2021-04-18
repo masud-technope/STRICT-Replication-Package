@@ -1,0 +1,3 @@
+JavadocConfigurationBlock:checkURLConnection(URL)
+JavadocConfigurationBlock:EntryValidator:run()
+JavadocConfigurationBlock:EntryValidator:validateURL(URL)

@@ -1,0 +1,1 @@
+FatJarRsrcUrlManifestProvider:getManifestRsrcClasspath(Set)

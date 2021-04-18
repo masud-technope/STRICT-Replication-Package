@@ -1,0 +1,7 @@
+org.apache.derby.impl.jdbc.EmbedPreparedStatement:setNull(int, int)
+org.apache.derby.client.am.Agent:accumulateDeferredException(SqlException)
+org.apache.derby.client.am.PreparedStatement:checkScaleForINOUTDecimal(int, int)
+org.apache.derby.client.am.CallableStatement:registerOutParameterX(int, int, int)
+org.apache.derby.impl.jdbc.ConnectionChild:newSQLException(String)
+org.apache.derby.client.am.PreparedStatement:checkForSupportedDataType(int)
+org.apache.derby.impl.sql.GenericParameterValueSet:registerOutParameter(int, int, int)

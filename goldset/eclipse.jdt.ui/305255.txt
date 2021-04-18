@@ -1,0 +1,3 @@
+ComplianceConfigurationBlock:validateCompliance()
+ComplianceConfigurationBlock:append(String)
+ComplianceConfigurationBlock:createComplianceTabContent(Composite)

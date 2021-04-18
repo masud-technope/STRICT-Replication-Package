@@ -1,0 +1,2 @@
+SelectionAwareSourceRangeComputer:initializeRanges()
+SelectionAwareSourceRangeComputer:SelectionAwareSourceRangeComputer(IBuffer, int, int)

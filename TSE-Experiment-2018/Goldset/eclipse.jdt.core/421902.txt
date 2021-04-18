@@ -1,2 +1,0 @@
-org.eclipse.jdt.core.tests.model/src/org/eclipse/jdt/core/tests/model/ReconcilerTests.java
-org.eclipse.jdt.core/model/org/eclipse/jdt/internal/core/NameLookup.java

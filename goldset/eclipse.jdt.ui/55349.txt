@@ -1,0 +1,2 @@
+AbstractInformationControl:widgetDisposed(DisposeEvent)
+AbstractInformationControl:createViewMenu(Composite)

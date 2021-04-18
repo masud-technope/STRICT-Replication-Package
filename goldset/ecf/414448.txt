@@ -1,1 +1,2 @@
-osgi/bundles/org.eclipse.ecf.osgi.services.remoteserviceadmin/src/org/eclipse/ecf/osgi/services/remoteserviceadmin/RemoteServiceAdmin.java
+RemoteServiceAdmin:importService()
+RemoteServiceAdmin:createErrorImportRegistration(EndpointDescription, String, Throwable)

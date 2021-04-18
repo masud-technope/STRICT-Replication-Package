@@ -1,0 +1,2 @@
+org.apache.derbyBuild.GeneratorBase:insertColumn(Element)
+org.apache.derbyBuild.GeneratorBase:insertRow(Element)

@@ -1,0 +1,10 @@
+2752	version jEdit Edit Edit regexpr check expressions jEdit freezes regexpr Edit
+2560	appears typed Edit jEdit Edit file browser system handling java buffer jEdit pre file system browser keyboard handling Edit
+2720	FSB delete action directory working FSB delete action invoked directory recursively delete files folders delete file dupe bugs post lazy check dupes Windows Java Version Sun Java jEdit Version pre Edit
+2595	caret display position multiple views open Version pre Windows FreeBSD JDK views open file active foo txt view view buffer views view bar txt view switches foo txt caret display placement view switching bar txt caret view located Free BSD
+2534	Key bugs inserted key Event patch jedit KeyEventWorkaround Key Event Workaround handling Translator Test NumPad Alt Tab window Num Pad
+2459	Size file open save dialogs incorrect dual displays size open save dialog incorrectly calculated restored dialog displayed display dual display system Windows Basically dialog opens secondary display previous size position lost tests performed explore behaviour dialog appears primary display width correctly calculated restore previous settings adjustments dialog primary display correctly restored opening dialog behaviour expect dialog appears secondary display previous size position settings lost width dialog determined minimum width tree component dialog attachment resizing dialog dialog secondary display lost time open abnormal behaviour dialog opened secondary display resized dragged primary display size position settings restored open
+2571	highlighted number splits selected jvm selection guess sense text multiple number highlighted selected
+2635	move caret collapsing fold caret fold collapsed caret fold remaining visible reexpands fold direction key press dupe bugs post lazy check dupes Windows Java Version Sun Java jEdit Version SVN Revision Edit
+2636	jEdit Edit Version Clearing Edit Register restart dupe bugs post work Clearing Register doesn work persistently
+2542	text characters undo Undoable paste type general finish pasted area Pasting Text Current Undoable Edit

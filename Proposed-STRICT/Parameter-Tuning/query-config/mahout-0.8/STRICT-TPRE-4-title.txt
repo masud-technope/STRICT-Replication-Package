@@ -1,0 +1,15 @@
+1030	Vector Weighted Points Classification	Vector Classification Points clustered	Regression Clustered Points WeightedPropertyVectorWritable WeightedVectorWritable Weighted Property Vector Writable Weighted Vector Writable
+1242	hashCode hash Code code function maps	Functions Hash Code hash	key redistribution function associative maps
+1261	Vectors Taste MAX Hadoop	Similarity Hadoop Vectors	TasteHadoopUtils idToIndex size Integer MAX Taste Hadoop Utils
+1284	Dummy Record DummyRecordWriter Dummy Record Writer Map	Record Map Reduce Dummy	DummyRecordWriter bug reused Writables Dummy Record Writer
+1301	String Sequential SequentialAccessSparseVector Sequential Access Sparse Vector Access	Access Sparse String Sequential	toString method SequentialAccessSparseVector excess comma String Sequential Access Sparse Vector
+1308	Candidate Items CandidateItemsStrategy Candidate Items Strategy visibility	Candidate Items Strategy	extend CandidateItemsStrategy restricted visibility Candidate Items Strategy
+1317	Row Similarity check checkArgument check Argument	Similarity Similarities Row	Clarify messages Preconditions checkArgument check Argument
+1319	Addition argument filter Prefix	Addition Filter Prefix	seqdirectory filter argument silently
+1345	tests code modules testing		Enable randomised testing Mahout modules
+1351	Vector Dense Cluster descriptors	KMeans Access Sparse Seq	Adding DenseVector support AbstractCluster Dense Vector Cluster
+1364	Lucene Randomized Runner RandomizedRunner Randomized Runner	Runner Randomized	Upgrade Mahout codebase Lucene
+1368	Summarizer Online OnlineSummarizer Online Summarizer TDigest	Summarizer Online	Convert OnlineSummarizer TDigest Online Summarizer
+1379	Summarizer Quality point cluster	Quality Summarizer Quartile Cluster	ClusterQualitySummarizer fails Digest clusters data point Cluster Quality Summarizer
+1398	Data delimiter users time	Data Pattern process	FileDataModel provide constructor delimiterPattern File Data Model delimiter Pattern
+1409	Vector Matrix error View	Vector Matrix View	MatrixVectorView check error Matrix Vector View

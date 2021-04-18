@@ -1,0 +1,2 @@
+JavaBrowsingContentProvider:getNewElements()
+JavaBrowsingContentProvider:postAdd(Object)

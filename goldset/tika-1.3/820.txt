@@ -1,0 +1,1 @@
+org.apache.tika.sax.TextContentHandler:characters(char[], int, int)

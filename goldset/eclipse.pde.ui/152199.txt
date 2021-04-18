@@ -1,0 +1,3 @@
+ManifestContentAssistProcessor:for()
+ManifestContentAssistProcessor:getImage(int)
+ManifestContentAssistProcessor:handleRequiredExecEnv(String, int)

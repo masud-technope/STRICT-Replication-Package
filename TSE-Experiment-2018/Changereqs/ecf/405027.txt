@@ -1,2 +1,0 @@
-Decouple service remoting from OSGi fw thread
-org.eclipse.ecf.internal.osgi.services.distribution.BasicTopologyManager.start() exports all existing service (with marker property set) during bundle activation. This should be deferred to a later point (separate thread) to avoid timeouts during OSGi activation.

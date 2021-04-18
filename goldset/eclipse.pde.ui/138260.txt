@@ -1,0 +1,2 @@
+BuildErrorReporter:validateBinIncludes(IBuildEntry)
+BuildErrorReporter:validateBuild(IBuild)

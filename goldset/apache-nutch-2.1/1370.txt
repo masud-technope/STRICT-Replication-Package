@@ -1,0 +1,5 @@
+org.apache.nutch.crawl.InjectorJob:InjectorJob()
+org.apache.nutch.crawl.InjectorJob.UrlMapper:map(LongWritable, Text, Context)
+org.apache.nutch.crawl.InjectorJob:inject(Path)
+org.apache.nutch.crawl.InjectorJob:InjectorJob(Configuration)
+org.apache.nutch.crawl.InjectorJob.UrlMapper:setup(Context)

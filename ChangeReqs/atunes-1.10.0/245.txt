@@ -1,0 +1,2 @@
+Radio "Labels" can not be added to playlist
+When trying to add a folder or label of radios to the playlist, this is not possible. For example it is not possible to add all "Classical" stations to the playlist by draging the folder icon into it.

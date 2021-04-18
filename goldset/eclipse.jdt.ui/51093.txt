@@ -1,0 +1,3 @@
+JavaAutoIndentStrategy:areBlocksConsistent(IDocument, int, String)
+JavaAutoIndentStrategy:isClosed(IDocument, int, int)
+JavaAutoIndentStrategy:getBlockBalance(IDocument, int, String)

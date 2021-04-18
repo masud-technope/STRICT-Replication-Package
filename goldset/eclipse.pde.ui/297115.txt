@@ -1,0 +1,4 @@
+SourceEntryErrorReporter:initialize(ArrayList, ArrayList, IProject)
+SourceEntryErrorReporter:validate()
+SourceEntryErrorReporter:OutputFolder:OutputFolder(IPath, boolean)
+SourceEntryErrorReporter:OutputFolder:isLibrary()

@@ -1,0 +1,10 @@
+2560	jEdit pre file system browser keyboard handling Edit
+2720	FSB delete action directory working
+2752	jEdit freezes regexpr Edit
+2595	caret display position multiple views open
+2534	Test NumPad Alt Tab window Num Pad
+2459	Size file open save dialogs incorrect dual displays
+2571	number highlighted selected
+2635	move caret collapsing fold
+2636	Clearing Register doesn work persistently
+2542	Pasting Text Current Undoable Edit

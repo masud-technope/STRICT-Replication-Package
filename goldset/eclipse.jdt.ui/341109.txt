@@ -1,0 +1,3 @@
+CustomFiltersActionGroup:fillToolBar(IToolBarManager)
+CustomFiltersActionGroup:isSelected(Object, Object, IContentProvider, ViewerFilter)
+CustomFiltersActionGroup:fillActionBars(IActionBars)

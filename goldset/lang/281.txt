@@ -1,0 +1,2 @@
+org.apache.commons.lang.time.DurationFormatUtils:reduceAndCorrect(Calendar, Calendar, int, int)
+org.apache.commons.lang.time.DurationFormatUtils:formatPeriod(long, long, String, boolean, TimeZone)

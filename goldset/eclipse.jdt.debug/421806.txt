@@ -1,0 +1,2 @@
+JavaProjectHelper:setCompliance(IJavaProject, String)
+JavaProjectHelper:updateCompliance(IJavaProject, String)

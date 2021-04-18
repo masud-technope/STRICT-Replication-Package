@@ -1,7 +1,0 @@
-[SLING-4922] Validator should be allowed to get the resource on which validation was triggered - ASF JIRA
-Currently the Validator interface only gets the ValueMap on which the validation has been called (https://github.com/apache/sling/blob/trunk/bundles/extensions/validation/api/src/main/java/org/apache/sling/validation/Validator.java#L75).
-But sometimes this is not enough because more information need to be evaluated in the validator.
- For example the resource path or even the original resource is now completely inaccessible (except via weird workaround like casting to JcrPropertyMap and calling the deprecated getPath() on it).
-Therefore the validator should also get the resource on which the validation has been called originally (this must be null in case the validation has been triggered directly on a ValueMap).
- That way it would be possible to e.g.
-get information about the container resource or get a Sling Model of that resource.

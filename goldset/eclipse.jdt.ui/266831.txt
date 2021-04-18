@@ -1,0 +1,2 @@
+JavaElementHyperlinkImplementationDetector:canBeOverridden(IMethod)
+JavaElementHyperlinkImplementationDetector:createHyperlink(IRegion, SelectionDispatchAction, IJavaElement, boolean, ITextEditor)

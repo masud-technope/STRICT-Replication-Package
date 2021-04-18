@@ -1,0 +1,18 @@
+992	set Metadata add Open doesn Graph appended method overwrites appendedValues appended Values OpenGraph meta tags multiple values Open Graph
+1124	modify Matching Content BodyContentHandler Body Content Handler works PDF Body solved trunk Handler Nested documents extracted PDF file chain
+1062	lists support cases adapted supports detection Word test RTF needed Add list detection RTFParser
+1126	text html server produce producing adds resource plain tika patch text html procuder tika server
+1193	suited handling access applications allowing modify don HTML HTMLSchema TIKA access HtmlParser HtmlSchema Html Parser Html Schema
+1130	text docx parsing remain portions document extracted file colored wordprocessingml docx text extract leaves portions text
+1074	document exception visiting caused save decide log hit record app Extraction exception hit visiting embedded document
+1202	Text PDFParser Context Parse Refactor Annotation file extract parameter ParseContext Parse Context Refactor PDFParser enable easier parameter setting
+820	set call Locator Html Document content HtmlParser Html Parser setDocumentLocator set Document Locator locator user Locator unset HTML parser
+1012	expose alias add Type comment wiki Mime code formats bmp Add additional fields MimeType reader Mime Type
+1109	OOXML documents text metadata pptx processing medata content read outputs Metadata extracted content OOXML pptx
+1014	custom Reader Mime Types handling behavior error MimeTypesReader Mime Types Reader support XML custom MimeTypesReader Mime Types Reader
+1110	declared TYPES mime type Parser assigns declares supports SUPPORTED Chm Incorrectly declared SUPPORTED TYPES ChmParser Chm Parser
+1047	turned accomplish modify lastModified Modified returned mediatype Modified manipulate endpoint meta Provide JAX detect mediatype
+1210	swf parse asf relates TODO mime files https org src Address tika parsers mime TestMimeTypes TODO test flash file Test Mime Types
+1211	start Open Document parsing introduced endDocuments Documents startDocument start Document receives events produces OpenDocument ODF parser produces multiple startDocument events Open Document start Document
+1053	ASM causing draws issue facing project XWiki version framework xwiki Upgrade Tika Parsers ASM
+991	file audio Parser duration summed read frames order functionality Processing Parser extract duration audio file

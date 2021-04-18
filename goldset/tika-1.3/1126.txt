@@ -1,0 +1,1 @@
+org.apache.tika.server.TikaResource:logRequest(Log, UriInfo, Metadata)

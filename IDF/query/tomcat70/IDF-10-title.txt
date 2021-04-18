@@ -1,0 +1,33 @@
+47744	asks jconsole simplest continuously offending fault calculates crash baseline trips Memory leak SSL Java security manager
+46915	installation foreach printing fine LocalStrings sample tested fmt basename folder Unable ResourceBundle Tomcat Resource Bundle
+48387	enhance renames patch protocolHeaderHttpsValue consistent Proposed Rename getter javadoc details RemoteIpFilter parameters consistent RemoteIpValve Remote Filter Remote Valve
+51972	breaks expects sendRedirect toAbsolute URLs adds correct bar html Redirect sendRedirect support protocol relative URLs send Redirect
+42693	opens emits recursive scenario forEach menu div pseudo tagx worked JSP Generation error recursive tagfile structure
+49221	depends setDomain fixed toLowerCase ENGLISH charset domain Domain Locale locale javax servlet http Cookie setDomain charset set Domain
+42503	trunk foreign stale abcd conditions cat attached detect detected GMT ServletContext getResourceAsStream returns stale data Servlet Context Resource Stream
+47111	issues details caching bugzilla cgi StringManager attachment https Created resources caching resources docu StringManager String Manager
+49290	projects WTP verified encounter maintenance benefit processServletContainerInitializers folders processResourceJARs picked JarScanner scanAllDirectories Tomcat start Jar Scanner scan Directories
+48139	fixes Patch Javadoc details subject attachment Created Tomcat exception Tomcat Javadoc unthrown exception fixes
+33356	silly noticed rtexprvalue difference Incorrect behaviour problem compile bar taglib Incorrect parsing tag attributes
+47820	requiring consistent follow cleaner isn utility API passed search don utility methods Tomcat instance methods
+37326	posts happening verified marc continues warfile docs silent existent fresh error reported jsp include existent target
+50127	eliminate NPEs Patch conditional places potential NPE details SimpleTCPCluster attachment NPEs SimpleTCPCluster Simple TCPCluster
+47568	TestTomcat tearDown tear fails work delete creates setUp directory Tomcat TestTomcat fails delete work directory Test Tomcat
+47378	JSF jsf ignores listed listing applications disabled custom defined directory file ignores servlet mapping
+38553	CONFIDENTIAL clientAuth restricted metadata keystore browser works guarantee expect transport Wrong HTTP code failed CLIENT CERT authentication
+46105	perfect affect URIEncoding incorrectly interpreted subsequent setCharacterEncoding changed doesn ISO URIEncoding doesn affect form authentication redirect
+43868	getGetter getInvoke getSetter Impossible removeRole Getter issue lines Setter MBeanServer MBeanServer invoke issue MBean Server
+49118	Patch Inefficient inefficient concatenation details HttpServlet loop Strings attachment Trace Inefficient String concatenation loop
+41059	manually clearReferences NPEs terminating expecting stops WebAppClassLoader problem unload stopped WebAppClassLoader clearReferences code running threads Web App Loader clear References
+54115	clarify HttpClient tolerant patch opportunity sendRequest proper accessor compatible purpose Minor enhancements HttpClient test helper Http Client
+48172	getJspReloadCount synch jspReloadCount stale codeSource easily AtomicInteger acceptable problems getter JspRuntimeContext synch problems Jsp Runtime Context
+49132	docs initCtx throwing working envCtx InitialContext comp JNDI lookup Initial JNDI working
+48113	signed trunk behave patch Patch passes delegates Verification updates bits Member hostname components printed signed bits
+47413	snippet ASAP difference critical undefined expressions composite bar foo reference difference composite expressions
+48117	getWebXmlSource segments leading javadoc Removing InputSource filename ContextConfig startup Location misspellings javadoc org apache catalina startup ContextConfig Context Config
+42039	lost UnavailableException Unavailable problem doesn thrown trace stack invoke init Tomcat doesn output stack trace UnavailableException Unavailable Exception
+49144	contextDigester futher accesses feel serve populated accessing Incorrect lazy visible Incorrect lazy initialization update fields
+49721	viewing browser supports files jar supported Fail resources failed access Fail access resources jsp files jar file supported servlet
+51641	recycledProcessors segment ConcurrentHashMap NioProcessor recycled NioProtocol ConnectionHandler Processors offer getSocket Http NioProcessor correct release Nio Processor
+43706	couple produces trunk issued patch coll summary compliance DAV overwrite litmus warning WebdavServlet Webdav Servlet
+49340	unavailability works properly Notes redeploy undeploy unavailable deployed reload work Webapp unavailable deploy start

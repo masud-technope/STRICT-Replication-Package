@@ -1,2 +1,0 @@
-Bug 394606 – Add help doc for Plug-in Image Browser view
-Context help and main help doc.

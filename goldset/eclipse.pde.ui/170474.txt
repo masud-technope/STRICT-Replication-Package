@@ -1,0 +1,3 @@
+BundlePluginBase:add(IPluginLibrary)
+BundlePluginBase:add()
+BundlePluginBase:add(IPluginImport)

@@ -1,0 +1,6 @@
+org.apache.mahout.math.stats.OnlineSummarizer:getMedian()
+org.apache.mahout.math.stats.OnlineSummarizer:getMax()
+org.apache.mahout.math.stats.OnlineSummarizer:add(double)
+org.apache.mahout.math.stats.OnlineSummarizer:sort()
+org.apache.mahout.math.stats.OnlineSummarizer:getCount()
+org.apache.mahout.math.stats.OnlineSummarizer:getQuartile(int)

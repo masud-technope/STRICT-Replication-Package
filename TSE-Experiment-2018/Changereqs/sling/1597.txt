@@ -1,3 +1,0 @@
-[SLING-1597] Support loading of initial configurations for ConfigAdmin - ASF JIRA
-It would be nice to have support for initial configurations like we have for initial bundles.
- I think we should just apply the same logic (when to install/update) like we have for bundles and support *.cfg files in the same locations as we have bundles.

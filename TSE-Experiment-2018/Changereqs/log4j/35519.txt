@@ -1,6 +1,0 @@
-35519 – log4j 1.2 unit tests fail on later JDKs and Ant
-The log4j 1.2.x unit tests fail on later JDK's and versions of Ant since the witness files contained stack
-traces containing levels within the JDK and Ant implementation.
- The bug ports over the SunReflectFilter
-and JunitTestRunnerFilter from log4j 1.3.x which strip off some internal JDK and Ant entries from the call
-stack.

@@ -1,0 +1,2 @@
+Edit Titles Fails
+After importing a CD with no title list available, select the album and right-click | Edit Titles. The dialog allows me to edit a title, but as soon as I hit enter, tab, or mouse click another title, the change reverts to "Track n". Aside from this particular bug, this use case needs attention and a means to change both the title in aTunes and the file name on disk in a single step with a minimum of extraneous keying. Marc Thibault marcthibault@tanda.on.ca

@@ -1,0 +1,2 @@
+MultidimensionalCounter.getCounts(int) returns wrong array of indices
+MultidimensionalCounter counter = new MultidimensionalCounter(2, 4); for (Integer i : counter) { int[] x = counter.getCounts(i); System.out.println(i + " " + Arrays.toString(x)); } Output is: 0 [0, 0] 1 [0, 1] 2 [0, 2] 3 [0, 2] <=== should be [0, 3] 4 [1, 0] 5 [1, 1] 6 [1, 2] 7 [1, 2] <=== should be [1, 3]

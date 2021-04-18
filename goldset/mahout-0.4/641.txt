@@ -1,0 +1,8 @@
+org.apache.mahout.math.hadoop.TimesSquaredJob:createTimesSquaredJobConf(Vector, Path, Path, Class<? extends TimesSquaredMapper>, Class<? extends VectorSummingReducer>)
+org.apache.mahout.math.hadoop.MatrixMultiplicationJob:createMatrixMultiplyJobConf(Path, Path, Path, int)
+org.apache.mahout.math.hadoop.TimesSquaredJob:createTimesSquaredJobConf(Vector, int, Path, Path, Class<? extends TimesSquaredMapper>, Class<? extends VectorSummingReducer>)
+org.apache.mahout.math.hadoop.DistributedRowMatrix:times(DistributedRowMatrix)
+org.apache.mahout.math.hadoop.TimesSquaredJob:createTimesSquaredJobConf(Vector, Path, Path)
+org.apache.mahout.math.hadoop.DistributedRowMatrix:timesSquared(Vector)
+org.apache.mahout.math.hadoop.TransposeJob:buildTransposeJobConf(Path, Path, int)
+org.apache.mahout.math.hadoop.DistributedRowMatrix:transpose()

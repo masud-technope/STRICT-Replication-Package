@@ -1,0 +1,1 @@
+ExternalizeStringsOperation:addBundleLocalization(ModelChange, IProgressMonitor, CompositeChange)

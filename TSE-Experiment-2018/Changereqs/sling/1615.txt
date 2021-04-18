@@ -1,6 +1,0 @@
-[SLING-1615] When importing content all the nodes to the parent node must exists, whereas a Sling POST creates the node. - ASF JIRA
-If a POST with a that invokes the import operation is made to a path where the resource does not exist a 404 results.
- But if I do a normal Sling POST the node is created.
- This is inconsistent and requires http clients to make 2 posts where one would have worked.
-
- Perhaps the Import Operation should check to see of the resource is a NonExstingResource and create the path if not, at about line 88 of ImportOperation ?

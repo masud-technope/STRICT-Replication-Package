@@ -1,0 +1,2 @@
+adddays param for generator not present in 2.x
+In 1.x, Generator had this param which could be used as a hack to crawl urls which were due to fetch in future. In 2.x, this param is not present. Its not clear why this was not ported from 1.x to 2.x. Unless it was left out for a strong reason, we should have it in 2.x as well.

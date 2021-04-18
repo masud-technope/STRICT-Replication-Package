@@ -1,0 +1,15 @@
+1345	code tests testing modules threads parent bits pieces number minutes Enable randomised testing Mahout modules
+1409	error View Matrix Vector check MatrixVectorView Matrix Vector View MatrixVectorView check error Matrix Vector View
+1379	point Summarizer cluster Quality data OnlineSummarizer Online Summarizer ClusterQualitySummarizer Cluster Quality Summarizer Cluster getQuartile Quartile Quartile ClusterQualitySummarizer fails Digest clusters data point Cluster Quality Summarizer
+1284	DummyRecordWriter Dummy Record Writer Dummy map Writer Writables Record testing MapReduce Map Reduce Map user DummyRecordWriter bug reused Writables Dummy Record Writer
+1317	Preconditions Row check checkArgument check Argument error Argument time Job source Similarity Clarify messages Preconditions checkArgument check Argument
+1030	Weighted Writable Vector interim change distance Points centroid Property impact Regression Clustered Points WeightedPropertyVectorWritable WeightedVectorWritable Weighted Property Vector Writable Weighted Vector Writable
+1319	argument command filter Directory Prefix Filter PrefixAdditionFilter Prefix Addition Filter Input Sequence parameter seqdirectory filter argument silently
+1351	descriptors Vector Cluster DenseVector Dense Vector clustering Dense improvement mahout computer Feature Adding DenseVector support AbstractCluster Dense Vector Cluster
+1261	MAX Integer Taste TasteHadoopUtils Taste Hadoop Utils Utils size idToIndex userVector user Vector Hadoop job TasteHadoopUtils idToIndex size Integer MAX Taste Hadoop Utils
+1364	Lucene discussion RandomizedRunner Randomized Runner Mac Runner Carrot Randomized Mahout codebase API Upgrade Mahout codebase Lucene
+1301	String Sequential SequentialAccessSparseVector Sequential Access Sparse Vector toString String patch Sparse Vector method Access string toString method SequentialAccessSparseVector excess comma String Sequential Access Sparse Vector
+1398	users cost time Mahout delimiter pattern FileDataModel File Data Model constructor spaces Data FileDataModel provide constructor delimiterPattern File Data Model delimiter Pattern
+1368	Summarizer OnlineSummarizer Online Summarizer quantiles TDigest quantile Online quartile estimation distributions accuracy Convert OnlineSummarizer TDigest Online Summarizer
+1242	code hashCode hash Code maps function chains org hashcode FFFFFFF integer DDE key redistribution function associative maps
+1308	Items Candidate CandidateItemsStrategy Candidate Items Strategy Strategy visibility order AbstractCandidateItemsStrategy Candidate Items Strategy modifier custom doGetCandidateItems Candidate Items extend CandidateItemsStrategy restricted visibility Candidate Items Strategy

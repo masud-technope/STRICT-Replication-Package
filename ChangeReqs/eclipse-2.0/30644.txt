@@ -1,0 +1,2 @@
+VCM preference pages cut off in High Contrast
+20030129 The following Team preference pages are cut off in High COntrast Team->CVS Ext Connection Method Label Decorations

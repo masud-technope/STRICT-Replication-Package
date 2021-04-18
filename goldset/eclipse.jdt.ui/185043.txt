@@ -1,0 +1,1 @@
+RenameInformationPopup:PopupVisibilityManager:textChanged(TextEvent)

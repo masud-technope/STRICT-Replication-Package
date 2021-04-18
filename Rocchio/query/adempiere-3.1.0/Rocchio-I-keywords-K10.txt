@@ -1,0 +1,12 @@
+768	Wrong Sum Total Debit Credit Journal total totaldr totalcr journal batch journalbatch updat debit bigdecim big
+113	Consolidated shipments invoiced invoic cutoff xdate pstmt calendar ship cutoffd timestamp today shipdat
+114	Voiding reversal consolidated Invoices revers isrevers getisrevers server islistinvoic impexp signum invoic list setrevers
+116	Organization Update Location Address address locat getaddress setaddress integ length setc getc truncat substr
+820	ProductNotOnPriceList Error creating Requisitio Product Price List price product pricelist list cntu inventoryvalu sqlupd updat cost version
+37	Report viewer scrolling broken report print reportengin archiv engin tabl cursor queri format mprintformat
+1240	Posting balanced producing produc product plan balanc isbalanc productionplan worker integ getm thread apps
+106	invoices Payment Selection payment pay select payselect rule paymentrul getc integ mpayselect getpaymentrul
+109	Print Invoices process draft selection unlock statu document isprint print unlockit setprocess action doc engin
+525	Process Generate Sales order bug hash invoic generateord gener dateinvo paramet docact para shipment process
+814	Production fractional Qty production movement qti product movementqti productionqti quantiti bigdecim big decim productionlinema
+815	LandedCost Cost Distribution type Cost work Landed Cost land cost landedcost costel element distribut error process alloc trxname

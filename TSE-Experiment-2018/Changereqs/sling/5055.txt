@@ -1,4 +1,0 @@
-[SLING-5055] [HApi] Potential infinite recursion on reading hapi type from a path - ASF JIRA
-The Hypermedia API tools could potentially enter an infinite recursion if a type defined in the sling repository has a property of the same type as the type being read.
-
- The problem is in HApiUtilImpl and the solution I found was to use the types cache before adding the parent and properties.

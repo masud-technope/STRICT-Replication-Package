@@ -1,0 +1,30 @@
+79809	Bug dom javadoc support type parameter Javadoc tags
+42243	Bug Incorrect syntax diagnosis source mode
+417669	Bug dom Incorrect source ranges annotated SimpleType nested ParameterizedType Simple Type Parameterized Type
+405889	Bug compiler codegen Resilience NPE needed Scope getJavaLangInvokeMethodHandlesLookup Java Lang Invoke Method Handles Lookup
+385293	Bug compiler compiler accepts normal modifiers type arguments
+424718	Bug compiler API compatibility AST TypeReference Type Reference
+168331	Bug compiler AbstractMethodError method Method Error
+399567	Bug error message reference compiler
+65738	Bug builder Build automatically save
+29516	Bug SearchEngine regressions Search Engine
+110797	Bug multiple task tags single tasks view complete tag
+456395	Bug compile Java code
+228691	Bug JDT impl sun mirror util Types isAssignable returns wrapper primitive assignment Assignable
+380501	Bug compiler Add support methods JSR
+412882	Bug Unnecessary validation optional library classpath entries
+388634	Bug Test failure Compliance compliance
+413913	Bug Investigate failures
+165346	Bug compiler org eclipse jdt internal compiler ast OperatorExpression nullStatus FlowInfo conservative Expression Status Flow Info
+415911	Bug compiler NPE TYPE annotated method missing type
+418919	Bug compiler internal Remove forcing creation annotated bindings
+396258	Bug adopt syntax annotations qualified type names NullTypeAnnotationTest Type Annotation Test
+126180	Bug compiler NPE reporting invalid enclosing type
+417388	Bug TypeBinding TypeReference parameter type annotations Type Binding Type Reference
+381358	Bug Compiler gracefully reject JSR constructs source levels
+396139	Bug define JRE build targeting BETA JAVA
+145202	Bug positive reference analyzer negated
+430451	Bug Tests fail org eclipse jdt compiler tool tests CompilerInvocationTests JRE Compiler Invocation Tests
+405051	Bug JavaModel refreshExternalArchives happen search primed Java Model refresh External Archives
+291322	Bug Test errors running JDT Core tests Windows
+401848	Bug ASTRewrite type annotations adds additional

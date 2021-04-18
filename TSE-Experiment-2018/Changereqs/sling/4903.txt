@@ -1,9 +1,0 @@
-[SLING-4903] ConcurrentModificationException in MapEntries - ASF JIRA
-org.apache.sling.engine.impl.SlingRequestProcessorImpl service: Uncaught Throwable java.util.ConcurrentModificationException: null
-at java.util.ArrayList$Itr.checkForComodification(ArrayList.java:859)
-at java.util.ArrayList$Itr.next(ArrayList.java:831)
-at org.apache.sling.resourceresolver.impl.mapping.MapEntries$MapEntryIterator.seek(MapEntries.jav a:1499)
-at org.apache.sling.resourceresolver.impl.mapping.MapEntries$MapEntryIterator.next(MapEntries.jav a:1450)
-at org.apache.sling.resourceresolver.impl.mapping.MapEntries$MapEntryIterator.next(MapEntries.jav a:1411)
-at org.apache.sling.resourceresolver.impl.ResourceResolverImpl.resolveInternal(ResourceResolverIm pl.java:251)
-at org.apache.sling.resourceresolver.impl.ResourceResolverImpl.resolve(ResourceResolverImpl.java: 192)

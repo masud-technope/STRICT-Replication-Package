@@ -1,0 +1,16 @@
+1888	generics Add Kernel Add generics Kernel
+1762	lock scope EXTENDED javax join table test unit failing small javax persistence lock scope EXTENDED doesn properly lock join tables
+1699	Lob Streaming support Streaming Lob support
+1764	dbcp args unmanaged Basic automatically Driver DriverClassName Driver commons running apache Automatically enable connection pooling unmanaged environments
+1765	Table problem threads theoretical insert properly top row key doesn TableGenerator doesn properly utilize heavy stress Table Generator
+1830	connectionPassword connection Password connection EMF External set INVISIBLE Configuration serializes toProperties Properties String Deserialization EMF connectionPassword overwritten INVISIBLE connection Password
+1863	HSQLDB dictionary set HSQL useGetObjectForBlobs Object Blobs Object Blobs update update HSQL dictionary HSQLDB
+1896	database merge record file key data objects version POJO OpenJPA Open JPA OpenJPA store POJOs record exists Open JPA
+1865	iterator Set code simple FindBugs Find Bugs enhancements Find keySet key Set key Bugs inefficient keySet iterator entrySet iterator key Set entry Set
+1613	access superclass property implicit Access field enhancing simple annotated persistent Exception thrown enhancing property access MappedSuperclass annotated properties Mapped Superclass
+1837	org element openjpa Embeddable blob field Embed annotations embedCollection embed Collection Oracle ElementCollection Embeddable blob fails Oracle Element Collection
+1870	column Column MySQL SQL annotation BLOB BINARY columnDefinition column Definition storage type introduced Blob types override column definition Column annotation MySQL SQL
+1743	anchor configuration ant work mappingtool support EMF Invoking anchors Tool Tool configuration support EMF anchors
+1943	timeout Query lock query data EntityManagerImpl Entity Manager Impl requires statements database QueryImpl Query Impl Query timeout hint honored consistently pessimistic lock issued database requires multi statements locking scheme
+1784	map String Map LocalizedString Localized String entity Entity commit update Localized merge Map updates flushed
+1627	Column Transaction TransactionId Transaction maccno ASC String mamount processDate process columns mprocdate ORderBy ElementJoinColumn EmbeddedId wrong columns SQL ORder Element Join Column Embedded

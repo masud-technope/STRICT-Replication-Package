@@ -1,0 +1,84 @@
+18306	Bug safe runnables listeners untrusted code
+53634	Bug JRE libraries don work running application
+76675	Bug Pattern Matching independent IOConsole IOConsolePartitioner IOConsole Partitioner
+40707	Bug Breakpoint remains enabled disabling setting hit count
+13957	Bug LaunchingPlugin specification resourceCopyExclusionFilter Launching Plugin resource Copy Exclusion Filter
+31110	Bug Debbugger Source Lookup work variables
+335363	Bug Add Java Exception Breakpoint dialog truncated text checkboxes font size increased
+422016	Bug reference expressions lambdas file triggers warning missing numbers
+24839	Bug TimeoutException debugging org eclipse tests Timeout Exception
+217994	Bug patch launching Debug honors JRE args Launcher args
+94474	Bug Unable change source attachment JRE jar
+21776	Bug Evaluate action enabled java stack frames
+197011	Bug Add JRE fails retain system library modifications
+401815	Bug PList parser test failures tests
+463252	Bug Compile log warning JDT Debug
+455199	Bug debug Debugging doesn work properly classes
+43418	Bug busy cursor choosing JRE base directory
+102427	Bug inspect display methods
+275614	Bug REGRESSION threads longer expanded Debug view visible
+184862	Bug evaluation evaluation method generics work
+37918	Bug Console format Japanese
+22815	Bug Support delete key viewers
+112670	Bug toggle selection treeitem variables view
+23328	Bug Resume fails suspend breakpoint stepping BUG
+85665	Bug JRE container dialog empty combo
+9122	Bug debugging extremally slow latest
+28195	Bug NPE shutdown debug remote launch
+183206	Bug refactoring Mysterious refactoring failure caused tests fail
+204455	Bug ConnectionType remembered Remote Java Application Launch Config Connection Type
+421806	Bug Debug support Java
+53929	Bug Classpath tree entries FULL path
+57257	Bug ArrayOutOfBoundsException debug event dispatch Array Bounds Exception
+49068	Bug Large space top Installed JREs pref
+9649	Bug rebuild returns
+13364	Bug visual indication breakpoint condition set
+90805	Bug Drop frame failed evaluation message error dialog evaluation flag cleared
+165174	Bug viewers selection lost launch view stepping sync block
+255031	Bug Missing EEs prevent project build
+49077	Bug append jar bootpath
+37942	Bug Launch config dialog determine full location JARs listed classpath
+108473	Bug Performance performance eclipse severely degrades time
+428862	Bug Unable install breakpoint
+432190	Bug Update Javadoc locations docs api
+10811	Bug Deregistered launches removed JavaHCRManager Java HCRManager
+21823	Bug java debug model adapters
+53952	Bug type local variables displayed
+10817	Bug configs java packages copied output folder
+171075	Bug Java Editor Disconnecting Debug Session
+53959	Bug Nested type names correctly displayed
+323020	Bug test failure Mac
+120651	Bug Display Content Assist work consistently Variables View
+125771	Bug unable create method breakpoints external source
+339414	Bug HeapWalking manager support debug targets provide IJavaDebugTarget adapter Heap Walking IJava Debug Target
+297808	Bug resolve compatibility issues Eclipse constant internals JDT
+27989	Bug Provide verification launch configuration API
+161364	Bug Evaluating Code Generics work debugging
+13015	Bug stepping conditional breakpoint
+64984	Bug Inspect doesn work Display View
+212442	Bug Failing importbreakpoints tests
+94047	Bug ActionSets classpath Toolbar shudders opening Classpath Variables preference Action Sets
+12640	Bug Workspace runnable correctly
+371300	Bug JavaRuntime computeVMInstall method returns workspace compatible version launch configuration Java Runtime compute VMInstall
+105573	Bug suspend uncaught exception compiler warning
+33893	Bug Preference existant JREs
+86887	Bug Conditions work JSP breakpoints
+206693	Bug JRE location wrong installing description file
+42984	Bug set working directory args Ant processes
+72169	Bug debug context thread
+208744	Bug breakpoints Unable set watchpoints field declarations
+29036	Bug NPE debugging
+34670	Bug Java Launch Configs DELETE key event lists classpath tab
+10096	Bug Eclipse aware launched JVM JRockit
+29297	Bug Debug honor multiple output folders
+241394	Bug Console input text properly eclipse console panel
+29683	Bug naming prompt JRE resolution
+30837	Bug Loss suspended breakpoint
+94452	Bug Timeout exceptions
+12665	Bug ClassNotLoaded JDI exception conditional breakpoint Loaded
+343039	Bug Turn monitors
+400636	Bug codeassist work Display view
+53115	Bug Contribute remote Ant support extraClasspathEntry extra Classpath Entry
+396795	Bug Prevent breakpoint detail panes changing background colour selection
+33534	Bug Ant Editor range indication supported
+144253	Bug source lookup Stack Frame CHANGE events longer force source lookup

@@ -1,3 +1,0 @@
-Bug 255006 – [Discovery][SLP] Fail to handle string attributes containing comma
-attributeid=foo,bar is parsed as [(attribute=foo), (bar)].
-This causes the upper layers to discard the ServiceUrl.

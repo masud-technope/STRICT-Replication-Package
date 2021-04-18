@@ -1,0 +1,3 @@
+BundleErrorReporter:validateAutoStart()
+BundleErrorReporter:validateBundleActivatorPolicy()
+BundleErrorReporter:validateLazyStart()

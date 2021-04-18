@@ -1,0 +1,2 @@
+jEdit4.3pre5 file system browser, keyboard handling
+jEdit 4.3pre5, java 1.6.0-beta2, Suse 10.0 When using keyboard to quick select files and directories in file system browser, letter typed in file system browser also appears as corresponding letter in active buffer. In jEdit 4.3pre4 this function worked correctly. PS: Thanks for the developers for the best os editor - jEdit is great :) Thanks, Phade

@@ -1,0 +1,2 @@
+DSLabelProvider:getImage(Object)
+DSLabelProvider:getText(Object)

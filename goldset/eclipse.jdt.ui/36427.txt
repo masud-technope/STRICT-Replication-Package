@@ -1,0 +1,1 @@
+NamePatternFilter:select(Viewer, Object, Object)

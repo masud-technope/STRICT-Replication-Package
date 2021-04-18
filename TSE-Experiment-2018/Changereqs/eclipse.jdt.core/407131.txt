@@ -1,1 +1,0 @@
-Bug 407131 – [1.8][dom ast]ASTRewrite support for ReferenceExpression nodes family

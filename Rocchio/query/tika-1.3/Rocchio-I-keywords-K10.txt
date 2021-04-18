@@ -1,0 +1,18 @@
+992	OpenGraph meta tags multiple values Open Graph odf matcher branch metadata properti contenthandl defin user attribut xmp
+1124	Nested documents extracted PDF file chain pdf password embed asserttyp pdfdocument test document type applic metadata
+1062	Add list detection RTFParser sublist extens field add entri address provid arraylist gram ngramentri
+1126	text html procuder tika server println test compar compareto css plain output utf gui type
+1193	access HtmlParser HtmlSchema Html Parser Html Schema html map htmlparser safe metadata cowan ccil mapper attribut element
+1130	docx text extract leaves portions text outlin pdf annot bookmark extractannotationtext extractbookmarktext box current bom assertextracttext
+1074	Extraction exception hit visiting embedded document encrypt extractor encrypteddocumentexcept embed filenam info assertequ test microsoft emf
+1202	Refactor PDFParser enable easier parameter setting pdf enabl filter annot space add extract text set metadata
+820	Locator unset HTML parser locat setdocumentloc html set isdiscardel discard map element htmlparser document
+1012	Add additional fields MimeType reader Mime Type add pattern type mime extens glob magic alia root rootxml
+1109	Metadata extracted content OOXML pptx assertcontain row ooxml metadata test col assertequ custom microsoft equal
+1014	custom MimeTypesReader Mime Types Reader claus subclaus mime parent transform factori mimetypeexcept type transformerfactori getclaus
+1110	Incorrectly declared SUPPORTED TYPES ChmParser Chm Parser support type chm chminfo context getsupportedtyp mediatyp info media parsecontext
+1047	Provide JAX detect mediatype pattern type detector media offset mediatyp magic metadata magicdetector map
+1210	Address tika parsers mime TestMimeTypes TODO test flash file Test Mime Types asserttypebynam applic type font postscript emf cgm wmz wmf emlx
+1211	OpenDocument ODF parser produces multiple startDocument events Open Document start Document odf node nodedepth map prefix meta depth textnodestack completelyfilt overrid
+1053	Upgrade Tika Parsers ASM asm visit write ignor xhtml desc flag visitor annot context
+991	Parser extract duration audio file tag xmpdm metadata audioandtag frame lyric channel comment cmt audioformat

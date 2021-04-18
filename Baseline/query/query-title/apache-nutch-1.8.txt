@@ -1,0 +1,9 @@
+1396	Upgrade Tika
+1381	override subcollection field
+1351	DomainStatistics aggregate TLD Domain Statistics
+1399	TestProtocolHttpClient fails Test Protocol Http Client
+1352	Improve regex urlfilters normalizers synchronization
+1356	ParseUtil ExecutorService manually thread handling Parse Util Executor Service
+1405	overwrite CrawlDatum injected entries Crawl Datum
+1262	Map duplicating content types single type
+1407	BasicIndexingFilter optionally add domain field Basic Indexing Filter

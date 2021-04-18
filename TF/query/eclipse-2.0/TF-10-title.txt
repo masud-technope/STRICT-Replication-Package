@@ -1,0 +1,17 @@
+31779	file folder system workspace UnifiedTree problem Tree resource refresh list resources UnifiedTree ensure file folder exists Unified Tree
+23140	xxx ssh client cvs repository password method log extssh eclipse CVS EXTSSH vulnerable man middle attacks dns poisoning
+13926	rectangle Context Text Busy BusyIndicator info showWhile position control Indicator JFace Text Editor Leaves Black Rectangle Content Assist text insertion
+19686	file hover java mouse switching works methods bring button Move hover stops working mousing file
+21062	string ConfigureProjectWizardMainPage Target resource Project Configure wizard Wizard Main Steps Reusing ConfigureProjectWizardMainPage target mgmt leads incorrect resource string dialog Configure Project Wizard Main
+19976	site add Site bogus CVS inform argued bad Choosing hitting Dav Choosing add bad site user modify site properties
+22696	window view open Hierarchy perspective press Java topics popup topic doesn work window open
+18761	FTP anonymous support assumes password creating checkbox connection supporting user support creating anonymous FTP connections
+17707	site Deploy Site select project Target warning Foo Reselecting telling DAV Reselecting location misleading warning
+19307	ftp ott rejected oti enter option acceptable FTP format url FTP Valid ftp url rejected
+19691	Team Add Remove export preferences transfered workspace saved Outgoing feature Team Preferences working export
+13069	files memory text large size send larger CVS Sending converting CVS Core Sending large files result excessive memory usage
+15277	suite test add suites stack prefer allowed situtation recursive Suite Recreate test suite add suite
+16787	Control called Wizards getControl method control dispose Wizard works lazy Wizards Wizards recreated returning
+30644	High cut preference Team Ext VCM CVS Connection Label COntrast VCM preference cut High Contrast
+12118	server ssh connection user exception CVS method SSH extssh nice CVS EXTSSH extssh user ssh server compatible protocol
+22809	dialog Properties file deep select directory Open Repos Perspective resized Properties dialog Repos Properties Info Dialog Labels resize dialog

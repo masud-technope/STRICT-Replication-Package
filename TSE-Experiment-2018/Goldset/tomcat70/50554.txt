@@ -1,3 +1,0 @@
-java/org/apache/naming/java/javaURLContextFactory.java
-res/findbugs/filter-false-positives.xml
-webapps/docs/changelog.xml

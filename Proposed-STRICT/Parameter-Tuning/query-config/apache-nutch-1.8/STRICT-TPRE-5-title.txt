@@ -1,0 +1,9 @@
+1262	Mime Indexing application Map text	Mime Indexing Types Filter map	Map duplicating content types single type
+1351	Domain host DomainStatistics Domain Statistics tool suffix	Domain Statistics	DomainStatistics aggregate TLD Domain Statistics
+1352	synchronization outlink threadlocals time today		Improve regex urlfilters normalizers synchronization
+1356	Executor Parse parsers thread threads	Executor Parse Service Util	ParseUtil ExecutorService manually thread handling Parse Util Executor Service
+1381	field override configuration subcollection filter		override subcollection field
+1396	Mime Util MimeUtil Mime Util Tika trunk	Mime Util	Upgrade Tika
+1399	Http Protocol servers Test fails	Http Protocol Test Client	TestProtocolHttpClient fails Test Protocol Http Client
+1405	CrawlDatum Crawl Datum Crawl metadata Datum entries	Crawl Datum	overwrite CrawlDatum injected entries Crawl Datum
+1407	Indexing field Nutch copy domain	Indexing Nutch Field copy Document	BasicIndexingFilter optionally add domain field Basic Indexing Filter

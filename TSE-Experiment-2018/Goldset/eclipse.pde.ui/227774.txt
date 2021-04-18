@@ -1,8 +1,0 @@
-ui/org.eclipse.pde.ui/META-INF/MANIFEST.MF
-ui/org.eclipse.pde.ui/plugin.properties
-ui/org.eclipse.pde.ui/plugin.xml
-ui/org.eclipse.pde.ui/src/org/eclipse/pde/internal/ui/wizards/provisioner/update/IUpdateSiteProvisionerEntry.java
-ui/org.eclipse.pde.ui/src/org/eclipse/pde/internal/ui/wizards/provisioner/update/UpdateSiteProvisionerDialog.java
-ui/org.eclipse.pde.ui/src/org/eclipse/pde/internal/ui/wizards/provisioner/update/UpdateSiteProvisionerEntry.java
-ui/org.eclipse.pde.ui/src/org/eclipse/pde/internal/ui/wizards/provisioner/update/UpdateSiteProvisionerPage.java
-ui/org.eclipse.pde.ui/src/org/eclipse/pde/internal/ui/wizards/provisioner/update/UpdateSiteProvisionerWizard.java

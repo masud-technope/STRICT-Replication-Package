@@ -1,0 +1,3 @@
+JavaModelLabelProvider:isInJavaProject(IFolder)
+JavaModelLabelProvider:getImage(Object)
+JavaModelLabelProvider:getText(Object)

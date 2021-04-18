@@ -1,0 +1,1 @@
+ReferenceTypeImpl:create(VirtualMachineImpl, String, ClassLoaderReference)

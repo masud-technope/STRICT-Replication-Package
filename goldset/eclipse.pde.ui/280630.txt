@@ -1,0 +1,2 @@
+ApiBaselineWizardPage:createControl(Composite)
+ApiBaselineWizardPage:isNameValid(String)

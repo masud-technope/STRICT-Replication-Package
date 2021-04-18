@@ -1,0 +1,2 @@
+"Partial Implementation" throws exceptions
+The "Partial Implementation" described on the wiki page [Partial Implementation|https://cwiki.apache.org/confluence/display/MAHOUT/Partial+Implementation] fails with the given dataset and operations.

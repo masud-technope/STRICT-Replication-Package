@@ -1,0 +1,3 @@
+JavaNavigatorContentProvider:postRefresh(List, Collection)
+JavaNavigatorContentProvider:inputChanged(Viewer, Object, Object)
+JavaNavigatorContentProvider:getParent(Object)

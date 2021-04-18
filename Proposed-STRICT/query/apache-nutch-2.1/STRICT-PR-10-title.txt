@@ -1,0 +1,17 @@
+1569	Patch push Maven artifacts Upgrade Gora
+1542	generator adddays param Generator urls adddays param generator
+1575	nutch support authentication solr support solr authentication nutch
+1513	Ftp urls robots nutch plugin Rules Support FTP https developers Support Robots txt Ftp urls
+1514	configuration functionality properties mail Tdcn GZWKe nutch VSh cVusGZWKeGdcWrVShPtBdfTdcn Vus GZWKe Gdc VSh Bdf Tdcn NNpM NNp Phase deprecated configuration properties
+1419	protocol lucene org status indexchecker report URL apache Jul Tue parsechecker indexchecker report protocol status
+1453	Filters Indexing test testing trunk share Test TestIndexingFilters Test Indexing Filters justice indexer Substantiate tests IndexingFilters Indexing Filters
+1552	plugin java Filter apache Indexing code content src contentType content Type org possibility NPE plugin
+1393	stdout Generator usage GeneratorJob Generator Job willy nutch code batch fetchlists ASF Display consistent usage GeneratorJob Generator Job
+1493	Length contentLength content Length string content solrindex solr Error checks NUTCH patch Error adding field contentLength solrindex content Length
+1047	indexing plugins backends storage ElasticSearch Elastic Search Elastic extension SOLR hook Nutch Pluggable indexing backends
+1370	INFO code urls Generator debugging Dir runtime crawl Injector trunk Expose exact number urls injected runtime
+1563	Fields FetchSchedule Fetch Schedule Fetch Web getFields Fields user Job GeneraterJob Generater Job WebPage Web Generater FetchSchedule getFields GeneraterJob Fetch Schedule Fields Generater Job
+956	blogspot html solrindex documents techvineyard nutch http tests issues command solrindex issues
+1532	field segment batch apache user mail html xml org archive Replace segment mapping field batchId batch
+1501	behavior Parser Indexing ParserChecker Parser Checker IndexingFiltersChecker Indexing Filters Checker Checker Behaviour NUTCH issue parsechecker Harmonize behavior parsechecker indexchecker
+1503	Reducer nutch FetcherReducer Fetcher Reducer Fetcher properties fetcher code xml useHostSettings Host Settings conf Configuration properties sync FetcherReducer nutch xml Fetcher Reducer

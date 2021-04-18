@@ -1,3 +1,0 @@
-Bug 201681 – [Manifest][Editors] Weird character representing open bracket in tree and table viewers
-Problem in tree and table viewers with labels of the form "xxxx(xxx)".
-Please see attached screen shot #1.

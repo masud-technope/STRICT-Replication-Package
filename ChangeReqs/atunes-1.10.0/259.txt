@@ -1,0 +1,2 @@
+Last.fm submission bug
+When I'm listening to "+44" it is submitted to last.fm as "44".

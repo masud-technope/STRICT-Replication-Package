@@ -1,0 +1,16 @@
+227	aTunes Tunes restart preferences isn restarted asks Tunes doesn restarting application Request restarting doesn work
+259	listening submitted bug submission submission bug
+260	aTunes Tunes Screen work Windows doesn screenshot Tunes Full Full Screen doesn work Windows aTunes Tunes
+230	set tag file property track Tunes edit WRITE thrown aTunes Tunes tag
+231	supported image file version set Supports aTunes Tunes assuming format repository add image repository read older app version
+264	player song playing songs time Westerberg displays confuses starts bought Wrong song duration displayed player
+207	screen aTune Tune view click standard Full Tune full option
+240	window Performing lyrics occur occasion Set close adding tracking problem Set lyrics automatically terminated
+212	album song selected biography picture artist tab linger info Context Context panel
+276	aTunes Tunes system play sound reveals Tunes update push continues button Mute
+213	supported skip aTunes Tunes Xine extension stuck Start files repository set supported formats skipped Xine
+245	playlist folder add radios label draging icon Labels Radio stations Radio Labels playlist
+278	title click change reverts file aTunes Tunes mouse edit Edit hit Edit Titles Fails
+281	INFO play HANDLER aTunes Tunes search START PLAYER finished path JIntellitype Mute button
+220	OSD button displayed pressing play appears jumping track previous OSD displayed jumping previous track
+221	mode work window Multiple multiple Multiple window mode work

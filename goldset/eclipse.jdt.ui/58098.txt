@@ -1,0 +1,2 @@
+JavaEditor:NextSubWordAction:run()
+JavaEditor:PreviousSubWordAction:run()

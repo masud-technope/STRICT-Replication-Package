@@ -1,3 +1,0 @@
-java/org/apache/catalina/ha/authenticator/ClusterSingleSignOn.java
-java/org/apache/catalina/ha/authenticator/ClusterSingleSignOnListener.java
-java/org/apache/catalina/ha/session/ClusterSessionListener.java

@@ -1,0 +1,4 @@
+GenerateHashCodeEqualsOperation:run(IProgressMonitor)
+GenerateHashCodeEqualsOperation:createEqualsMethod(ImportRewriteContext)
+GenerateHashCodeEqualsOperation:getQualifiedName(String)
+GenerateHashCodeEqualsOperation:createEqualsMethod()

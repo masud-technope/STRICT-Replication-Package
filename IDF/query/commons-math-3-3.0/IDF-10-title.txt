@@ -1,0 +1,16 @@
+641	methods Segments distance Implement method point Implement distance methods Lines Segments
+1121	BrentOptimizer BaseOptimizer doOptimize iterations counter iteration Optimize Brent Base iter Brent optimizer doesn Base optimizer iteration counter
+835	rare percentageValue percentage addition included patch numerator bug overflow greater Fraction percentageValue rare overflow percentage
+775	chromosomes populationLimit ListPopulation positive population Population greater negative occur Limit ListPopulation constructor check negative populationLimit occur List Population population Limit
+776	setElitismRate Elitism elitism checks ElitisticListPopulation constructors setting Elitistic range Rate range checks elitismRate ElitisticListPopulation constructors elitism Rate Elitistic List Population
+777	OnePointCrossover CrossoverPolicy Policy Chromosomes Ordered Crossover Point CrossoverPolicy needed Crossover Policy
+841	exec slower approach times modulo patch speed assertEquals gcd nano gcd speed
+905	Infinity infinity StrictMath sinh cosh range Strict positive overflow negative FastMath cosh sinh support range values Math counterparts Fast Math
+778	FieldElement contract multiply values general Dfp method Element Field org Dfp Dfp multiply comply general contract FieldElement multiply Field Element
+779	chromosomes ListPopulation unmodifiable remove iterator Iterator Population population wrap List ListPopulation Iterator remove chromosomes population List Population
+718	checked checkedCumulativeProbability trials BinomialDistribution inverseCumulativeProbability Infinity expected cumulativeProbability fixed large inverseCumulativeProbability BinomialDistribution returns wrong large trials inverse Cumulative Probability Binomial Distribution
+782	stopping original addition BrentOptimizer location exit User criterion user Brent BrentOptimizer User defined check block badly Brent Optimizer
+878	independence LLR tests goodnes approximation Likelihood cases Pearson squared Expected Test Log Likelihood ratio LLR test math stat inference
+849	port mil tests ulps NSWC turn Functions logGamma thread higher Precision improvement Gamma
+915	compatibility broken Usage binary RandomDataGenerator RandomDataImpl report EmpiricalDistribution randomData Empirical compatibility broken EmpiricalDistribution Empirical Distribution
+764	createSampler accepted methods sampler Sampler API RealDistribution instance accept RandomGenerator sample API accept RandomGenerator parameter Random Generator

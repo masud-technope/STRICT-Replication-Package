@@ -1,0 +1,30 @@
+79809	tag type Simple angle suggestion parameter SimpleType Simple Type Type inserted brackets Bug dom javadoc support type parameter Javadoc tags
+42243	syntax diagnosis error mode source expected compiled flagged isn keyword Bug Incorrect syntax diagnosis source mode
+417669	Type appears include source Marker ranges annotation range AnnotatableType Annotatable Type String Bug dom Incorrect source ranges annotated SimpleType nested ParameterizedType Simple Type Parameterized Type
+405889	needed Handles Java NPE Spawned Lang Method getJavaLangInvokeMethodHandlesLookup Java Lang Invoke Method Handles Lookup Resilience eclipse Bug compiler codegen Resilience NPE needed Scope getJavaLangInvokeMethodHandlesLookup Java Lang Invoke Method Handles Lookup
+385293	stored changed modifiers accepts check report position type context arguments Bug compiler compiler accepts normal modifiers type arguments
+424718	compatibility compiler TypeReference Type Reference eclipse functions breaking baseType base Type Reference rise plugins Bug compiler API compatibility AST TypeReference Type Reference
+168331	Error List Method compiler Bug IListEntry IList Entry getEntry Entry AbstractMethodError Method Error IList code Bug compiler AbstractMethodError method Method Error
+399567	Set compiler List inherited add named types Duplicate Ordered java Bug error message reference compiler
+65738	save build time notice happen starting Eclipse automatic occurs Bug Bug builder Build automatically save
+29516	Search failing tests refactoring Bug Engine SearchEngine Search Engine regressions responsible Bug SearchEngine regressions Search Engine
+110797	review FIXME code view loop TODO tags series source Bug Bug multiple task tags single tasks view complete tag
+456395	String code Set convert Bug Object Map Java compile attachment Bug compile Java code
+228691	Types returning passed language assignment processing file Integer source intended Bug JDT impl sun mirror util Types isAssignable returns wrapper primitive assignment Assignable
+380501	support JSR expressions existing lambda feature Add libraries bears connection Bug compiler Add support methods JSR
+412882	eclipse set validate Set Changed verify execute captured validation classpath Bug Unnecessary validation optional library classpath entries
+388634	compliance misses test handle failure included detected Compliance log compiler Bug Test failure Compliance compliance
+413913	failures Bug Investigate Bug Investigate failures
+165346	Expression integrating covered Info produce overriding OperatorExpression Expression method ConditionalExpression Conditional Expression Flow Bug compiler org eclipse jdt internal compiler ast OperatorExpression nullStatus FlowInfo conservative Expression Status Flow Info
+415911	NPE Type missing HEAD method type Bug compiler TYPE annotation Bug compiler NPE TYPE annotated method missing type
+418919	stillTesting Testing Testing store Options System bindings Remove forcing ClassFileConstants File Constants Annotations Bug compiler internal Remove forcing creation annotated bindings
+396258	qualified adopt syntax NullTypeAnnotationTest Type Annotation Test annotations type Annotation Bug Test names Bug adopt syntax annotations qualified type names NullTypeAnnotationTest Type Annotation Test
+126180	compiler NPE enclosing reporting access type problem Bug raised causing Bug compiler NPE reporting invalid enclosing type
+417388	type resolved Argument Type parameter Binding BaseTypeBinding Base Type Binding doesn annotations Base Bug TypeBinding TypeReference parameter type annotations Type Binding Type Reference
+381358	source program message error level complain delete Syntax expressions compiled Bug Compiler gracefully reject JSR constructs source levels
+396139	build JRE reproduce offers JAVA java functions caused team BETA Bug define JRE build targeting BETA JAVA
+145202	analyzer element reference code Bug raises negated System err positive Bug positive reference analyzer negated
+430451	fail tests test JRE dash Invocation compiler surrounding Compiler CompilerInvocationTests Compiler Invocation Tests Bug Tests fail org eclipse jdt compiler tool tests CompilerInvocationTests JRE Compiler Invocation Tests
+405051	primed initialize compute refresh populates search Java call happen calling Bug JavaModel refreshExternalArchives happen search primed Java Model refresh External Archives
+291322	Windows running caused freed tests issue file lock tear Test Bug Test errors running JDT Core tests Windows
+401848	type ASTRewrite adds rewrite introduced Testcase additional annotations error attachment Bug ASTRewrite type annotations adds additional

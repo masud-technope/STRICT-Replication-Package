@@ -1,0 +1,4 @@
+org.apache.derby.impl.store.access.RAMAccessManager:addPropertySetNotification(PropertySetCallback, TransactionController)
+org.apache.derby.iapi.store.raw.log.LogFactory:getLogger()
+org.apache.derby.impl.store.raw.log.ReadOnly:setRawStoreFactory(RawStoreFactory)
+org.apache.derby.iapi.store.access.AccessFactory:isReadOnly()

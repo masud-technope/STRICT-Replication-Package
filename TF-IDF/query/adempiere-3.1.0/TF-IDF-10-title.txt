@@ -1,0 +1,12 @@
+768	Debit Journal Total Wrong currency Credit Sum vice required versa Wrong Sum Total Debit Credit Journal
+113	invoiced shipments func tracker Bug net shipment http detail group Consolidated shipments invoiced
+114	Invoices voided reversed bug func tracker net http detail group Voiding reversal consolidated Invoices
+116	address Country Organization organization enter users Address initial ENTRIES PREVIOUS Organization Update Location Address
+820	Requisition exception ProductNotOnPriceList RequisitionPOCreate Purchase POCreate Price price list List ProductNotOnPriceList Error creating Requisitio Product Price List
+37	patch tracker viewer top scrolling func attempt good bad Tracker Report viewer scrolling broken
+1240	Production tab serial balanced production create globalqss click row botton Posting balanced producing produc
+106	invoices function Selection problem Payment DueDate version batch form checkbox invoices Payment Selection
+109	drafted Invoices invoices func cancelled Garden range bad tracker posting Print Invoices process draft selection
+525	vendors Sales Generate order product current vendor box Scenario dialog Process Generate Sales order bug
+814	production Production products quantity items Lines BOM Qty create product Production fractional Qty production
+815	Landed cost Cost working records Costs LandedCost landed work allocation LandedCost Cost Distribution type Cost work Landed Cost

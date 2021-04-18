@@ -1,0 +1,16 @@
+576	AVG delta setting Diff remove updating making Pref preference correct
+641	set Configuration DistributedRowMatrix method Squared solver jobs job calculation Solver
+610	SimilarityReducer considered simple obvious behavior form high method guaranteed normal
+580	Bayes InMemoryDataStore basePath base params adjusted trunk Missing param set
+614	Hadoop classifier control writes override Context clean Configuration records String
+678	NullPointerException MixedGradient simple algorithm negative gradient multiple category works checked
+583	Loss create data files sequence chunk file directory output loss
+552	NamedVectors AbstractCluster sparse running lost seq Sparse Access issues Vector
+526	DefaultTreeBuilder forest numerical dataset Recursion Stack random Tree attributes cases
+561	parameters TestClassifier Test handle command correctly source Classifier type
+625	higher patterns support generated pattern data proves test returns project
+564	parameter KMeansClusterer distanceThreshold setting distance clusters object convergence initialized method
+565	series integer mask shift sign minhash array doesn implementation Minhash
+631	WeightedRunningAverageAndStdDev bug datum problem weighted handling Std Small tests Weighted
+602	confluence org wiki Implementation operations fails display exceptions dataset apache
+604	training data Bayes Classifier exception tested fails

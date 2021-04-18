@@ -1,0 +1,16 @@
+1888	generics Add Kernel Add generics Kernel
+1762	join scope javax lock EXTENDED table test failing PessimisticLockScope Pessimistic Lock Scope unit javax persistence lock scope EXTENDED doesn properly lock join tables
+1699	Lob support Streaming Streaming Lob support
+1764	dbcp Basic running Driver DriverClassName Driver args based apache apply configure Automatically enable connection pooling unmanaged environments
+1765	problem Table insert threads locking duplicate row testing stress start TableGenerator doesn properly utilize heavy stress Table Generator
+1830	connectionPassword connection Password set connection serializes External EMF write String Configuration serialized Deserialization EMF connectionPassword overwritten INVISIBLE connection Password
+1863	HSQLDB set dictionary HSQL Blobs update useGetObjectForBlobs Object Blobs Object update HSQL dictionary HSQLDB
+1896	merge record database persist execute data set Open OpenJPA Open JPA version OpenJPA store POJOs record exists Open JPA
+1865	code iterator Find enhancements Set FindBugs Find Bugs Bugs simple Running entrySet entry Set inefficient keySet iterator entrySet iterator key Set entry Set
+1613	access property field Mapped enhancing declare JPA Access enhancer Exception Exception thrown enhancing property access MappedSuperclass annotated properties Mapped Superclass
+1837	element blob fails Oracle Embed Collection org embedCollection embed Collection Owner Argument ElementCollection Embeddable blob fails Oracle Element Collection
+1870	column Column MySQL SQL introduced storage optimizes annotation based override existing Blob types override column definition Column annotation MySQL SQL
+1743	work anchor support ant EMF configuration Tool Invoking mappingtool anchors Tool configuration support EMF anchors
+1943	timeout requires lock Query query statements EntityManagerImpl Entity Manager Impl honored fetch generate Query timeout hint honored consistently pessimistic lock issued database requires multi statements locking scheme
+1784	map Map update String merge LocalizedString Localized String commit Entity entity Localized Map updates flushed
+1627	Transaction Column TransactionId Transaction String processDate process mamount ASC transaction tranSequenceNumber tran Sequence Number mprocdate ORderBy ElementJoinColumn EmbeddedId wrong columns SQL ORder Element Join Column Embedded

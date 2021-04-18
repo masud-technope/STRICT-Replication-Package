@@ -1,0 +1,2 @@
+BrentOptimizer: User-defined check block is badly placed
+The CM implementation of Brent's original algorithm was supposed to allow for a user-defined stopping criterion (in addition to Brent's default one). However, it turns out that this additional block of code is not at the right location, implying an unwanted early exit.

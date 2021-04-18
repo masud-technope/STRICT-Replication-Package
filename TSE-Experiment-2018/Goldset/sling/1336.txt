@@ -1,9 +1,0 @@
-launchpad/testing/src/test/java/org/apache/sling/launchpad/webapp/integrationtest/servlets/post/PostServletOutputContentTypeTest.java
-bundles/servlets/post/src/main/java/org/apache/sling/servlets/post/impl/SlingPostServlet.java
-bundles/servlets/post/src/main/java/org/apache/sling/servlets/post/impl/helper/MediaRangeList.java
-bundles/servlets/post/src/main/java/org/apache/sling/servlets/post/impl/SlingPostServlet.java
-bundles/servlets/post/src/main/java/org/apache/sling/servlets/post/impl/helper/JSONResponse.java
-bundles/servlets/post/src/main/java/org/apache/sling/servlets/post/impl/helper/MediaRangeList.java
-bundles/servlets/post/src/test/java/org/apache/sling/servlets/post/impl/SlingPostServletTest.java
-bundles/servlets/post/src/test/java/org/apache/sling/servlets/post/impl/helper/JsonResponseTest.java
-bundles/servlets/post/src/test/java/org/apache/sling/servlets/post/impl/helper/MediaRangeListTest.java

@@ -1,0 +1,4 @@
+JavaMergeViewer:isInputValid(IEditorInput)
+JavaMergeViewer:getEditorInput(ISourceViewer)
+JavaMergeViewer:CompilationUnitEditorAdapter:getEditorInput()
+JavaMergeViewer:CompilationUnitEditorAdapter:close(boolean)

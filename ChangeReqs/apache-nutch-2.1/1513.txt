@@ -1,0 +1,2 @@
+Support Robots.txt for Ftp urls
+As per [0], a FTP website can have robots.txt like [1]. In the nutch code, Ftp plugin is not parsing the robots file and accepting all urls. In "_src/plugin/protocol-ftp/src/java/org/apache/nutch/protocol/ftp/Ftp.java_" {noformat} public RobotRules getRobotRules(Text url, CrawlDatum datum) { return EmptyRobotRules.RULES; }{noformat} Its not clear of this was part of design or if its a bug. [0] : https://developers.google.com/webmasters/control-crawl-index/docs/robots_txt [1] : ftp://example.com/robots.txt

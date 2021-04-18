@@ -1,0 +1,17 @@
+31779	file UnifiedTree folder moment returns bug workspace refresh system operations
+23140	xxx extssh ssh authentication password xxxx repository vulnerable client illegal
+13926	rectangle JFace inserting attached shot position Text driver insertion execution
+19686	hover file mouse stops reopen whitespace switching bring methods editors
+21062	resource feel adding repositories incorrect string wizard parameter repository constructor
+19976	site add offer internet connected modify bad properties time feature
+22696	window open topics view topic popup perspective doesn showing press
+18761	anonymous support creating connections password connection checkbox FTP user target
+17707	warning site overwrite choose ignore project message select location target
+19307	ftp rejected oti enter acceptable programs option connect url format
+19691	export preferences saved settings workspace plug working feature preference read
+13069	files memory converting large buffers send usage larger delimiters buffered
+15277	suite test add searched tests handled easier recreate ends recursive
+16787	returns disposing returning dispose lazy fine workaround disposed control method
+30644	cut preference High COntrast Ext VCM CVS Connection Label Method
+12118	ssh user extssh connection server nice operate compatible revision protocol
+22809	dialog resized labels file deep resize directory Properties pane full

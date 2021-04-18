@@ -1,4 +1,0 @@
-Bug 94951 – [implementation] Compiler error prevents further development
-Build 20050509
-JDT/Text counterpart of bug 94945.
-See steps in other PR.

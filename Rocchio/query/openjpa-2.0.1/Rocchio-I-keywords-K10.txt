@@ -1,0 +1,16 @@
+1888	Add generics Kernel add meth enhance object list getobject val method exps addal
+1762	javax persistence lock scope EXTENDED doesn properly lock join tables extend extended lockscop testextendeduni pessimisticlockscop lazi locking normal uni pessimist
+1699	Streaming Lob support lob rle readerlobent strats reader add setstream supports select entiti
+1764	Automatically enable connection pooling unmanaged environments cache jpa unspecifi cacheabl cach testbrokerfactorypool factori broker pool testcach
+1765	TableGenerator doesn properly utilize heavy stress Table Generator gener dog enhance pcdatagener storag generationtype setstoragegener getstoragegener repo data
+1830	Deserialization EMF connectionPassword overwritten INVISIBLE connection Password password encrypt connectionpassword connect decrypt provid setconnectionpassword usernam conf testencryptionprovid
+1863	update HSQL dictionary HSQLDB hire hiretimestamp employe dictionari timestamp server updat select dict sql
+1896	OpenJPA store POJOs record exists Open JPA custom exist openjpastatemanag nextstat slice customupd updat edata getpcstat jpa
+1865	inefficient keySet iterator entrySet iterator key Set entry Set iter entri view util entryiter getview map proxyentryset itr additer
+1613	Exception thrown enhancing property access MappedSuperclass annotated properties Mapped Superclass generatedvalu accesstyp setid getid basic gener meta properti getcreated getnam
+1837	ElementCollection Embeddable blob fails Oracle Element Collection putbyt collect element flag elem type fmd store storemapcollectioninentityasblob elementtyp
+1870	Blob types override column definition Column annotation MySQL SQL blob sql getblob getbyt col resultset usegetobjectforblob type deseri usegetbytesforblob
+1743	Tool configuration support EMF anchors configur ant tempemf emf newconfigur dictionari temp supporteddb configurationimpl chang
+1943	Query timeout hint honored consistently pessimistic lock issued database requires multi statements locking scheme plan fplan hintnam fconfig locktimeouthinttest config sethint javax fetch expect
+1784	Map updates flushed oplock flush persist delet map testoplockfieldmap context eraseflush statemanagerimpl eras
+1627	ORderBy ElementJoinColumn EmbeddedId wrong columns SQL ORder Element Join Column Embedded order join asc orderbi column col sel aliasord sql seld

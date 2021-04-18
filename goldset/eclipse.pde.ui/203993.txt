@@ -1,0 +1,3 @@
+SchemaTransformer:transformElement(ISchemaElement)
+SchemaTransformer:printBody()
+SchemaTransformer:containsParagraph(String)

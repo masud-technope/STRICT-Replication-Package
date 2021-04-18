@@ -1,0 +1,30 @@
+79809	Simple type parameter SimpleName SimpleType param angle tag normal suggestion Bug dom javadoc support type parameter Javadoc tags
+42243	source error mode expected diagnosis syntax isn main String token Bug Incorrect syntax diagnosis source mode
+417669	Type String annotation Marker source java lang dom code ranges Bug dom Incorrect source ranges annotated SimpleType nested ParameterizedType Simple Type Parameterized Type
+405889	bugs JAVA NPE cgi needed Invoke Bug review Lookup https Bug compiler codegen Resilience NPE needed Scope getJavaLangInvokeMethodHandlesLookup Java Lang Invoke Method Handles Lookup
+385293	modifiers normal compiler silently read references accepts modifier accepted Marker Bug compiler compiler accepts normal modifiers type arguments
+424718	Type Reference base dim TypeReference compatibility baseTypeReference baseType compiler functions Bug compiler API compatibility AST TypeReference Type Reference
+168331	Entry Error Method Bug List IList IExtended getEntry IListEntry compiler Bug compiler AbstractMethodError method Method Error
+399567	Set Ordered List OrderedSet add java error javac compiler types Bug error message reference compiler
+65738	save change build occur automatic time happen Making Eclipse automatically Bug builder Build automatically save
+29516	regressions SearchEngine tests refactoring Bug responsible Search failing Engine Bug SearchEngine regressions Search Engine
+110797	review loop FIXME TODO code view Build tag multiple tags Bug multiple task tags single tasks view complete tag
+456395	code Set String Object Map Java convert sample Created Type Bug compile Java code
+228691	Types isAssignable source Assignable level annotation assignment Integer wrapper language Bug JDT impl sun mirror util Types isAssignable returns wrapper primitive assignment Assignable
+380501	methods support Add lambda grammar Bug JSR expressions aka wider Bug compiler Add support methods JSR
+412882	eclipse core org internal jdt Classpath Entry Java validation Operation Bug Unnecessary validation optional library classpath entries
+388634	compliance Compliance test failure preview log occurs Tests JDTCore running Bug Test failure Compliance compliance
+413913	Investigate failures Bug Bug Investigate failures
+165346	Expression FlowInfo OperatorExpression compiler Status Info Flow nullStatus internal conservative Bug compiler org eclipse jdt internal compiler ast OperatorExpression nullStatus FlowInfo conservative Expression Status Flow Info
+415911	annotation NPE ElementType Element Marker Target Type java lang TYPE Bug compiler NPE TYPE annotated method missing type
+418919	System bindings type stillTesting Lookup Testing Environment Options global globalOptions Bug compiler internal Remove forcing creation annotated bindings
+396258	annotations syntax NullTypeAnnotationTest type java Bug Test NonNull lang Annotation Bug adopt syntax annotations qualified type names NullTypeAnnotationTest Type Annotation Test
+126180	Member access Object NPE String type compiler method foo raised Bug compiler NPE reporting invalid enclosing type
+417388	Type type annotations Binding Argument parameter BaseTypeBinding Base referencing code Bug TypeBinding TypeReference parameter type annotations Type Binding Type Reference
+381358	source error program level message tokens token Syntax levels project Bug Compiler gracefully reject JSR constructs source levels
+396139	JRE java util build JAVA current BETA functions Javadoc reproduce Bug define JRE build targeting BETA JAVA
+145202	element positive reference analyzer negated code err String System negative Bug positive reference analyzer negated
+430451	test tests failing dash option Tests fail JRE Iterable Invocation Bug Tests fail org eclipse jdt compiler tool tests CompilerInvocationTests JRE Compiler Invocation Tests
+405051	search URL Java initializeAfterLoad Core Load IProgress JavaCore IProgressMonitor primed Bug JavaModel refreshExternalArchives happen search primed Java Model refresh External Archives
+291322	Windows running tests file Pattern issue caused freed delete exceptions Bug Test errors running JDT Core tests Windows
+401848	additional Testcase annotations type error Annotation rewrite Created reproduce introduced Bug ASTRewrite type annotations adds additional

@@ -1,3 +1,0 @@
-Bug 406469 – [1.8][dom ast] ASTRewrite support for PackageQualifiedType
-Implement ASTRewrite for PackageQualifiedType.
-Duplicate and adapt the visit(QualifiedType) methods of ASTRewriteFlattener and ASTRewriteAnalyzer.

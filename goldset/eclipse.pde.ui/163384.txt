@@ -1,0 +1,8 @@
+ClasspathHelper:addPath(ArrayList, IProject, IPath, boolean)
+ClasspathHelper:getDevEntriesProperties(String, Map)
+ClasspathHelper:getDevEntries(boolean)
+ClasspathHelper:getOutputFolders(IPluginModelBase, boolean)
+ClasspathHelper:getDevPaths(IPluginModelBase, boolean, Map)
+ClasspathHelper:getDevEntriesProperties(String, boolean)
+ClasspathHelper:addLibraryFromFragments(String, IPluginModelBase, ArrayList, boolean, Map)
+ClasspathHelper:getDevDictionary(IPluginModelBase)

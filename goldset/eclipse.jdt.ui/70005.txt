@@ -1,0 +1,1 @@
+CodeCompletionTest:createCollector(ICompilationUnit, int)

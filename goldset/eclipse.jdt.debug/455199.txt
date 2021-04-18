@@ -1,0 +1,2 @@
+BinaryBasedSourceGenerator:buildRunMethod(ReferenceType)
+BinaryBasedSourceGenerator:buildTypeDeclaration(ReferenceType, StringBuffer, String, boolean)

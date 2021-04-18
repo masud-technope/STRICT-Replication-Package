@@ -1,0 +1,4 @@
+DependencyManager:getSelfandDependencies()
+DependencyManager:getSelfAndDependencies(IPluginModelBase)
+DependencyManager:getImplicitDependencies()
+DependencyManager:getDependencies(boolean)

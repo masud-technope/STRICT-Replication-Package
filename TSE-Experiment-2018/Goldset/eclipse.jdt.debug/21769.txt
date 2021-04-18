@@ -1,2 +1,0 @@
-org.eclipse.jdt.debug/buildnotes_jdt-debug.html
-org.eclipse.jdt.debug/jdi/org/eclipse/jdi/internal/MethodImpl.java

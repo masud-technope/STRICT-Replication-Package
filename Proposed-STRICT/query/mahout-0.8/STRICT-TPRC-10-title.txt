@@ -1,0 +1,15 @@
+1345	lingering code testing modules defines tests depending parent upgrading adds Enable randomised testing Mahout modules
+1409	Matrix error Vector check View test correct MatrixVectorView Matrix Vector View MatrixVectorView check error Matrix Vector View
+1379	point fails cluster Summarizer data OnlineSummarizer Online Summarizer expects Cluster getQuartile Quartile digest ClusterQualitySummarizer fails Digest clusters data point Cluster Quality Summarizer
+1284	reuse DummyRecordWriter Dummy Record Writer Dummy map Writables testing Writable Record fail MapReduce Map Reduce DummyRecordWriter bug reused Writables Dummy Record Writer
+1317	checkArgument check Argument Row check code error issue save Argument row Similarity Clarify messages Preconditions checkArgument check Argument
+1030	wrote clustered Weighted WeightedVectorWritable Weighted Vector Writable Vector Points release WeightedPropertyVectorWritable Weighted Property Vector Writable Writable change Regression Clustered Points WeightedPropertyVectorWritable WeightedVectorWritable Weighted Property Vector Writable Weighted Vector Writable
+1319	argument filter command Addition PrefixAdditionFilter Prefix Addition Filter works custom Sequence Running seqdirectory seqdirectory filter argument silently
+1351	Vector clustering point Cluster SIFT updating derive descriptors Invariant Dense Adding DenseVector support AbstractCluster Dense Vector Cluster
+1261	MAX Integer Taste TasteHadoopUtils Taste Hadoop Utils idToIndex set returned size Longs Hadoop TasteHadoopUtils idToIndex size Integer MAX Taste Hadoop Utils
+1364	Lucene invokes Carrot Randomized discussion fail Mahout Mac RandomizedRunner Randomized Runner code Upgrade Mahout codebase Lucene
+1301	code string toString String String SequentialAccessSparseVector Sequential Access Sparse Vector changed Sequential comma method Vector toString method SequentialAccessSparseVector excess comma String Sequential Access Sparse Vector
+1398	vary users delimiter designed pattern provide delimiterPattern delimiter Pattern Mahout processLine process constructor FileDataModel provide constructor delimiterPattern File Data Model delimiter Pattern
+1368	OnlineSummarizer Online Summarizer extended quartile estimation TDigest provide Online fails quantiles distributions Convert OnlineSummarizer TDigest Online Summarizer
+1242	hash hashCode hash Code code Hash maps HashFunctions Hash Functions Returns DDE based function key redistribution function associative maps
+1308	Candidate extend CandidateItemsStrategy Candidate Items Strategy visibility Items implement Strategy custom modifier AbstractCandidateItemsStrategy Candidate Items Strategy extend CandidateItemsStrategy restricted visibility Candidate Items Strategy

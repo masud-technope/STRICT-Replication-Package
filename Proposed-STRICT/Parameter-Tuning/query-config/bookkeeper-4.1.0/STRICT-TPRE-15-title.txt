@@ -1,0 +1,21 @@
+55	channel topic Reconnect subscription auto Hedwig Retry Subscribe recovery Subscriber HedwigSubscriber Hedwig Subscriber Task succeed subscribe recover	Reconnect Retry Hedwig Subscriber channel Disconnected Task Subscribe	SubscribeReconnectRetryTask retry subscription endlessly subscription created Subscribe Reconnect Retry Task
+247	system bookkeeper underreplication ledger JIRA replication discusses Detection detect entries		Detection replication
+248	subtask replicated rereplicate entries underreplicated discusses data Rereplicating		Rereplicating replicated data
+272	Book bookie mechanism BookKeeper Book Keeper Keeper documents automatic failure approaches replication failures attached process Setup build	Book Keeper	Provide automatic mechanism bookie failures
+299	Ledger Keeper Fragment LedgerFragmentReplicator Ledger Fragment Replicator Book Replicator code fragments Admin replication worker fragment BookKeeperAdmin Book Keeper Admin Checker checker	Keeper Ledger Fragment Book Admin Checker Replicator	Provide LedgerFragmentReplicator replicate fragments LedgerChecker Ledger Fragment Replicator Ledger Checker
+300	command bookie format paths Directories machine Journal Zookeeper path directories root Bookie znodes env ledger		Create Bookie format command
+318	process Callback code Multi log Result MultiCallback Multi Callback LOG Object callback ctx Error mistake Rc Spelling	Rc process Callback success Multi Result	Spelling mistake MultiCallback log message Multi Callback
+326	Dead thread ledger dump recovery Lock attached find DeadLock Dead Lock Deadlock	Dead Lock	DeadLock ledger recovery Dead Lock
+330	Time bookkeeper currentTimeMillis current Time Millis server current hedwig Hedwig Millis usage BOOKKEEPER System	Time current Millis	System currentTimeMillis usage Hedwig current Time Millis
+336	bookie read time entry ensemblesize quorumsize entries ledger failure failed Time Start connection Namenode bookies	read Time Entries	bookie readEntries time ensemble failed bookie read Entries
+337	Version Metadata ensemble Start MetadataVersionException Metadata Version Exception bookies Write Exception bookie entry quroum morethan inprogress failures size	Version Metadata Exception	Add entry fails MetadataVersionException ensemble morethan bookie failures Metadata Version Exception
+345	Entry bookie ledger IOException Logger IOExceptions mode EntryLogger Entry Logger writable entrylogger detect jira iterate configured dirs	Entry Logger	Detect IOExceptions entrylogger bookie ledger dir
+346	Ledger LedgerCache Ledger Cache ledger Cache IOExceptions jira dir detect bookie iterate configured Detect	Ledger Cache	Detect IOExceptions LedgerCache bookie ledger dir Ledger Cache
+347	bookie client bookies mechanism entries add discuss clients writable detect jira choose		Provide mechanism detect bookie bookie clients
+355	Ledger ensemble Recovery bookie ledger client recovery Read size NoSuchLedgerException Ledger Exception quorum written recover entry	Recovery Ledger Read Exception	Ledger recovery mark ledger closed slow bookie ensemble recovery add
+431	Ledger COOKIES cookie AbstractZkLedgerManager Ledger Manager Manager definition Zk java NODE definitions Duplicate	Zk Ledger Manager	Duplicate definition COOKIES NODE
+447	Ledger ledger entries problem entry ack Storage Cache Impl flush Entry Clean LedgerCacheImpl Ledger Cache Impl experience violation	Ledger Clean Storage Cache Set ack Entry grab Impl Interleaved flush	Bookie fail recover flushed ledger flush acknowledged
+472	Bookie servers start process overhead Autorecovery Auditor deployment reduce option monitor bit Monitoring load performance		Provide option start Autorecovery Bookie Servers
+491	doc configuration parameters server hedwig describing Hedwig properly		Hedwig doc configuration
+498	Recovery NPE Test Bookie BookieRecoveryTest Bookie Recovery Test tear tearDown tear build complaining Jenkins	Recovery tear Bookie Test	BookieRecoveryTest tearDown NPE Bookie Recovery Test tear
+514	Dead Test manager Lock channel test bad hanging callback attached TestDeadLock Test Dead Lock logs	Dead Test Lock	TestDeadLock hanging Test Dead Lock

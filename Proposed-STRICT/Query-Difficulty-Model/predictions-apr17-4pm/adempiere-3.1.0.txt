@@ -1,0 +1,24 @@
+1    1:bestq    1:bestq        0.813 0.187  adempiere-3.1.0-116-bestq 
+     2   2:worstq   2:worstq       0.057  0.943  adempiere-3.1.0-109-worstq 
+     1    1:bestq    1:bestq        0.867 0.133  adempiere-3.1.0-815-bestq 
+     2   2:worstq   2:worstq       0.426  0.574  adempiere-3.1.0-1240-worstq 
+     1    1:bestq    1:bestq        0.834 0.166  adempiere-3.1.0-820-bestq 
+     2   2:worstq   2:worstq       0.309  0.691  adempiere-3.1.0-113-worstq 
+     1    1:bestq    1:bestq        1 0  adempiere-3.1.0-109-bestq 
+     2   2:worstq   2:worstq       0.44  0.56  adempiere-3.1.0-116-worstq 
+     1    1:bestq    1:bestq        0.76 0.24  adempiere-3.1.0-106-bestq 
+     2   2:worstq   2:worstq       0.221  0.779  adempiere-3.1.0-37-worstq 
+     1    1:bestq    1:bestq        0.936 0.064  adempiere-3.1.0-114-bestq 
+     2   2:worstq   2:worstq       0.396  0.604  adempiere-3.1.0-525-worstq 
+     1    1:bestq    1:bestq        0.718 0.282  adempiere-3.1.0-814-bestq 
+     2   2:worstq   2:worstq       0.327  0.673  adempiere-3.1.0-815-worstq 
+     1    1:bestq    1:bestq        0.635 0.365  adempiere-3.1.0-1240-bestq 
+     2   2:worstq   2:worstq       0.357  0.643  adempiere-3.1.0-114-worstq 
+     1    1:bestq    1:bestq        0.804 0.196  adempiere-3.1.0-37-bestq 
+     2   2:worstq   2:worstq       0.378  0.622  adempiere-3.1.0-768-worstq 
+     1    1:bestq    1:bestq        0.5 0.5  adempiere-3.1.0-768-bestq 
+     2   2:worstq    1:bestq        0.581 0.419  adempiere-3.1.0-106-worstq 
+     1    1:bestq    1:bestq        0.983 0.017  adempiere-3.1.0-113-bestq 
+     2   2:worstq   2:worstq       0.229  0.771  adempiere-3.1.0-820-worstq 
+     1    1:bestq   2:worstq       0.447  0.553  adempiere-3.1.0-525-bestq 
+     2   2:worstq   2:worstq       0.021  0.979  adempiere-3.1.0-814-worstq

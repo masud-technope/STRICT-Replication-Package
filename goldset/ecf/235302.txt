@@ -1,2 +1,0 @@
-providers/bundles/org.eclipse.ecf.provider.jslp/src/org/eclipse/ecf/internal/provider/jslp/ServiceURLAdapter.java
-providers/bundles/org.eclipse.ecf.provider.jslp/src/org/eclipse/ecf/provider/jslp/identity/JSLPNamespace.java

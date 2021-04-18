@@ -1,0 +1,2 @@
+OptionsConfigurationBlock:addCheckBoxWithLink(Composite, Key, int, int, SelectionListener)
+OptionsConfigurationBlock:addCheckBoxWithLink(Composite, Key, int, int)

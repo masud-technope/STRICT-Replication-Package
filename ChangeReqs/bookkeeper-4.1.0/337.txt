@@ -1,0 +1,2 @@
+Add entry fails with MetadataVersionException when last ensemble has morethan one bookie failures
+Scenario: ======== Start Five BK's Write ledger's with ensemble three and quroum size=2 while write inprogress down two bookies(Bookies should be in ensemble)

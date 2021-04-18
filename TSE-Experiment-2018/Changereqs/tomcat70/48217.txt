@@ -1,3 +1,0 @@
-48217 – Loggers should be final
-Created attachment 24554 [details]
-Make logs final and private; add missing @Override markers

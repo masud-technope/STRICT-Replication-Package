@@ -1,0 +1,5 @@
+CheckedListDialogField:setUncheckAllButtonIndex(int)
+CheckedListDialogField:setCheckAllButtonIndex(int)
+CheckedListDialogField:createTableViewer(Composite)
+CheckedListDialogField:setCheckAllButtonIndex(int)
+CheckedListDialogField:setUncheckAllButtonIndex(int)

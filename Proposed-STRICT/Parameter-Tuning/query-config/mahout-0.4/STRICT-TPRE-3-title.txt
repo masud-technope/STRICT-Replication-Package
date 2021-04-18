@@ -1,0 +1,16 @@
+526	Tree Overflow Builder	Tree Overflow Builder	Infinite Recursion DefaultTreeBuilder Tree Builder
+552	Sparse Cluster Vectors	Access Sparse Named	AbstractCluster eliminates NamedVectors replacing RandomAccessSparseVector Cluster Named Vectors Random Access Sparse Vector
+561	Test Classifier TestClassifier Test Classifier	Test Classifier	TestClassifier correctly handle type source command parameters Test Classifier
+564	KMeans distance convergence	KMeans distance test	KMeansClusterer distanceThreshold parameter testConvergence Iterable Cluster clusters distanceThreshold method KMeans Clusterer distance Threshold test Convergence distance Threshold
+565	bit operations signature		Features incorrectly hashed Minhash
+576	Storage Item AVG	Item JDBCDiff	AbstractJDBCDiffStorage updateItemPref updating AVG incorrectly cases JDBCDiff Storage update Item Pref
+580	Bayes Memory base	Bayes Data Memory	Missing basePath Bayes job InMemoryDataStore base Path Memory Data Store
+583	chunk file files		Loss data create sequence files directory
+602	Implementation org confluence		Partial Implementation exceptions
+604	Classifier data training		Bayes Classifier fails data training data
+610	Row Similarity Mapper	Row Similarity Coocurrence	Coocurrences SimilarityReducer Similarity Reducer
+614	Output Record Hadoop	Output Attempt Record	org apache mahout classifier baytes MultipleOutputFormat working intended Hadoop Multiple Output Format
+625	test support data		generated patterns support higher reality
+631	Std Weighted WeightedRunningAverage Weighted Running Average	Std Running	Small bug WeightedRunningAverage add WeightedRunningAverageAndStdDev Weighted Running Average Weighted Running Average Std Dev
+641	Lanczos Job Matrix	Job Lanczos Squared	DistributedRowMatrix hadoop jobs ignore Configuration set setConf Distributed Row Matrix set Conf
+678	Gradient Pointer Mixed	Gradient Pointer Logistic	NullPointerException MixedGradient SGD algorithm Pointer Exception Mixed Gradient

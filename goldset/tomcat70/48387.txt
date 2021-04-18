@@ -1,0 +1,6 @@
+RemoteIpFilter:setProtocolHeaderHttpsValue(String)
+RemoteIpFilter:getProtocolHeaderSslValue()
+RemoteIpFilter:getProtocolHeaderHttpsValue()
+RemoteIpFilter:setProtocolHeaderSslValue(String)
+RemoteIpFilter:init(FilterConfig)
+RemoteIpFilter:doFilter(HttpServletRequest, HttpServletResponse, FilterChain)

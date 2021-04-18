@@ -1,3 +1,0 @@
-bundles/servlets/post/src/main/java/org/apache/sling/servlets/post/impl/operations/AbstractCreateOperation.java
-bundles/servlets/post/src/main/java/org/apache/sling/servlets/post/impl/operations/ImportOperation.java
-bundles/servlets/post/src/main/java/org/apache/sling/servlets/post/impl/operations/ModifyOperation.java

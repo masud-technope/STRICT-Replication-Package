@@ -1,4 +1,0 @@
-bundles/servlets/post/src/main/java/org/apache/sling/servlets/post/impl/operations/AbstractCopyMoveOperation.java
-bundles/servlets/post/src/main/java/org/apache/sling/servlets/post/impl/operations/CopyOperation.java
-bundles/servlets/post/src/main/java/org/apache/sling/servlets/post/impl/operations/MoveOperation.java
-bundles/servlets/post/src/main/java/org/apache/sling/servlets/post/impl/operations/CopyOperation.java

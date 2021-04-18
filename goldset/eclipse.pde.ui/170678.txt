@@ -1,0 +1,1 @@
+AddNewDependenciesOperation:addProjectPackages(IBundle, Set)

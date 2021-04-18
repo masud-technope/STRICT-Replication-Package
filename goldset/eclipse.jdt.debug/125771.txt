@@ -1,0 +1,2 @@
+ToggleBreakpointAdapter:toggleMethodBreakpoints(IWorkbenchPart)
+ToggleBreakpointAdapter:isRemote(IWorkbenchPart, ISelection)

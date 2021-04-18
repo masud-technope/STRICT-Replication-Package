@@ -1,7 +1,0 @@
-48784 – Links to example code are broken in the JavaDocs
-Created attachment 25029 [details]
-Snapshot of the links.
-On the org.apache.log4j.xml.examples.XMLSample page of the API docs (http://logging.apache.org/log4j/1.2/apidocs/org/apache/log4j/xml/examples/XMLSample.html), the following links are broken:
-- example code: http://logging.apache.org/log4j/1.2/apidocs/org/apache/log4j/xml/examples/XMLSample.java
-- sample1.xml: http://logging.apache.org/log4j/1.2/apidocs/org/apache/log4j/xml/examples/sample1.xml
-- sample2.xml: http://logging.apache.org/log4j/1.2/apidocs/org/apache/log4j/xml/examples/sample2.xml

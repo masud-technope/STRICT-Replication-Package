@@ -1,0 +1,17 @@
+956	solrindex issues caveats solrindex command documents refer http techvineyard blogspot build nutch html solrindex describes tests
+1047	indexing plugins add deduplicating storage backends searching extension reduce generating Pluggable indexing backends
+1370	crawl INFO code urls injected fetching debugging crawldb PluginRepository Plugin Repository number Expose exact number urls injected runtime
+1393	generate usage GeneratorJob Generator Job Generator nutch generating stdout code lewis auto Display consistent usage GeneratorJob Generator Job
+1419	parsechecker indexchecker report protocol status Parsechecker indexchecker report protocol status fetch successful status redirect protocol status URL redirect points URL checked original indexed content redirect response empty code nutch indexchecker http lucene apache org nutch fetching http lucene apache org nutch parsing http lucene apache org nutch contentType text html content Moved Permanently Moved Permanently document moved Apache Unix OpenSSL title Moved Permanently host lucene apache org tstamp Tue Jul CEST url http lucene apache org nutch code content Type Open SSL
+1453	Indexing differences issues current problem IndexingFilters Indexing Filters common Test justice share Substantiate tests IndexingFilters Indexing Filters
+1493	Error adding field contentLength solrindex contentLength empty string assume NUTCH solr accept attached patch checks empty string contentLength content Length content Length content Length
+1501	Harmonize behavior parsechecker indexchecker Behaviour ParserChecker IndexingFiltersChecker diverged trunk missing NUTCH NUTCH open issue applied NUTCH NUTCH Parser Checker Indexing Filters Checker
+1503	Configuration properties sync FetcherReducer nutch xml FetcherReducer java Bug properties FetcherReducer nutch xml code useHostSettings conf getBoolean fetcher queue host settings timelimit conf getLong fetcher timelimit byIP conf getBoolean fetcher threads host timelimit context getConfiguration getLong fetcher timelimit code properly code execution updated removed nutch xml Patch coming Fetcher Reducer Fetcher Reducer Fetcher Reducer Host Settings Configuration
+1513	Text Ftp robots urls plugin nutch file accepting google control Support Robots txt Ftp urls
+1514	Phase deprecated configuration properties reference deprecated configuration properties removed functionality http mail archives apache org mod mbox nutch user mbox CCAFKhtFwvM cVusGZWKeGdcWrVShPtBdfTdcn NNpM ovA mail gmail CCAFKht Fwv Vus GZWKe Gdc VSh Bdf Tdcn NNp
+1532	Replace segment mapping field batchId segment field solr mapping xml replaced batchId reflects architecture http mail archive user nutch apache org msg html batch batch
+1542	param strong urls crawl hack clear ported reason left fetch adddays param generator
+1552	read code org java indexer attempt content apache src Filter possibility NPE plugin
+1563	FetchSchedule getFields GeneraterJob method getFields FetchSchedule user FetchSchedule fields WebPage Fetch Schedule Fields Generater Job Fields Fetch Schedule Fetch Schedule Web
+1569	Upgrade Gora released Maven artifacts upgrade push Patch coming
+1575	support solr authentication nutch solr authentication nutch

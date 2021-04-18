@@ -1,0 +1,2 @@
+JavaDropAdapterAssistant:validateDrop(Object, int, TransferData)
+JavaDropAdapterAssistant:handleDrop(CommonDropAdapter, DropTargetEvent, Object)

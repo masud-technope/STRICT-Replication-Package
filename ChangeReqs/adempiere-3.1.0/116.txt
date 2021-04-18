@@ -1,0 +1,2 @@
+Organization: Update Location/Address
+The inital organization address of System is a US address. When changing the address users would enter the information in the sequence given (Address 1-4, City, State, ZIP, Country. However, you can only enter a STATE depending on the COUNTRY. When you then change the Country ALL PREVIOUS ENTRIES are reverted back to the initial settings. While this is nothing crucial, it is not very user friendly!

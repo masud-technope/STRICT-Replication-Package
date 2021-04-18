@@ -1,0 +1,1 @@
+PluginsLabelProvider:getText(Object)

@@ -1,0 +1,18 @@
+820	Locator Document test Html setDocumentLocator set Document Locator unit	Document Html Parser Locator set	Locator unset HTML parser
+991	file lyrics audio duration bit rates		Parser extract duration audio file
+992	Metadata Html Graph method meta Open	Html Graph appended Values Open add	OpenGraph meta tags multiple values Open Graph
+1012	Mime Type comment bmp acronym MimeType Mime Type	Mime Type	Add additional fields MimeType reader Mime Type
+1014	Reader custom Types Mime MimeTypesReader Mime Types Reader handling	Types Mime Reader	custom MimeTypesReader Mime Types Reader
+1047	meta mediatype TIKA jquery server endpoint	Modified	Provide JAX detect mediatype
+1053	ASM jira xwiki browse XWiki Tika		Upgrade Tika Parsers ASM
+1062	lists support cases detection tests formatting		Add list detection RTFParser
+1074	exception document Tika app record embedded		Extraction exception hit visiting embedded document
+1109	test content OOXML documents pptx medata	test PPT resource	Metadata extracted content OOXML pptx
+1110	Parser mime type application types Detector	Detect Parser Auto Chm	Incorrectly declared SUPPORTED TYPES ChmParser Chm Parser
+1124	Content Body PDF BodyContentHandler Body Content Handler trunk attachments	Content Body Matching Handler Simple	Nested documents extracted PDF file chain
+1126	text tika html server support adds		text html procuder tika server
+1130	text docx document file portions Microsoft		docx text extract leaves portions text
+1193	Html Tag access applications TIKA HTMLSchema	Html Soup Tag Schema Parser	access HtmlParser HtmlSchema Html Parser Html Schema
+1202	Annotation Parse PDFParser parameter extract Context	Annotation Context Parse extract Text	Refactor PDFParser enable easier parameter setting
+1210	Mime files TODO swf String Test	Mime Type Types Test Data	Address tika parsers mime TestMimeTypes TODO test flash file Test Mime Types
+1211	Document Documents start parser endDocuments Documents ODF	Document Documents start Files Open	OpenDocument ODF parser produces multiple startDocument events Open Document start Document

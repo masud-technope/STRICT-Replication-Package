@@ -1,0 +1,4 @@
+net.sourceforge.atunes.kernel.ControllerProxy:getInstance()
+net.sourceforge.atunes.gui.MultipleFrame:getPlayListPanel()
+net.sourceforge.atunes.gui.MultipleFrame:addContentToFrame()
+net.sourceforge.atunes.gui.MultipleFrame:getPlayListTable()

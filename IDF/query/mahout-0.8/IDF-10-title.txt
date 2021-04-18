@@ -1,0 +1,15 @@
+1345	dependencies dependency bits threads respective spare easier needed wrote machine Enable randomised testing Mahout modules
+1409	MatrixVectorView correct error View check Matrix test Vector MatrixVectorView check error Matrix Vector View
+1379	getQuartile Quartile Digest digest ClusterQualitySummarizer Quality OnlineSummarizer single Summarizer clusters ClusterQualitySummarizer fails Digest clusters data point Cluster Quality Summarizer
+1284	Writables bug internal DummyRecordWriter Dummy instance recommended fail Reduce MapReduce DummyRecordWriter bug reused Writables Dummy Record Writer
+1317	cases message relevant incomplete trivial save incorrect Incorrect maxSimilaritiesPerRow negative Clarify messages Preconditions checkArgument check Argument
+1030	iterating hope large bits stored JIRA impact longer release Clustered Regression Clustered Points WeightedPropertyVectorWritable WeightedVectorWritable Weighted Property Vector Writable Weighted Vector Writable
+1319	expected PrefixAdditionFilter Addition thrown custom exception parameter Prefix Directory command seqdirectory filter argument silently
+1351	processing runtime visual AbstractCluster Feature constructor Scale Transform support document Adding DenseVector support AbstractCluster Dense Vector Cluster
+1261	IndexException fffffff ToUserVectorsReducer setting large hashes bug TasteHadoopUtils entries ItemSimilarityJob TasteHadoopUtils idToIndex size Integer MAX Taste Hadoop Utils
+1364	Randomized API version fail Parallel Runner Lucene code Mahout Upgrade Mahout codebase Lucene
+1301	excess bug extra capacity comma Sequential SequentialAccessSparseVector toString code method toString method SequentialAccessSparseVector excess comma String Sequential Access Sparse Vector
+1398	delimiterPattern delimiter push goal processLine framework FileDataModel users constructor cost FileDataModel provide constructor delimiterPattern File Data Model delimiter Pattern
+1368	quartile accuracy OnlineSummarizer distributions Summarizer Convert Online current Convert OnlineSummarizer TDigest Online Summarizer
+1242	FFFFFFF degenerate bits DRand strong behavior associative maps spread HashFunctions key redistribution function associative maps
+1308	AbstractCandidateItemsStrategy doGetCandidateItems CandidateItemsStrategy extend custom Candidate Strategy implement Items order extend CandidateItemsStrategy restricted visibility Candidate Items Strategy

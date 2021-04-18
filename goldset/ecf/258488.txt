@@ -1,1 +1,2 @@
-providers/bundles/org.eclipse.ecf.provider.filetransfer.httpclient/src/org/eclipse/ecf/provider/filetransfer/httpclient/HttpClientRetrieveFileTransfer.java
+HttpClientRetrieveFileTransfer:openStreamsForResume()
+HttpClientRetrieveFileTransfer:openStreams()

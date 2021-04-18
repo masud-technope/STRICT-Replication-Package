@@ -1,0 +1,30 @@
+79809	Bug dom javadoc support type parameter Javadoc tags report doc add options working verify foo param greater applicable
+42243	Bug Incorrect syntax diagnosis source mode computed expected check convert compilation buffer append problem problems error
+417669	Bug dom Incorrect source ranges annotated SimpleType nested ParameterizedType Simple Type Parameterized Type simple parameterized resolve qualified binding compilation lang result node statement
+405889	Bug compiler codegen Resilience NPE needed Scope getJavaLangInvokeMethodHandlesLookup Java Lang Invoke Method Handles Lookup invoke lang constant utf metafactory invokestatic reference init method lambda
+385293	Bug compiler compiler accepts normal modifiers type arguments report javadoc overriding options severity custom arg handle compute message
+424718	Bug compiler API compatibility AST TypeReference Type Reference simple set positions parameterized record current annotations qualified ast internal
+168331	Bug compiler AbstractMethodError method Method Error cloned clone bar baz declared reduce bugs xfield runtime libraries
+399567	Bug error message reference compiler custom problem bar field proceed println preserve bugs directory templates
+65738	Bug builder Build automatically save lang invokevirtual getstatic astore build bimaps ldc iload invokespecial dup
+29516	Bug SearchEngine regressions Search Engine working search precedence units basic copies original insensitive waiting limit
+110797	Bug multiple task tags single tasks view complete tag msg max notify comment itag message workers letter compliance arraycopy
+456395	Bug compile Java code zork time constant command sources expected expression typed expressions err
+228691	Bug JDT impl sun mirror util Types isAssignable returns wrapper primitive assignment Assignable report integer converted anno unboxed examine assignable erasure field lang
+380501	Bug compiler Add support methods JSR myex tiebreaking arg jsr param assertion elements working contents check
+412882	Bug Unnecessary validation optional library classpath entries jar referenced raw lib chains resolved entry project property container
+388634	Bug Test failure Compliance compliance evaluation highest suite minimal build level unique saved version working
+413913	Bug Investigate failures failure reformatting merged unbound mark add init doc f afe
+165346	Bug compiler org eclipse jdt internal compiler ast OperatorExpression nullStatus FlowInfo conservative Expression Status Flow Info flow record expression current combined local analyse lhs pre reach
+415911	Bug compiler NPE TYPE annotated method missing type deprecated report arg bugs reported resolved refers flag bug foo
+418919	Bug compiler internal Remove forcing creation annotated bindings convert array expression dimensions remove jdt resolve handle abort annotations
+396258	Bug adopt syntax annotations qualified type names NullTypeAnnotationTest Type Annotation Test illegal error reject bugs foo https bar cgi org bug
+126180	Bug compiler NPE reporting invalid enclosing type baz execute set problem zoo dom instance foo report unboxing
+417388	Bug TypeBinding TypeReference parameter type annotations Type Binding Type Reference array bound resolved dimensions node leaf expected add binding allocation
+381358	Bug Compiler gracefully reject JSR constructs source levels compliance spec suite evaluation build add equals setup highest setpossible
+396139	Bug define JRE build targeting BETA JAVA beta env add gca alpha depends remove jre releng jgit
+145202	Bug positive reference analyzer negated flow analyse inits current left unconditional constant equivalent pot protection
+430451	Bug Tests fail org eclipse jdt compiler tool tests CompilerInvocationTests JRE Compiler Invocation Tests suite buggy passed inappropriate encoding templates match message handle diagnosis
+405051	Bug JavaModel refreshExternalArchives happen search primed Java Model refresh External Archives p external delete create elements abc wait jar project archives
+291322	Bug Test errors running JDT Core tests Windows select sourcepaths working elements pending progess set bar root format
+401848	Bug ASTRewrite type annotations adds additional augment total array pqtr extended parameterized bits assist dimensions expansion

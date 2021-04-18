@@ -1,0 +1,2 @@
+Error adding field 'contentLength'='' during solrindex using index-more
+The contentLength can be an empty string (I assume this is possible because of NUTCH-1096), but solr does not accept this. The attached patch just checks for empty string contentLength and does not try to index it.

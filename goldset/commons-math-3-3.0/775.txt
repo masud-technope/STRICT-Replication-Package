@@ -1,0 +1,2 @@
+org.apache.commons.math3.genetics.ListPopulation:setPopulationLimit(int)
+org.apache.commons.math3.genetics.ListPopulation:ListPopulation(List<Chromosome>, int)

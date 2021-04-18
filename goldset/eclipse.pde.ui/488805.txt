@@ -1,0 +1,1 @@
+DSAnnotationCompilationParticipant:buildFinished(IJavaProject)

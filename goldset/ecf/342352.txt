@@ -1,1 +1,2 @@
-osgi/bundles/org.eclipse.ecf.osgi.services.remoteserviceadmin/src/org/eclipse/ecf/internal/osgi/services/remoteserviceadmin/PropertiesUtil.java
+PropertiesUtil:isPrivateProperty(String)
+PropertiesUtil:isReservedProperty(String)

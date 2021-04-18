@@ -1,0 +1,2 @@
+Test for methods in BrokeredCallableStatement
+There are many unused methods in BrokeredCallableStatement. This issue adds test for them.

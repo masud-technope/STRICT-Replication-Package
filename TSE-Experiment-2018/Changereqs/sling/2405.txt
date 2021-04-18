@@ -1,4 +1,0 @@
-[SLING-2405] Startup synchronization problems - ASF JIRA
-On very fast machines, the OSGi installer might startup way before the installer listener is registered.
-In this case, the listener never receives the start event from the installer and therefore never blocks the new startup process.
-This in turn leads to the framework going to the final start level way before the installer is finished

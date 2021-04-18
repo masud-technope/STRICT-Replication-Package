@@ -1,0 +1,5 @@
+org.apache.nutch.crawl.Injector.InjectReducer:close()
+org.apache.nutch.crawl.Injector.InjectReducer:configure(JobConf)
+org.apache.nutch.crawl.TestInjector:readCrawldb()
+org.apache.nutch.crawl.CrawlDBTestUtil:generateSeedList(FileSystem, Path, List<String>)
+org.apache.nutch.crawl.TestInjector:testInject()

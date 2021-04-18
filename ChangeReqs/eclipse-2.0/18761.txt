@@ -1,0 +1,2 @@
+Should support creating anonymous FTP connections
+Our FTP target support assumes a user and password; we should have a checkbox for supporting anonymous connection.

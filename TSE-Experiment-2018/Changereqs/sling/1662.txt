@@ -1,1 +1,0 @@
-[SLING-1662] Add a GString / GSP Script engine(s)

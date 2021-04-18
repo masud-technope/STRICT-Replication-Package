@@ -1,0 +1,2 @@
+Substantiate tests for IndexingFilters
+This issue is a follow up from the issues discussed in NUTCH-1442 where it was agreed that the current test is o.a.n.indexer.TestIndexingFilters is simply not doing us an justice. There are some slight differences between trunk and 2.x but they both share the common problem that there needs to be more thorough testing undertaken.

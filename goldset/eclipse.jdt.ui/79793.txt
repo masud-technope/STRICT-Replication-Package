@@ -1,0 +1,6 @@
+JavaWorkingSetUpdater:JavaWorkingSetUpdater()
+JavaWorkingSetUpdater:dispose()
+JavaWorkingSetUpdater:elementChanged(ElementChangedEvent)
+JavaWorkingSetUpdater:contains(IWorkingSet)
+JavaWorkingSetUpdater:add(IWorkingSet)
+JavaWorkingSetUpdater:remove(IWorkingSet)

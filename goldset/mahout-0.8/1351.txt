@@ -1,0 +1,2 @@
+org.apache.mahout.clustering.kmeans.TestKmeansClustering:getPoints(double[][])
+org.apache.mahout.clustering.AbstractCluster:AbstractCluster(Vector, int)

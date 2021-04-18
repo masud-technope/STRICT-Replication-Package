@@ -1,0 +1,16 @@
+1888	generics Kernel Add Add generics Kernel
+1762	join Find javax scope FORCE EXTENDED lock persistence table failing javax persistence lock scope EXTENDED doesn properly lock join tables
+1699	support Lob Streaming Streaming Lob support
+1764	dbcp apply running configure based Basic Driver DriverClassName Driver Source apache Automatically enable connection pooling unmanaged environments
+1765	insert duplicate problem Table locking threads testing start unit row TableGenerator doesn properly utilize heavy stress Table Generator
+1830	set connectionPassword connection Password serializes connection write Password read serialized External EMF Deserialization EMF connectionPassword overwritten INVISIBLE connection Password
+1863	HSQLDB set update Blobs dictionary HSQL Object useGetObjectForBlobs Object Blobs update HSQL dictionary HSQLDB
+1896	merge record existing violates params duplicate matching persist database execute OpenJPA store POJOs record exists Open JPA
+1865	Find enhancements code Running Bugs iterator entrySet entry Set FindBugs Find Bugs Set entry inefficient keySet iterator entrySet iterator key Set entry Set
+1613	property access Superclass Mapped declare based field enhancing annotate MappedSuperclass Mapped Superclass Exception thrown enhancing property access MappedSuperclass annotated properties Mapped Superclass
+1837	embed fails mapped Oracle Collection element blob Owner Argument Embed ElementCollection Embeddable blob fails Oracle Element Collection
+1870	column introduced existing Column MySQL SQL optimizes based openjpa storage override Blob types override column definition Column annotation MySQL SQL
+1743	work support EMF Tool ant anchor Invoking configuration anchors Tool configuration support EMF anchors
+1943	timeout requires generate underlying execute enforced lock Query fetch query Query timeout hint honored consistently pessimistic lock issued database requires multi statements locking scheme
+1784	merge update modified fetch map Map LocalizedString Localized String String commit hash Map updates flushed
+1627	referenced defined fetch Embedded Transaction Column TransactionId Transaction String defines processDate process ORderBy ElementJoinColumn EmbeddedId wrong columns SQL ORder Element Join Column Embedded

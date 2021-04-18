@@ -1,0 +1,3 @@
+SelfEncapsulateFieldRefactoring:checkArgName()
+SelfEncapsulateFieldRefactoring:checkName(RefactoringStatus, String, List<IMethodBinding>, IType, boolean, IField)
+SelfEncapsulateFieldRefactoring:initialize(IField)

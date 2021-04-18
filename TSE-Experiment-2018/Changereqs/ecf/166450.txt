@@ -1,3 +1,0 @@
-Bug 166450 – Add receive(OutputStream) method to IIncomingFileTransferReceiveStartEvent
-The IIncomingFileTransferReceiveStartEvent has the receive(File) method.
- It needs a receive(OutputStream) method as well.

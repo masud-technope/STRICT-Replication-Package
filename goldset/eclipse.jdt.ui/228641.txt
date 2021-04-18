@@ -1,0 +1,2 @@
+ProblemHover:ConfigureProblemSeverityAction:run()
+ProblemHover:ProblemInfo:getJavaAnnotationFixes(IJavaAnnotation)

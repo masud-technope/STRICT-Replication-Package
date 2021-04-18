@@ -1,2 +1,0 @@
-ui/org.eclipse.pde.core/text/org/eclipse/pde/internal/core/text/build/BuildEntry.java
-ui/org.eclipse.pde.ui/src/org/eclipse/pde/internal/ui/editor/plugin/DependencyManagementSection.java

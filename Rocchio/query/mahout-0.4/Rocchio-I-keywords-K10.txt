@@ -1,0 +1,16 @@
+576	AbstractJDBCDiffStorage updateItemPref updating AVG incorrectly cases JDBCDiff Storage update Item Pref stmt conn sql item slopeone resultset diff fetch sqle itemid
+641	DistributedRowMatrix hadoop jobs ignore Configuration set setConf Distributed Row Matrix set Conf conf val path eigen col row setconf originalconfig decomposer outputeigenvectorpathstr
+610	Coocurrences SimilarityReducer Similarity Reducer ctx reduc occurr row context writabl entri weight entiti weightedoccurr
+580	Missing basePath Bayes job InMemoryDataStore base Path Memory Data Store param path basepath bay datastor recordwrit record writer datapath classifi
+614	org apache mahout classifier baytes MultipleOutputFormat working intended Hadoop Multiple Output Format record writer recordwrit key actual file finalpath bayes valu base
+678	NullPointerException MixedGradient SGD algorithm Pointer Exception Mixed Gradient gradient actual sgd histori classifi side groupkey classifier instanc window
+583	Loss data create sequence files directory chunk writer chunksizeinmb text outputdir prefix dir charset chunkedwrit chunkid
+552	AbstractCluster eliminates NamedVectors replacing RandomAccessSparseVector Cluster Named Vectors Random Access Sparse Vector randomaccesssparsevector spars access random vector cardin openintdoublehashmap center point valu
+526	Infinite Recursion DefaultTreeBuilder Tree Builder builder select treebuild tree attr attribut nbnonselect rind data igsplit
+561	TestClassifier correctly handle type source command parameters Test Classifier classifier typelist sgd lasttyp ityp predictor list predictorlist logisticmodelparamet typemap
+625	generated patterns support higher reality pattern frequent featur transact tempnod attrib attributeidmap frequenc attribut pfpgrowth
+564	KMeansClusterer distanceThreshold parameter testConvergence Iterable Cluster clusters distanceThreshold method KMeans Clusterer distance Threshold test Convergence distance Threshold cluster point measur converg distanc iter distancethreshold list kmeans maxit
+565	Features incorrectly hashed Minhash minhash option minhashoptioncr creator hash optkey min seed opt getopt
+631	Small bug WeightedRunningAverage add WeightedRunningAverageAndStdDev Weighted Running Average Weighted Running Average Std Dev datum weight totalweight total common averag impl taste oldtotalweight gettotalweight
+602	Partial Implementation exceptions treebuild partial builder path tree datapath dataset seed partialvectormerg merger
+604	Bayes Classifier fails data training data bayes classifier writer split input file key actual directori set

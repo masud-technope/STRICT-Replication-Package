@@ -1,0 +1,10 @@
+2560	keyboard pre system file letter browser beta active directories jEdit
+2720	delete directory action FSB recursively post jEdit pre files check
+2752	pre click version check jEdit set Replace Regular Edit expressions
+2595	views txt open view foo caret FreeBSD active display multiple
+2534	key character window inserted objects enable current simplifyKeyHandling NumLock KeyEventWorkaround
+2459	dialog display primary lost settings previous position open dual width
+2571	highlighted number selected beta jvm multiple single guess lines pre
+2635	fold caret collapsed post visible jEdit press move check key
+2636	work post restart pre Clearing check Register jEdit doesn Java
+2542	undo existing undoable text general typed paste pre finish user

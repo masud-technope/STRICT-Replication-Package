@@ -1,1 +1,5 @@
-providers/bundles/org.eclipse.ecf.provider.r_osgi/src/org/eclipse/ecf/internal/provider/r_osgi/R_OSGiRemoteServiceContainer.java
+R_OSGiRemoteServiceContainer:connectAndGetRemoteServiceReferencesForTarget(ID, String, IRemoteFilter, boolean)
+R_OSGiRemoteServiceContainer:logException(String, Throwable)
+R_OSGiRemoteServiceContainer:getRemoteServiceReferences(ID, String, String)
+R_OSGiRemoteServiceContainer:getRemoteServiceReferences()
+R_OSGiRemoteServiceContainer:connectAndGetRemoteServiceReferencesForTarget(ID, ID, String, IRemoteFilter)

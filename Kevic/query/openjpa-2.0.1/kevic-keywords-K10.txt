@@ -1,0 +1,16 @@
+1888	generics Add Kernel
+1762	lock javax scope join unit portion small table tables block
+1699	support Streaming Lob
+1764	dbcp unmanaged commons args databases pooling apply running today based
+1765	threads problem multiple testing duplicate top TableGenerator TableJDBCSeq JDBCSeq unit
+1830	connection overwritten props serialized connectionPassword write read EMF toProperties StringValue
+1863	dictionary update HSQLDB set useGetObjectForBlobs Blobs HSQL Object
+1896	record exists database existing merge stored objects OpenJPA filesystem constructed
+1865	iterator entrySet keySet entry inefficient FindBugs key simple code Bugs
+1613	access annotated property enhancer implicit superclass style persistent annotate workaround
+1837	fails annotations element limited blob types embedded embed Embeddable persistent
+1870	column annotation users blobs based existing email storage override behavior
+1743	anchor anchors mappingtool ant work support configuration Invoking Tool EMF
+1943	timeout statements lock requires pessimistic database Query consistently stored scheme
+1784	merge map change saved setters getters foo commit modified existing
+1627	columns fragment params process transaction tran generated prepstmnt branch mapped

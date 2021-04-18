@@ -1,3 +1,0 @@
-pom.xml
-tests/src/java/org/apache/log4j/xml/XMLLayoutTestCase.java
-pom.xml

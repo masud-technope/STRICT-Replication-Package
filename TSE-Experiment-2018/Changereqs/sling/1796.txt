@@ -1,4 +1,0 @@
-[SLING-1796] Make versioning non-default - ASF JIRA
-SLING-1573 introduced support for automatic versioning operations.
-Such support per-se is a good thing.
-But this should probably not be the default.

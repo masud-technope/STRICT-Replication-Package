@@ -1,0 +1,2 @@
+DependenciesView:getDefaultPart()
+DependenciesView:openTo(Object)

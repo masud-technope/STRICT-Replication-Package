@@ -1,2 +1,0 @@
-[SLING-5170] Make dependency handling code more reusable - ASF JIRA
-If you want to build other maven plugins dealing with the provisioning model, it's currently a little bit hard to reuse the dependency lifecycle handler and extend it's functionality.

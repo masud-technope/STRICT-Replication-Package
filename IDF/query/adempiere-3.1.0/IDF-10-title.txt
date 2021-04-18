@@ -1,0 +1,12 @@
+768	vice required versa Wrong Debit debit sum Sum Source entry Wrong Sum Total Debit Credit Journal
+113	func shipments tracker Bug invoiced net shipment http detail group Consolidated shipments invoiced
+114	voided reversed func Shipments orders Invoices reversal tracker Bug bug Voiding reversal consolidated Invoices
+116	Organization organization users initial ENTRIES PREVIOUS City ZIP sequence COUNTRY Organization Update Location Address
+820	ProductNotOnPriceList RequisitionPOCreate Purchase POCreate exception Requisition pricelist PriceList Create create ProductNotOnPriceList Error creating Requisitio Product Price List
+37	scrolling func patch attempt good bad Tracker tracker resolution Bug Report viewer scrolling broken
+1240	botton accounting windows quantity apply Gardenworld Quantity balanced Balanced divide Posting balanced producing produc
+106	DueDate checkbox Fixed Invoices invoices VPaySelect problem VPay bug oracle invoices Payment Selection
+109	drafted func cancelled Garden range bad Invoices invoices tracker posting Print Invoices process draft selection
+525	vendors Scenario purchase BUG bug selected Generate Complete Execute work Process Generate Sales order bug
+814	products quantity items Lines production Production BOM Qty create product Production fractional Qty production
+815	working records Costs LandedCost Landed landed work allocation distribution Distribution LandedCost Cost Distribution type Cost work Landed Cost

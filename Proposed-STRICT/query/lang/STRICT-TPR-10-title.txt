@@ -1,0 +1,42 @@
+832	format parse quotes Simple unterminated Format FastDateParser Fast Parser SimpleDateFormat Simple Format Fast handle FastDateParser handle unterminated quotes correctly Fast Parser
+259	typesafe ValuedEnum Valued Enum classes Enum values apache compareTo compare Valued Object lang ValuedEnum compareTo Object typesafe easily Valued Enum compare
+645	locale week FastDateFormat Fast Format Format format Simple println year SimpleDateFormat Simple Format Fast FastDateFormat format outputs incorrect week year locale isn respected Fast Format
+328	Locale toLocale Locale LocaleUtils Locale Utils country language POSIX string code variant strings LocaleUtils toLocale rejects strings language variant Locale Utils Locale
+393	Big BigDecimal Big Decimal Decimal compare don Decimals Builder BigDecimals Big Decimals EqualsBuilder Equals Builder correctly EqualsBuilder don compare BigDecimals correctly Equals Builder Big Decimals
+457	StringIndexOutOfBoundsException String Bounds Exception String Number Bounds front createNumber create Number Exception Utils don place NumberUtils createNumber thows StringIndexOutOfBoundsException passed Number Utils create Number String Bounds Exception
+521	isNumber Number Number Exp exponent code Point number Decimal hasDecPoint Dec Point point NumberUtils isNumber Valid Number Trailing Decimal Place Number Utils Number
+586	org memory ToStringStyle String Style String thread application web Style reference Code ThreadLocals ToStringStyle HashCodeBuilder trigger memory leaks container environments Thread Locals String Style Hash Code Builder
+587	toClass element Object ClassUtils Utils array NPE Utils ClassUtils toClass Object NPE array element Utils
+719	pattern Java SimpleDateFormat Simple Format year bug number Format FastDateFormat Fast Format behavior Fast FastDateFormat formats year differently SimpleDateFormat Java Fast Format Simple Format
+788	Exception ClassNotFoundException Exception Serialization noformat Loader ObjectInputStream Object Input Stream clone SerializationUtils Serialization Utils Utils Stream SerializationUtils ClassNotFoundException cloning primitive classes Serialization Utils Exception
+662	MIN Fraction Integer test method code getReducedFraction Reduced Fraction getNumerator Numerator getDenominator Denominator Equals org apache commons lang math Fraction reduce Integer MIN
+664	code Number String hasExp Exp hasDecPoint Dec Point Dec Digit java isNumber Number chars NumberUtils isNumber String String Number Utils Number
+281	Calendar set Duration Time DurationFormatUtils Duration Format Utils result String Dec Utils cal DurationFormatUtils returns wrong result Duration Format Utils
+346	Calendar minutes CDT Mon Time println test DateUtils Utils testCalendar test Calendar getInstance Instance Dates behaves incorrectly minutes seconds
+538	Time Calendar Format format test TimeZone Time Zone problem noformat Zone dateTime Time DateFormatUtils format correctly change Calendar TimeZone situations Format Utils Time Zone
+412	getNullText Text Fixed appendFixedWidth append Fixed Width pointer Builder set width fixed exception handle StrBuilder appendFixedWidth handle nulls Str Builder append Fixed Width
+477	format ExtendedMessageFormat Extended Message Format code Format Extended String formatRegistry format Registry QUOTE formattedPattern formatted Pattern appendTo append ExtendedMessageFormat OutOfMemory custom format registry pattern single quotes Extended Message Format Memory
+480	characters String problem escapeHtml escape Html unicode escape data StringEscapeUtils String Escape Utils apache commons StringEscapeUtils escapeHtml incorrectly converts unicode characters FFFF characters String Escape Utils escape Html
+419	length str string String Word upper StringIndexOutOfBoundsException String Bounds Exception substring Exception abbreviate WordUtils abbreviate bug greater str length Word Utils
+292	doTestUnescapeEntity Test Unescape Entity test reference Entity EntitiesTest Entities Test entity Test Entities unescape Unescape unescapeXml unescape Xml
+677	Calendar Time Utils isSameLocalTime Local Time Local method HOUR DateUtils Utils Millis cal DateUtils isSameLocalTime work correct Utils Local Time
+805	code array start gap pass ends size String Utils lang RandomStringUtils random count universe random java lang ArrayIndexOutOfBoundsException Random String Utils Array Bounds Exception
+295	length Str thisBuf Buf StrBuilder Str Builder Builder LANG shouldn places Buf size StrBuilder usages thisBuf length size Str Builder Buf
+807	Random lang source String Argument IllegalArgumentException Illegal Argument Exception start Utils Illegal problem RandomStringUtils confusing IAE start Random String Utils
+552	String replacement Utils Test org expectations replaceEach replace StringUtils String Utils test replacementList replacement List StringUtils replaceEach Bug Missing Documentation String Utils replace
+746	Number NumberFormatException Number Format Exception Integer createNumber create Number Format Utils upper hex decode handles NumberUtils handle upper hex Number Utils
+299	str size width method Pad appendFixedWidthPadRight append Fixed Width Pad pad obj StrBuilder Str Builder Len Bug method appendFixedWidthPadRight StrBuilder ArrayIndexOutOfBoundsException append Fixed Width Pad Str Builder Array Bounds Exception
+363	Escape String script Utils org Spring println escape Script scripts StringEscapeUtils escapeJavaScript method escape render uncorrectly String Escape Utils escape Java Script
+747	Integer hex Number numbers createLong create createNumber create Number Hex create handle Utils NumberUtils handle Hex numbers Number Utils
+300	NumberFormatException Number Format Exception Number Format Utils createNumber create Number string digit substring Exception fine NumberUtils createNumber NumberFormatException digit Number Utils create Number Number Format Exception
+365	toBoolean BooleanUtils Utils Utils test statement StringIndexOutOfBoundsException String Bounds Exception String source Exception tru BooleanUtils toBoolean invalid drop statement StringIndexOutOfBoundsException Utils String Bounds Exception
+304	NullPointerException Pointer Exception Locale Pointer Exception Bugs LocaleUtils Locale Utils apache initialized hasn Field NullPointerException isAvailableLocale Locale Pointer Exception Locale
+368	locale Instance test Format getDateTimeInstance Time Instance Locale getDateInstance Instance methods Hash FastDateFormat Fast Format FastDateFormat getDateInstance getDateTimeInstance assume Locale getDefault won change Fast Format Instance Time Instance
+432	Bugs String locale http insensitive Common html Bug string sensitive insensitive string handling
+882	CharSequence Sequence Sequence String work code Map CharBuffer Buffer translate quote equals LookupTranslator accepts CharSequence input fails work implementations String Lookup Translator Sequence
+822	Number Big BigDecimal Big Decimal behaviour createNumber create Number work Java invocations create leading NumberUtils createNumber bad behaviour leading Number Utils create Number
+59	MDT hour Utils DateUtils Utils DST hours Equals buggy truncate lang lang DateUtils truncate method buggy dealing DST switching hours Utils
+315	Time time shouldn counter acts bug StopWatch Watch Watch suspend sleep StopWatch suspend acts split Watch
+380	Fraction loop reduce pretty numerator Summary infinite infinite loop Fraction reduce numerator
+638	String Number Exception StringIndexOutOfBoundsException String Bounds Exception createNumber create Number NumberUtils Number Utils Utils passed indicators NumberFormatException Number Format Exception NumberUtils createNumber StringIndexOutOfBoundsException argument passed Number Utils create Number String Bounds Exception
+831	FastDateParser Fast Parser dates space FDP Format white Javadoc Fast parse Parser FastDateParser handle white space properly Fast Parser

@@ -1,0 +1,1 @@
+ASTNode:mergeAnnotationsIntoType(BlockScope, long, Annotation, TypeReference, TypeBinding)

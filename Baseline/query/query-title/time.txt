@@ -1,0 +1,7 @@
+18	NPE DateTimeZoneBuilder Time Zone Builder
+21	DateTimeFormat parseInto miscalculates year Time Format parse
+88	Constructing invalid Partials
+42	DateTimeZone forOffsetHoursMinutes handle negative offset hour Time Zone Offset Hours Minutes
+43	Ensure max min valid offset
+28	Questionable behaviour GJChronology dates pass
+77	addDays MutableDateTime add Days Mutable Time

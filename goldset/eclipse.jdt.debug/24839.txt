@@ -1,0 +1,2 @@
+JDIThread:initialize()
+JDIThread:JDIThread(JDIDebugTarget, ThreadReference)

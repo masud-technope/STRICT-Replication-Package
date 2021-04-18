@@ -1,0 +1,21 @@
+55	channel topic Reconnect subscription auto	Reconnect Retry Hedwig Subscriber channel	SubscribeReconnectRetryTask retry subscription endlessly subscription created Subscribe Reconnect Retry Task
+247	system bookkeeper underreplication ledger JIRA		Detection replication
+248	subtask replicated rereplicate entries underreplicated		Rereplicating replicated data
+272	Book bookie mechanism BookKeeper Book Keeper Keeper	Book Keeper	Provide automatic mechanism bookie failures
+299	Ledger Keeper Fragment LedgerFragmentReplicator Ledger Fragment Replicator Book	Keeper Ledger Fragment Book Admin	Provide LedgerFragmentReplicator replicate fragments LedgerChecker Ledger Fragment Replicator Ledger Checker
+300	command bookie format paths Directories		Create Bookie format command
+318	process Callback code Multi log	Rc process Callback success Multi	Spelling mistake MultiCallback log message Multi Callback
+326	Dead thread ledger dump recovery	Dead Lock	DeadLock ledger recovery Dead Lock
+330	Time bookkeeper currentTimeMillis current Time Millis server current	Time current Millis	System currentTimeMillis usage Hedwig current Time Millis
+336	bookie read time entry ensemblesize	read Time Entries	bookie readEntries time ensemble failed bookie read Entries
+337	Version Metadata ensemble Start MetadataVersionException Metadata Version Exception	Version Metadata Exception	Add entry fails MetadataVersionException ensemble morethan bookie failures Metadata Version Exception
+345	Entry bookie ledger IOException Logger	Entry Logger	Detect IOExceptions entrylogger bookie ledger dir
+346	Ledger LedgerCache Ledger Cache ledger Cache IOExceptions	Ledger Cache	Detect IOExceptions LedgerCache bookie ledger dir Ledger Cache
+347	bookie client bookies mechanism entries		Provide mechanism detect bookie bookie clients
+355	Ledger ensemble Recovery bookie ledger	Recovery Ledger Read	Ledger recovery mark ledger closed slow bookie ensemble recovery add
+431	Ledger COOKIES cookie AbstractZkLedgerManager Ledger Manager Manager	Zk Ledger Manager	Duplicate definition COOKIES NODE
+447	Ledger ledger entries problem entry	Ledger Clean Storage Cache Set	Bookie fail recover flushed ledger flush acknowledged
+472	Bookie servers start process overhead		Provide option start Autorecovery Bookie Servers
+491	doc configuration parameters server hedwig		Hedwig doc configuration
+498	Recovery NPE Test Bookie BookieRecoveryTest Bookie Recovery Test	Recovery tear Bookie Test	BookieRecoveryTest tearDown NPE Bookie Recovery Test tear
+514	Dead Test manager Lock channel	Dead Test Lock	TestDeadLock hanging Test Dead Lock

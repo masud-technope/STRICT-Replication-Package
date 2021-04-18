@@ -1,1 +1,3 @@
-framework/bundles/org.eclipse.ecf.ui/src/org/eclipse/ecf/ui/hyperlink/AbstractURLHyperlinkDetector.java
+AbstractURLHyperlinkDetector:detectSubstring(String, int)
+AbstractURLHyperlinkDetector:detectHyperlinks(ITextViewer, IRegion, boolean)
+AbstractURLHyperlinkDetector:detectSubRegion(IRegion, String, int)

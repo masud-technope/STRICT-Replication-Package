@@ -1,0 +1,4 @@
+JavaNavigatorContentProvider:isJavaProject(IProject)
+JavaNavigatorContentProvider:filterResourceProjects()
+JavaNavigatorContentProvider:getChildren(Object)
+JavaNavigatorContentProvider:getElements(Object)

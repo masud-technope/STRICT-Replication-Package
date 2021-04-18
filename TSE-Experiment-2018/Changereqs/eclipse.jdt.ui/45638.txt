@@ -1,2 +1,0 @@
-Bug 45638 – [preferences] overwrite mode setting
-Needs to be moved to Java>Editor>Typing.

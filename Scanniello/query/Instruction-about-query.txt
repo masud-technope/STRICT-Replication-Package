@@ -1,0 +1,2 @@
+Scanniello et al. used the baseline query from the bug reports.
+The baseline queries can be found in the **Baseline/query/query-whole** folder.

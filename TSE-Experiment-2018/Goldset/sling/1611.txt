@@ -1,3 +1,0 @@
-launchpad/base/src/main/java/org/apache/sling/launchpad/base/impl/Sling.java
-launchpad/base/src/main/java/org/apache/sling/launchpad/base/impl/Sling.java
-launchpad/builder/src/main/bundles/list.xml

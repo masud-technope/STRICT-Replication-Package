@@ -1,3 +1,0 @@
-[SLING-4944] JcrResourceBundleProvider: Potential race condition between setting the resourceResolver and using it - ASF JIRA
-After fixing SLING-4910 there is still a very slim chance that the resource resolver is being null while being used within the scheduleReloadBundles, because that is called, before the resolver is initialized.
-The chance to see that in reality is close to zero though, because scheduleReloadBundles is using the resource resolver only in a scheduled thread.

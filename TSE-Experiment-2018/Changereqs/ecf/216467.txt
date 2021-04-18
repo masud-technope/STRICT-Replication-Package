@@ -1,3 +1,0 @@
-Bug 216467 – [IRC] [KOSMOS] add support for CQs
-~CQ1700 should give me a URL of
-https://dev.eclipse.org/ipzilla/show_bug.cgi?id=1700

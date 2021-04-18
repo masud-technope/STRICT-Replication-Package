@@ -1,3 +1,0 @@
-ui/org.eclipse.pde.core/src/org/eclipse/pde/internal/core/PDEAuxiliaryState.java
-ui/org.eclipse.pde.core/src/org/eclipse/pde/internal/core/PDEState.java
-ui/org.eclipse.pde.core/src/org/eclipse/pde/internal/core/WorkspacePluginModelManager.java

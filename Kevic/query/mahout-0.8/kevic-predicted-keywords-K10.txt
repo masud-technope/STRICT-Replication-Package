@@ -1,0 +1,15 @@
+1345	testing modules randomised threads bits spare intimately weeks easier parent
+1409	error correct check test Vector Matrix View
+1379	Cluster ClusterQualitySummarizer data fails point Digest single cluster issue call
+1284	bug fail time object map practice reuse instance jobs Reduce
+1317	save change check form time error number trivial actual grep
+1030	WeightedVectorWritable JIRA docs longer distance Driver missing change clustered properties
+1319	argument filter expected Sequence parameter exception sequential custom thrown command
+1351	DenseVector point vectors processing computer Random Adding Invariant derive Dense
+1261	size large values setting exception fffffff total set cardinality Item
+1364	Lucene Mahout code Carrot upgrade discussion trunk version fail tests
+1301	comma method SequentialAccessSparseVector code extra patch output java Sequential excess
+1398	vary pattern delimiter goal Data users spaces overwritten delimiters implement
+1368	OnlineSummarizer TDigest quartile accuracy distributions quantiles producing provide fails current
+1242	function key maps hash code distribution bits degenerate uniform engine
+1308	extend visibility custom Strategy order implement Items Candidate restricted extended

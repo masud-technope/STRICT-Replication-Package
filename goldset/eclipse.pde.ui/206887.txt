@@ -1,0 +1,2 @@
+WorkspaceModelManager:isContentChange(IResourceDelta)
+WorkspaceModelManager:visit(IResourceDelta)

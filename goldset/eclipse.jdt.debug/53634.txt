@@ -1,0 +1,2 @@
+AbstractJavaLaunchConfigurationDelegate:getVMSpecificAttributesMap(ILaunchConfiguration)
+AbstractJavaLaunchConfigurationDelegate:getBootpathExt(ILaunchConfiguration)

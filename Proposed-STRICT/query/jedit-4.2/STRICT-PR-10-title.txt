@@ -1,0 +1,10 @@
+2560	jEdit Edit Edit file java browser Suse system jEdit pre file system browser keyboard handling Edit
+2720	bugs Version action directory folders FSB check dupes Edit Java FSB delete action directory working
+2752	version jEdit Edit Edit regexpr check expressions jEdit freezes regexpr Edit
+2595	JDK BSD placement Windows buffer FreeBSD Free BSD foo Free Version views caret display position multiple views open
+2534	bugs Key KeyEventWorkaround Key Event Workaround text Handling Event Tab Translator key event Test NumPad Alt Tab window Num Pad
+2459	display behaviour dialog tests width size position Size displays settings Size file open save dialogs incorrect dual displays
+2571	number text sense gutter guess selection beta lines jvm number highlighted selected
+2635	bugs Version direction fold caret move dupes check Edit SVN move caret collapsing fold
+2636	bugs Version jEdit Edit Clearing Edit Register work check dupes SVN Clearing Register doesn work persistently
+2542	text characters type user edit finish undos pastes area Pasting Text Current Undoable Edit

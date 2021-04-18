@@ -1,0 +1,2 @@
+Wrong Sum Total Debit/Credit in GL Journal
+Wrong Sum Total Debit/Credit in GL Journal How to produce. 1. Open GL Journal 2. Key in required field 3. Goto Journal line and entry 2 record, 1 record in base currency and 1 record in foreing currency ( don't forget currency rate) 4. Back to Journal tab, you will find Total Debit&lt;&gt;Total Credit. In Journal tab total debit should be sum of Accounted Debit not Source Debit, vice versa Thx

@@ -1,2 +1,0 @@
-framework/bundles/org.eclipse.ecf.provider/META-INF/MANIFEST.MF
-framework/bundles/org.eclipse.ecf.provider/src/org/eclipse/ecf/provider/generic/ClientSOContainer.java

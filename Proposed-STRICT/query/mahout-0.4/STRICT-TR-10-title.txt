@@ -1,0 +1,16 @@
+576	updateItemPref update Item Pref AVG Storage removePreference remove Preference update preference delta remove code PEER AbstractJDBCDiffStorage updateItemPref updating AVG incorrectly cases JDBCDiff Storage update Item Pref
+641	set Job hadoop Distributed DistributedRowMatrix Distributed Row Matrix passed Matrix setConf set Conf Lanczos Configuration DistributedRowMatrix hadoop jobs ignore Configuration set setConf Distributed Row Matrix set Conf
+610	Row noticed column SimilarityReducer Similarity Reducer cooccurences RowA Row high isn values Similarity Coocurrences SimilarityReducer Similarity Reducer
+580	Bayes basePath base Path base Memory Path InMemoryDataStore Memory Data Store data set elaborate patch Missing basePath Bayes job InMemoryDataStore base Path Memory Data Store
+614	Hadoop File work FileOutputFormat File Output Format Writer MultipleOutputFormat Multiple Output Format getRecordWriter Record Writer Record Output addresses org apache mahout classifier baytes MultipleOutputFormat working intended Hadoop Multiple Output Format
+678	MixedGradient Mixed Gradient Gradient patch Mixed algorithm Pointer negative Logistic positive code NullPointerException MixedGradient SGD algorithm Pointer Exception Mixed Gradient
+583	chunk files file create sequence data output overwrite Loss data create sequence files directory
+552	NamedVectors Named Vectors RandomAccessSparseVector Random Access Sparse Vector Cluster AbstractCluster Cluster Random Vectors Named Sparse apache issues AbstractCluster eliminates NamedVectors replacing RandomAccessSparseVector Cluster Named Vectors Random Access Sparse Vector
+526	DefaultTreeBuilder Tree Builder Tree building Overflow random Stack forest Recursion dataset numerical Infinite Recursion DefaultTreeBuilder Tree Builder
+561	correctly Test handle parameters type command source TestClassifier Test Classifier Classifier TestClassifier correctly handle type source command parameters Test Classifier
+625	test support data pattern patterns FPGrowth attached higher incorrect difference generated patterns support higher reality
+564	KMeansClusterer KMeans Clusterer distanceThreshold distance Threshold KMeans distance convergence field Clusterer parameter set Map KMeansClusterer distanceThreshold parameter testConvergence Iterable Cluster clusters distanceThreshold method KMeans Clusterer distance Threshold test Convergence distance Threshold
+565	bit operations feature hashed incorrectly shifted implementation signature minhash converted Features incorrectly hashed Minhash
+631	WeightedRunningAverage Weighted Running Average Weighted WeightedRunningAverageAndStdDev Weighted Running Average Std Dev Std bug Average Running weighted handling datum Small bug WeightedRunningAverage add WeightedRunningAverageAndStdDev Weighted Running Average Weighted Running Average Std Dev
+602	Implementation Partial dataset org fails apache confluence cwiki display https Partial Implementation exceptions
+604	data Classifier exception tested fails Bayes training Bayes Classifier fails data training data

@@ -1,0 +1,1 @@
+JavaSearchNameEnvironment:computeClasspathLocations(IWorkspaceRoot, JavaProject)

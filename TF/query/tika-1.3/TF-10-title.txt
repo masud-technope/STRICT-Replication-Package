@@ -1,0 +1,18 @@
+992	Metadata Html HtmlHandler add set method Handler Open Graph properties OpenGraph meta tags multiple values Open Graph
+1124	PDF Handler Content Body BodyContentHandler attachments extracted Matching embedded trunk Nested documents extracted PDF file chain
+1062	lists support Add Word RTF needed Nested HTML attaching patch Add list detection RTFParser
+1126	text tika server html handler resource produce procuder patch producing text html procuder tika server
+1193	schema access Html applications quirks don Schema HTML capable anchors access HtmlParser HtmlSchema Html Parser Html Schema
+1130	text docx portions document file wordprocessingml Word tested portion parsing docx text extract leaves portions text
+1074	exception document visiting embedded documents log save decide Tika parsing Extraction exception hit visiting embedded document
+1202	PDFParser Context set extractAnnotationText Parse Text Refactor handy Annotation setting Refactor PDFParser enable easier parameter setting
+820	Locator handler set test Html HTML Document unset content Parser Locator unset HTML parser
+1012	acronym bmp type BMP Type comment code wiki link MimeType Add additional fields MimeType reader Mime Type
+1109	content test metadata pptx meta documents title PPT jar text Metadata extracted content OOXML pptx
+1014	custom Reader Types Mime MimeTypesReader error great subclassing tags current custom MimeTypesReader Mime Types Reader
+1110	application mime type Parser official Chm types chm ChmParser TYPES Incorrectly declared SUPPORTED TYPES ChmParser Chm Parser
+1047	meta mediatype detect JAX server endpoint send metadata Modified turned Provide JAX detect mediatype
+1210	swf String TODO files Types Address relates absence mime parsers Address tika parsers mime TestMimeTypes TODO test flash file Test Mime Types
+1211	multiple Document start Documents parsing Open xml events endDocuments startDocument OpenDocument ODF parser produces multiple startDocument events Open Document start Document
+1053	ASM Tika project facing Upgrade issues compatible causing problem pegdown Upgrade Tika Parsers ASM
+991	file duration Parser audio extract summed benefits data additional functionality Parser extract duration audio file

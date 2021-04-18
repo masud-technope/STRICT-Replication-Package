@@ -1,0 +1,2 @@
+FTP: Valid ftp url is rejected
+F2 If I enter ott4f.ott.oti.com as my ftp URL it is rejected as invalid. On most ftp programs I can enter ftp ott4f.ott.oti.com and it will connect so this format should be an option - i.e. the ftp:// option should be acceptable.

@@ -1,0 +1,2 @@
+org.apache.nutch.util.domain.DomainStatistics:run(String[])
+org.apache.nutch.util.URLUtil:main(String[])

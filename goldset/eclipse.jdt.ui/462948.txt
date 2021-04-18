@@ -1,0 +1,1 @@
+CompletionProposalLabelProvider:decorateImageDescriptor(ImageDescriptor, CompletionProposal)

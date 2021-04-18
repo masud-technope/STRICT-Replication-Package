@@ -1,0 +1,5 @@
+JavaEditorPreferencePage:createContents(Composite)
+JavaEditorPreferencePage:createAppearancePage(Composite)
+JavaEditorPreferencePage:createContentAssistPage(Composite)
+JavaEditorPreferencePage:createBehaviorPage(Composite)
+JavaEditorPreferencePage:createProblemIndicationPage(Composite)

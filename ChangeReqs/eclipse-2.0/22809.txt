@@ -1,0 +1,2 @@
+[Properties dialog] Repos Properties Info Dialog Labels do not resize with dialog.
+(1) In the Resource Perspective's Navigator pane, select a file deep in a directory tree. (2) Open a Properties dialog that file. (3) Resize the dialog to try see the full file "Path" and "Location". (4) Observe that the labels are NOT resized with the dialog. Thank you, Gary

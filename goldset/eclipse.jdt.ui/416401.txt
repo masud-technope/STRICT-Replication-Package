@@ -1,0 +1,2 @@
+ComplianceConfigurationBlock:refreshComplianceSettings()
+ComplianceConfigurationBlock:updateInlineJSREnableState()

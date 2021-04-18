@@ -1,0 +1,4 @@
+UndoableOperation2ChangeAdapter:setQuietCompute(boolean)
+UndoableOperation2ChangeAdapter:computeExecutionStatus(IProgressMonitor)
+UndoableOperation2ChangeAdapter:runInBackground()
+UndoableOperation2ChangeAdapter:executeChange(IValidationCheckResultQuery, IProgressMonitor)

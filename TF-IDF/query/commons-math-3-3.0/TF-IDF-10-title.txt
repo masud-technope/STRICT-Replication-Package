@@ -1,0 +1,16 @@
+641	distance methods Implement Segments method point Implement distance methods Lines Segments
+1121	counter iteration Brent BrentOptimizer Base BaseOptimizer doOptimize iterations Optimizer optimizer Brent optimizer doesn Base optimizer iteration counter
+835	percentageValue percentage Fraction rare method addition included patch numerator bug Fraction percentageValue rare overflow percentage
+775	populationLimit population ListPopulation Limit Population occur chromosomes check constructor List ListPopulation constructor check negative populationLimit occur List Population population Limit
+776	Rate elitism ElitisticListPopulation constructors Elitistic range Population setElitismRate Elitism checks range checks elitismRate ElitisticListPopulation constructors elitism Rate Elitistic List Population
+777	CrossoverPolicy Crossover Policy OnePointCrossover Chromosomes Ordered Point CrossoverPolicy needed Crossover Policy
+841	gcd Integer rng nextInt MAX nano System exec slower approach gcd speed
+905	sinh cosh exp values Infinity overflow FastMath infinity Fast StrictMath FastMath cosh sinh support range values Math counterparts Fast Math
+778	multiply FieldElement Dfp contract general Element Field values method org Dfp Dfp multiply comply general contract FieldElement multiply Field Element
+779	iterator ListPopulation Population chromosomes unmodifiable List list remove Iterator population ListPopulation Iterator remove chromosomes population List Population
+718	Probability inverseCumulativeProbability Cumulative Binomial trials inverse large wrong checked checkedCumulativeProbability inverseCumulativeProbability BinomialDistribution returns wrong large trials inverse Cumulative Probability Binomial Distribution
+782	Brent stopping original addition block BrentOptimizer location exit User criterion BrentOptimizer User defined check block badly Brent Optimizer
+878	tests squared chi LLR Likelihood ratio independence goodnes approximation fit Test Log Likelihood ratio LLR test math stat inference
+849	ulps NSWC Gamma thread http accuracy port mil tests values Precision improvement Gamma
+915	compatibility EmpiricalDistribution Empirical broken random field Data Usage binary RandomDataGenerator compatibility broken EmpiricalDistribution Empirical Distribution
+764	Sampler sample RandomGenerator createSampler RealDistribution Generator Random accepted methods create sample API accept RandomGenerator parameter Random Generator

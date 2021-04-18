@@ -1,4 +1,0 @@
-[SLING-1741] An exception should be thrown when trying to add a subnode to an nt:file-node - ASF JIRA
-The nt:file nodetype (without any other mixin node types assigned to the node) only supports one single child  node whose name is "jcr:content".
-Hence when you try to add a subnode to an nt:file node you should be getting an error/exception...
- This is not the case though

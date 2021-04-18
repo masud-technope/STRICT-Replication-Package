@@ -1,0 +1,1 @@
+org.gjt.sp.jedit.Registers:paste(JEditTextArea, char, boolean)

@@ -1,0 +1,7 @@
+org.apache.nutch.util.URLUtil:getHostSegments(String)
+org.apache.nutch.crawl.AbstractFetchSchedule:shouldFetch(String, WebPage, long)
+org.apache.nutch.util.TestURLUtil:testGetHostSegments()
+org.apache.nutch.util.URLUtil:getHostSegments(URL)
+org.apache.nutch.indexer.IndexUtil:index(String, WebPage)
+org.apache.nutch.protocol.Content:main(String)
+org.apache.nutch.crawl.TestGenerator:generateFetchlist(int, Configuration, boolean)

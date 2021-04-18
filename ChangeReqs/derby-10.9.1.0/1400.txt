@@ -1,0 +1,2 @@
+Cleanup code in network server's DRDAStatement class
+The following cleanup tasks were identified as part of DERBY-1002 (http://issues.apache.org/jira/browse/DERBY-1002): * pkgcnstkn, pkgid, pkgsn variables can be removed from DRDAStatement since these are derived from pkgnamcsn object. * Look into what is required by initialize() of default statement. Currently, initialize just calls setTypDefValues(). Once the purpose of this method is confirmed, we may need to modify the comments at places it is currently called.

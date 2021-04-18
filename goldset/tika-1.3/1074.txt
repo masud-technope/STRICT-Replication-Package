@@ -1,0 +1,3 @@
+org.apache.tika.cli.TikaCLI.FileEmbeddedDocumentExtractor:copy(DirectoryEntry, DirectoryEntry)
+org.apache.tika.cli.TikaCLI:main(String[])
+org.apache.tika.parser.microsoft.AbstractPOIFSExtractor:AbstractPOIFSExtractor(ParseContext)

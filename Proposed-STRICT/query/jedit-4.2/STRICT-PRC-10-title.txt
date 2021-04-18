@@ -1,0 +1,10 @@
+2560	appears typed Edit jEdit Edit file browser system handling java buffer jEdit pre file system browser keyboard handling Edit
+2720	delete Version invoked directory FSB action folders dupe bugs post FSB delete action directory working
+2752	click set Search version jEdit Edit regexpr Edit check expressions Replace jEdit freezes regexpr Edit
+2595	display view switches caret foo Windows Free JDK BSD file caret display position multiple views open
+2534	Key bugs inserted key Event patch jedit KeyEventWorkaround Key Event Workaround handling Translator Test NumPad Alt Tab window Num Pad
+2459	display dialog calculated restored lost size appears width restore position Size file open save dialogs incorrect dual displays
+2571	highlighted splits number selected sense gutter selection guess text jvm number highlighted selected
+2635	Version fold caret dupe bugs post move direction Java jEdit Edit move caret collapsing fold
+2636	jEdit Edit Version Clearing Edit Register restart dupe bugs post work Clearing Register doesn work persistently
+2542	text paste pasted type characters typed undo undos existing edit Pasting Text Current Undoable Edit

@@ -1,0 +1,5 @@
+ApiAnalysisBuilder:createMarkers()
+ApiAnalysisBuilder:build(int, Map, IProgressMonitor)
+ApiAnalysisBuilder:buildAll(IProgressMonitor)
+ApiAnalysisBuilder:buildDeltas(IProgressMonitor)
+ApiAnalysisBuilder:clearLastState()

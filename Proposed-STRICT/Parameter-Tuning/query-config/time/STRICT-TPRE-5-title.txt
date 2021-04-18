@@ -1,0 +1,7 @@
+18	Zone Test Time thread add	Zone Test Time Standard	NPE DateTimeZoneBuilder Time Zone Builder
+21	Time Locale time Format joda	Time Parse	DateTimeFormat parseInto miscalculates year Time Format parse
+28	Field chronology Local year expectedEnd expected	Field Years Instance	Questionable behaviour GJChronology dates pass
+42	Offset Time Hours minutes documentation	Offset Time Hours Zone	DateTimeZone forOffsetHoursMinutes handle negative offset hour Time Zone Offset Hours Minutes
+43	Time max Zone DateTimeZone Time Zone offset	Time Zone	Ensure max min valid offset
+77	add time mdt Time MutableDateTime Mutable Time	add Time Instant Millis	addDays MutableDateTime add Days Mutable Time
+88	Time hour Type hourOfDay hour Day DateTimeFieldType Time Field Type	Field Time Equal Type	Constructing invalid Partials

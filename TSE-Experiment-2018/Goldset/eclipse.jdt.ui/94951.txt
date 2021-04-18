@@ -1,2 +1,0 @@
-org.eclipse.jdt.ui/ui/org/eclipse/jdt/internal/ui/javaeditor/ASTProvider.java
-org.eclipse.jdt.ui/ui/org/eclipse/jdt/internal/ui/text/java/JavaReconcilingStrategy.java

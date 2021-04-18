@@ -1,0 +1,17 @@
+12118	connection user ssh server method client EXTSSH CVS revision		CVS EXTSSH extssh user ssh server compatible protocol
+13069	send size memory text file files File buffers large	send File	CVS Core Sending large files result excessive memory usage
+13926	Context Busy control rectangle screen Text position showWhile JFace	Context Text Busy f Viewer Indicator	JFace Text Editor Leaves Black Rectangle Content Assist text insertion
+15277	suite test suites tests behaviour call stack chaining causing		Recreate test suite add suite
+16787	Control Wizard control getControl Control method Container showPage WizardPage Wizard showStartingPage Starting	Control Wizard Container Starting set create Dialog	Wizards Wizards recreated returning
+17707	site project Deploy Target error Foo select Warning warning		DAV Reselecting location misleading warning
+18761	support FTP user anonymous checkbox target password supporting connection		support creating anonymous FTP connections
+19307	ott ftp oti option format rejected URL enter url		FTP Valid ftp url rejected
+19686	file java methods mouse switching hover Stay bring Build		hover stops working mousing file
+19691	Team export plug settings preferences Content preference File Change		Team Preferences working export
+19976	site feature add user CVS time internet shouldn url		Dav Choosing add bad site user modify site properties
+21062	Project Configure string Wizard Target wizard resource Main listbox	Project Main Wizard Configure	Reusing ConfigureProjectWizardMainPage target mgmt leads incorrect resource string dialog Configure Project Wizard Main
+22696	window view perspective Hierarchy WSDD topics work open WSWB		doesn work window open
+22809	dialog Properties file pane tree Info Observe Navigator Labels		Properties dialog Repos Properties Info Dialog Labels resize dialog
+23140	ssh client cvs password authentication user method server access		CVS EXTSSH vulnerable man middle attacks dns poisoning
+30644	Method preference Team Connection Label COntrast Contrast High CVS		VCM preference cut High Contrast
+31779	File Unified list folder Stat System file UnifiedTree Unified Tree Tree	File System Stat Tree Unified list Files Library Core	resources UnifiedTree ensure file folder exists Unified Tree

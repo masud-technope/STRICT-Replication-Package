@@ -1,0 +1,4 @@
+FragmentGeneralInfoSection:refreshVersion()
+FragmentGeneralInfoSection:setMaxFieldsEnabled()
+FragmentGeneralInfoSection:setFieldsEnabled()
+FragmentGeneralInfoSection:createBundlePluginVersionEntry(Composite, FormToolkit, IActionBars)

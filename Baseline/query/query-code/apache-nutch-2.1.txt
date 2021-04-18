@@ -1,0 +1,17 @@
+1569	Maven Upgrade Gora Patch
+1542	adddays add days Generator
+1575	
+1513	Support developers dev elopers webmasters web masters Datum RobotRules Robot Rules Ftp FTP Empty EmptyRobotRules Empty Robot Rules Robots website web site Crawl raw CrawlDatum raw Datum Text Rules getRobotRules Robot Rules RULES Robot Robot Rules Empty Robot Rules Crawl Datum Robot Rules
+1514	Phase Bdf Gdc CCAFKhtFwvM CCAFK Fwv Tdcn Fwv NNp Vus cVusGZWKeGdcWrVShPtBdfTdcn Vus Gdc Bdf Tdcn CCAFKht CCAFK NNpM ovA CCAFKht Fwv Vus GZWKe Gdc VSh Bdf Tdcn NNp
+1419	Unix contentType content Type Apache OpenSSL indexchecker checker parsechecker parse checker URL Open CEST Jul Moved Permanently manently Tue Parsechecker Parse checker Type content Type Open SSL
+1453	Filters Test justice ice undertaken Substantiate Subst anti ate IndexingFilters Indexing Filters NUTCH TestIndexingFilters Test Indexing Filters Indexing Indexing Filters Test Indexing Filters
+1552	NPE possibility pos sibility contentType content Type Type Filter MoreIndexingFilter Indexing Filter Indexing content Type Indexing Filter
+1393	Job spings spi ngs Generator ASF GeneratorJob Generator Job Selecting fetchlists fetch lists Display Generator Job
+1493	NUTCH Error Length contentLength content Length content Length
+1047	Nutch utc ElasticSearch Elastic Search backends ends GORA Elastic mind min Pluggable Plug gable Couch hardwired hard wire Search pertaining taining SOLR CouchDB plugable plug backend Elastic Search Couch
+1370	urlDir url Dir PluginRepository Plugin Repository INFO Injector crawlDb crawl WARN Generator ting Injected Plugins Expose Dir Repository Converting Plugin url Dir Plugin Repository crawl
+1563	WebPage Web GeneraterJob Generate Job Fetch Job FetchSchedule Fetch Schedule Generater Generate Fields getFields Fields Web Schedule Web Generater Job Fetch Schedule Fields
+956	documents doc uments
+1532	batchId batch reflects lects architecture arch itecture Replace batch
+1501	parsechecker parse checker diverged div erged Filters IndexingFiltersChecker Indexing Filters Checker NUTCH Checker ParserChecker Parser Checker Behaviour Harmonize Parser indexchecker checker Indexing Indexing Filters Checker Parser Checker
+1503	Configuration useHostSettings Host Settings ore Fetcher Settings FetcherReducer Fetcher Reduce Patch getConfiguration Configuration Bug getBoolean Host timelimit time limit getLong Reducer Reduce Host Settings Fetcher Reducer Configuration

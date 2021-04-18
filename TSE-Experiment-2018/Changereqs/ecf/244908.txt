@@ -1,2 +1,0 @@
-Bug 244908 – [Discovery] Thread safety in providers
-Avoid potential threading issues.

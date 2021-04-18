@@ -1,4 +1,0 @@
-Bug 16152 – NLS pass
-find unused strings
-find invalid keys
-remove duplicates

@@ -1,0 +1,2 @@
+Tool configuration does not support EMF anchors
+Invoking mappingtool with an anchor via ant does not currently work -- the anchor is ignored.

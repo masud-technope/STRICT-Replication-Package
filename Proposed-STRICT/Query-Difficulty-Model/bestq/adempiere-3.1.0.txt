@@ -1,0 +1,12 @@
+37	tracker viewer Compiere screen func response attempt patch sourceforge aid Report viewer scrolling broken
+106	function invoices form problem version payment Payment Selection VPaySelect VPay Select VPay invoices Payment Selection
+109	Print Invoices process draft selection Compiere Bug Print Invoices process includes drafted documents http sourceforge net tracker php func detail aid group atid Garden select range today invoices selected document status client bad printing posting customers email option drafted cancelled invoices
+113	invoiced atid shipment Consolidated shipments consolidated func Bug sourceforge tracker Consolidated shipments invoiced
+114	Invoices header orders Consolidated Compiere group document order aid bug Voiding reversal consolidated Invoices
+116	Organization Update Location Address inital organization address System address changing address users enter sequence Address City ZIP Country enter depending COUNTRY change Country PREVIOUS ENTRIES reverted initial settings crucial user friendly
+525	Process Generate Sales order bug Process Generate Sales order work correctly product current vendors Scenario Create product current vendors Create Sales order product Complete prepare order Start process Generate Sales order dialog box Choose product vendors Execute process BUG product current vendor Adempiere creates purchase order vendor selected process dialog box
+768	Journal Debit Total record currency tab Credit Sum field rate Wrong Sum Total Debit Credit Journal
+814	generates create Production product quantity production quantities products ProductionLines Production Lines fractions Production fractional Qty production
+815	type Cost Distribution distribution cost Costs form work LandedCost Landed Cost LandedCost Cost Distribution type Cost work Landed Cost
+820	Price Requisition Purchase product POCreate Error Order RequisitionPOCreate Requisition POCreate List exception ProductNotOnPriceList Error creating Requisitio Product Price List
+1240	create click Production tab Set row set changed product Create Posting balanced producing produc

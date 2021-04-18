@@ -1,0 +1,3 @@
+VMLibraryBlock:isDefaultLocations(IVMInstall)
+VMLibraryBlock:performApply(IVMInstall)
+VMLibraryBlock:isDefaultLocations()

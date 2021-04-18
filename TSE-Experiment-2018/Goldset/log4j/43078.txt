@@ -1,7 +1,0 @@
-src/changes/changes.xml
-src/main/java/org/apache/log4j/xml/XMLLayout.java
-src/main/resources/org/apache/log4j/xml/log4j.dtd
-tests/src/java/org/apache/log4j/util/JunitTestRunnerFilter.java
-tests/src/java/org/apache/log4j/xml/XMLLayoutTestCase.java
-tests/witness/xmlLayout.mdc.1
-tests/witness/xmlLayout.mdc.2

@@ -1,0 +1,2 @@
+RandomStringUtils throws confusing IAE when end <= start
+RandomUtils invokes Random#nextInt(n) where n = end - start. If end <= start, then Random throws: java.lang.IllegalArgumentException: n must be positive This is confusing, and does not identify the source of the problem.

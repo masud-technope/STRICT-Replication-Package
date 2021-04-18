@@ -1,0 +1,18 @@
+992	OpenGraph meta tags multiple values Open Graph
+1124	Nested documents extracted PDF file chain
+1062	Add list detection RTFParser
+1126	text html procuder tika server
+1193	access HtmlParser HtmlSchema Html Parser Html Schema
+1130	docx text extract leaves portions text
+1074	Extraction exception hit visiting embedded document
+1202	Refactor PDFParser enable easier parameter setting
+820	Locator unset HTML parser
+1012	Add additional fields MimeType reader Mime Type
+1109	Metadata extracted content OOXML pptx
+1014	custom MimeTypesReader Mime Types Reader
+1110	Incorrectly declared SUPPORTED TYPES ChmParser Chm Parser
+1047	Provide JAX detect mediatype
+1210	Address tika parsers mime TestMimeTypes TODO test flash file Test Mime Types
+1211	OpenDocument ODF parser produces multiple startDocument events Open Document start Document
+1053	Upgrade Tika Parsers ASM
+991	Parser extract duration audio file

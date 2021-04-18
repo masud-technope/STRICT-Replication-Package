@@ -1,4 +1,0 @@
-[SLING-5189] Improve start level handling when merging models - ASF JIRA
-If two models containing the same artifact with different start levels are merged, currently the start level of the overlaying model wins.
- However, if the base model defines a start level and the overlaying model just uses the default start level, the resulting model should have the start level of the base model.
-The same would happen if the model would be applied at runtime as default start level means no start level information.

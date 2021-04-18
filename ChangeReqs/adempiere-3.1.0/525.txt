@@ -1,0 +1,2 @@
+Process: "Generate PO from Sales order" bug
+Process: "Generate PO from Sales order" does not work correctly when a product has two or more current vendors. Scenario: 1. Create one product with two (or more) current vendors 2. Create a Sales order for product 3. Complete (or prepare) order 4. Start process "Generate PO from Sales order" 5. In dialog box Choose one of the product vendors 6. Execute process. BUG: For every product current vendor, Adempiere creates purchase order (even just one vendor is selected in process dialog box).

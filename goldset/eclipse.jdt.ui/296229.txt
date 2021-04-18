@@ -1,0 +1,4 @@
+JavadocContentAccess2:handleContentElements(List, boolean)
+JavadocContentAccess2:handleLink(List)
+JavadocContentAccess2:handleInlineTagElement(TagElement)
+JavadocContentAccess2:handleContentElements(List)

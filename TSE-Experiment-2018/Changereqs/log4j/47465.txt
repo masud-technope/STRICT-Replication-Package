@@ -1,8 +1,0 @@
-47465 – Reading configuration files from a JAR locks the JAR file
-If a log4j configuration file is found by the classpath search inside a JAR file, the file will be loaded from the JAR.
-However, the initial URLConnection.getDefaultUseCaches() setting means that caching is used and the JAR file is locked.
-This is a particular problem for container environments like Tomcat, as it prevents a web application from being removed.
-Whilst the workaround is simple - don't put your log4j configuration in a JAR - it impacts a large number of users.
-I have a patch and test case for PropertyConfigurator.
-I still need to test DOMConfigurator.
-I will update this bug report with the results of that test (and a patch if necessary) later today.

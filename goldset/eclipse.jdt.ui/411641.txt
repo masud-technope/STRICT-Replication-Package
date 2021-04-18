@@ -1,0 +1,2 @@
+JavaContext:isAfterDot()
+JavaContext:canEvaluate(Template)

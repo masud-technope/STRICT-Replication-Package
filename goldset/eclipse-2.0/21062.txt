@@ -1,0 +1,2 @@
+org.eclipse.team.internal.ui.target.ConfigureTargetWizard:addPages()
+org.eclipse.team.internal.ui.ConfigureProjectWizardMainPage:createControl(Composite)

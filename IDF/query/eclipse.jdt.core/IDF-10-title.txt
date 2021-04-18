@@ -1,0 +1,30 @@
+79809	complicated users solution angle brackets suggestion ranges TagElement inserted accessing Bug dom javadoc support type parameter Javadoc tags
+42243	misleading isn flagged diagnosis compiled Incorrect mode syntax Syntax keyword Bug Incorrect syntax diagnosis source mode
+417669	AnnotatableType appears Annotatable dialog ranges ParameterizedType Bad structure SimpleType annotated Bug dom Incorrect source ranges annotated SimpleType nested ParameterizedType Simple Type Parameterized Type
+405889	getJavaLangInvokeMethodHandlesLookup review BETA Resilience Handles codegen Invoke NPE needed Lookup Bug compiler codegen Resilience NPE needed Scope getJavaLangInvokeMethodHandlesLookup Java Lang Invoke Method Handles Lookup
+385293	silently accepts grammar accepted stored normal changed modifier Marker read Bug compiler compiler accepts normal modifiers type arguments
+424718	dimAnnotations topic languages rise breaking nice baseTypeReference functions google compilers Bug compiler API compatibility AST TypeReference Type Reference
+168331	IListEntry IList AbstractMethodError introduced getEntry worked IExtended fixed complain Extended Bug compiler AbstractMethodError method Method Error
+399567	parallelStream OrderedSet exe parallel inherits windows unrelated Ordered AmbiguousMethodTest reports Bug error message reference compiler
+65738	notice Making automatic builds automatically happen occur running save occurs Bug builder Build automatically save
+29516	regressions failing refactoring responsible SearchEngine Engine Search tests Bug Bug SearchEngine regressions Search Engine
+110797	artifact heavily BUSINESS review aka people rely series FIXME tasks Bug multiple task tags single tasks view complete tag
+456395	attachment details sample compile Created mismatch convert Map Object Set Bug compile Java code
+228691	Overview annotating Reproduce isAssignable Steps isSubtype meaning structures acceptable opposed Bug JDT impl sun mirror util Types isAssignable returns wrapper primitive assignment Assignable
+380501	wider topic shortly published aka feature tracked connection Virtual enabling Bug compiler Add support methods JSR
+412882	majority spending validateLibraryContents verifyArchiveContent validateLibraryEntry classpathChanged ChangeClasspathOperation SetClasspathOperation ClasspathValidation closeZipFile Bug Unnecessary validation optional library classpath entries
+388634	chooses route RunJDTCoreTests JDTCore misses levels running detected occurs included Bug Test failure Compliance compliance
+413913	Investigate failures Bug Bug Investigate failures
+165346	conservative covered operators OperatorExpression nullStatus produce ConditionalExpression overriding conditional Conditional Bug compiler org eclipse jdt internal compiler ast OperatorExpression nullStatus FlowInfo conservative Expression Status Flow Info
+415911	BETA HEAD triggers annotated NPE snippet ElementType Marker missing Target Bug compiler NPE TYPE annotated method missing type
+418919	ball defect BETA drop Raising storeAnnotations carry decide AnnotatableTypeSystem conditions Bug compiler internal Remove forcing creation annotated bindings
+396258	simplify adopt forces interpreted introduce spec ambiguous NullTypeAnnotationTest NonNull change Bug adopt syntax annotations qualified type names NullTypeAnnotationTest Type Annotation Test
+126180	causing raised reporting NPE enclosing invalid access member Member Build Bug compiler NPE reporting invalid enclosing type
+417388	Ideally referencing BaseTypeBinding correctly resolvedType TypeReference doesn Marker Base annotations Bug TypeBinding TypeReference parameter type annotations Type Binding Type Reference
+381358	elicit encountering slew disambiguate moment mangled gracefully tricky LambdaBody BETA Bug Compiler gracefully reject JSR constructs source levels
+396139	upgrade regressions commits reproduce offers functions newer observe download beta Bug define JRE build targeting BETA JAVA
+145202	negated raises positive analyzer err println negative System reference element Bug positive reference analyzer negated
+430451	surrounding fixes dash failing patch Patch JRE CompilerInvocationTests attachment details Bug Tests fail org eclipse jdt compiler tool tests CompilerInvocationTests JRE Compiler Invocation Tests
+405051	newIndexURL ideally populates metadata concept initializeAfterLoad rebuilt approach computeIndexLocation ways Bug JavaModel refreshExternalArchives happen search primed Java Model refresh External Archives
+291322	randomly freed retry Windows caused lock subsequent issue calls times Bug Test errors running JDT Core tests Windows
+401848	reproduce introduced adds attachment Testcase details additional ASTRewrite Created rewrite Bug ASTRewrite type annotations adds additional

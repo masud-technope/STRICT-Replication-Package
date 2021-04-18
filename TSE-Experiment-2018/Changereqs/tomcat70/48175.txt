@@ -1,4 +1,0 @@
-48175 – Loggers should be final
-Created attachment 24516 [details]
-Patch to make log fields final where possible
-Log fields should be final (see r834226)

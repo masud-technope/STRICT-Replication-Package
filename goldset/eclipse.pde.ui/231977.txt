@@ -1,0 +1,1 @@
+ExtensionsSection:canPaste(Object)

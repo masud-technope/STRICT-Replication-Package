@@ -1,1 +1,2 @@
-providers/bundles/org.eclipse.ecf.provider.jmdns/src/org/eclipse/ecf/provider/jmdns/container/JMDNSDiscoveryContainer.java
+JMDNSDiscoveryContainer:createServiceInfoFromIServiceInfo(IServiceInfo)
+JMDNSDiscoveryContainer:createIServiceInfoFromServiceInfo(ServiceInfo)

@@ -1,0 +1,1 @@
+TargetProvider:MemberTypeTargetProvider:getAffectedBodyDeclarations(ICompilationUnit, IProgressMonitor)

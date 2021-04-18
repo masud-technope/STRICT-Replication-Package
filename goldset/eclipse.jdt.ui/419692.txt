@@ -1,0 +1,2 @@
+InterfaceIndicatorLabelDecorator:TypeIndicatorOverlay:equals(Object)
+InterfaceIndicatorLabelDecorator:TypeIndicatorOverlay:hashCode()

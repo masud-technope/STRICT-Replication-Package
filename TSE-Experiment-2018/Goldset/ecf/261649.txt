@@ -1,3 +1,0 @@
-doc/bundles/org.eclipse.ecf.tutorial/src/org/eclipse/ecf/tutorial/basic/Client3.java
-doc/bundles/org.eclipse.ecf.tutorial/src/org/eclipse/ecf/tutorial/basic/Client4.java
-doc/bundles/org.eclipse.ecf.tutorial/src/org/eclipse/ecf/tutorial/datashare/MyChannel.java

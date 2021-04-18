@@ -1,2 +1,0 @@
-Bug 19363 – Missing wizard banner on library container
-Asked for new image.

@@ -1,5 +1,0 @@
-[SLING-1626] Launchpad: NamespaceException: sling: is not a registered namespace prefix - ASF JIRA
-Starting the standalone jar from launchpad/builder produces this error in the logs: 
- org.apache.sling.jcr.contentloader.internal.ContentLoaderService activate:  Problem while loading initial content and registering mappings for existing bundles  javax.jcr.NamespaceException: sling: is not a registered namespace prefix.
-
- which (obviously) prevents many features from working

@@ -1,0 +1,2 @@
+SimpleHttpClient:getResponseBodyUriElements()
+SimpleHttpClient:sendRequest()

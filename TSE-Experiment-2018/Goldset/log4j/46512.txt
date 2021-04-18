@@ -1,2 +1,0 @@
-src/changes/changes.xml
-src/main/java/org/apache/log4j/lf5/viewer/categoryexplorer/CategoryPath.java

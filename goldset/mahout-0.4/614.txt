@@ -1,0 +1,2 @@
+org.apache.mahout.classifier.bayes.MultipleTextOutputFormat:getBaseRecordWriter(FileSystem, Configuration, String, Progressable)
+org.apache.mahout.classifier.bayes.MultipleOutputFormat:getInputFileBasedOutputFileName(Configuration, String)

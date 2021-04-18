@@ -1,0 +1,3 @@
+AdvancedQuickAssistTest:testPickOutStringProposals1()
+AdvancedQuickAssistTest:testPickOutStringProposals3()
+AdvancedQuickAssistTest:testPickOutStringProposals2()

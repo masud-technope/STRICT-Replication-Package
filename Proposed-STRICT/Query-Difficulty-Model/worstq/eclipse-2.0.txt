@@ -1,0 +1,17 @@
+12118	connection user ssh method revision CVS client server protocol exception CVS EXTSSH extssh user ssh server compatible protocol
+13069	files memory send text converting Sending size result compute ing CVS Core Sending large files result excessive memory usage
+13926	JFace Context control BusyIndicator Busy Indicator Busy rectangle position driver screen shot JFace Text Editor Leaves Black Rectangle Content Assist text insertion
+15277	suite test suites tests behaviour call stack chaining causing special Recreate test suite add suite
+16787	Control called disposed disposing getControl Control control create Container createControl create Control pageContainer Container Wizards Wizards recreated returning
+17707	site Deploy select Foo warning project location Warning misleading confirming DAV Reselecting location misleading warning
+18761	support FTP user checkbox connection password target connections support creating anonymous FTP connections
+19307	FTP Valid ftp url rejected enter ott ott oti ftp URL rejected invalid ftp programs enter ftp ott ott oti connect format option ftp option acceptable
+19686	file java Stay switching methods hoverhelp text mouse whitespace Build hover stops working mousing file
+19691	Team preferences Add Remove export transfered workspace saved Outgoing working Team Preferences working export
+19976	site user time shouldn url error CVS offer properties Site Dav Choosing add bad site user modify site properties
+21062	string Target wizard resource Configure caused ConfigureProjectWizardMainPage Configure Project Wizard Main adding solved Project Reusing ConfigureProjectWizardMainPage target mgmt leads incorrect resource string dialog Configure Project Wizard Main
+22696	window view topic Hierarchy perspective opened showing press appears repeat doesn work window open
+22809	dialog file Properties Navigator Observe pane Location Perspective labels tree Properties dialog Repos Properties Info Dialog Labels resize dialog
+23140	ssh cvs client supports supplied password method eclipse steal modified CVS EXTSSH vulnerable man middle attacks dns poisoning
+30644	VCM preference cut High Contrast Team preference cut High COntrast Team CVS Ext Connection Method Label Decorations
+31779	file folder exist returns returned assumes Unified system File UnifiedTree Unified Tree resources UnifiedTree ensure file folder exists Unified Tree

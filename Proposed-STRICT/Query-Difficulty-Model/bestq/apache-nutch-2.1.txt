@@ -1,0 +1,17 @@
+956	refer describes build solrindex nutch http techvineyard html blogspot tests solrindex issues
+1047	indexing backend plugins add backends storage hardwired cleaning SOLR Pluggable indexing backends
+1370	Expose exact number urls injected runtime trunk code INFO crawl Injector Injector starting INFO crawl Injector Injector crawlDb crawl crawldb INFO crawl Injector Injector urlDir urls INFO crawl Injector Injector Converting injected urls crawl entries INFO plugin PluginRepository Plugins code code INFO crawl Injector Injector starting INFO crawl Injector Injector crawlDb crawl crawldb INFO crawl Injector Injector urlDir urls INFO crawl Injector Injector Injected urls crawl crawldb INFO crawl Injector Injector Converting injected urls crawl entries INFO plugin PluginRepository Plugins code debugging easier code WARN crawl Generator Generator records selected fetching exiting code crawl url Dir Plugin Repository crawl url Dir Plugin Repository
+1393	Display consistent usage GeneratorJob pass generate argument nutch script Generator auto spings action generating fetchlists print traditional usage stdout code lewis lewis ASF nutchgora runtime local bin nutch generate GeneratorJob Selecting scoring urls fetch GeneratorJob starting GeneratorJob filtering GeneratorJob GeneratorJob generated batch code wanted usage params printed stdout generated batch willy nilly Generator Job Generator Job Generator Job Generator Job Generator Job Generator Job
+1419	nutch indexchecker redirect Permanently content status org CEST Jul Unix parsechecker indexchecker report protocol status
+1453	agreed discussed follow Filters Indexing NUTCH test TestIndexingFilters Test Indexing Filters indexer Test Substantiate tests IndexingFilters Indexing Filters
+1493	Length contentLength content Length string accept assume content attached adding solr Error Error adding field contentLength solrindex content Length
+1501	diverged missing ParserChecker Parser Checker Checker Behaviour Parser IndexingFiltersChecker Indexing Filters Checker Indexing behavior trunk Harmonize behavior parsechecker indexchecker
+1503	conf code fetcher nutch xml removed FetcherReducer Fetcher Reducer updated Fetcher Reducer Configuration properties sync FetcherReducer nutch xml Fetcher Reducer
+1513	Ftp robots plugin nutch developers noformat ftp Rules java src Support Robots txt Ftp urls
+1514	deprecated mail configuration apache mbox Bdf Gdc VSh removed CCAFKhtFwvM CCAFKht Fwv Phase deprecated configuration properties
+1532	reflects field segment batch replaced Replace mail org archive apache Replace segment mapping field batchId batch
+1542	param fetch Generator crawl hack urls generator adddays adddays param generator
+1552	java NPE http content Filter Indexing contentType content Type variable read attempt possibility NPE plugin
+1563	Fields Fetch FetchSchedule Fetch Schedule Generater getFields Fields Web Schedule Job user GeneraterJob Generater Job FetchSchedule getFields GeneraterJob Fetch Schedule Fields Generater Job
+1569	Patch push Maven artifacts upgrade Gora Upgrade released coming Upgrade Gora
+1575	nutch support authentication solr support solr authentication nutch

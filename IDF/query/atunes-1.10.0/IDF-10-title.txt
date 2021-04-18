@@ -1,0 +1,16 @@
+227	restart Request change work press properties version preferences window application Request restarting doesn work
+259	bug submission bug
+260	Windows work Screen Full aTunes Full Screen doesn work Windows aTunes Tunes
+230	lang Music property edited numbers Operation Problem exception Exception setInfo tag
+231	isSupportsInternalImage latest supported Problem Supports Adding Internal Update app version add image repository read older app version
+264	sound actual wrong Wrong problem correct bottom duration bit playing Wrong song duration displayed player
+207	click option Tune screen standard Full full view option
+240	fixed windows actual program problem task adding click occur lyrics Set lyrics automatically terminated
+212	correct selected picture songs tab song info album artist Context Context panel
+276	music sound pause volume mute Mute update full Perform progress Mute
+213	music supported Actual rename extension skip Copy Xine engine files supported formats skipped Xine
+245	stations radios icon Radio label folder playlist add Radio Labels playlist
+278	disk step hit enter change bug minimum click Titles title Edit Titles Fails
+281	Started Virtual started engines Setting Windows Supported retrieval finished loaded Mute button
+220	previous OSD track button play OSD displayed jumping previous track
+221	work mode Multiple multiple window Multiple window mode work

@@ -1,0 +1,2 @@
+org.apache.derby.iapi.sql.PreparedStatement:rePrepare(LanguageConnectionContext)
+org.apache.derby.impl.sql.GenericPreparedStatement:rePrepare(LanguageConnectionContext)

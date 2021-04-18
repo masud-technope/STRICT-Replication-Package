@@ -1,0 +1,2 @@
+Brent optimizer doesn't use the Base optimizer iteration counter
+BrentOptimizer uses "iter" defined in "doOptimize" to count iterations. It should ideally use the iteration counter defined for the BaseOptimizer.

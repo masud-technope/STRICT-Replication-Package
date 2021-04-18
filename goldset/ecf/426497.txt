@@ -1,1 +1,3 @@
-framework/bundles/org.eclipse.ecf.discovery/src/org/eclipse/ecf/internal/discovery/DiscoveryServiceListener.java
+DiscoveryServiceListener:removeServiceListener()
+DiscoveryServiceListener:addServiceListener()
+DiscoveryServiceListener:isAllWildcards(ServiceReference)

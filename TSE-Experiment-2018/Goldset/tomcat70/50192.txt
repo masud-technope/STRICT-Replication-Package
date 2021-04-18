@@ -1,3 +1,0 @@
-java/org/apache/jasper/el/ELContextImpl.java
-java/org/apache/jasper/el/ELResolverImpl.java
-webapps/docs/changelog.xml

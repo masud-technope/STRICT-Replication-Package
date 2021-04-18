@@ -1,0 +1,2 @@
+Upgrade 2.x to Gora 0.3
+We just released the Maven artifacts and I would like to upgrade before we push the RC for 2.2 :) Patch coming up

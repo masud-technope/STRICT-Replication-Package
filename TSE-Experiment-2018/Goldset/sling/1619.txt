@@ -1,2 +1,0 @@
-launchpad/integration-tests/src/main/java/org/apache/sling/launchpad/webapp/integrationtest/servlets/post/SlingAutoPropertiesTest.java
-bundles/servlets/post/src/main/java/org/apache/sling/servlets/post/impl/helper/SlingPropertyValueHandler.java

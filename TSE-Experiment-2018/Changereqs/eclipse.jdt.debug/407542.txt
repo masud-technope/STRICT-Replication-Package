@@ -1,2 +1,0 @@
-Bug 407542 – Check for and remove unused NLS strings in Debug
-Yearly pass to find and remove unused NLS strings in platform and JDT debug.

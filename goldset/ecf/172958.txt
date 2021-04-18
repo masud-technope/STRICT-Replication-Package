@@ -1,2 +1,8 @@
-providers/bundles/org.eclipse.ecf.provider.irc/src/org/eclipse/ecf/internal/provider/irc/container/IRCRootContainer.java
-providers/bundles/org.eclipse.ecf.provider.irc/src/org/eclipse/ecf/internal/provider/irc/container/IRCRootContainer.java
+IRCRootContainer:handleCommandMessage()
+IRCRootContainer:getChatRoomMessageSender()
+IRCRootContainer:handleCommandMessage(String)
+IRCRootContainer:parseMessageAndSend(String)
+IRCRootContainer:connect(ID, IConnectContext)
+IRCRootContainer:doSendChannelMessage(String, String, String)
+IRCRootContainer:parseCommandAndSend(String, String)
+IRCRootContainer:showErrorMessage(String, String)

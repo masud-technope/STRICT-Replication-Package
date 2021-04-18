@@ -1,3 +1,0 @@
-[SLING-1277] Make dependency to jcr api optional - ASF JIRA
-The taglib has a hard dependency to the jcr api - this makes the taglib unusable if the api is not available.
-The dependency can easily be made optional.

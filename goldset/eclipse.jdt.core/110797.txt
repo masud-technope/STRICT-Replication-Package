@@ -1,0 +1,6 @@
+BasicBuildTests:testTags2()
+BasicBuildTests:testTags()
+BasicBuildTests:suite()
+Scanner:checkTaskTag(int, int)
+PublicScanner:getCurrentTokenSourceString()
+PublicScanner:checkTaskTag(int, int)

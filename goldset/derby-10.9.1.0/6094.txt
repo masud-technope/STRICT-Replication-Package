@@ -1,0 +1,8 @@
+org.apache.derbyTesting.junit.BaseTestCase:println(String)
+org.apache.derbyTesting.junit.Connector:shutEngine()
+org.apache.derby.jdbc.InternalDriver:connect(String, Properties)
+org.apache.derby.jdbc.InternalDriver:getDeregister()
+org.apache.derbyTesting.functionTests.tests.tools.RollBackWrappingWhenFailOnImportTest.MockInternalDriver:connect(String, Properties)
+org.apache.derby.client.net.NetConnection:flowReconnect(String, int)
+org.apache.derbyTesting.functionTests.tests.store.InterruptResilienceTest:tearDown()
+org.apache.derbyTesting.junit.JDBCDataSource:getDataSourceObject(String, HashMap)

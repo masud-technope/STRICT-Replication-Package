@@ -1,2 +1,0 @@
-bundles/resourceresolver/src/main/java/org/apache/sling/resourceresolver/impl/mapping/MapEntries.java
-bundles/resourceresolver/src/test/java/org/apache/sling/resourceresolver/impl/mapping/MapEntriesTest.java

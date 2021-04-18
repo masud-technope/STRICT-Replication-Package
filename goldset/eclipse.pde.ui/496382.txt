@@ -1,0 +1,3 @@
+DirectoryBasedApiBaselineWizardPage:getUpdatedLocationForMacOS(String)
+DirectoryBasedApiBaselineWizardPage:createControl(Composite)
+DirectoryBasedApiBaselineWizardPage:pageValid()

@@ -1,2 +1,0 @@
-Bug 407364 – [1.8][dom ast] Incorrect ASTRewrite for QualifiedType
-ASTRewrite testcases for QualifiedType need to be added to complete the list.

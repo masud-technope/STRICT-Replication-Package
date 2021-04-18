@@ -1,1 +1,0 @@
-providers/bundles/org.eclipse.ecf.provider.jmdns/src/org/eclipse/ecf/provider/jmdns/identity/JMDNSNamespace.java

@@ -1,3 +1,0 @@
-org.eclipse.jdt.ui/ui/org/eclipse/jdt/internal/ui/util/SWTUtil.java
-org.eclipse.ltk.ui.refactoring/src/org/eclipse/ltk/internal/ui/refactoring/RefactoringStatusViewer.java
-org.eclipse.ltk.ui.refactoring/src/org/eclipse/ltk/internal/ui/refactoring/util/SWTUtil.java

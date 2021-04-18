@@ -1,0 +1,3 @@
+PluginStatusDialog:getDialogBoundsSettings()
+PluginStatusDialog:getDialogSectionName()
+PluginStatusDialog:getDialogSettings()

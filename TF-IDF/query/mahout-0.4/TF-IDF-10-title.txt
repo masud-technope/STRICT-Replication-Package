@@ -1,0 +1,16 @@
+576	updateItemPref update delta AVG removePreference Storage Pref preference calculation setting AbstractJDBCDiffStorage updateItemPref updating AVG incorrectly cases JDBCDiff Storage update Item Pref
+641	Distributed setConf DistributedRowMatrix Lanczos Job set calculation Conf properties hadoop DistributedRowMatrix hadoop jobs ignore Configuration set setConf Distributed Row Matrix set Conf
+610	Row RowA RowB SimilarityReducer RowPair high form considered obvious Similarity Coocurrences SimilarityReducer Similarity Reducer
+580	basePath Memory Store params base Bayes dataSource Source Path Classify Missing basePath Bayes job InMemoryDataStore base Path Memory Data Store
+614	getRecordWriter MultipleOutputFormat Multiple Format work FileOutputFormat Output writes Record Hadoop org apache mahout classifier baytes MultipleOutputFormat working intended Hadoop Multiple Output Format
+678	Gradient MixedGradient Mixed Pointer Exception algorithm positive RankingGradient Ranking understand NullPointerException MixedGradient SGD algorithm Pointer Exception Mixed Gradient
+583	chunk files create Loss sequence file directory overwrite loss happen Loss data create sequence files directory
+552	AbstractCluster Named lost RandomAccessSparseVector Vectors Sparse names Access constructor Cluster AbstractCluster eliminates NamedVectors replacing RandomAccessSparseVector Cluster Named Vectors Random Access Sparse Vector
+526	DefaultTreeBuilder Stack Builder Tree attributes Overflow numerical forest Error dataset Infinite Recursion DefaultTreeBuilder Tree Builder
+561	handle TestClassifier source command parameters type Classifier Test TestClassifier correctly handle type source command parameters Test Classifier
+625	support higher patterns incorrect pattern real FPGrowth test biggest project generated patterns support higher reality
+564	distanceThreshold KMeansClusterer KMeans Clusterer Threshold distance parameter runKMeansIteration setting testConvergence KMeansClusterer distanceThreshold parameter testConvergence Iterable Cluster clusters distanceThreshold method KMeans Clusterer distance Threshold test Convergence distance Threshold
+565	bit feature series implementation mask Features sign Minhash minhash shift Features incorrectly hashed Minhash
+631	Running Weighted Average WeightedRunningAverage Dev Std problem bug Small datum Small bug WeightedRunningAverage add WeightedRunningAverageAndStdDev Weighted Running Average Weighted Running Average Std Dev
+602	Implementation Partial exceptions wiki display dataset MAHOUT apache org Partial Implementation exceptions
+604	training data Bayes exception Classifier Bayes Classifier fails data training data

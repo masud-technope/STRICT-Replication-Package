@@ -1,0 +1,2 @@
+ClassPathDetector:getPackagePath(String)
+ClassPathDetector:visitCompilationUnit(IFile)

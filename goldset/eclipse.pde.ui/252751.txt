@@ -1,0 +1,3 @@
+ApiTestingEnvironment:deleteWorkspaceFile(IPath)
+ApiTestingEnvironment:createWorkspaceFile(IPath, IPath)
+ApiTestingEnvironment:updateWorkspaceFile(IPath, IPath)

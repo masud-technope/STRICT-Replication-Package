@@ -1,0 +1,1 @@
+JavaEditorAppearanceConfigurationBlock:createAppearancePage(Composite)

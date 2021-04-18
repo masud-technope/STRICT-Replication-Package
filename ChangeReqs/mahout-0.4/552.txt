@@ -1,0 +1,2 @@
+AbstractCluster eliminates NamedVectors by replacing them with RandomAccessSparseVector always
+When clustering using NamedVectors as input - after running seq2sparse with patch https://issues.apache.org/jira/browse/MAHOUT-401 - names are lost because AbstractCluster replaces vectors coming in the constructor with RandomAccessSparseVector.

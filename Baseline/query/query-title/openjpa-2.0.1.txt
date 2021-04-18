@@ -1,0 +1,16 @@
+1888	Add generics Kernel
+1762	javax persistence lock scope EXTENDED doesn properly lock join tables
+1699	Streaming Lob support
+1764	Automatically enable connection pooling unmanaged environments
+1765	TableGenerator doesn properly utilize heavy stress Table Generator
+1830	Deserialization EMF connectionPassword overwritten INVISIBLE connection Password
+1863	update HSQL dictionary HSQLDB
+1896	OpenJPA store POJOs record exists Open JPA
+1865	inefficient keySet iterator entrySet iterator key Set entry Set
+1613	Exception thrown enhancing property access MappedSuperclass annotated properties Mapped Superclass
+1837	ElementCollection Embeddable blob fails Oracle Element Collection
+1870	Blob types override column definition Column annotation MySQL SQL
+1743	Tool configuration support EMF anchors
+1943	Query timeout hint honored consistently pessimistic lock issued database requires multi statements locking scheme
+1784	Map updates flushed
+1627	ORderBy ElementJoinColumn EmbeddedId wrong columns SQL ORder Element Join Column Embedded

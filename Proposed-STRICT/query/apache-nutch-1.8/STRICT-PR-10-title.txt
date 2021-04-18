@@ -1,0 +1,9 @@
+1396	Util MimeUtil Mime Util dependency Mime trunk Tika code Upgrade Tika
+1381	field override configuration filter subcollection NUTCH directive override subcollection field
+1351	DomainStatistics Domain Statistics Domain host suffix tld tool Statistics aggregates TLD domain DomainStatistics aggregate TLD Domain Statistics
+1399	servers Http Protocol tests test Test Client TestProtocolHttpClient fails Test Protocol Http Client
+1352	synchronization outlink time monitor threadlocals throughput today objection normalizers regex Improve regex urlfilters normalizers synchronization
+1356	parsers Util Executor thread Parse ParseUtil Parse Util threads ExecutorService Executor Service Service parse ParseUtil ExecutorService manually thread handling Parse Util Executor Service
+1405	CrawlDatum Crawl Datum Datum metadata users Injector entries Crawl reducer overwrite CrawlDatum injected entries Crawl Datum
+1262	xhtml xml Map application text html type msoffice HTML code Map duplicating content types single type
+1407	field domain host Filter bit Nutch indexing Indexing copyField copy Field copy BasicIndexingFilter optionally add domain field Basic Indexing Filter

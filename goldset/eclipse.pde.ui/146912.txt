@@ -1,0 +1,1 @@
+WorkspaceModelManager:handleFileChanged(IFile, IResourceDelta)

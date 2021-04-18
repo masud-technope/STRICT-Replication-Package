@@ -1,3 +1,0 @@
-java/org/apache/catalina/connector/OutputBuffer.java
-java/org/apache/tomcat/util/buf/ByteChunk.java
-webapps/docs/changelog.xml

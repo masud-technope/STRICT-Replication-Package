@@ -1,0 +1,84 @@
+18306	NPE PDE Bug defend def shouldn runnables nables Whereever
+53634	Bug Preferences Java JREs JRE Installed JRE
+76675	Matching PatternMatching Pattern Matching Bug Partitioner itioner Pattern Requires abstraction ion IOConsolePartitioner Console itioner IOConsole Console Pattern Matching IOConsole Partitioner
+40707	Open Bug Enable Disable Breakpoint Note Press ress
+13957	Builder LaunchingPlugin Launching Plugin resourceCopyExclusionFilter resource Copy Exclusion Filter Launching Core JavaCore Java Core Copy Preference Options ting Bug intended ended Exclusion JavaBuilderPreferencePage Java Builder Preference Java initializes initial izes Filter JavaOptions Java Options Plugin Launching Plugin resource Copy Exclusion Filter Java Core Java Builder Preference Java Options
+31110	Debugger Debug ger Add Debbugger Advanced Eclipse Source Variables Bug Build Lookup
+335363	Add Click Notice ice Dialog Resizing Res izing maximizing max imizing Colors General Basic increased reased Font Created Bug checkbox check box Preferences Window Java Breakpoint Fonts Increase Appearance Exception checkboxes check boxes depicting dep icting Screenshot
+422016	LambdaMain Lambda Main Don’t Don ’t Reason Unable Number Bug sel ves Absent Lambda haven Modify Main Lambda Main
+24839	UITestSuite Test Suite Suite Runtime TimeoutException Timeout Exception Timeout Edition Edit ion Running Environment Standard Windows Bug IBM Java Classic Exception JRE UITest Test UITest Suite Timeout Exception
+217994	Xmx launchers launch ers Build Filing Launcher Steps Set Execute counterintuitive counter uitive Tested System Bug Create Preferences Property Debug getProperty Property Dvm JRE Reproduce Property
+94474	Edit Unable Bug insect ins ect JREs JRE Installed JRE Press ress
+21776	IJavaStackFrame Java Stack Frame Frame Evaluate Adapter Bug IJavaStackFrames Java Stack Frames getAdapter Adapter Frames IStack Stack IJava Java Stack IStackFrames Stack Frames IJava Stack Frame IJava Stack Frames Adapter IStack Frames
+197011	Add Fill Click Edit IDE JREs JRE Steps Windows Bug Preferences Java Modify Installed Select JAR JARs JAR JRE
+401815	PList List Mac Linux Windows Bug testresults test OSX
+463252	compilelogs compile logs Compile Bug JDT Debug
+455199	String Test UnsupportedOperationException Unsupported Operation Exception NoDebuggingAcceptor Debug ging Acc eptor informations info rmations typeImport type NoDebuggingCase Debug ging Operation Bug Unsupported TODO Acceptor Acc eptor Debugging Debug ging Exception testCase test Unsupported Operation Exception Debugging Acceptor type Debugging test
+43418	Add Click Bug Browse Installed JRE
+102427	Helper Bug getValue Doer
+275614	introduced roduced Explorer Steps Bug Debug REGRESSION REG RES SION Java
+184862	Size ArrayList Array List Suit String Initialize HEARTS Evaluations Eval uations Card formed med Bug DIAMONDS subList List ACE Rank toString String DEUCE protoDeck proto Deck CLUBS deckSize deck Size QUEEN List Collections newDeck Deck handView hand View Deal Hand KING SPADES System Debug Hands numHands num Deck View cardsPerHand cards Hand Integer parseInt parse Array TEN JACK Array List List String proto Deck deck Size Deck hand View num Hands cards Hand parse
+37918	putting ting Eclipse Developer Studio Sphere Bug Console WebSphere Web Sphere Japan Device Japanese Web Web Sphere
+22815	Support Bug
+112670	keystrokes trokes SPACE Bug treeitems tree items Commands treeitem tree item CTRL
+23328	resumes res umes occurr occur Full Test Capacity Vector fFull Full addElement add Element Element hitting hit ting Bug BUG assertTrue testCapacity test Capacity Integer breakpoing poing haps VectorTest Vector Test Resume Full add Element test Capacity Vector Test
+85665	Bug JRE Alternate
+9122	Bug extremally ext rem ally
+28195	Platform Internal String Boot WTK JDIDebugTarget JDI Debug Target NativeMethodAccessorImpl Method Accessor Impl IProgress Progress Method IProgressMonitor Progress Monitor Object KVM Visitor Pointer URL BootLoader Boot Loader Target Bug ISafe Safe Plugins Impl DebugPlugin Debug Plugin LaunchManager Launch Manager Debugging Debug ging IPluginDescriptor Plugin Descriptor Thread Runnable Delegating Manager Accessor IPlugin Plugin ISafeRunnable Safe Runnable DelegatingMethodAccessorImpl Delegating Method Accessor Impl loaderShutdown loader Shutdown Shutdown PluginRegistry Plugin Registry Descriptor NPE shutdownPlugins shutdown Plugins InternalBootLoader Internal Boot Loader Loader InternalPlatform Internal Platform Monitor NullPointerException Pointer Exception Suspended Debug basicRun basic IPluginVisitor Plugin Visitor Registry Launch Exception JDIDebug JDI Debug Main Plugin JDIDebug Target Method Accessor Impl IProgress Monitor Boot Loader Debug Plugin Launch Manager IPlugin Descriptor ISafe Runnable Delegating Method Accessor Impl loader Shutdown Plugin Registry shutdown Plugins Internal Boot Loader Internal Platform Pointer Exception basic IPlugin Visitor
+183206	subsequently sequently Bug canot Build Mysterious reproduced reproduce
+204455	Apply Port Notice ice Clicking ConnectionType Connection Type Application Config Remote Updating Standard Listen Bug Create Debug Java Attach Connection Change Launch Type Socket Connection Type
+421806	JAVA Add inspection inspect ion JSR outset set Bug blockers block ers JDT Debug Java ERs BETA JEP JRE
+53929	Classpath Verion Ver ion IMO FULL Worse Bug
+57257	Array ArrayOutOfBoundsException Array Bounds Exception Bug Bounds Exception Array Bounds Exception
+49068	Large arg Bug JREs JRE Installed
+9649	Add Eclipse Clean proceeds proc eeds Bug Progress autobuild auto build Copy Turn
+13364	Bug
+90805	evaluated eval uated Drop Problems evaluating eval uating Frame FiltersAction Filters Action Beep Bug Display Filters Action Message Unable Debug MessageBeep Message Beep evaluations eval uations getDefault Filters Action Message Beep
+165174	String System Bug Object Main
+255031	CDC Foundation director dir ector Missing EEs Bug
+49077	Bug
+37942	Classpath Project Bug AFAICT Java Launch wise JARs JAR JAR
+108473	Eclipse CPU responding resp onding Sun Performance Sysdeo Sys deo Tomcat Windows System JDK Bug allocated ocated
+428862	Serializable Support Eclipse String Ljava Consumer Development printStackTrace print Stack Trace Assertion Local IntConsumer Consumer readObject read Object Slot Object Application Bug Output Java Quick TODO Table Tools Modify IOException Exception LineNumberTable Number Table Length Add Start Serialized javap java Input Test AssertionError Assertion Error Stream Kepler ClassNotFoundException Exception writeObject write Object Stack Compiled ByteArrayInputStream Array Input Stream Patch Variable ObjectOutputStream Object Output Stream System Reason Unable Number QuickSerializedLambdaTest Quick Serialized Lambda Test Absent Lambda LocalVariableTable Local Variable Table Error ByteArrayOutputStream Array Output Stream Exception BETA Array Trace toByteArray Array Signature ObjectInputStream Object Input Stream print Stack Trace Consumer read Object Number Table Assertion Error Exception write Object Array Input Stream Object Output Stream Quick Serialized Lambda Test Local Variable Table Array Output Stream Array Object Input Stream
+432190	ActionType Action Type Javadoc Update javase java Object Action enterprise enter pri archived archive Bug Type Action Type
+10811	HCRManager HCR Manager JavaHCRManager TerminateAndRemove Terminate Remove Remove Manager Terminate listens list ens Bug Deregistered Java HCR notifications ifications Java HCRManager Terminate Remove
+21823	Bug Java note extensively ext ensively
+53952	String System Variables Bug Test Vector Java Launch
+10817	Bug
+171075	seperated sep erated Scenario Hover Bug Symptom disconnection disconnect ion Java TextEvent Text Event Text Thread Receive Event threading thr eading recieves rec ieves Reproduce Viewer Manager Disconnecting Build Clicking Packet PacketReceiveManager Packet Receive Manager interrupting err upting Involved JavaDebugHover Java Debug Hover confronted conf ronted TextViewerHoverManager Text Viewer Hover Manager reproducable rep roducable Steps Remote Debug Severity Editor Session Text Event Packet Receive Manager Java Debug Hover Text Viewer Hover Manager
+53959	Set Nested String System Variables Bug Test Vector Java Launch
+323020	Bug Mac
+120651	ArrayList Array List List Space Shift Content Res ulted System Variables ting Bug Testcase Test Change View Array CTRL Select Assist Display Array List
+125771	Bug siganture sig anture
+339414	Manager Version Build IJavaDebugTarget Java Debug Target IJava Java Heap Walking Created Target Bug supportsHeapWalking supports Heap Walking Debug HeapWalkingManager Heap Walking Manager HeapWalking Heap Walking IJava Debug Target supports Heap Walking Heap Walking Manager Heap Walking
+297808	Eclipse Safari Locator Identifier Reproducible app rec iate ValidBreakpointLocationLocator Valid Breakpoint Location Locator AppleWebKit App Web Kit Build Agent internals ernals KHTML Web Valid Kit Mozilla Rekha User Windows Bug Chrome JDT Gecko Breakpoint summarized sum marized Apple App initially init ially Location Valid Breakpoint Location Locator Apple Web Kit
+27989	Apply owners ers Scenario Provide performApply perform Apply Farthermore Bug Debug Usage notified ified Tab API validity val idity perform Apply
+161364	Inspect Input List Evaluations Eval uations Code Web WebInput Web Input formed med Evaluating Eval uating ting Bug getInputs Inputs Inputs Generics occure occur Display Web Input Inputs
+13015	evaluates eval uates resumes res umes Bug evaluated eval uated
+64984	Inspect Bug View hing Display
+212442	String Failing Bug importbreakpoints breakpoints Integer
+94047	Version Build Classpath Launching Toolbar Action Ant Variables PDE Bug JUnit Unit Sets JDT ActionSets Action Sets Action Sets
+12640	removeFromTarget remove Target Check Target Bug Java Breakpoint IWorkspaceRunnable Workspace Runnable JavaBreakpoint Java Breakpoint IWorkspace Workspace Runnable runnables nables Workspace remove Target IWorkspace Runnable Java Breakpoint
+371300	Maven Configuration Eclipse IMHO Runtime IExecutionEnvironment Execution Environment Reproducible Perfect Perf ect tPerfect Perf ect IVMInstall IVM Install Initializer JavaRuntime Java Runtime JDK NLS Bug JREContainer JRE Container Java tFirst COMPATIBLE noticed iced Compatible discovers disco vers VMS Reproduce JVM getName Identifier IExecution Execution Build Install JREContainerInitializer JRE Container Initializer ILaunch Launch Environment isStrictlyCompatible Str ictly Compatible Steps User getCompatibleVMs Compatible System Match tUser User ILaunchConfiguration Launch Configuration Strictly Str ictly getDefaultVM DEBUG strictly str ictly complains comp lains CONTAINER JRE IExecution Environment Perfect Java Runtime JREContainer Initializer Strictly Compatible Compatible VMs User ILaunch Configuration
+105573	ExTest Test String Test externalized external ized Pointer NLS Bug NullPointerException Pointer Exception Suspended Exception Thread BOOM Runnable Test Pointer Exception
+33893	Bug existant exist ant JREs JRE Preference
+86887	Conditional Manager Conditions JavaLineBreakpoint Java Breakpoint JSP IJava Java Project IJavaProject Java Project handleConditionalBreakpointEvent handle Conditional Breakpoint Event File IFile File JavaModelManager Java Model Manager Bug Java Breakpoint getJavaProject Java Project Model Event Java Breakpoint IJava Project handle Conditional Breakpoint Event Java Model Manager Java Project
+206693	PWD resolves res olves JREs JRE File Bug Installed JRE Location
+42984	JVMs JVM basedir based Ant Bug Directory Base JRE Main
+72169	Manager Resource DebugUITools getDebugContext Debug Context Bug Selected Debug Context Tools SelectedResourceManager Selected Resource Manager Debug UITools Debug Context Selected Resource Manager
+208744	Watchpoint Build Workaround Copy Steps Watchpoints Watch points Reads Unable Bug Reproduce
+29036	invokeL invoke Notify getRawChildren Raw Children Internal Widget Raw Workbench String Hash Boot Ljava LBUTTONDOWN wmNotifyChild Notify Child Child Accessible III Method body Sorted IIIII JDIFieldVariable JDI Field Variable CallWindowProcW Call Window Proc JDIField JDI Field Expand Object Lorg Map Dispatch Pointer URL BootLoader Boot Loader Proc LRESULT Bug Window MSG Call IIII Table Composite windowProc window Proc noticed iced runEventLoop Event Loop CallWindowProc Call Window Proc Runnable Event Display HashMap Hash Map Viewer AbstractTreeViewer Tree Viewer TreeEvent Tree Event Typed Type readAndDispatch read Dispatch Tree Expanded Structured EventTable Event Table Thought Stack getChildren Children Content Throwable NPE Variable Listener Message InternalBootLoader Internal Boot Loader handleEvent handle Event ILorg Lorg Loader callWindowProc call Window Proc DispatchMessageW Dispatch Message Variables TypedListener Type Listener Control NOTIFY NullPointerException Pointer Exception sendEvent send Event DispatchMessage Dispatch Message AccessibleObject Accessible Object Children StructuredViewer Structured Viewer basicRun basic getFilteredChildren Filtered Children Loop treeExpanded tree Expanded Filtered View VariablesViewContentProvider Variables View Content Provider getSortedChildren Sorted Children Exception Provider handleTreeExpand handle Tree Expand createChildren create Children Main invoke Raw Children Notify Child JDIField Variable Call Window Proc Boot Loader window Proc Event Loop Call Window Proc Hash Map Tree Viewer Tree Event read Dispatch Event Table Children Internal Boot Loader handle Event call Window Proc Dispatch Message Typed Listener Pointer Exception send Event Dispatch Message Accessible Object Structured Viewer basic Filtered Children tree Expanded Variables View Content Provider Sorted Children handle Tree Expand create Children
+34670	hing DELETE Bug Java Launch Configs
+10096	CROSIS History Workspac Works pac ToolsCommon Tools Common noWin Win Parser JavaMail Java Mail Running xmlParserAP xml Parser Quit Bug Files Chart Java Impl Wor JVM mailapi mail api javaw java rser rse Thin Program xmlPa xml Common Darin RunAndQuit Quit xercesImpl xerces Impl Xerces ting JUnit Unit Console relaunching rel aunching JFreeChart Free Threads JRockit Rock Swanson Eclipse Generational Gen erational Concurren ToolsConsole Tools Console Tools Concurre activat ivat Worksp Works Slask Win Garbage understands stands Collector Finish JFree Free Mail JRE Workspace EXCELSIOR Tools Common Win Java Mail xml Parser xml Quit xerces Impl JFree Chart Tools Console
+29297	debugger debug ger Source Bug Debug Java classe Hot Project
+241394	String introduced roduced printStackTrace print Stack Trace TryTest Test impacts imp acts Project Application Reader Bug Java IOException Exception BufferedReader Buffered Reader Reproduce Input Test Build Stream IME Stack Steps System Create Console Buffered InputStreamReader Input Stream Reader readLine read Trace print Stack Trace Test Buffered Reader Input Stream Reader read
+29683	Edit refering ering prompted pro mpted Press ress Bug existant exist ant Rename JRE
+30837	NPE Set evalution eval ution Bug Debug Loss
+94452	Vector Timeout Stepping Step ping Bug
+12665	Add Workbench claiming cla iming Follow Build Millis Object Set Time JDI System Bug Debug Loaded ClassNotLoaded Loaded currentTimeMillis current Time Millis Loaded current Time Millis
+343039	debugger debug ger Dunno Turn Bug JDT benefitted benefit ted
+400636	Eclipse Bug Kepler Oracle Java OSX codeassist code assist Application Display
+53115	Ant Remote Prefs extraClasspathEntry extra Classpath Entry Entry Bug Classpath Core getRemoteAntURL Remote Ant AntCorePrefs Ant Core Prefs seperate sep erate Contribute extra Classpath Entry Remote Ant URL Ant Core Prefs
+396795	Click Open Result Bug Solution sashform sash form Prevent
+33534	Bug Ant Editor
+144253	Frame Eclipse Bug CHANGE Stack

@@ -1,0 +1,60 @@
+259	don program behaviour caught checks getPct getCumPct checking getCumFreq Pct Bugs Frequency API
+776	setElitismRate Elitism elitism checks ElitisticListPopulation Elitistic range Rate Population List range checks elitismRate ElitisticListPopulation constructors elitism Rate Elitistic List Population
+904	replace exponent negative finite values integer POWER power pow test FastMath pow deviates Math pow negative finite base values exponent Fast Math
+393	getFunctionValue MultiStartUnivariateRealOptimizer optima Values getResult optimize Multi correspond Optimizer optimizer Method getResult MultiStartUnivariateRealOptimizer Result Multi Start Univariate Real Optimizer
+778	FieldElement values contract general multiply Dfp Element method Field org Dfp Dfp multiply comply general contract FieldElement multiply Field Element
+779	unmodifiable chromosomes ListPopulation remove iterator Iterator Population population wrap List ListPopulation Iterator remove chromosomes population List Population
+781	bad SimplexSolver simple Simplex problem test Solver math commons SimplexSolver bad Simplex Solver
+273	remaining incorrect bug variable nonzero path Basic basic Tableau tableau Basic variable correctly simplex tableau
+274	force prior definite symmetric CholeskyDecomposition positive cholesky Cholesky design decomposition testing symmetric positive definite matrix CholeskyDecomposition Cholesky Decomposition
+929	MultivariateNormalDistribution odd density wrong Equals dimension Normal Multivariate Distribution code MultivariateNormalDistribution density returns wrong dimension odd Multivariate Normal Distribution
+546	truncate choose EmptyClusterStrategy Clusters clusters bug variable roots Strategy bad Truncation issue KMeansPlusPlusClusterer KMeans Clusterer
+803	understand entries bug advance checkVectorDimensions ebeMultiply ebeDivide solution setEntry getEntry Bugs RealVector ebeMultiply RealVector ebeDivide RealVector Real Vector ebe Multiply Real Vector ebe Divide Real Vector
+934	reciprocal version INF complex Complex NaN Method apache java org Complex reciprocal returns NaN INF
+167	ConvergenceException NormalDistributionImpl CDF cumulativeProbability cumulative evaluate Convergence Probability normal Normal ConvergenceException normal CDF Convergence Exception
+679	heap computeKey OpenMapRealMatrix overflow integer Integer control create space access Integer overflow OpenMapRealMatrix Open Map Real Matrix
+935	handle atan values DerivativeStructure Structure special Derivative NaN FastMath Fast DerivativeStructure atan handle special cases properly Derivative Structure
+552	indices getCounts Counts println Multidimensional MultidimensionalCounter toString Arrays counter Counter MultidimensionalCounter getCounts returns wrong array indices Multidimensional Counter Counts
+554	answer colinear vectors println crossProduct previous Cross cross numerical correct Vector crossProduct sensitive numerical cancellation cross Product
+942	DiscreteDistribution Discrete getClass newInstance sample Instance ArrayList thrown type list DiscreteDistribution sample exception element singletons type Discrete Distribution
+175	rescale incorrect chiSquare expected ChiSquareTestImpl chiSquareTest dev implicit sumSq squared chiSquare expected observed returning incorrect test statistic chi Square
+691	getSecondMoment setVarianceImpl println getStandardDeviation addValue stats Deviation population SummaryStatistics getN Statistics setVarianceImpl getStandardDeviation produce NaN set Variance Impl Standard Deviation
+949	ModelFunction MaxEval MultivariateMatrixFunction ModelFunctionJacobian quick MultivariateVectorFunction greaterThan report BaseOptimizer SimplexOptimizer LevenbergMarquardtOptimizer reports iterations Levenberg Marquardt Optimizer
+567	whan toDouble bug negative newDfp println signed IEEE inf param Dfp toDouble method inf whan Dfp
+695	accepted bug complete large track events unit context event occur Incomplete reinitialization events handling
+60	getNumerator getDenominator source Negative ProperFractionFormat numerator denominator Numerator Denominator handle math Function math fraction ProperFractionFormat parse String ParsePosition illogical result Proper Fraction Format Parse Position
+318	computed Tridiagonal getRealEigenvalues getEigenvector Lapack LAPACK Vectors Eigenvalues eigenValues Fortran wrong result eigen decomposition
+704	shrink dataset values arrays parameter evaluate work Variance problem moment Variance evaluate methods work correctly
+322	truncate increasing bug negative converged switching interval previous events values ODE integration event pair close event detected
+835	percentage percentageValue included addition bug rare numerator overflow Integer greater Fraction percentageValue rare overflow percentage
+836	junit approximate idea reduced Conversion Increasing FractionConversionException rational behaviour digits Fraction constructor strange behaviour
+198	getImaginaryCharacter endIndex source Imaginary imaginary character Character Solution ParsePosition ComplexFormat java lang StringIndexOutOfBoundsException ComplexFormat parse String source ParsePosition pos String Bounds Exception Complex Format Parse Position
+326	superclass sparseIterator entries getLInfNorm vectors advance negative dimensional definite LInf getLInfNorm wrong formula ArrayRealVector OpenMapRealVector ways LInf Norm Array Real Vector Open Map Real Vector
+200	getAllParameters getUnboundParameters zeros crash guessParametersErrors bug getCovariances logic Covariances Errors AbstractEstimator getCovariances guessParametersErrors crash bound parameters Estimator Covariances guess Parameters Errors
+329	Replacement percentage change getPct getCumPct Pct Drop Comparable Cum values stat Frequency getPct Object getCumPct Comparable getPct Comparable Pct Cum Pct Pct
+713	restrictToNonnegative constraints Constraints variable MINIMIZE coefficient variables negative Negative SimplexSolver Negative restrictNonNegative restrict Negative
+716	agingB agingA program large rebalance BracketingNthOrderBrentSolver points boundary interval chosen BracketingNthOrderBrentSolver exceeds maxIterationCount updating boundary Bracketing Nth Order Brent Solver max Iteration Count
+844	amplitude ParameterGuesser HarmonicFitter values Guesser Harmonic parameter Parameter guess Fitter HarmonicFitter ParameterGuesser fails values Harmonic Fitter Parameter Guesser
+209	incorrect behaviour Rows operate dimensions RealMatrixImpl runtime square read wrong RealMatrixImpl operate result vector dimensions wrong Real Matrix Impl
+338	Hairer ground Atol rescale bug book initializeStep bigger Tolerance getOrder Wrong parameter step size guess Embedded Runge Kutta methods
+722	computed Tanh tanh cos createComplex sinh cosh create sin formula math Complex Tanh big numbers
+85	reg getSumSquaredErrors Errors addData Squared SimpleRegression Simple clear FAIL Regression math SimpleRegression getSumSquaredErrors Simple Regression Sum Squared Errors
+727	checked large range embedded fact Adaptive Gragg Stoer Bulirsch Prince large step embedded Runge Kutta integrators Dormand Prince
+344	roots yMin yMax initial Brent wrong UnivariateRealFunction endpoint bracket root Brent solver returns wrong bracket endpoint root
+859	properties wait infinite finite RealDistribution density Xxx message Inclusive match deprecate isSupportXxxInclusive RealDistribution Support Xxx Inclusive Real Distribution
+988	NPE bug toSubSpace intersection SubLine intersect Pointer Space thrown twod NPE calling SubLine intersection intersecting lines
+221	Dieter program bug println comp ComplexFormat wrong equals Good output Result multiplying equals complex numbers wrong
+865	encode large decode Wide difference FitnessFunction fitness Fitness bounds values Wide bounds CMAESOptimizer result NaN parameters passed fitness function
+482	bug variable wrong test Min FastMath Fast max Max Math FastMath max Fast Math
+867	fitted program attach range interval precision bounds ulp parameter unit CMAESOptimizer bounds fits finely bound coarsely upper bound
+358	setInitialStepSize IntegratorException location DerivativeException range computeDerivatives cover fact FirstOrderDifferentialEquations Initial ODE integrator integration range
+362	VectorialConvergenceChecker stopping criteria LevenbergMarquardtOptimizer Levenberg Marquardt Vectorial parameter custom Convergence LevenbergMarquardtOptimizer ignores VectorialConvergenceChecker parameter passed Levenberg Marquardt Optimizer Vectorial Convergence Checker
+618	rhs arguments javadoc merge handle arithmetic lang values problem isNaN Complex Add Subtract handle NaN arguments differently javadoc contracts
+1005	prodHighNext prodHigh arguments multiplication fall prod Bounds linearCombination Combination MathArrays ArrayIndexOutOfBoundsException MathArrays linearCombination Array Bounds Exception Math Arrays linear Combination
+238	arguments Replace gcd MathUtils Equals high power product test Utils MathUtils gcd fails high power Math Utils
+241	binomialCoefficient longValue border large expected explicit Coefficient coefficient errors rounding MathUtils binomialCoefficient fails large Math Utils binomial Coefficient
+369	Steps variable BisectionSolver Bisection UnivariateRealSolverImpl initial Pointer UnivariateRealFunction thrown solve BisectionSolver solve UnivariateRealFunction min max initial NullPointerException Bisection Solver Univariate Real Function Pointer Exception
+371	getCorrelationPValues PValues change large drop PearsonsCorrelation Pearsons TTestImpl solution continuous PearsonsCorrelation getCorrelationPValues precision limited machine epsilon Pearsons Correlation Correlation PValues
+631	answer Bug PegasusSolver Pegasus RegulaFalsiSolver Falsi Regula exceeded UnivariateRealSolver illegal RegulaFalsiSolver failure Regula Falsi Solver
+377	getChiSquare observation reduce getRMS rows RMS corrected residuals residual denominator weight sigma AbstractLeastSquares Squares
+1021	getSampleSize getNumberOfSuccesses printf large getPopulationSize quick Successes HypergeometricDistribution getNumericalMean getSupportLowerBound HypergeometricDistribution sample suffers integer overflow Hypergeometric Distribution

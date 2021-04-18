@@ -1,3 +1,0 @@
-49228 – toLowerCase()/toUpperCase() may not work OK in all Locales
-Created attachment 25375 [details]
-Patch to use Locale.ENGLISH for case conversions

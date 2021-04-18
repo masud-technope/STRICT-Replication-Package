@@ -1,1 +1,5 @@
-osgi/bundles/org.eclipse.ecf.osgi.services.remoteserviceadmin/src/org/eclipse/ecf/osgi/services/remoteserviceadmin/EndpointDescription.java
+EndpointDescription:equals(Object)
+EndpointDescription:EndpointDescription(ServiceReference, final, Object>)
+EndpointDescription:computeHashCode()
+EndpointDescription:EndpointDescription(Object>)
+EndpointDescription:hashCode()

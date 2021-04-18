@@ -1,0 +1,2 @@
+JavaStepFilterPreferencePage:createStepFilterPreferences(Composite)
+JavaStepFilterPreferencePage:handleFilterViewerKeyPress(KeyEvent)

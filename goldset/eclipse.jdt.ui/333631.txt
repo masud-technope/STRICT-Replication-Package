@@ -1,0 +1,2 @@
+PropertyFileDocumentModel:getIndexOfSeparationCharacter(String)
+PropertyFileDocumentModel:parsePropertyDocument(IDocument)

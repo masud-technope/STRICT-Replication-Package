@@ -1,0 +1,16 @@
+1888	Kernel Add generics
+1762	join lock javax doesn EXTENDED small portion simple Remove remove
+1699	Streaming support Lob
+1764	unmanaged commons classpath pooling environments dbcp Automatically running apache today
+1765	Table threads duplicate problem doesn stress locking multiple insert exception
+1830	EMF connectionPassword connection read props serialized deserializes Configuration Deserialization serializes
+1863	HSQLDB update HSQL Object Blobs set dictionary
+1896	record exists store OpenJPA existing objects stored file layer identity
+1865	iterator inefficient keySet entrySet enhancements Bugs code simple Find key
+1613	annotated property style superclass persistent doesn occur JPA access Meta
+1837	fails Embeddable limited annotations persistent types SNAPSHOT org mapped Owner
+1870	column annotation blobs users based storage definition behavior email SQL
+1743	ant work anchors mappingtool configuration anchor Invoking support Tool EMF
+1943	Query pessimistic timeout database requires lock issued underlying attached configuration
+1784	change merge map expected trigger existing commit Hash Multilingual logging
+1627	columns SQL params process prepstmnt tran idea fragment Linked generated

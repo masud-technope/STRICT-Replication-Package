@@ -1,0 +1,3 @@
+DependenciesLabelProvider:getObjectText(BundleDescription)
+DependenciesLabelProvider:getImage(Object)
+DependenciesLabelProvider:getText(Object)

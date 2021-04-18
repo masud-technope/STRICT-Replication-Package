@@ -1,0 +1,33 @@
+33356	Jasper foo set attribute	Jasper Exception	Incorrect parsing tag attributes
+37326	JSP fragments user NetBeans Net Beans	Beans HTTPMonitor Filter	error reported jsp include existent target
+38553	client certificate HTTP user	client	Wrong HTTP code failed CLIENT CERT authentication
+41059	Web App variables clearReferences clear References	App References clear	WebAppClassLoader clearReferences code running threads Web App Loader clear References
+42039	Exception Standard UnavailableException Unavailable Exception trace	Wrapper Exception Unavailable	Tomcat doesn output stack trace UnavailableException Unavailable Exception
+42503	Resource test file resource	Resource Context Servlet	ServletContext getResourceAsStream returns stale data Servlet Context Resource Stream
+42693	menu item error tagfile	Node Tag	JSP Generation error recursive tagfile structure
+43706	Web copy Webdav litmus	Web Webdav DAV Servlet	litmus warning WebdavServlet Webdav Servlet
+43868	MBean Role method Server	Role MBean set Server	MBeanServer invoke issue MBean Server
+46105	Encoding UTF authentication form	Encoding Character Boby	URIEncoding doesn affect form authentication redirect
+46915	Bundle String message code	Bundle Local String message	Unable ResourceBundle Tomcat Resource Bundle
+47111	String attachment bug resources	String Manager	caching resources docu StringManager String Manager
+47378	file servlet Servlet mapping	Servlet Faces	file ignores servlet mapping
+47413	Tomcat snippet outputs string		difference composite expressions
+47568	Tomcat Test directory set	Tomcat set tear	TestTomcat fails delete work directory Test Tomcat
+47744	test memory zip Tomcat	Control Context Access	Memory leak SSL Java security manager
+47820	instance add method Servlet	add Servlet	utility methods Tomcat instance methods
+48113	Member Failure MemberImpl Member Impl Impl	Failure Impl Disappeared member	Member hostname components printed signed bits
+48117	Source Web filename Context	Web Source Xml Context	misspellings javadoc org apache catalina startup ContextConfig Context Config
+48139	attachment details Javadoc exception		Tomcat Javadoc unthrown exception fixes
+48172	Jsp Reload Runtime code	Reload Jsp Runtime Integer	JspRuntimeContext synch problems Jsp Runtime Context
+48387	Header protocolHeaderSslValue protocol Header Ssl Ssl protocol	Ip Header Https	RemoteIpFilter parameters consistent RemoteIpValve Remote Filter Remote Valve
+49118	String Servlet loop attachment	Trace Builder Servlet Http	Inefficient String concatenation loop
+49132	Ctx Context lookup comp	Ctx Context Initial	JNDI working
+49144	field object Config Context	Context Config Digester context	Incorrect lazy initialization update fields
+49221	pattern set http setDomain set Domain	set Domain	javax servlet http Cookie setDomain charset set Domain
+49290	Dir Context Container process	Dir Container	JarScanner scanAllDirectories Tomcat start Jar Scanner scan Directories
+49340	start webapp tomcat test		Webapp unavailable deploy start
+49721	jsp file browser jar		Fail access resources jsp files jar file supported servlet
+50127	SimpleTCPCluster Simple TCPCluster attachment method TCPCluster	TCPCluster Simple	NPEs SimpleTCPCluster Simple TCPCluster
+51641	Nio Socket Connection Http	Nio Hash Socket Connection	Http NioProcessor correct release Nio Processor
+51972	protocol URLs server foo	Redirect Absolute send	sendRedirect support protocol relative URLs send Redirect
+54115	Http methods attachment Request	Request Http Client send	Minor enhancements HttpClient test helper Http Client

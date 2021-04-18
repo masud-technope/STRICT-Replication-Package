@@ -1,0 +1,2 @@
+PluginContentMergeViewer:configureTextViewer(TextViewer)
+PluginContentMergeViewer:configureTextViewer(TextViewer)

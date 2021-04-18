@@ -1,0 +1,2 @@
+BaseExportTask:execute()
+BaseExportTask:isAntRunner()

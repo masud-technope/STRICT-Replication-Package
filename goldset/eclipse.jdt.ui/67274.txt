@@ -1,0 +1,1 @@
+ReadOnlyResourceFinder:hasReadOnlyResourcesAndSubResources(IResource)

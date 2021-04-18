@@ -1,0 +1,2 @@
+PropertiesFileSourceViewerConfiguration:getAnnotationHover(ISourceViewer)
+PropertiesFileSourceViewerConfiguration:NullHover:getHoverInfo(ISourceViewer, int)

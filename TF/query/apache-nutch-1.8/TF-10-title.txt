@@ -1,0 +1,9 @@
+1396	Tika Mime Copied upgraded code dependency MimeUtil Util trunk Upgrade Upgrade Tika
+1381	subcollection field override filter NUTCH issue configuration introduce globally directive override subcollection field
+1351	DomainStatistics Statistics Domain counts suffix TLD tld tool aggregate domain DomainStatistics aggregate TLD Domain Statistics
+1399	fails servers tests test Test TestProtocolHttpClient http closed Http Protocol TestProtocolHttpClient fails Test Protocol Http Client
+1352	synchronization regex threadlocals production plugins needed tested improves replace commit Improve regex urlfilters normalizers synchronization
+1356	ParseUtil Parse Util parsers Executor threads Service thread ExecutorService parsing ParseUtil ExecutorService manually thread handling Parse Util Executor Service
+1405	Crawl Datum CrawlDatum entries overwrite metadata manually optionally users existing overwrite CrawlDatum injected entries Crawl Datum
+1262	application html text type xml Map xhtml HTML mapping code Map duplicating content types single type
+1407	field domain host add Basic indexing NutchDocument Solr friendly optionally BasicIndexingFilter optionally add domain field Basic Indexing Filter

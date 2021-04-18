@@ -1,0 +1,2 @@
+OSD not displayed when jumping to next or previous track
+OSD only appears when pressing play button (after stop the track)

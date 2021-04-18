@@ -1,0 +1,2 @@
+possibility of a NPE in index-more plugin
+in line 203 of src/java/org/apache/nutch/indexer/more/MoreIndexingFilter.java the code attempt to read from variable contentType even thou it is possible for it to be null. for me, it happened when I tried to index http://www.pscars.com/

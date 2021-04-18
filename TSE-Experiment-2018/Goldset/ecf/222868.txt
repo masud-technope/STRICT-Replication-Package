@@ -1,1 +1,0 @@
-providers/bundles/org.eclipse.ecf.provider.msn.ui/src/org/eclipse/ecf/internal/provider/msn/ui/MSNConnectWizardPage.java

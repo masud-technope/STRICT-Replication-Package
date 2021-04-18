@@ -1,0 +1,16 @@
+1613	JPA Superclass Access access property field enhancer Data Exception OpenJPA Open JPA Person	Superclass Data Type Subclass Access JPA Person Open Meta Mapped	Exception thrown enhancing property access MappedSuperclass annotated properties Mapped Superclass
+1627	Column transaction Transaction TransactionId Transaction String mamount ASC processDate process Number Join mprocdate	Column Type Number Sequence Join Linked Decimal	ORderBy ElementJoinColumn EmbeddedId wrong columns SQL ORder Element Join Column Embedded
+1699	Lob support Streaming		Streaming Lob support
+1743	support EMF work anchor configuration ant Tool mappingtool anchors Invoking		Tool configuration support EMF anchors
+1762	Lock lock scope javax table relationship test unit problem persistence failing	Lock Scope Pessimistic	javax persistence lock scope EXTENDED doesn properly lock join tables
+1764	Data Basic args connection databases Driver DriverClassName Driver Source apache dbcp	Data Basic Driver Source	Automatically enable connection pooling unmanaged environments
+1765	Table problem threads stress testing JDBCSeq row doesn unit TableGenerator Table Generator start	Table JDBCSeq Generator	TableGenerator doesn properly utilize heavy stress Table Generator
+1784	String Map Entity map LocalizedString Localized String entity Element Localized change UPDATE Open	String Map Entity Element Manager Code Open Fetch Type Collection JPA	Map updates flushed
+1830	External connection connectionPassword connection Password Impl EMF Configuration toProperties Properties String StringValue String Password writeExternal write External	External Impl Configuration connection String Properties Password read write	Deserialization EMF connectionPassword overwritten INVISIBLE connection Password
+1837	Collection Embed Argument element blob Exception org Oracle types fields EmbedValue Embed	Embed Collection Argument Exception Owner Element embed	ElementCollection Embeddable blob fails Oracle Element Collection
+1863	Object HSQLDB HSQL dictionary Blobs useGetObjectForBlobs Object Blobs set update	Object Blobs	update HSQL dictionary HSQLDB
+1865	Set Bugs iterator enhancements Find FindBugs Find Bugs entrySet entry Set entry keySet key Set key code	Set Bugs Find entry key	inefficient keySet iterator entrySet iterator key Set entry Set
+1870	column MySQL SQL Column OPENJPA annotation account SQL storage Definition size introduced	column Definition SQL	Blob types override column definition Column annotation MySQL SQL
+1888	generics Kernel Add		Add generics Kernel
+1896	record data database OpenJPA Open JPA objects key location version store JPA object	Pj SQLException JPA location String Reporting Open TI hf	OpenJPA store POJOs record exists Open JPA
+1943	Query Impl Manager lock query timeout database statements EntityManagerImpl Entity Manager Impl Entity data	Impl Manager Entity Query	Query timeout hint honored consistently pessimistic lock issued database requires multi statements locking scheme

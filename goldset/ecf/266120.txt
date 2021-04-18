@@ -1,1 +1,6 @@
-providers/bundles/org.eclipse.ecf.provider.jmdns/src/org/eclipse/ecf/provider/jmdns/container/JMDNSDiscoveryContainer.java
+JMDNSDiscoveryContainer:createServiceTypeID(String)
+JMDNSDiscoveryContainer:logError(String)
+JMDNSDiscoveryContainer:getAllListeners(IServiceTypeID)
+JMDNSDiscoveryContainer:serviceAdded(ServiceEvent)
+JMDNSDiscoveryContainer:createServiceInfoFromIServiceInfo(IServiceInfo)
+JMDNSDiscoveryContainer:serviceTypeAdded(ServiceEvent)

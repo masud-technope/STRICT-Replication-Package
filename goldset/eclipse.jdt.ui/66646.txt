@@ -1,0 +1,2 @@
+CustomFiltersActionGroup:setEnabledFilterIds()
+CustomFiltersActionGroup:removeFiltersFor(Object, Object, IContentProvider)

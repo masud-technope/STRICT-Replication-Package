@@ -1,0 +1,3 @@
+PackageExplorerContentProvider:processDelta(IJavaElementDelta, Collection)
+PackageExplorerContentProvider:updateSelection(IJavaElementDelta, Collection)
+PackageExplorerContentProvider:findAddedElement(IJavaElementDelta)

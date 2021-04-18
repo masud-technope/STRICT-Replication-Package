@@ -1,0 +1,33 @@
+47744	test attached memory demonstrate adapted manager method zip file client Memory leak SSL Java security manager
+46915	modified messageString message String code read Attached file set Bundle tomcat jsp Unable ResourceBundle Tomcat Resource Bundle
+48387	enhance protocolHeaderSslValue protocol Header Ssl Header Proposed renames Https protocolHeaderHttpsValue protocol Header Https named protocol Ssl RemoteIpFilter parameters consistent RemoteIpValve Remote Filter Remote Valve
+51972	expects protocol adds URLs http toAbsolute Absolute foo bar server URL sendRedirect support protocol relative URLs send Redirect
+42693	render choose menu tagfile item rendering node submenu menuitem leaf JSP Generation error recursive tagfile structure
+49221	set setDomain set Domain pattern javax http Cookie charset servlet Domain toLowerCase javax servlet http Cookie setDomain charset set Domain
+42503	test modified file contents change resource returns detected naming detect ServletContext getResourceAsStream returns stale data Servlet Context Resource Stream
+47111	resources String Manager caching StringManager String Manager docu bug https apache cgi caching resources docu StringManager String Manager
+49290	modified accept Context Tomcat scan ignore projects serving workspace handle JarScanner scanAllDirectories Tomcat start Jar Scanner scan Directories
+48139	Tomcat Javadoc attachment details exception fixes Created Tomcat Javadoc unthrown exception fixes
+33356	set string foo attribute Jasper compile bar file JSP tablib Incorrect parsing tag attributes
+47820	instance Servlet add Tomcat follow pattern methods method addServlet add Servlet utility utility methods Tomcat instance methods
+37326	JSP include fragments including reported files jsp send calling problem error reported jsp include existent target
+50127	method SimpleTCPCluster Simple TCPCluster block object NPE attachment details Patch code TCPCluster NPEs SimpleTCPCluster Simple TCPCluster
+47568	delete Tomcat tear Test set work creates directory TestTomcat Test Tomcat setUp set TestTomcat fails delete work directory Test Tomcat
+47378	file servlet mapping jsf directory defined set JSF Web listing file ignores servlet mapping
+38553	create certificate HTTP user CERT role xml CLIENT tomcat web Wrong HTTP code failed CLIENT CERT authentication
+46105	UTF authentication set changed request parameter URIEncoding Configure form accessed URIEncoding doesn affect form authentication redirect
+43868	invoke Managed MBean Server MBeanServer MBean Server remove set method Attribute Role MBeanServer invoke issue MBean Server
+49118	loop concatenates String HttpServlet Http Servlet Http Trace Servlet toTrace Trace Builder method Inefficient String concatenation loop
+41059	code running variables Loader WebAppClassLoader Web App Loader Web References App sets clearReferences clear References WebAppClassLoader clearReferences code running threads Web App Loader clear References
+54115	apache add enhanced methods cgi accessor https change bug logic Minor enhancements HttpClient test helper Http Client
+48172	updated synchronised read JspRuntimeContext Jsp Runtime Context Runtime Jsp jspReloadCount jsp Reload Count jsp accessed Reload JspRuntimeContext synch problems Jsp Runtime Context
+49132	throwing naming lookup comp init exception code tomcat Ctx NameNotFound JNDI working
+48113	Member MemberImpl Member Impl Impl String Disappeared catalina patch Arrays toString String hostname Member hostname components printed signed bits
+47413	snippet Tomcat string tag reference outputs difference expressions difference composite expressions
+48117	misspelled leading read filename segemnts file param Location role Source misspellings javadoc org apache catalina startup ContextConfig Context Config
+42039	Tomcat UnavailableException Unavailable Exception Exception stack trace init thrown output method invoke Tomcat doesn output stack trace UnavailableException Unavailable Exception
+49144	set field initialized stored object setting serve accessing multithreading method Incorrect lazy initialization update fields
+49721	jsp file jar viewing files supported failed supports test tomcat Fail access resources jsp files jar file supported servlet
+51641	Nio Processor Http Socket NioProcessor Nio Processor remove socket processor connections Wrapper Http NioProcessor correct release Nio Processor
+43706	copymove litmus running produces copy localhost webdav env warnings TESTS litmus warning WebdavServlet Webdav Servlet
+49340	start work started deploy webapp tomcat reload redeploy works deployed Webapp unavailable deploy start

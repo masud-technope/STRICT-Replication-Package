@@ -1,0 +1,2 @@
+Locator is unset for HTML parser
+The HtmlParser does not call setDocumentLocator(Locator locator) on the user's content handler. Patch and unit test attached.

@@ -1,0 +1,17 @@
+31779	resources UnifiedTree ensure file folder exists Unified Tree
+23140	CVS EXTSSH vulnerable man middle attacks dns poisoning
+13926	JFace Text Editor Leaves Black Rectangle Content Assist text insertion
+19686	hover stops working mousing file
+21062	Reusing ConfigureProjectWizardMainPage target mgmt leads incorrect resource string dialog Configure Project Wizard Main
+19976	Dav Choosing add bad site user modify site properties
+22696	doesn work window open
+18761	support creating anonymous FTP connections
+17707	DAV Reselecting location misleading warning
+19307	FTP Valid ftp url rejected
+19691	Team Preferences working export
+13069	CVS Core Sending large files result excessive memory usage
+15277	Recreate test suite add suite
+16787	Wizards Wizards recreated returning
+30644	VCM preference cut High Contrast
+12118	CVS EXTSSH extssh user ssh server compatible protocol
+22809	Properties dialog Repos Properties Info Dialog Labels resize dialog

@@ -1,0 +1,3 @@
+org.eclipse.jdt.internal.junit.wizards.NewTestSuiteCreationWizardPage:handleFieldChanged(String)
+org.eclipse.jdt.internal.junit.wizards.NewTestSuiteCreationWizardPage:setVisible(boolean)
+org.eclipse.jdt.internal.junit.wizards.NewTestSuiteCreationWizardPage:testSuiteChanged()

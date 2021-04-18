@@ -1,8 +1,0 @@
-log4j 1.2.14 release
-I've scanned the bug list and tried to address all the bug reports that are only
-a few lines and fix an obvious problem.  I'm inclined to add the
-SyslogAppender.setPort() method, but I'm hesitant to add the
-SyslogAppender.setFacility(int) since it might have repercussions with the
-configurators.  If there are any bug reports that you think should go into a
-log4j 1.2.14 release, please mention them on the log4j-dev list or add them to
-the "Depends On" list.

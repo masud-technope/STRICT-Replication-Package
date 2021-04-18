@@ -1,0 +1,4 @@
+JavaBrowsingContentProvider:postRefresh(Object)
+JavaBrowsingContentProvider:postRemove()
+JavaBrowsingContentProvider:processDelta(IJavaElementDelta)
+JavaBrowsingContentProvider:postAdd(Object)

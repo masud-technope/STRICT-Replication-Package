@@ -1,0 +1,2 @@
+jEdit freezes on regexpr "||"
+set "Search for:" to "||" check "Regular expressions" click "Replace All" version : jEdit 4.3pre8

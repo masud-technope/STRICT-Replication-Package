@@ -1,0 +1,18 @@
+992	HtmlHandler Html Handler overwrites writes Metadata Values addHtmlMetadata add Html Metadata OpenGraph Open Graph Open appendedValues appended Values Html Handler Graph Html Handler add Html Metadata Open Graph appended Values
+1124	documents doc uments MatchingContentHandler Matching Content Handler Tika Matching PDFParser PDF Parser Handler Content BodyContentHandler Body Content Handler Nested Simple PDF Body SimpleBodyMatchingContentHandler Simple Body Matching Content Handler Matching Content Handler Body Content Handler Simple Body Matching Content Handler
+1062	Add Word HTML formatting matting RTF Nested RTFParser RTF Parser
+1126	procuder proc uder
+1193	Schema HTML TIKA strange str ange Parser Soup suited suite HtmlSchema Html Schema ting HTMLSchema HTML Schema Html HtmlParser Html Parser TagSoup Tag Soup Tag Html Schema Html Parser Tag Soup
+1130	Word Microsoft portions port ions openxmlformats open xml formats extracts extra cts wordprocessingml word processing officedocument icedocument docx doc
+1074	documents doc uments Tika Extraction Extract ion POI TIKA extracts extra cts problematic problem atic Spinoff Spi noff
+1202	Parse Context extractAnnotationText extract Annotation Text PDFParser PDF Parser Text Refactor Annotation ParseContext Parse Context extract Annotation Text Parse Context
+820	HTML Document Locator setDocumentLocator set Document Locator Html Parser HtmlParser Html Parser Patch set Document Locator Html Parser
+1012	Add Uniform UTI Identifier bitmap bit map mimetypes mime types formats form ats Windows MimeType Mime Type exposes exp oses BMP Mime Type Links Acronym Mime Type
+1109	outputs puts documents doc uments Attachment Test populated pop ulated openxmlformats open xml formats resourceName resource Content Metadata officedocument icedocument OOXML Type Length presentationml presentation resource
+1014	Types Reader MimeTypesReader Mime Types Reader subclassing cla ssi Mime XML Mime Types Reader
+1110	Chm official icial Detect TYPES htmlhelp html Parser Detector ChmParser Chm Parser mimetypes mime types Auto AutoDetectParser Auto Detect Parser SUPPORTED Incorrectly orrectly Chm Parser Auto Detect Parser
+1047	JAX ways TIKA lastModified Modified Modified Provide interest erest BAD REQUEST Modified
+1210	Types Address parsers parse String Tika Nutch utc Test relates rel ates TestMimeTypes Test Mime Types AFAICS TODO SWF Data Mime Type assertTypeByData Type Data Test Mime Types Type Data
+1211	SOLR OpenDocumentFiles Open Document Files Document Open ODF introduced roduced Files OpenDocument Open Document Solr endDocuments Doc uments startDocuments start Doc uments TIKA startDocument start Document Documents Doc uments XHTML Open Document Files Open Document Documents start Documents start Document
+1053	Tika Upgrade XWiki Wiki ASM Parsers Parse parboiled par boiled
+991	evaluated eval uated Parser ant summed sum med benefits nefits Processing

@@ -1,1 +1,3 @@
-providers/bundles/org.eclipse.ecf.provider.jslp/src/org/eclipse/ecf/provider/jslp/identity/JSLPNamespace.java
+JSLPTestComparator:compare(Object, Object)
+JSLPServiceIDTest:testCreateByjSLPAndRemoveServicePrefixWithServiceService()
+JSLPServiceIDTest:testCreateByjSLPAndRemoveServicePrefix()

@@ -1,0 +1,1 @@
+StringMatcher:match(String, int, int)

@@ -1,0 +1,2 @@
+XMLInputContext:getDeleteNodeOperation(IDocumentNode)
+XMLInputContext:printDeletionRange(int, int)

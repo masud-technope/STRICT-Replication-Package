@@ -1,0 +1,17 @@
+1569	Upgrade Gora store job mapper init gora storage web webpag outkeyclass mapperclass
+1542	adddays param generator linkparam target link base inform cmd form tag ignoretag url
+1575	support solr authentication nutch httpclient caus messag protocol detail authent httpauthenticationexcept retriev doc construct
+1513	Support Robots txt Ftp urls ftp client log addr talk info followtalk timeout url enabl
+1514	Phase deprecated configuration properties phase jobr seed properti uuid meta job subtool prop stat
+1419	parsechecker indexchecker report protocol status statu protocolstatu pstatu storage makestatu arg statemanag code manag set
+1453	Substantiate tests IndexingFilters Indexing Filters filter indexingfilt score order field scoring row extens webpag web
+1552	possibility NPE plugin descriptor depend plugindescriptor branch map pdescriptor pluginclass getpluginid pluginruntimeexcept runtim
+1393	Display consistent usage GeneratorJob Generator Job crawl selector selectorentri entri score compar selectorentrycompar write generatorjob gener
+1493	Error adding field contentLength solrindex content Length length contentlength pars element header http contentlengthstr param trace stream
+1047	Pluggable indexing backends indexer subcollection indexingexcept caus subcollectionindexingfilt messag field subcollect languag filter
+1370	Expose exact number urls injected runtime thread resolv option url num numthread pool resolveurl urlsfil file
+1563	FetchSchedule getFields GeneraterJob Fetch Schedule Fields Generater Job fetch time fetchtim schedul crawl prev code modifi implement refetch
+956	solrindex issues element uniqu sourc dest getattribut copyfieldlist fieldlist uniquekeyitem attribut copi
+1532	Replace segment mapping field batchId batch batchid resum arg job task shouldresum numtask forc variant gener
+1501	Harmonize behavior parsechecker indexchecker queue mode entiti queuemod host fetch decl time fetcher conf
+1503	Configuration properties sync FetcherReducer nutch xml Fetcher Reducer fetcher delay queue crawldelay mincrawldelay maxthread crawl size min thread

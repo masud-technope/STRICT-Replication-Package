@@ -1,0 +1,1 @@
+ProblemReporter:invalidEnclosingType(Expression, TypeBinding, ReferenceBinding)

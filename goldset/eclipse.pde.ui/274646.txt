@@ -1,0 +1,2 @@
+CompareOperation:walkStructureSelection(IStructuredSelection, IProgressMonitor)
+CompareOperation:run(IProgressMonitor)

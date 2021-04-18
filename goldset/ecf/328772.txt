@@ -1,1 +1,1 @@
-framework/bundles/org.eclipse.ecf/src/org/eclipse/ecf/core/status/SerializableStatus.java
+SerializableStatus:setException(Throwable)

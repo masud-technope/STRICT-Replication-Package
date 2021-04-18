@@ -1,7 +1,0 @@
-src/java/org/apache/log4j/FileAppender.java
-src/java/org/apache/log4j/spi/LoggerRepository.java
-src/java/org/apache/log4j/FileAppender.java
-tests/src/java/org/apache/log4j/CoreTestSuite.java
-tests/src/java/org/apache/log4j/FileAppenderTest.java
-src/java/org/apache/log4j/FileAppender.java
-tests/src/java/org/apache/log4j/FileAppenderTest.java

@@ -1,0 +1,17 @@
+31779	file folder UnifiedTree Unified Tree system File Unified assumes resource refresh CoreFileSystemLibrary Core File System Library resources UnifiedTree ensure file folder exists Unified Tree
+23140	ssh client cvs password method eclipse authentication server user access CVS EXTSSH vulnerable man middle attacks dns poisoning
+13926	Text Context Busy control rectangle showWhile position info BusyIndicator Busy Indicator Indicator JFace Text Editor Leaves Black Rectangle Content Assist text insertion
+19686	hover file java mouse bring switching methods expect working text hover stops working mousing file
+21062	string Target wizard resource Configure caused ConfigureProjectWizardMainPage Configure Project Wizard Main adding solved Project Reusing ConfigureProjectWizardMainPage target mgmt leads incorrect resource string dialog Configure Project Wizard Main
+19976	site add inform error user modify url bad Choosing Finish Dav Choosing add bad site user modify site properties
+22696	window view Hierarchy perspective appears topics press repeat title opened doesn work window open
+18761	support FTP assumes creating user anonymous password supporting checkbox connection support creating anonymous FTP connections
+17707	Deploy site project warning telling select deployed Site confirming error DAV Reselecting location misleading warning
+19307	ftp enter oti rejected ott option format connect programs URL FTP Valid ftp url rejected
+19691	Team Add Remove export Outgoing read transfered saved preferences workspace Team Preferences working export
+13069	files memory send text converting Sending size result compute ing CVS Core Sending large files result excessive memory usage
+15277	suite test stack allowed suites prevented cascading causing add ends Recreate test suite add suite
+16787	Control called getControl Control control disposed Wizard method showStartingPage Starting createControl create Control pageContainer Container Wizards Wizards recreated returning
+30644	Ext preference cut CVS Team Connection Label High COntrast Method VCM preference cut High Contrast
+12118	connection ssh user server initializes method operate client revision extssh CVS EXTSSH extssh user ssh server compatible protocol
+22809	Resize Navigator Properties dialog Open tree Resource file labels Labels Properties dialog Repos Properties Info Dialog Labels resize dialog

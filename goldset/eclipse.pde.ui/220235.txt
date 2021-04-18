@@ -1,0 +1,2 @@
+CompilersPropertyPage:createContents(Composite)
+CompilersPropertyPage:performDefaults()

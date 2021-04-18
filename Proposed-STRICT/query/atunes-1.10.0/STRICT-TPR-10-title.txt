@@ -1,0 +1,16 @@
+227	aTunes Tunes Tunes doesn window preferences isn work properties press restarting Request restarting doesn work
+259	listening submitted bug submission submission bug
+260	aTunes Tunes Screen work screenshot Windows doesn Tunes Full Full Screen doesn work Windows aTunes Tunes
+230	tag track file property source Pawel FILE TagModifier Tag Modifier setInfo set Info Operation tag
+231	image format versions file version aTunes Tunes Image supported read returns add image repository read older app version
+264	player songs song time playing Westerberg Miles info Davis rates Wrong song duration displayed player
+207	aTune Tune screen view standard Full full Tune click option
+240	window lyrics occasion Performing action occur close program user waited Set lyrics automatically terminated
+212	song album picture songs biography tab linger info artist Context Context panel
+276	system aTunes Tunes sound play button Tunes mute bar muted volume Mute
+213	Xine song aTunes Tunes behaviour formats engine files music extension repository supported formats skipped Xine
+245	folder playlist label radios Labels Classical stations add icon Radio Radio Labels playlist
+278	title change Edit mouse click tab Thibault minimum hit marcthibault Edit Titles Fails
+281	INFO START HANDLER engines lists path PLAYER availables seconds cache Mute button
+220	OSD button play displayed track pressing jumping previous appears OSD displayed jumping previous track
+221	work mode window Multiple multiple Multiple window mode work

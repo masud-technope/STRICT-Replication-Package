@@ -1,6 +1,0 @@
-38024 – Layout not compatible between 1.2 and 1.3
-The abstract method format changed signatures from String format(LoggingEvent event) in log4j 1.2 to
-format(Writer output, LoggingEvent event) in log4j 1.3 which means than any existing log4j 1.2 user
-supplied Layout will not longer compile and will likely result in a MethodNotFound if the new format
-method is called on a previous compiled.
- Also HTMLFormat appears to be missing from 1.3.

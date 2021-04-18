@@ -1,0 +1,15 @@
+1345	Enable randomised testing Mahout modules test temp driver accept tear file arg testtempdir dir mahoutdriv
+1409	MatrixVectorView check error Matrix Vector View stride column rowstrid columnstrid row matrix matrixvectorview view clone size
+1379	ClusterQualitySummarizer fails Digest clusters data point Cluster Quality Summarizer summar cluster centroid path summari writabl file distanc iter datapoint
+1284	DummyRecordWriter bug reused Writables Dummy Record Writer context build constructor reduc common nest mapper keyclass configur valueclass
+1317	Clarify messages Preconditions checkArgument check Argument precondit checkargu argument ecdf exceed hidden output pct split splitloc
+1030	Regression Clustered Points WeightedPropertyVectorWritable WeightedVectorWritable Weighted Property Vector Writable Weighted Vector Writable properti classify text clustering entri append weight bldr weightedpropertyvectorwrit read
+1319	seqdirectory filter argument silently token path cluster member nlp shingl collocations llr bloom clusterfilt
+1351	Adding DenseVector support AbstractCluster Dense Vector Cluster sets shallowcopi shallow clustering center set observ copi densevector cardin
+1261	TasteHadoopUtils idToIndex size Integer MAX Taste Hadoop Utils token hadoop maxsiz idwrit tastehadooputil map indexidmap idtoindex writabl split
+1364	Upgrade Mahout codebase Lucene lucen terminfo lucene field vectors text document lucenedir reader indexread
+1301	toString method SequentialAccessSparseVector excess comma String Sequential Access Sparse Vector sequentialaccesssparsevector sequenti spars access cardin result append valu shallowcopi shallow
+1398	FileDataModel provide constructor delimiterPattern File Data Model delimiter Pattern file datafil data model delimit reload filedatamodel minreloadintervalm interv firstlin
+1368	Convert OnlineSummarizer TDigest Online Summarizer stats starter quartil getquartil checkrang summar sort rang illegalargumentexcept printsummari
+1242	key redistribution function associative maps associ map isassoci iff setmap appli constant nextdoubl task commut
+1308	extend CandidateItemsStrategy restricted visibility Candidate Items Strategy candid strategi item candidateitemsstrategi datamodel recommender mostsimilaritemscandidateitemsstrategi factor model data

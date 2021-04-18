@@ -1,0 +1,12 @@
+768	currency Debit Journal record Total required tab Credit versa Sum Wrong Sum Total Debit Credit Journal
+113	invoiced Bug Consolidated detail func aid php group atid tracker Consolidated shipments invoiced
+114	consolidated bug voided Invoices atid http Bug func php detail Voiding reversal consolidated Invoices
+116	address Country user enter Address initial organization reverted depending Location Organization Update Location Address
+820	Requisition exception Price product Error Purchase creating price list Requisitio ProductNotOnPriceList Error creating Requisitio Product Price List
+37	patch viewer tracker bad Compiere top small resolution sourceforge Bug Report viewer scrolling broken
+1240	Production create product balanced set tab production serial Patio row Posting balanced producing produc
+106	function Payment invoices problem payment form Selection DueDate selection display invoices Payment Selection
+109	drafted process invoices sourceforge printing Bug status net posting draft Print Invoices process draft selection
+525	order product process vendor Generate Sales current prepare dialog box Process Generate Sales order bug
+814	fractions Production production BOM products ProductionLines Production Lines product generates items automatically Production fractional Qty production
+815	cost Cost type Landed allocation select Costs form distribution Distribution LandedCost Cost Distribution type Cost work Landed Cost

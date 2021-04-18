@@ -1,0 +1,10 @@
+2560	jEdit pre file system browser keyboard handling Edit path directori vfsbrowser properti select settext setbooleanproperti filenamefield dialog view
+2720	FSB delete action directory working chooser jfilechoos file field delet directori installer setfileselectionmod deleteword showopendialog
+2752	jEdit freezes regexpr Edit editpan pane pre focusontextarea prev server focu area geteditpan text
+2595	caret display position multiple views open posit newcaret electr magic magiccaret scroll move textarea doelectricscrol queu
+2534	Test NumPad Alt Tab window Num Pad height width button top left bottom size pad leftbuttonwidth leftwidth
+2459	Size file open save dialogs incorrect dual displays view openfil buffer readonli zip zipfil path confirm applic icon
+2571	number highlighted selected menu menuselect highlight color macos menuev select intervalhighlight foreground jars
+2635	move caret collapsing fold caretlin comment magic select newcaret start displaymanag posit display offset
+2636	Clearing Register doesn work persistently regist clipboard newregist valu stringregist content clipboardregist setvalu convert load
+2542	Pasting Text Current Undoable Edit current indent item select menu marker tab whitespacechar encod glob

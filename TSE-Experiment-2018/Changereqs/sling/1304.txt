@@ -1,2 +1,0 @@
-[SLING-1304] Remove currentNode binding from scripting-core and reimplement in jcr.resource - ASF JIRA
-Using the functionality created in SLING-1303, remove the currentNode script binding from scripting.core and implement by creating a SlingScriptBindingsValuesProvider in jcr.resource (or thereabouts).

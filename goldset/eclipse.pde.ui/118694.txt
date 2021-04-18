@@ -1,0 +1,2 @@
+ConfigurationTemplateBlock:getLocation()
+ConfigurationTemplateBlock:setDefaults(ILaunchConfigurationWorkingCopy)

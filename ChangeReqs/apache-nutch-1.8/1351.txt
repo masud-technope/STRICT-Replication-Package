@@ -1,0 +1,2 @@
+DomainStatistics to aggregate by TLD
+The DomainStatistics tool aggregates counts by host, domain or suffix but tld is missing.

@@ -1,0 +1,2 @@
+In Production fractional Qty becomes zero on production
+If we have quantity of BOM products in fractions then when we create production that automatically generates the ProductionLines for the product shows 0 for the items that have quantities in fractions.

@@ -1,0 +1,1 @@
+JavaElementLabelComposer:appendTypeParameterLabel(ITypeParameter, long)

@@ -1,8 +1,0 @@
-[Discovery] Remove outdated discovery projects from repo
-With the advent of remoteserviceadmin, the following projects have become obsolete:
-
-org.eclipse.ecf.osgi.services.discovery.local
-org.eclipse.ecf.tests.osgi.services.discovery.local
-org.eclipse.ecf.tests.osgi.services.discovery.local.poststarted
-org.eclipse.ecf.tests.osgi.services.discovery.local.poststarted2
-org.eclipse.ecf.tests.osgi.services.discovery

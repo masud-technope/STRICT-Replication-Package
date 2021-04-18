@@ -1,1 +1,2 @@
-framework/bundles/org.eclipse.ecf.presence.ui/src/org/eclipse/ecf/internal/presence/ui/handlers/BrowseDialog.java
+BrowseDialog:addRosterItem(IRosterItem, AbstractContentProvider, ItemsFilter)
+BrowseDialog:fillContentProvider(AbstractContentProvider, ItemsFilter, IProgressMonitor)

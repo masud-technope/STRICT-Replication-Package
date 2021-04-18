@@ -1,0 +1,2 @@
+JavaAutoIndentStrategy:computeAnonymousPosition(IDocument, int, String, int)
+JavaAutoIndentStrategy:smartIndentAfterNewLine(IDocument, DocumentCommand)

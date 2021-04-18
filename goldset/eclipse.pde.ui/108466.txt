@@ -1,0 +1,3 @@
+ClasspathHelper:addPath(ArrayList, IProject, IPath, boolean)
+ClasspathHelper:addPath(ArrayList, IProject, IPath)
+ClasspathHelper:getOutputFolders(IPluginModelBase, boolean)

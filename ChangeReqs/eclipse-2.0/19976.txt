@@ -1,0 +1,2 @@
+Dav: Choosing not to add a bad site should let user modify site properties
+If in Site Explorer you add a new site with a bogus url, the site shouldn't get added. At present hitting <Finish> will inform you of the error but the site will still get added. This could be argued as being a feature if, for example, you weren't connected to the internet at that time. We should do as we do with CVS and offer to keep or not.

@@ -1,3 +1,0 @@
-ui/org.eclipse.pde.core/src/org/eclipse/pde/internal/core/bundle/BundleFragment.java
-ui/org.eclipse.pde.core/src/org/eclipse/pde/internal/core/bundle/BundlePlugin.java
-ui/org.eclipse.pde.core/src/org/eclipse/pde/internal/core/bundle/BundlePluginBase.java

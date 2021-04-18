@@ -1,0 +1,84 @@
+18306	Bug shouldn platform prevents workbench launch support listeners runtime config
+53634	JRE libraries running work switching Java don additional removing newly
+76675	matching console reuse stack Requires rewrite trace Pattern based separate
+40707	hit disabling breakpoint dialog opening Note watchpoint Breakpoint count remains
+13957	check code constant setting initializes Copy Preference limitation bugs intended
+31110	Source variables Lookup debugger source points selected Eclipse lookup archive
+335363	Java text Exception dialog font Created Dialog Basic Click Font
+422016	warning missing lambdas function haven objects detect generate Modify attributes
+24839	TimeoutException log printed problems Standard mode Suite Bug Java org
+217994	args JRE Tested level Reproduce Xmx Set launching patch launchers
+94474	source JRE attachment select dismiss deselect insect libraries dialogs pref
+21776	Evaluate enabled stack action adapter java Stack checks Bug enable
+197011	system Add JRE additional adding libraries directory lost expected external
+401815	tests parser PList linux html Windows failures failing drops problem
+463252	log warning Compile http download org html eclipse debug plugins
+455199	call doesn work def println stub override junit auto Operation
+43418	cursor busy JRE choose directory pressed choosing takes base system
+102427	display select method methods execute undefined Helper inspect Doer doit
+275614	expanded visible threads view Debug window perspective session bug doesn
+184862	hand source proto formed ACE Size num DEUCE Suit Initialize
+37918	format digit printed putting Console version window time recognized Developer
+22815	delete key support Support viewers Bug
+112670	variables toggle selection normal treeitem details assist blocks pane widget
+23328	breakpoint hitting time main resumes Bug suspend size Element program
+85665	container combo dialog JRE empty radio button adding Alternate project
+9122	latest minutes performance Bug workspace debug launched mode problem debugging
+28195	shutdown remote reflect lang java Delegating unavailable cleanly invoke net
+183206	caused tests refactoring failure reason hagged fail failures ensure Build
+204455	Application Remote Java remembered connection properly change Listen Debug launch
+421806	Java support verify separate tasks JSR outset snippets JDT green
+53929	FULL tree entries jar zip file common party full path
+57257	Array Bounds event Exception debug dispatch Bug
+49068	space JREs installed large needed Large preference description empty pref
+9649	motif closes workspace Progress reports memory Eclipse dialog consuming proceeds
+13364	set condition breakpoint dialog indication Bug visual properties
+90805	Drop evaluation frame error beep resumed hit button stack paused
+165174	selection lost stepping sync view block launch code screenshot System
+255031	project build load projects week compile level org CDC repo
+49077	jar command tacked create Bug append jars config bootpath
+37942	full determine location dialog config classpath JARs nicely setting displayed
+108473	time mode responding correctly dependent times allocated running Sun platform
+428862	breakpoint install lambda accept coming write dialog lang reach java
+432190	Javadoc docs api Action link Update sun deploy javax html
+10811	launches JavaHCRManager removed dead terminating notifications Java debug deregistered launch
+21823	debug adapters model java requires objects Bug write performing proxy
+53952	displayed display local println debug main System view util Java
+10817	copied output java copying launch packages dialog config selected configs
+171075	Editor Java problem session threading Disconnecting connection minutes waiting hover
+53959	displays option names view Nested mode Test main type Variables
+323020	failure test Bug Mac
+120651	work Variables Content assist display type content Select select works
+125771	external method source created properly siganture appears breakpoint retrieving unable
+339414	targets debug IJavaDebugTarget versions instance details supplied current attachment Build
+297808	internals Eclipse issues Bug compatibility Locator Gecko Mozilla internal Rekha
+27989	configuration launch API check checks Apply good tab perform require
+161364	debugging code independent Inspect Generics formed works signature statements Evaluating
+13015	stepping conditional breakpoint thread condition Bug evaluates evaluated resumes step
+64984	work Display Inspect doesn Bug log View
+212442	logic clause problem Failing Bug failures test comparing breakpoint Integer
+94047	preference Variables Classpath shudders toolbar opening don components contribute minimal
+12640	runnable Java workspace remove breakpoints runnables created invoking Check correctly
+371300	version workspace compatible method returns launch JavaRuntime behaviour resolve runtime
+105573	warning compiler uncaught foo string trace Exception externalized location stack
+33893	JREs existant incorrectly launching ignore code preference update updates exist
+86887	JSP file handle correct Conditions Breakpoint set archive assumes hit
+206693	description location JRE http simply wiki eclipse copied file pasted
+42984	set working basedir dir defines Bug process target user select
+72169	context debug hover background thread view work Resource selection Bug
+208744	watchpoints set unable Steps unknow Watchpoints Watchpoint split Bug watchpoint
+29036	debugging NPE swt widgets eclipse lang Hash util Bug Composite
+34670	uncheck classpath path tab Configs key select needed launch Launch
+10096	Eclipse JVM jar exe program path works Files mail Worksp
+29297	multiple folders output Debug folder honor replace project compiled searches
+241394	text input console eclipse expected abc applications Test enter del
+29683	JRE project classpath existant naming container prompt save workspace choose
+30837	suspended breakpoint select exception NPE variables code thread result view
+94452	exceptions attempting produce holding displayed start timeout method Timeout update
+12665	breakpoint conditional launcher error pop claiming println org plugin wizard
+343039	monitors sessions deadlock owned benefitted option including turned debugger knew
+400636	work codeassist Display debugging difference appears view worked Oracle Java
+53115	support Ant required jar URL Contribute contribute Remote remote remove
+396795	detail breakpoint background colour selection toggling panes pane sashform Prevent
+33534	supported range Bug Ant indication Editor
+144253	events source CHANGE force behaviour lookup stack Stack Eclipse Bug

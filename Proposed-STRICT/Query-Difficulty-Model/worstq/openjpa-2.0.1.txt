@@ -1,0 +1,16 @@
+1613	access property JPA field enhancer Access OpenJPA Open JPA Exception Superclass assumption Exception thrown enhancing property access MappedSuperclass annotated properties Mapped Superclass
+1627	referenced defined fetch Embedded Transaction Column TransactionId Transaction String defines processDate process ORderBy ElementJoinColumn EmbeddedId wrong columns SQL ORder Element Join Column Embedded
+1699	Streaming Lob support Streaming Lob support
+1743	Tool configuration support EMF anchors Invoking mappingtool anchor ant work anchor
+1762	javax scope lock table persistence test relationship problem unit post javax persistence lock scope EXTENDED doesn properly lock join tables
+1764	Automatically enable connection pooling unmanaged environments commons dbcp classpath running JSE unmanaged environment automatically configure DriverClassName org apache commons dbcp BasicDataSource apply DBCP args tricky based dbcp args today databases Driver Basic Data Source
+1765	Table problem threads theoretical insert properly top row key doesn TableGenerator doesn properly utilize heavy stress Table Generator
+1784	Map updates flushed entity map element collection map Embeddable Embeddable LocalizedString String language String string getters setters Entity MultilingualString ElementCollection fetch FetchType EAGER Map String LocalizedString map HashMap String LocalizedString persistent instance entity update member map merge modified entity EntityManager getTransaction getMap setString foo merge getTransaction commit problem change map saved database DEBUG logging flush commit trigger SQL UPDATE force update map changing existing EntityManager getTransaction getMap LocalizedString foo merge getTransaction commit change expected UPDATE Embeddable hashCode equals implemented changed map equal version bug dirty checking logic OpenJPA Localized String Multilingual String Element Collection Fetch Type Localized String Hash Map Localized String Entity Manager Transaction Map set String Transaction Entity Manager Transaction Map Localized String Transaction hash Code Open JPA
+1830	connectionPassword connection Password connection External EMF writeExternal write External INVISIBLE set serializes deserializes toProperties Properties Deserialization EMF connectionPassword overwritten INVISIBLE connection Password
+1837	embed fails mapped Oracle Collection element blob Owner Argument Embed ElementCollection Embeddable blob fails Oracle Element Collection
+1863	HSQLDB set update Blobs dictionary HSQL Object useGetObjectForBlobs Object Blobs update HSQL dictionary HSQLDB
+1865	code iterator Find enhancements Set FindBugs Find Bugs Bugs simple Running entrySet entry Set inefficient keySet iterator entrySet iterator key Set entry Set
+1870	column Column MySQL SQL introduced storage optimizes annotation based override existing Blob types override column definition Column annotation MySQL SQL
+1888	generics Kernel Add Add generics Kernel
+1896	merge record existing violates params duplicate matching persist database execute OpenJPA store POJOs record exists Open JPA
+1943	timeout Query lock query data EntityManagerImpl Entity Manager Impl requires statements database QueryImpl Query Impl Query timeout hint honored consistently pessimistic lock issued database requires multi statements locking scheme

@@ -1,0 +1,4 @@
+org.apache.derby.iapi.services.monitor.PersistentService:getBootTimeServices()
+org.apache.derby.impl.store.raw.RawStore:RawStore()
+org.apache.derby.impl.storeless.StorelessService:getEngineType()
+org.apache.derby.impl.store.raw.log.LogToFile:privCanWrite(StorageFile)

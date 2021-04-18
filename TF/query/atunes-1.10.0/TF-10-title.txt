@@ -1,0 +1,16 @@
+227	aTunes Tunes doesn restarting preferences restart isn work change Request Request restarting doesn work
+259	listening submitted bug submission submission bug
+260	Screen aTunes Tunes Full doesn work Windows screenshot Full Screen doesn work Windows aTunes Tunes
+230	tag file set Tunes property tags aTunes track exception upload tag
+231	image repository older add version supported aTunes Internal SVN Update add image repository read older app version
+264	song player songs playing Westerberg time confuses correct sound displays Wrong song duration displayed player
+207	view screen standard aTune click Full option full Stefania Tune option
+240	window Performing lyrics occasion Set automatically button problem close occur Set lyrics automatically terminated
+212	Context song correct artist linger album biography picture tab prior Context panel
+276	aTunes Tunes mute system play sound muted Perform careful reveals Mute
+213	aTunes Tunes supported formats repository Xine files behaviour play extension supported formats skipped Xine
+245	playlist add folder draging radios icon Radio Labels Classical label Radio Labels playlist
+278	title Edit change click Titles reverts Marc select Thibault aTunes Edit Titles Fails
+281	INFO HANDLER START search PLAYER JIntellitype Tunes retrieval net atunes Mute button
+220	OSD track displayed play button pressing jumping previous appears OSD displayed jumping previous track
+221	mode work window Multiple multiple Multiple window mode work

@@ -1,0 +1,2 @@
+JavaSearchPage:performNewSearch()
+JavaSearchPage:setVisible(boolean)

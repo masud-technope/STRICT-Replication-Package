@@ -1,6 +1,0 @@
-New feature: Event filter based rolling
-This enhancement adds a FilterBasedTriggeringPolicy that allows rollover to be initiated when an event 
-that satisifies the contained set of Filters is processed. 
-
-See log4j-dev discussion at http://marc.theaimsgroup.com/?l=log4j-dev&m=110814303231980&w=2 
-and following.

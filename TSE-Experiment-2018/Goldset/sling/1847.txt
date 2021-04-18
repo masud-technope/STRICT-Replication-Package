@@ -1,6 +1,0 @@
-launchpad/builder/src/main/bundles/list.xml
-launchpad/builder/src/main/bundles/list.xml
-bundles/auth/form/src/main/java/org/apache/sling/auth/form/impl/FormAuthenticationHandler.java
-launchpad/integration-tests/src/main/java/org/apache/sling/launchpad/webapp/integrationtest/login/RedirectOnLogoutTest.java
-launchpad/testing-war/pom.xml
-launchpad/testing/pom.xml

@@ -1,0 +1,2 @@
+NLSScanner:parseTags(NLSLine, IScanner)
+NLSScanner:parseTags(NLSLine, Scanner)

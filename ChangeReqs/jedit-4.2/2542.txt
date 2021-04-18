@@ -1,0 +1,2 @@
+Pasting Text Should End Current Undoable Edit
+The text area should finish the existing undoable edit when the user pastes text into it. In 4.2final and 4.3pre4, if you type some characters, paste some text, and then undo, it undos the typed characters and the pasted text together. This is unusual to me in general and under Mac OS X. It should undo each separately.

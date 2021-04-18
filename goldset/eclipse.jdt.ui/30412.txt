@@ -1,0 +1,7 @@
+JavaBrowsingPart:restoreState(IMemento)
+JavaBrowsingPart:adjustInputAndSetSelection(IJavaElement)
+JavaBrowsingPart:setInitialSelection()
+JavaBrowsingPart:restoreSelectionState(IMemento)
+JavaBrowsingPart:selectionChanged(IWorkbenchPart, ISelection)
+JavaBrowsingPart:saveSelectionState(IMemento)
+JavaBrowsingPart:adjustInputAndSetSelection(Object)

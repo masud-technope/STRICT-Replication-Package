@@ -1,0 +1,2 @@
+org.apache.mahout.common.DummyRecordWriter:write(K, V)
+org.apache.mahout.common.DummyRecordWriter:close(TaskAttemptContext)

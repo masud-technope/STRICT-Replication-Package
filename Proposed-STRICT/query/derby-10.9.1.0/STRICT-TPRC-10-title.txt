@@ -1,0 +1,24 @@
+5955	Derby JEP Java Profiles CDC Platform Profile enable decided Configuration Prepare Derby Compact Profiles JEP
+6147	mail apache running CCADjEm CCADj mbox CCADj ZZFFKgapF ZZFFKgap fails WJjDwDJ WJj swq ClosedObjectTest fails branch running Java Closed Object Test
+6053	Server network server started Statement Network Exception set SQLException create Client prepared statement regular statement Connection setTransactionIsolation set Transaction Isolation
+6086	custom connection jdbcapi Statement creating StatementPoolingTest Statement Pooling Test test methods Test testing Factor logic creating custom connection jdbcapi StatementPoolingTest Statement Pooling Test
+6150	affect openDefaultConnection open Connection connections rolled open held opened locks JDBCBase hold Add automatic cleanup connections opened openDefaultConnection open Connection
+5927	URL methods attributes utility Embed query determine Add EmbedConnection Embed Connection change Add utility methods query URL attributes EmbedConnection Embed Connection
+5896	java files change spaces tabs drda code echo sed network Change java drda source code spaces tabs clean tab creep java client
+6089	Type registerOutParameter register Parameter getTypeAsInt Type client register Statement type JAVA BLOB ARRAY CallableStatement registerOutParameter client lacks check legal types Callable Statement register Parameter
+5930	reformat Encryption RawStore Raw Store code tabs typos Raw method feature implemented Reformat RawStore setupEncryptionEngines Raw Store setup Encryption Engines
+5996	readme database files users time creates upgrade upgraded cautioning release Create readme files cautioning users modifying database files database hard upgrade time
+5933	sorting result SQL Hibernate generated query Netbeans running JDBC GUI SQL sorting error
+6094	set ignores DriverManager Driver Manager Driver Manager Derby setting setLoginTimeout set Login Timeout login timeout Derby ignores DriverManager setLoginTimeout Driver Manager set Login Timeout
+6063	variables code access ControlRow Control Row Set Control causing changing InsertResultSet Insert Result Set TabInfoImpl Tab Info Impl Access variables TabInfoImpl InsertResultSet ControlRow Tab Info Impl Insert Result Set Control Row
+5232	log warn directories database encourage restore directory README file backup stern README file log seg directories warn users corrpution touch files
+6000	JDBC support Derby include spec rev appears JDK maintenance release Implement support JDBC
+6064	upgrade don test branches tests wondering releasing builds apache older Failures upgradeTests cardinality statistics upgrade Tests
+4279	statement deadlock MYTABLE thread executes compile Thread cache lock MYCOLUMN Statement cache deadlock
+5911	query PRICE COF fetch FETCH COFFEES result condition VALUES returns condition pushed query FETCH
+1400	initialize DRDAStatement required DERBY apache identified issues derived jira confirmed Cleanup code network server DRDAStatement
+6008	offset query order paren body spec result allowed DISTINCT clause ORDER FETCH OFFSET set operands
+5561	set check Connection checkForNullPhysicalConnection check Physical Connection member Save prepare Schema create Read Race conditions LogicalConnection checking physical connection Logical Connection
+6009	error column ORDER VALUES NullPointerException Pointer Exception errorCode error Code raised Pointer exception numbers stricter checking ORDER clause VALUES expressions
+6044	table issue descriptions release download XXXX JIRA word test point poor word breaking table download
+5854	BrokeredCallableStatement Brokered Callable Statement Brokered methods issue Statement test adds Callable Test unused Test methods BrokeredCallableStatement Brokered Callable Statement

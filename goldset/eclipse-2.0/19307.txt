@@ -1,0 +1,2 @@
+org.eclipse.team.internal.ftp.ui.FTPMainPage:getCurrentValues()
+org.eclipse.team.internal.ftp.ui.FTPMainPage:validateFields()

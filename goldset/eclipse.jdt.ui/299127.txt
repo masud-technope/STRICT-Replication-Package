@@ -1,0 +1,1 @@
+FilteredElementTreeSelectionDialog:MultiplePatternFilter:setPattern(String)

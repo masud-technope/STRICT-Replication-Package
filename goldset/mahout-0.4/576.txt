@@ -1,0 +1,8 @@
+org.apache.mahout.cf.taste.impl.recommender.slopeone.MemoryDiffStorage:updateItemPref(long, float, boolean)
+org.apache.mahout.cf.taste.impl.recommender.slopeone.jdbc.AbstractJDBCDiffStorage:AbstractJDBCDiffStorage(JDBCDataModel, String, String, String, String[], String[], String, String, String, String, int)
+org.apache.mahout.cf.taste.impl.recommender.slopeone.jdbc.MySQLJDBCDiffStorage:MySQLJDBCDiffStorage(AbstractJDBCDataModel, String, String, String, String, String, String, int)
+org.apache.mahout.cf.taste.impl.recommender.slopeone.file.FileDiffStorage:updateItemPref(long, float, boolean)
+org.apache.mahout.cf.taste.impl.recommender.slopeone.MemoryDiffStorageTest:testUpdate()
+org.apache.mahout.cf.taste.impl.recommender.slopeone.SlopeOneRecommender:removePreference(long, long)
+org.apache.mahout.cf.taste.impl.recommender.slopeone.SlopeOneRecommender:setPreference(long, long, float)
+org.apache.mahout.cf.taste.impl.recommender.slopeone.jdbc.AbstractJDBCDiffStorage:updateItemPref(long, float, boolean)

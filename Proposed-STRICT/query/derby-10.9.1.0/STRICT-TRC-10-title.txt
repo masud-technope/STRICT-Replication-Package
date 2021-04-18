@@ -1,0 +1,24 @@
+5955	Java Derby JEP CDC Profiles Profile Compact libraries Platform Configuration Prepare Derby Compact Profiles JEP
+6147	mail mbox gmail archives mod CCADjEm CCADj CCADj ZZFFKgapF ZZFFKgap WJjDwDJ WJj swq ClosedObjectTest fails branch running Java Closed Object Test
+6053	Server network Exception server set Network Connection started setTransactionIsolation set Transaction Isolation Statement Client prepared statement regular statement Connection setTransactionIsolation set Transaction Isolation
+6086	connection test Statement methods custom StatementPoolingTest Statement Pooling Test jdbcapi code Pooling single Factor logic creating custom connection jdbcapi StatementPoolingTest Statement Pooling Test
+6150	connections open locks openDefaultConnection open Connection JDBCBase held affect automatically rolled hold Add automatic cleanup connections opened openDefaultConnection open Connection
+5927	methods URL attributes determine Embed query change utility EmbedConnection Embed Connection improved Add utility methods query URL attributes EmbedConnection Embed Connection
+5896	spaces code java tabs files server network file drda change Change java drda source code spaces tabs clean tab creep java client
+6089	type getTypeAsInt Type registerOutParameter register Parameter sqlType sql Type Type data sql client JDBC Statement CallableStatement registerOutParameter client lacks check legal types Callable Statement register Parameter
+5930	Raw setupEncryptionEngines setup Encryption Engines code correct tabs Store Encryption RawStore Raw Store reformat feature Reformat RawStore setupEncryptionEngines Raw Store setup Encryption Engines
+5996	database readme users files hard upgrade touching release upgraded creates Create readme files cautioning users modifying database files database hard upgrade time
+5933	result sorting query SQL Hibernate morefld Netbeans database rowset generated SQL sorting error
+6094	DriverManager Driver Manager set Driver ignores setLoginTimeout set Login Timeout Derby Login Manager login timeout Derby ignores DriverManager setLoginTimeout Driver Manager set Login Timeout
+6063	variables code access ControlRow Control Row Control InsertResultSet Insert Result Set TabInfoImpl Tab Info Impl Set instance Insert Access variables TabInfoImpl InsertResultSet ControlRow Tab Info Impl Insert Result Set Control Row
+5232	backup database log file directories restore touch users warn README stern README file log seg directories warn users corrpution touch files
+6000	JDBC Derby support include rev release unclear spec JDK openjdk Implement support JDBC
+6064	upgrade test don older branches tests note careful upgradeTests upgrade Tests backported Failures upgradeTests cardinality statistics upgrade Tests
+4279	statement lock deadlock executes MYTABLE thread cache occur Thread prepared Statement cache deadlock
+5911	query COF PRICE COFFEES Colombian result French rows fetch returns condition pushed query FETCH
+1400	DERBY DRDAStatement initialize setTypDefValues set Typ Def Values server code issues confirmed required network Cleanup code network server DRDAStatement
+6008	query offset body order clause paren set DISTINCT select ORDER ORDER FETCH OFFSET set operands
+5561	set Connection check checkForNullPhysicalConnection check Physical Connection member returns conditions physical close LogicalConnection Logical Connection Race conditions LogicalConnection checking physical connection Logical Connection
+6009	error column errorCode error Code ORDER NullPointerException Pointer Exception VALUES expressions exception numbers Pointer stricter checking ORDER clause VALUES expressions
+6044	table read issue test natural release XXXX JIRA descriptions browsers poor word breaking table download
+5854	methods BrokeredCallableStatement Brokered Callable Statement Brokered Callable adds issue test Test Statement unused Test methods BrokeredCallableStatement Brokered Callable Statement

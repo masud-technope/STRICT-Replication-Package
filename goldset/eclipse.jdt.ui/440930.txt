@@ -1,0 +1,2 @@
+JavaElementImageProvider:computeJavaAdornmentFlags(IJavaElement, int)
+JavaElementImageProvider:isInterfaceOrAnnotationFieldOrType(IMember)

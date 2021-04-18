@@ -1,0 +1,2 @@
+JavaBreakpoint:removeThreadFilter(IJavaDebugTarget)
+JavaBreakpoint:setThreadFilter(IJavaThread)

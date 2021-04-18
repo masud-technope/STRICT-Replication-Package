@@ -1,3 +1,0 @@
-contrib/extensions/gwt/sample/pom.xml
-contrib/extensions/gwt/servlet/pom.xml
-contrib/extensions/gwt/servlet/src/main/java/org/apache/sling/extensions/gwt/user/server/rpc/SlingRemoteServiceServlet.java

@@ -1,1 +1,3 @@
-framework/bundles/org.eclipse.ecf.remoteservice/src/org/eclipse/ecf/remoteservice/RemoteCallFactory.java
+RemoteCallFactory:createRemoteCall(String)
+RemoteCallFactory:createRemoteCall(String, long)
+RemoteCallFactory:createRestCall(String)

@@ -1,0 +1,2 @@
+ManifestStructureCreator:readLine(IDocument)
+ManifestStructureCreator:parseManifest(ManifestNode, IDocument)

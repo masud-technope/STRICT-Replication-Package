@@ -1,0 +1,2 @@
+JDIModelPresentation:getLineBreakpointText(IJavaLineBreakpoint)
+JDIModelPresentation:appendConditional(IJavaLineBreakpoint, StringBuffer)

@@ -1,0 +1,1 @@
+WebdavServlet:copyResource(HttpServletRequest, HttpServletResponse)

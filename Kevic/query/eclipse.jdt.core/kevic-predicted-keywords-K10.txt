@@ -1,0 +1,30 @@
+79809	type parameter users brackets complicated Javadoc simple tag dom ranges
+42243	source syntax diagnosis mode misleading isn flagged keyword expected main
+417669	source appears include annotation structure annotated args Element Target java
+405889	Lang compiler JAVA NPE needed BETA eclipse Invoke bugs Bug
+385293	normal modifiers accepted grammar report references accepts modifier Marker check
+424718	API compatibility base functions dim plugins external code Annotation instance
+168331	AbstractMethodError introduced worked compiler complain code println compile Java runtime
+399567	message compiler error pointer parallel reports add java Test lines
+65738	save time Eclipse occurs happen Making automatically change project build
+29516	regressions Bug refactoring failing responsible tests Search Engine
+110797	multiple tags single tag source subdomains Bug loop Tasks DATA
+456395	code sample attachment convert compile mismatch Java Type details String
+228691	primitive wrapper acceptable correspond level desired issue attachment annotation Add
+380501	methods Bug support Add grammar wider published tracked feature connection
+412882	validation library optional classpath jdt internal core majority eclipse util
+388634	compliance failure chooses misses route levels preview expected occurs Dcompliance
+413913	Bug failures Investigate
+165346	conditional operators conservative compiler DSRG produce UNKNOWN internal integrating Status
+415911	NPE triggers annotated lang foo type JAVA Element String Type
+418919	drop global bindings defect don decide annotated Annotations internal annotations
+396258	Bug type syntax annotations NullTypeAnnotationTest forces introduce java kind change
+126180	type NPE access raised reporting method foo main causing field
+417388	type annotations parameter correctly foo doesn referencing code Argument simple
+381358	constructs levels source program level rejected token elicit Formal error
+396139	build functions upgrade reproduce tracking builds propose beta failures closer
+145202	analyzer positive reference element negated code err String negative println
+430451	fail JRE failing surrounding option fixes Tests patch file manager
+405051	search primed happen populates built sense attribute metadata files LOCATION
+291322	Windows running tests randomly issue exceptions lock retry caused times
+401848	additional reproduce introduced adds Bug details Testcase annotations type rewrite

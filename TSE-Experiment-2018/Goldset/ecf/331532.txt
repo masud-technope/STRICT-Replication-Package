@@ -1,2 +1,0 @@
-compendium/bundles/org.eclipse.ecf.osgi.services.distribution/src/org/eclipse/ecf/osgi/services/distribution/AbstractHostContainerFinder.java
-providers/bundles/org.eclipse.ecf.provider.r_osgi/plugin.xml

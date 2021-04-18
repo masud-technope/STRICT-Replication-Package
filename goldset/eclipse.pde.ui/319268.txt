@@ -1,0 +1,2 @@
+WorkspaceModelManager:isPluginProject(IProject)
+WorkspaceModelManager:isFeatureProject(IProject)

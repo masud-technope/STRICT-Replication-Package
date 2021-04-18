@@ -1,0 +1,1 @@
+FilteredTypesSelectionDialog:TypeItemLabelProvider:getStyledText(Object)

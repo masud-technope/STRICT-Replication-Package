@@ -1,0 +1,2 @@
+QuickFixProcessor:process(IInvocationContext, IProblemLocation, Collection<ICommandAccess>)
+QuickFixProcessor:hasCorrections(ICompilationUnit, int)

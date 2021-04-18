@@ -1,0 +1,3 @@
+NewTypeWizardPage:getTypeNameWithoutParameters()
+NewTypeWizardPage:getTypeNameWithoutParameters(String)
+NewTypeWizardPage:createTypeNameControls(Composite, int)

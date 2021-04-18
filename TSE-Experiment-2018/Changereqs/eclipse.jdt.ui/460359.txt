@@ -1,2 +1,0 @@
-Bug 460359 – Fix compiler problems from generified IAdaptable#getAdapter(..)
-See bug 442021 comment 25.

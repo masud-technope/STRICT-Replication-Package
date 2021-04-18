@@ -1,2 +1,0 @@
-providers/bundles/org.eclipse.ecf.provider.zookeeper/META-INF/MANIFEST.MF
-providers/bundles/org.eclipse.ecf.provider.zookeeper/src/org/eclipse/ecf/provider/zookeeper/util/Logger.java

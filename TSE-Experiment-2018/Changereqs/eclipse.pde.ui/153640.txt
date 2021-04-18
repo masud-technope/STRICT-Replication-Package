@@ -1,2 +1,0 @@
-Bug 153640 – [Template] OSGi Services: Usage of a SimpleLogService
-An example of using the log service would be nice.

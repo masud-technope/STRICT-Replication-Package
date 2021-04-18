@@ -1,0 +1,2 @@
+NumberUtils.isNumber(String)  is not right when the String is "1.1L"
+"1.1L" is not a Java Number . but NumberUtils.isNumber(String) return true. perhaps change: {code:java} if (chars[i] == 'l' || chars[i] == 'L') { // not allowing L with an exponent return foundDigit && !hasExp; } {code} to: {code:java} if (chars[i] == 'l' || chars[i] == 'L') { // not allowing L with an exponent return foundDigit && !hasExp && !hasDecPoint; } {code}

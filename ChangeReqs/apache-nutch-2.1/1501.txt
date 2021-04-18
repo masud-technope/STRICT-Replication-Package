@@ -1,0 +1,2 @@
+Harmonize behavior of parsechecker and indexchecker
+Behaviour of ParserChecker and IndexingFiltersChecker has diverged between trunk and 2.x - missing in 2.x: NUTCH-1320, NUTCH-1207 - open issue to be also applied to 2.x: NUTCH-1419, NUTCH-1389

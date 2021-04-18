@@ -1,0 +1,17 @@
+1569	Maven Patch push artifacts upgrade Gora Upgrade released coming Upgrade Gora
+1542	param strong urls crawl hack clear ported reason left fetch adddays param generator
+1575	solr authentication nutch support support solr authentication nutch
+1513	robots Ftp noformat java Robot plugin ftp developers txt nutch Support Robots txt Ftp urls
+1514	mail deprecated mbox removed Tdcn properties configuration Bdf VSh Gdc Phase deprecated configuration properties
+1419	nutch indexchecker redirect Permanently content status org CEST Jul Unix parsechecker indexchecker report protocol status
+1453	Indexing differences testing follow tests problem trunk issues common share Substantiate tests IndexingFilters Indexing Filters
+1552	java NPE http content Filter Indexing contentType content Type variable read attempt possibility NPE plugin
+1393	usage Generator GeneratorJob Generator Job generate nutch urls scoring lewis stdout generating Display consistent usage GeneratorJob Generator Job
+1493	contentLength content Length content empty string patch adding checks field solr NUTCH Error adding field contentLength solrindex content Length
+1047	indexing backend plugins add backends storage hardwired cleaning SOLR Pluggable indexing backends
+1370	crawl code INFO urls url injected Plugin selected exact Plugins Expose exact number urls injected runtime
+1563	Fields FetchSchedule Fetch Schedule getFields Fields Schedule Fetch Generater fields WebPage Web GeneraterJob Generater Job Job FetchSchedule getFields GeneraterJob Fetch Schedule Fields Generater Job
+956	solrindex http command describes techvineyard blogspot build nutch html refer solrindex issues
+1532	field mapping batchId batch segment msg architecture org http mail apache Replace segment mapping field batchId batch
+1501	Checker parsechecker behavior issue ParserChecker Parser Checker open IndexingFiltersChecker Indexing Filters Checker NUTCH diverged trunk Harmonize behavior parsechecker indexchecker
+1503	code conf fetcher Fetcher FetcherReducer Fetcher Reducer xml timelimit host properties nutch Configuration properties sync FetcherReducer nutch xml Fetcher Reducer

@@ -1,1 +1,4 @@
-providers/bundles/org.eclipse.ecf.provider.jslp/src/org/eclipse/ecf/internal/provider/jslp/Activator.java
+Activator:getLocator()
+Activator:start(BundleContext)
+Activator:getAdvertiser()
+Activator:stop(BundleContext)

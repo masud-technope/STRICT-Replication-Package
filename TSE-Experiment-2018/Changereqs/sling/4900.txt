@@ -1,4 +1,0 @@
-[SLING-4900] Clarify javadoc on ResourceResolver.getParentResourceType(String) - ASF JIRA
-Currently the javadoc for ResourceResolver.getParentResourceType(String) is very unclear in terms on when to expect null as return value (https://github.com/apache/sling/blob/trunk/bundles/api/src/main/java/org/apache/sling/api/resource/ResourceResolver.java#L684).
- This should be clarified.
- Also it is not clear whether the parameter resourceType is searched in the {{ResourceResolver}}s search paths.

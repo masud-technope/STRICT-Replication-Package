@@ -1,0 +1,9 @@
+1396	trunk dependency MimeUtil Mime Tika code Util Upgrade Tika
+1381	subcollection field configuration filter NUTCH override subcollection field
+1351	missing DomainStatistics Statistics TLD tld tool suffix domain Domain host DomainStatistics aggregate TLD Domain Statistics
+1399	closed TestProtocolHttpClient Client http Http Protocol test Test TestProtocolHttpClient fails Test Protocol Http Client
+1352	patch single replace throughput lot today urlfilters plugins lock commit Improve regex urlfilters normalizers synchronization
+1356	patch handling parsed parsers initialize Executor cache parsing ParseUtil fields ParseUtil ExecutorService manually thread handling Parse Util Executor Service
+1405	entries existing permit injected reset Injector reducer metadata CrawlDatum Datum overwrite CrawlDatum injected entries Crawl Datum
+1262	single Types enabled types vnd application xhtml XHTML TAB moreIndexingFilter Map duplicating content types single type
+1407	copyField bit copy BasicIndexingFilter user Basic Solr basic NutchDocument indexing BasicIndexingFilter optionally add domain field Basic Indexing Filter

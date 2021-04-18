@@ -1,0 +1,2 @@
+Multiple window mode does not work
+The multiple window mode does not work in 1.10.0.

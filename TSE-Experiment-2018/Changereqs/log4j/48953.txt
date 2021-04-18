@@ -1,2 +1,0 @@
-48953 – Unused imports, variables in test source results in GCJ compile warnings
-The gcj compiler warns on many unused imports, variables and other issues in the test source code.

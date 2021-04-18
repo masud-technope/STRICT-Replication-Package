@@ -1,0 +1,4 @@
+SuperTypeRefactoringProcessor:createCorrespondingNode(CompilationUnitRewrite)
+SuperTypeRefactoringProcessor:WorkingCopyOwner()
+SuperTypeRefactoringProcessor:rewriteTypeOccurrence(TType)
+SuperTypeRefactoringProcessor:createCorrespondingNode(CompilationUnitRewrite, ASTNode)

@@ -1,5 +1,0 @@
-42283 – Eclipse Java compiler warnings for usused imports/members, serializationUID
-The Eclipse Java Compiler (which is used as a replacement for Sun's java in java-gcj) issues many ominous
-warnings on unnecessary imports, unused members and serializable classes missing serializationUID.
- All
-of these issues appear cosmetic, but should be cleaned up.

@@ -1,0 +1,2 @@
+Ensure there is a max/min valid offset
+`DateTimeZone` does not apply a max/min value for an offset. However the parse method is limited to 23:59. Make 23:59:59.999 the maximum.

@@ -1,0 +1,3 @@
+ModifierCorrectionSubProcessor:addNativeMethodProposals(IInvocationContext, IProblemLocation, Collection)
+ModifierCorrectionSubProcessor:addMethodRequiresBodyProposals(IInvocationContext, IProblemLocation, Collection)
+ModifierCorrectionSubProcessor:addAbstractMethodProposals(IInvocationContext, IProblemLocation, Collection)

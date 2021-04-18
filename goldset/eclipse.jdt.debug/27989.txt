@@ -1,0 +1,2 @@
+SnippetEditorPropertyPage:Proxy:setActiveTab(ILaunchConfigurationTab)
+SnippetEditorPropertyPage:Proxy:setActiveTab(int)

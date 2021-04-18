@@ -1,2 +1,0 @@
-contrib/extensions/distribution/core/src/main/java/org/apache/sling/distribution/serialization/impl/AbstractDistributionPackageBuilder.java
-contrib/extensions/distribution/core/src/main/java/org/apache/sling/distribution/serialization/impl/vlt/VltUtils.java

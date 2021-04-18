@@ -1,0 +1,16 @@
+526	Tree Overflow Builder Stack DefaultTreeBuilder Tree Builder	Tree Overflow Builder Error	Infinite Recursion DefaultTreeBuilder Tree Builder
+552	Sparse Cluster Vectors Access RandomAccessSparseVector Random Access Sparse Vector	Access Sparse Named Cluster	AbstractCluster eliminates NamedVectors replacing RandomAccessSparseVector Cluster Named Vectors Random Access Sparse Vector
+561	Test Classifier TestClassifier Test Classifier type correctly	Test Classifier	TestClassifier correctly handle type source command parameters Test Classifier
+564	KMeans distance convergence KMeansClusterer KMeans Clusterer Clusterer	KMeans distance test convergence Delta	KMeansClusterer distanceThreshold parameter testConvergence Iterable Cluster clusters distanceThreshold method KMeans Clusterer distance Threshold test Convergence distance Threshold
+565	bit operations signature feature Minhash		Features incorrectly hashed Minhash
+576	Storage Item AVG updateItemPref update Item Pref preference	Item JDBCDiff Storage Average	AbstractJDBCDiffStorage updateItemPref updating AVG incorrectly cases JDBCDiff Storage update Item Pref
+580	Bayes Memory base Data data	Bayes Data Memory Path Base	Missing basePath Bayes job InMemoryDataStore base Path Memory Data Store
+583	chunk file files sequence data		Loss data create sequence files directory
+602	Implementation org confluence dataset wiki		Partial Implementation exceptions
+604	Classifier data training exception Bayes		Bayes Classifier fails data training data
+610	Row Similarity Mapper cooccurences isn	Row Similarity Coocurrence Mapper Job	Coocurrences SimilarityReducer Similarity Reducer
+614	Output Record Hadoop FileOutputFormat File Output Format work	Output Attempt Record File Context	org apache mahout classifier baytes MultipleOutputFormat working intended Hadoop Multiple Output Format
+625	test support data pattern patterns		generated patterns support higher reality
+631	Std Weighted WeightedRunningAverage Weighted Running Average Running WeightedRunningAverageAndStdDev Weighted Running Average Std Dev	Std Running Average Weighted	Small bug WeightedRunningAverage add WeightedRunningAverageAndStdDev Weighted Running Average Weighted Running Average Std Dev
+641	Lanczos Job Matrix Conf setConf set Conf	Job Lanczos Squared Distributed Row	DistributedRowMatrix hadoop jobs ignore Configuration set setConf Distributed Row Matrix set Conf
+678	Gradient Pointer Mixed MixedGradient Mixed Gradient algorithm	Gradient Pointer Logistic Ranking	NullPointerException MixedGradient SGD algorithm Pointer Exception Mixed Gradient

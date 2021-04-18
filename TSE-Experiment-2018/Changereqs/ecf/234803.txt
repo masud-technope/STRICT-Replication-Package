@@ -1,2 +1,0 @@
-Bug 234803 – [Discovery][jSLP] path is not supported
-ECF discovery does not correctly pass the URI path to jSLP

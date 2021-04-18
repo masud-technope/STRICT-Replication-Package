@@ -1,0 +1,2 @@
+Replace 'segment' mapping field with batchId
+As described here [0], the segment field in solr-mapping.xml should be replaced with the batchId. This reflects the different architecture in 2.x. [0] http://www.mail-archive.com/user%40nutch.apache.org/msg08793.html

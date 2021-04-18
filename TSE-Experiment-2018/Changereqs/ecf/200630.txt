@@ -1,3 +1,0 @@
-Bug 200630 – [IRC] Private messages are not being handled
-This is rather disturbing but it seems to me that private messages aren't being handled.
-Can anyone else confirm this?

@@ -1,0 +1,2 @@
+JavaHotCodeReplaceManager:deregisterTarget(JDIDebugTarget)
+JavaHotCodeReplaceManager:launchRemoved(ILaunch)

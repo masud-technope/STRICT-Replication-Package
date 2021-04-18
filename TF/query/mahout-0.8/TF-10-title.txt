@@ -1,0 +1,15 @@
+1345	testing modules tests randomised code threads lingering parent issues deterministically Enable randomised testing Mahout modules
+1409	Matrix test correct check error Vector View MatrixVectorView MatrixVectorView check error Matrix Vector View
+1379	Summarizer point cluster data Cluster ClusterQualitySummarizer Quality fails OnlineSummarizer getQuartile ClusterQualitySummarizer fails Digest clusters data point Cluster Quality Summarizer
+1284	Record DummyRecordWriter Dummy Writer Writable reuse map Writables testing practice DummyRecordWriter bug reused Writables Dummy Record Writer
+1317	code Argument save checkArgument error issue check Preconditions folks time Clarify messages Preconditions checkArgument check Argument
+1030	Writable Vector Weighted WeightedVectorWritable distance clustered centroid cluster wrote WeightedPropertyVectorWritable Regression Clustered Points WeightedPropertyVectorWritable WeightedVectorWritable Weighted Property Vector Writable Weighted Vector Writable
+1319	filter argument command seqdirectory exception silently PrefixAdditionFilter Addition works sequential seqdirectory filter argument silently
+1351	Vector point Dense SIFT AbstractCluster descriptors test Cluster improvement clustering Adding DenseVector support AbstractCluster Dense Vector Cluster
+1261	MAX Hadoop Taste idToIndex TasteHadoopUtils Integer Utils size set returned TasteHadoopUtils idToIndex size Integer MAX Taste Hadoop Utils
+1364	Lucene version Randomized Mahout Runner Carrot code upgrade Parallel discussion Upgrade Mahout codebase Lucene
+1301	code String Vector toString string Access java Sequential SequentialAccessSparseVector method toString method SequentialAccessSparseVector excess comma String Sequential Access Sparse Vector
+1398	users delimiter vary pattern FileDataModel processLine patch overwritten delimiters implement FileDataModel provide constructor delimiterPattern File Data Model delimiter Pattern
+1368	TDigest OnlineSummarizer quartile Summarizer estimation Online handles Convert accuracy distributions Convert OnlineSummarizer TDigest Online Summarizer
+1242	hash hashCode Code code distribution function key maps HashFunctions strong key redistribution function associative maps
+1308	Candidate Items Strategy CandidateItemsStrategy visibility extend custom modifier extended restricted extend CandidateItemsStrategy restricted visibility Candidate Items Strategy

@@ -1,0 +1,24 @@
+5955	Profiles Compact Derby aka enable missing good functionality platform larger
+6147	running dev branch archives Pug derby http gmail Java mod
+6086	connection custom methods physical shorter jdbcapi common boilerplate focused test
+6150	connections opened affect automatic clean locks good stay tear cleanup
+5896	Change code tabs spaces orig developers reasonable drda change server
+6089	client negative Util type patch Utils attached exception JAVA checking
+6094	Derby ignores attach timeout Driver Timeout test setting set Login
+5911	FETCH condition query rows conditions pushes wrong filter returns snippet
+6044	table download hyphen descriptions poor DERBY harder issue test JIRA
+5854	methods unused issue Test Brokered test Statement adds Callable
+6053	statement prepared Client network started Print server ping max Thread
+5927	Add URL methods attributes utility determine readability formatting code query
+5930	comments task feature indented correct created change replace Raw Engines
+5996	readme hard files users database caution modifying upgrade touching release
+5933	sorting SQL properly condition Hibernate circumstances records query simple error
+6063	Access variables causing removing unused access changing Result bree Info
+5232	touch files warn directories log file users backup appears database
+6000	support JDBC rev include build http spec place net appears
+6064	upgrade older require assumptions failures Failures reason don careful good
+4279	deadlock cache lock statement flaw table reason named prepared MODE
+1400	DRDAStatement initialize comments purpose derived cleanup browse server Cleanup required
+6008	ORDER set term query simple body spec operands INTERSECT select
+5561	conditions physical member prepare roll connection Holdability set returns checking
+6009	expressions clause ORDER VALUES stricter checking error values result unsupported

@@ -1,0 +1,3 @@
+CurrentValueContext:getLocalVariables()
+CurrentValueContext:getType()
+CurrentValueContext:isStatic()

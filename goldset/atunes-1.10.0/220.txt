@@ -1,0 +1,2 @@
+net.sourceforge.atunes.kernel.handlers.PlayerHandler:playCurrentAudioObject(boolean)
+net.sourceforge.atunes.kernel.handlers.PlayerHandler:playAudioObject(AudioObject)

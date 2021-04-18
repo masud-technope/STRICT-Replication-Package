@@ -1,0 +1,2 @@
+CompilationUnitDocumentProvider:createFileInfo(Object)
+CompilationUnitDocumentProvider:disposeFileInfo(Object, FileInfo)

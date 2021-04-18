@@ -1,0 +1,16 @@
+1888	Add generics Kernel Add generics Kernel
+1762	lock javax scope persistence join table EXTENDED test unit failing javax persistence lock scope EXTENDED doesn properly lock join tables
+1699	Streaming support Lob Streaming Lob support
+1764	dbcp commons args unmanaged Basic environments Automatically automatically Driver DriverClassName Automatically enable connection pooling unmanaged environments
+1765	problem Table multiple threads exception theoretical insert properly top row TableGenerator doesn properly utilize heavy stress Table Generator
+1830	connection Password connectionPassword EMF set INVISIBLE External Configuration serializes toProperties Deserialization EMF connectionPassword overwritten INVISIBLE connection Password
+1863	HSQLDB Blobs dictionary set HSQL useGetObjectForBlobs update Object update HSQL dictionary HSQLDB
+1896	record database merge key objects version Open file exists data OpenJPA store POJOs record exists Open JPA
+1865	Set iterator entrySet entry inefficient keySet key Bugs code simple inefficient keySet iterator entrySet iterator key Set entry Set
+1613	access property apache superclass field implicit Superclass openjpa org Access Exception thrown enhancing property access MappedSuperclass annotated properties Mapped Superclass
+1837	openjpa apache org persistence Embed annotations jdbc element Collection Owner ElementCollection Embeddable blob fails Oracle Element Collection
+1870	column Column MySQL annotation SQL BLOB BINARY annotations columnDefinition storage Blob types override column definition Column annotation MySQL SQL
+1743	anchor configuration ant work Invoking anchors mappingtool support Tool EMF Tool configuration support EMF anchors
+1943	timeout Query lock Impl query statements Entity data EntityManagerImpl Manager Query timeout hint honored consistently pessimistic lock issued database requires multi statements locking scheme
+1784	String map Map Transaction LocalizedString getTransaction Localized Entity commit merge Map updates flushed
+1627	Column Transaction ASC TransactionId maccno String mamount columns Number mbranch ORderBy ElementJoinColumn EmbeddedId wrong columns SQL ORder Element Join Column Embedded

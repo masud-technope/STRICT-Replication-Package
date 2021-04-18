@@ -1,0 +1,16 @@
+576	AbstractJDBCDiffStorage updateItemPref updating AVG incorrectly cases JDBCDiff Storage update Item Pref
+641	DistributedRowMatrix hadoop jobs ignore Configuration set setConf Distributed Row Matrix set Conf
+610	Coocurrences SimilarityReducer Similarity Reducer
+580	Missing basePath Bayes job InMemoryDataStore base Path Memory Data Store
+614	org apache mahout classifier baytes MultipleOutputFormat working intended Hadoop Multiple Output Format
+678	NullPointerException MixedGradient SGD algorithm Pointer Exception Mixed Gradient
+583	Loss data create sequence files directory
+552	AbstractCluster eliminates NamedVectors replacing RandomAccessSparseVector Cluster Named Vectors Random Access Sparse Vector
+526	Infinite Recursion DefaultTreeBuilder Tree Builder
+561	TestClassifier correctly handle type source command parameters Test Classifier
+625	generated patterns support higher reality
+564	KMeansClusterer distanceThreshold parameter testConvergence Iterable Cluster clusters distanceThreshold method KMeans Clusterer distance Threshold test Convergence distance Threshold
+565	Features incorrectly hashed Minhash
+631	Small bug WeightedRunningAverage add WeightedRunningAverageAndStdDev Weighted Running Average Weighted Running Average Std Dev
+602	Partial Implementation exceptions
+604	Bayes Classifier fails data training data

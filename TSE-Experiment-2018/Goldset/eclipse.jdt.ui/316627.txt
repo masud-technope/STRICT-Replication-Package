@@ -1,2 +1,0 @@
-org.eclipse.jdt.ui/ui/org/eclipse/jdt/internal/ui/actions/ActionUtil.java
-org.eclipse.ltk.ui.refactoring/src/org/eclipse/ltk/internal/ui/refactoring/AbstractChangeNode.java

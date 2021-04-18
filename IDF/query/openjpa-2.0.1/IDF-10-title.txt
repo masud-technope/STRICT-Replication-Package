@@ -1,0 +1,16 @@
+1888	generics Add Kernel Add generics Kernel
+1762	ManyToMany PessimisticLockScope portion small tables FORCE block problem scenario relationship javax persistence lock scope EXTENDED doesn properly lock join tables
+1699	Streaming Lob support Streaming Lob support
+1764	databases dbcp DBCP pooling apply running unmanaged today based configure Automatically enable connection pooling unmanaged environments
+1765	TableGenerator threads testing duplicate top problem TableJDBCSeq multiple JDBCSeq unit TableGenerator doesn properly utilize heavy stress Table Generator
+1830	INVISIBLE toProperties overwritten props StringValue connectionPassword writeExternal readExternal serialized Password Deserialization EMF connectionPassword overwritten INVISIBLE connection Password
+1863	HSQLDB Blobs HSQL dictionary update Object set update HSQL dictionary HSQLDB
+1896	attempts recommend prepstmnt stored users pkey filesystem constructed recreate newly OpenJPA store POJOs record exists Open JPA
+1865	Running keySet entrySet entry iterator simple Find code key Set inefficient keySet iterator entrySet iterator key Set entry Set
+1613	annotate workaround enhancer MetaDataException consistent AccessType declare based compatible versions Exception thrown enhancing property access MappedSuperclass annotated properties Mapped Superclass
+1837	ElementCollection limited EmbedOwner SNAPSHOT ArgumentException fails EmbedValue Oracle persistent Lob ElementCollection Embeddable blob fails Oracle Element Collection
+1870	users blobs based existing email MySQL BINARY storage override behavior Blob types override column definition Column annotation MySQL SQL
+1743	anchors anchor mappingtool ant work Tool support configuration EMF Tool configuration support EMF anchors
+1943	stored consistently scheme separate statements portion attached difference requires generate Query timeout hint honored consistently pessimistic lock issued database requires multi statements locking scheme
+1784	saved setters ElementCollection getters Localized modified getTransaction existing language force Map updates flushed
+1627	OneToMany prepstmnt CascadeType Linked branch idea fragment ElementJoinColumn params EmbeddedId ORderBy ElementJoinColumn EmbeddedId wrong columns SQL ORder Element Join Column Embedded

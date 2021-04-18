@@ -1,3 +1,0 @@
-providers/bundles/org.eclipse.ecf.provider.dnssd/src/org/eclipse/ecf/provider/dnssd/IDnsSdDiscoveryConstants.java
-providers/bundles/org.eclipse.ecf.provider.dnssd/src/org/eclipse/ecf/provider/dnssd/Activator.java
-providers/bundles/org.eclipse.ecf.provider.dnssd/src/org/eclipse/ecf/provider/dnssd/DnsSdDiscoveryLocator.java

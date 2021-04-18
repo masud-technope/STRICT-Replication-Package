@@ -1,0 +1,2 @@
+ASTNodes:getType(VariableDeclaration)
+ASTNodes:getDimensions(VariableDeclaration)

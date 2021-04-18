@@ -1,2 +1,0 @@
-49002 – Unit tests fail on gcj and Apache Harmony due to stack trace expectations
-Many unit tests would fail when run under gcj or Apache Harmony due to overly-specific expectations of the stack trace (particularly around reflection calls).

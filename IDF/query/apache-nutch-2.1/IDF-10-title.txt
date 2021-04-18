@@ -1,0 +1,17 @@
+1569	Patch Gora push Upgrade Gora
+1542	reason urls left clear param generator Generator fetch crawl adddays param generator
+1575	authentication support solr nutch support solr authentication nutch
+1513	docs bug EmptyRobotRules RobotRules getRobotRules robots Robots control CrawlDatum urls Support Robots txt Ftp urls
+1514	Phase mod mail reference properties user configuration http apache org Phase deprecated configuration properties
+1419	Unix points title SSL empty tstamp Open checked redirect report parsechecker indexchecker report protocol status
+1453	TestIndexingFilters share IndexingFilters problem Filters common follow Indexing current indexer Substantiate tests IndexingFilters Indexing Filters
+1552	variable MoreIndexingFilter attempt Indexing read Type indexer content code http possibility NPE plugin
+1393	stdout bin runtime Display generate script params urls auto action Display consistent usage GeneratorJob Generator Job
+1493	patch solrindex contentLength empty accept solr Error field content Length Error adding field contentLength solrindex content Length
+1047	Pluggable feature resources backend moment handle Elastic plugins Search reduce Pluggable indexing backends
+1370	urlDir crawldb runtime crawlDb Injected injected Plugins urls PluginRepository Repository Expose exact number urls injected runtime
+1563	FetchSchedule user Schedule getFields Fields fields method Fetch Job WebPage FetchSchedule getFields GeneraterJob Fetch Schedule Fields Generater Job
+956	solrindex build refer command html http nutch solrindex issues
+1532	Replace mail msg segment mapping user batch batchId solr xml Replace segment mapping field batchId batch
+1501	Behaviour missing ParserChecker behavior Checker open Filters Indexing Parser NUTCH Harmonize behavior parsechecker indexchecker
+1503	Bug Patch sync byIP properties timelimit getLong getBoolean queue FetcherReducer Configuration properties sync FetcherReducer nutch xml Fetcher Reducer

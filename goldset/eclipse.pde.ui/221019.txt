@@ -1,0 +1,1 @@
+RequiredPluginsClasspathContainer:addSecondaryDependencies(BundleDescription, HashSet, ArrayList)

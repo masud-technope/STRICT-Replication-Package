@@ -1,0 +1,2 @@
+org.gjt.sp.jedit.Registers:clearRegister(char)
+org.gjt.sp.jedit.Registers:getRegisterNameString()

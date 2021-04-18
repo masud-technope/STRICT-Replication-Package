@@ -1,0 +1,84 @@
+18306	prevents opening shouldn runnables safe delegates NPE support listeners platform Bug safe runnables listeners untrusted code
+53634	switching additional bootclasspath newly removing work adding don libraries application Bug JRE libraries don work running application
+76675	independent separate reuse Requires Partitioner consoles matching Matching IOConsole creation Bug Pattern Matching independent IOConsole IOConsolePartitioner IOConsole Partitioner
+40707	Press opening disabling Disable setting properties Enable Note Bug watchpoint Bug Breakpoint remains enabled disabling setting hit count
+13957	consideration limitation intended specification initializes option Builder Exclusion setting constant Bug LaunchingPlugin specification resourceCopyExclusionFilter Launching Plugin resource Copy Exclusion Filter
+31110	points Debugger debugger work Advanced select archive Build lookup Lookup Bug Debbugger Source Lookup work variables
+335363	Basic checkboxes Notice Colors Click question checkbox doesn General problem Bug Add Java Exception Breakpoint dialog truncated text checkboxes font size increased
+422016	function inferred haven isn Lambda Reason marked triggers detect synthetic Bug reference expressions lambdas file triggers warning missing numbers
+24839	Classic Edition debugging printed IBM Windows TimeoutException problems times attached Bug TimeoutException debugging org eclipse tests Timeout Exception
+217994	overrides builds Tested Steps behavior app invoking prints getProperty Execute Bug patch launching Debug honors JRE args Launcher args
+94474	deselect Press dialogs attachment libraries jar Edit select pref Installed Bug Unable change source attachment JRE jar
+21776	enables invoked checks IStack enable Frames frames Evaluate getAdapter Bug Bug Evaluate action enabled java stack frames
+197011	retain lost additional Steps IDE Click click JARs Windows works Bug Add JRE fails retain system library modifications
+401815	download drops linux Linux OSX failing failures parsing html Windows Bug PList parser test failures tests
+463252	download drops html http dot Compile warning Bug log JDT Bug Compile log warning JDT Debug
+455199	debugging Debugging stub work properly doesn TODO UnsupportedOperationException call generated Bug debug Debugging doesn work properly classes
+43418	choosing takes seconds Browse Click cursor busy pressed choose libraries Bug busy cursor choosing JRE base directory
+102427	debugging undefined indicating doit inspect execute Helper select methods Bug Bug inspect display methods
+275614	REGRESSION screen session builds Explorer paste Steps expanded expand including Bug REGRESSION threads longer expanded Debug view visible
+184862	deal Deal Card formed hand subList Hand TEN statements work Bug evaluation evaluation method generics work
+37918	printed Device digit attach running time title version window console Bug Console format Japanese
+22815	Support support viewers key delete Bug Bug Support delete key viewers
+112670	CTRL treeitem normal invokes blocks Commands windows focus SPACE details Bug toggle selection treeitem variables view
+23328	Capacity hitting addElement resumes Vector stepping problem time fails Full Bug Resume fails suspend breakpoint stepping BUG
+85665	radio adding Alternate combo selected JRE button Bug container empty Bug JRE container dialog empty combo
+9122	latest debugging worked waited performance launched problem junit time mode Bug debugging extremally slow latest
+28195	Delegating net basic ISafeRunnable KVM ISafe Debugging exited unavailable LaunchManager Bug NPE shutdown debug remote launch
+183206	reason failures prevent good caused fail ensure Build failure refactoring Bug refactoring Mysterious refactoring failure caused tests fail
+204455	remembered Notice Updating opened specifies properly Remote Attach Port Listen Bug ConnectionType remembered Remote Java Application Launch Config Connection Type
+421806	treat inspection green JSR BETA debugging separate snippets debugger work Bug Debug support Java
+53929	showing common jars tree zip libraries multiple properties jar version Bug Classpath tree entries FULL path
+57257	dispatch Bounds Bug Array event debug Exception Bug ArrayOutOfBoundsException debug event dispatch Array Bounds Exception
+49068	amount space needed widgets pref installed Installed JREs Bug top Bug Large space top Installed JREs pref
+9649	rebuild autobuild motif reports Turn closes memory Clean process Progress Bug rebuild returns
+13364	properties condition Bug dialog breakpoint set Bug visual indication breakpoint condition set
+90805	beep told Beep blank stepped cleared clicked showing evaluated Problems Bug Drop frame failed evaluation message error dialog evaluation flag cleared
+165174	turned lost sync attach stepping monitors viewers view Bug block Bug viewers selection lost launch view stepping sync block
+255031	EEs CDC Foundation prevent compile director compiled longer warning projects Bug Missing EEs prevent project build
+49077	jars bootpath jar config Bug command append create Bug append jar bootpath
+37942	nicely listed located JARs included option displayed determine details setting Bug Launch config dialog determine full location JARs listed classpath
+108473	responding restart dependent allocated correctly Windows JDK times runs performance Bug Performance performance eclipse severely degrades time
+428862	Serializable function Development LineNumberTable BETA Assertion reach Serialized lambda Lambda Bug Unable install breakpoint
+432190	archived javax docs ActionType deploy oracle javase individual html http Bug Update Javadoc locations docs api
+10811	listens terminating dead notifications properly launches send removed HCR Bug Bug Deregistered launches removed JavaHCRManager Java HCRManager
+21823	easier deeper requires adapters performing proxy retrieve objects write Bug Bug java debug model adapters
+53952	displayed Vector util view Bug variables Variables display args main Bug type local variables displayed
+10817	copying copied packages configs shared folder selected config resources Bug Bug configs java packages copied output folder
+171075	moment disconnects lead Disconnecting finding debugging session Session snippets disconnection Bug Java Editor Disconnecting Debug Session
+53959	correctly displays option displayed Vector util mode view names Bug Bug Nested type names correctly displayed
+323020	Mac failure Bug test Bug test failure Mac
+120651	CTRL bring work works Space details Testcase assist Assist time Bug Display Content Assist work consistently Variables View
+125771	appears properly retrieving created external Bug unable breakpoints create source Bug unable create method breakpoints external source
+339414	allowing supportsHeapWalking considers HeapWalking supplied versions provide HeapWalkingManager walking heap Bug HeapWalking manager support debug targets provide IJavaDebugTarget adapter Heap Walking IJava Debug Target
+297808	issues Apple clone compatibility versions Windows constant actions created removed Bug resolve compatibility issues Eclipse constant internals JDT
+27989	chance suggestion Usage require expensive Scenario good candidate Provide updated Bug Provide verification launch configuration API
+161364	independent formed debugging statements feature work works Evaluations Evaluating Generics Bug Evaluating Code Generics work debugging
+13015	resumes evaluated evaluates stepping condition conditional Bug step thread breakpoint Bug stepping conditional breakpoint
+64984	work doesn Inspect View Bug Display log Bug Inspect doesn work Display View
+212442	Failing logic causing failures clause comparing problem statement Bug Integer Bug Failing importbreakpoints tests
+94047	Toolbar toolbar opening Ant causing contribute components activated activation don Bug ActionSets classpath Toolbar shudders opening Classpath Variables preference Action Sets
+12640	runnables removeFromTarget correctly IWorkspaceRunnable invoking IWorkspace call created JavaBreakpoint workspace Bug Workspace runnable correctly
+371300	tPerfect discovered tUser tFirst discovers behaviour Perfect failing computeVMInstall Steps Bug JavaRuntime computeVMInstall method returns workspace compatible version launch configuration Java Runtime compute VMInstall
+105573	suspension problems caused NullPointerException severity warning uncaught Pointer foo literal Bug suspend uncaught exception compiler warning
+33893	incorrectly existant plug updates ignore defined exist JREs invalid Bug Bug Preference existant JREs
+86887	reason JSP assumes work passed Conditions call IFile correct JavaLineBreakpoint Bug Conditions work JSP breakpoints
+206693	wiki copied simply http configured installing bin resolves relative column Bug JRE location wrong installing description file
+42984	JVMs basedir defines Ant ant echo processes prints setting Base Bug set working directory args Ant processes
+72169	providing getDebugContext work works hover background DebugUITools UITools service threads Bug debug context thread
+208744	comments Workaround Steps reason split Watchpoints watchpoints declarations foo Reads Bug breakpoints Unable set watchpoints field declarations
+29036	Sorted AbstractTreeViewer net basic treeExpanded VariablesViewContentProvider TreeEvent Thought debugging Lorg Bug NPE debugging
+34670	uncheck lists Configs needed select config key DELETE Bug tab Bug Java Launch Configs DELETE key event lists classpath tab
+10096	ion download net jrockit understands ways older man suggested JRockit Bug Eclipse aware launched JVM JRockit
+29297	honor debugger folders searches compiled multiple properties folder version build Bug Debug honor multiple output folders
+241394	captured abc readLine InputStreamReader BufferedReader Steps texts applications del works Bug Console input text properly eclipse console panel
+29683	prompted existant naming Press free prompt explicit choose resolution save Bug naming prompt JRE resolution
+30837	Loss NPE select view Bug variables suspended variable thread code Bug Loss suspended breakpoint
+94452	attempting produce holding views displayed Vector exceptions stepping Stepping problem Bug Timeout exceptions
+12665	Follow steps problems currentTimeMillis Millis pop Time time wizard conditional Bug ClassNotLoaded JDI exception conditional breakpoint Loaded
+343039	race turning debugging turned ability Turn debugger including deadlock option Bug Turn monitors
+400636	appears regression difference OSX debugging Oracle codeassist work worked Application Bug codeassist work Display view
+53115	logging Ant contribute Contribute Prefs Remote remote handles extra URL Bug Contribute remote Ant support extraClasspathEntry extra Classpath Entry
+396795	toggling sashform panes sash depends Click Prevent explicitly changing background Bug Prevent breakpoint detail panes changing background colour selection
+33534	Ant range supported Bug Editor Bug Ant Editor range indication supported
+144253	behaviour longer force fire events lookup Bug CHANGE stack Stack Bug source lookup Stack Frame CHANGE events longer force source lookup

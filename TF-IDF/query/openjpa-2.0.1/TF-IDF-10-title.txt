@@ -1,0 +1,16 @@
+1888	generics Add Kernel Add generics Kernel
+1762	lock javax scope ManyToMany unit EXTENDED PessimisticLockScope portion small table javax persistence lock scope EXTENDED doesn properly lock join tables
+1699	Streaming Lob support Streaming Lob support
+1764	dbcp unmanaged commons args databases DBCP pooling apply running today Automatically enable connection pooling unmanaged environments
+1765	threads problem multiple TableGenerator testing duplicate Table top TableJDBCSeq JDBCSeq TableGenerator doesn properly utilize heavy stress Table Generator
+1830	connectionPassword INVISIBLE Password External connection toProperties overwritten props StringValue writeExternal Deserialization EMF connectionPassword overwritten INVISIBLE connection Password
+1863	HSQLDB Blobs HSQL dictionary update Object set update HSQL dictionary HSQLDB
+1896	record database POJO existing merge stored exists objects filesystem constructed OpenJPA store POJOs record exists Open JPA
+1865	iterator keySet entrySet entry Running key Set simple Find code inefficient keySet iterator entrySet iterator key Set entry Set
+1613	access property enhancer implicit annotated superclass Superclass MappedSuperclass style persistent Exception thrown enhancing property access MappedSuperclass annotated properties Mapped Superclass
+1837	EmbedOwner fails annotations EmbedValue Oracle Embed Collection element ElementCollection limited ElementCollection Embeddable blob fails Oracle Element Collection
+1870	MySQL column users blobs annotation based existing email BINARY storage Blob types override column definition Column annotation MySQL SQL
+1743	anchor anchors mappingtool ant work Tool support configuration EMF Tool configuration support EMF anchors
+1943	timeout statements requires lock pessimistic Query stored consistently EntityManagerImpl database Query timeout hint honored consistently pessimistic lock issued database requires multi statements locking scheme
+1784	Localized getTransaction Transaction merge map Embeddable String change getMap Map Map updates flushed
+1627	Transaction Column ASC columns fragment ElementJoinColumn params EmbeddedId process transaction ORderBy ElementJoinColumn EmbeddedId wrong columns SQL ORder Element Join Column Embedded

@@ -1,0 +1,17 @@
+1569	Upgrade Gora
+1542	adddays param generator
+1575	support solr authentication nutch
+1513	Support Robots txt Ftp urls
+1514	Phase deprecated configuration properties
+1419	parsechecker indexchecker report protocol status
+1453	Substantiate tests IndexingFilters Indexing Filters
+1552	possibility NPE plugin
+1393	Display consistent usage GeneratorJob Generator Job
+1493	Error adding field contentLength solrindex content Length
+1047	Pluggable indexing backends
+1370	Expose exact number urls injected runtime
+1563	FetchSchedule getFields GeneraterJob Fetch Schedule Fields Generater Job
+956	solrindex issues
+1532	Replace segment mapping field batchId batch
+1501	Harmonize behavior parsechecker indexchecker
+1503	Configuration properties sync FetcherReducer nutch xml Fetcher Reducer

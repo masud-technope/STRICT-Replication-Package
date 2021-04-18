@@ -1,0 +1,2 @@
+hover help stops working after mousing over end of file
+From Stable F2 Build In a java file in Java Editor. Move the mouse to the whitespace at the end of the file..like the lower-right-most region of the java file. Stay there for about 3 secs or so, then mouse over some text in the java file where you would expect hover help. The hover help no longer works for the file. I tried toggling the hover help button on/off/on, switching to other editors then back, none of those methods seem to bring the hoverhelp back on. I need to close and reopen the file to get hover help back.

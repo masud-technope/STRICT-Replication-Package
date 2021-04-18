@@ -1,3 +1,0 @@
-Bug 319878 – [Discovery] Add time to live (TTL) to IServiceInfo
-Most discovery providers support the notion of a TTL.
-IServiceInfo may also support setting a TTL and define a default too.

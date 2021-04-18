@@ -1,0 +1,8 @@
+M:org.apache.mahout.cf.taste.hadoop.EntityEntityWritable:compareTo(org.apache.mahout.cf.taste.hadoop.EntityEntityWritable) (S)org.apache.mahout.cf.taste.hadoop.EntityEntityWritable:compare(long,long)
+M:org.apache.mahout.cf.taste.hadoop.EntityPrefWritable:hashCode() (S)org.apache.mahout.common.RandomUtils:hashFloat(float)
+M:org.apache.mahout.cf.taste.hadoop.EntityEntityWritable:hashCode() (S)org.apache.mahout.common.RandomUtils:hashLong(long)
+M:org.apache.mahout.cf.taste.common.Weighting:valueOf(java.lang.String) (S)java.lang.Enum:valueOf(java.lang.Class,java.lang.String)
+M:org.apache.mahout.cf.taste.hadoop.EntityCountWritable:write(java.io.DataOutput) (S)org.apache.mahout.math.Varint:writeUnsignedVarInt(int,java.io.DataOutput)
+M:org.apache.mahout.cf.taste.hadoop.EntityCountWritable:readFields(java.io.DataInput) (S)org.apache.mahout.math.Varint:readUnsignedVarInt(java.io.DataInput)
+M:org.apache.mahout.cf.taste.hadoop.EntityEntityWritable:readFields(java.io.DataInput) (S)org.apache.mahout.math.Varint:readSignedVarLong(java.io.DataInput)
+M:org.apache.mahout.cf.taste.hadoop.EntityEntityWritable:write(java.io.DataOutput) (S)org.apache.mahout.math.Varint:writeSignedVarLong(long,java.io.DataOutput)

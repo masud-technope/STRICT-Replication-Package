@@ -1,0 +1,16 @@
+207	aTune Tune screen view Tune standard Full full click	Tune	option
+212	song album picture songs biography tab linger info		Context panel
+213	Xine Tunes song aTunes Tunes behaviour formats engine files	Tunes	supported formats skipped Xine
+220	OSD button play displayed track pressing jumping previous		OSD displayed jumping previous track
+221	work mode window Multiple multiple		Multiple window mode work
+227	Tunes aTunes Tunes doesn window preferences isn work properties	Tunes	Request restarting doesn work
+230	Operation tag track file set property Tag Info	Operation set Tag Info Tunes Modifier Unsupported Exception	tag
+231	image Supports format Internal Image versions file version	Supports Internal Tunes Image	add image repository read older app version
+240	window lyrics occasion Tunes Performing action occur close	Tunes	Set lyrics automatically terminated
+245	folder playlist label radios Labels Classical stations add		Radio Labels playlist
+259	listening submitted bug submission		submission bug
+260	aTunes Tunes Screen Tunes work screenshot Windows doesn Full	Tunes	Full Screen doesn work Windows aTunes Tunes
+264	player songs song time playing Westerberg Miles info		Wrong song duration displayed player
+276	Tunes system aTunes Tunes sound play button mute bar	Tunes	Mute
+278	title change Edit Tunes mouse click tab Thibault	Tunes	Edit Titles Fails
+281	INFO START JIntellitype HANDLER Searchable engines lists path	Searchable JIntellitype Tunes Supported Repository Object Favorites	Mute button

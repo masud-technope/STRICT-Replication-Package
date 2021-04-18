@@ -1,3 +1,0 @@
-Bug 308957 – New wizards need to check for filtered resources
-FUP of bug 297184.
-Like the New File wizard we need to protect the JDT wizards from creating filtered resources.

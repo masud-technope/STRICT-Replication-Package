@@ -1,0 +1,17 @@
+1569	upgrade Patch push released coming Maven artifacts Upgrade Gora
+1542	param fetch Generator crawl hack urls generator adddays adddays param generator
+1575	nutch support authentication solr support solr authentication nutch
+1513	Text Ftp robots urls plugin nutch file accepting google control Support Robots txt Ftp urls
+1514	apache configuration deprecated functionality removed properties mail Bdf Gdc VSh Phase deprecated configuration properties
+1419	org lucene fetching protocol apache indexchecker status code URL redirect parsechecker indexchecker report protocol status
+1453	agreed discussed follow Filters Indexing NUTCH test TestIndexingFilters Test Indexing Filters indexer Test Substantiate tests IndexingFilters Indexing Filters
+1552	read code src org indexer attempt content java apache Filter possibility NPE plugin
+1393	generate lewis generating Generator usage GeneratorJob Generator Job printed nutch code stdout Display consistent usage GeneratorJob Generator Job
+1493	Length contentLength content Length string accept assume content attached adding solr Error Error adding field contentLength solrindex content Length
+1047	indexing plugins reduce add Search deduplicating backends storage handle hardwired Pluggable indexing backends
+1370	crawl INFO urls code injected Injector fetching Injected runtime Expose Expose exact number urls injected runtime
+1563	Schedule Fields FetchSchedule Fetch Schedule Fetch WebPage Web GeneraterJob Generater Job Generater getFields Fields Web Job FetchSchedule getFields GeneraterJob Fetch Schedule Fields Generater Job
+956	refer describes build solrindex nutch http techvineyard html blogspot tests solrindex issues
+1532	reflects field segment batch replaced Replace mail org archive apache Replace segment mapping field batchId batch
+1501	diverged missing ParserChecker Parser Checker Checker Behaviour Parser IndexingFiltersChecker Indexing Filters Checker Indexing behavior trunk Harmonize behavior parsechecker indexchecker
+1503	conf code fetcher nutch xml removed FetcherReducer Fetcher Reducer updated Fetcher Reducer Configuration properties sync FetcherReducer nutch xml Fetcher Reducer

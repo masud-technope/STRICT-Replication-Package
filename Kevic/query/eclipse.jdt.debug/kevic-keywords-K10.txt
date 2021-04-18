@@ -1,0 +1,84 @@
+18306	platform prevents opening launch shouldn runnables safe delegates configuration support
+53634	libraries running application JRE switching additional bootclasspath newly JREs removing
+76675	independent separate reuse consoles matching creation trace pattern console based
+40707	hit enabled properties opening disabling count dialog breakpoint setting watchpoint
+13957	setting consideration limitation intended specification initializes option constant bugs code
+31110	variables source points debugger work select archive lookup selected find
+335363	font dialog text checkboxes question checkbox size doesn problem details
+422016	warning function missing classes inferred haven attributes isn marked triggers
+24839	build TimeoutException mode debugging printed log problems times attached suite
+217994	args JRE arg level overrides getProperty builds launch behavior app
+94474	attachment source deselect JRE dialogs libraries jar select pref JREs
+21776	action invoked enabled stack frames enables checks enable Evaluate adapter
+197011	lost click system adding libraries external window retain additional works
+401815	parser html tests download drops linux PList failing failures parsing
+463252	warning log download drops html http dot eclipse Compile org
+455199	call def accept debugging stub work properly doesn generated auto
+43418	cursor busy choose choosing takes directory seconds pressed libraries base
+102427	doit inspect debugging display undefined indicating execute select methods method
+275614	expanded view perspective threads window visible auto screen bug workbench
+184862	hand deal enum args ArrayList protoDeck deckSize newDeck handView numHands
+37918	format console printed digit attach running time title version window
+22815	key delete viewers support Support Bug
+112670	toggle variables selection view treeitem normal invokes blocks windows focus
+23328	breakpoint size stepping hitting step resumes suspend problem time fails
+85665	combo container dialog empty radio adding selected button JRE project
+9122	waited latest debugging worked performance launched problem junit time mode
+28195	shutdown lang reflect java unavailable core invoke eclipse org internal
+183206	refactoring failure caused tests fail reason failures prevent good ensure
+204455	launch connection remembered opened specifies properly configuration apply button enabled
+421806	debugger support verify work Java ensure level treat inspection green
+53929	tree jar entries path showing resource common jars FULL zip
+57257	dispatch event ArrayOutOfBoundsException debug Array Bug Bounds Exception
+49068	space amount JREs needed widgets pref installed top description preference
+9649	autobuild rebuild workspace motif reports closes memory classpath process swt
+13364	condition breakpoint set properties dialog Bug visual indication
+90805	beep frame evaluation resumed error told Drop showing evaluated FiltersAction
+165174	lost sync stepping view block selection launch turned attach println
+255031	build project warning projects load prevent compile director compiled longer
+49077	bootpath jars jar config command append create tacked Bug
+37942	determine dialog config full included classpath location nicely listed JARs
+108473	time running correctly mode responding restart dependent allocated times runs
+428862	breakpoint install main accept function write exit debug attributes java
+432190	docs api http oracle Javadoc html ActionType javase archived javax
+10811	launches removed JavaHCRManager listens terminating dead notifications properly launch send
+21823	adapters model debug java easier deeper requires performing proxy retrieve
+53952	display displayed util breakpoint view variables args main local println
+10817	copied output folder copying config java packages configs shared selected
+171075	problem remote debugging hover moment disconnects lead trace finding session
+53959	util names correctly displays option displayed mode breakpoint view args
+323020	failure test Bug Mac
+120651	assist work list bring content display Variables Content add ArrayList
+125771	external method appears source properly retrieving created unable breakpoints create
+339414	targets walking heap allowing considers adapter debug supplied IJavaDebugTarget versions
+297808	issues compatibility Eclipse Bug internals ValidBreakpointLocationLocator AppleWebKit clone versions constant
+27989	perform check time launch configuration checks chance suggestion require expensive
+161364	debugging independent formed statements feature code work works pointer getInputs
+13015	stepping conditional condition breakpoint resumes evaluated evaluates step thread Bug
+64984	work doesn Inspect Display log Bug View
+212442	logic causing failures clause comparing problem statement equal tests breakpoints
+94047	toolbar preference opening causing contribute components Variables Classpath shudders activated
+12640	runnable runnables correctly invoking call created workspace bug IWorkspaceRunnable removeFromTarget
+371300	workspace installs compatible JavaRuntime behaviour environment version method returns launch
+105573	warning compiler uncaught foo main trace args suspension problems caused
+33893	incorrectly existant JREs plug updates ignore defined exist invalid update
+86887	file reason assumes work passed call correct condition archive returns
+206693	wiki description location copied simply JRE http configured installing bin
+42984	basedir ant working directory set dir running user defines JVMs
+72169	context debug threads providing access thread work works hover background
+208744	watchpoints set comments watchpoint reason unable split declarations breakpoints foo
+29036	swt widgets lang eclipse win org debugging internal NPE invokeL
+34670	uncheck lists path classpath needed select config key tab hit
+10096	jar exe Eclipse JVM rserAPIs ToolsCommon noWin JavaMail xmlParserAP ToolsConsole
+29297	folders output multiple folder build honor debugger searches path compiled
+241394	console input del text properly eclipse problem expected captured abc
+29683	prompted build project existant naming free container prompt explicit classpath
+30837	suspended breakpoint select view variables variable thread code object result
+94452	exceptions step attempting update produce holding views displayed stepping problem
+12665	conditional breakpoint workbench steps problems pop time wizard launcher copy
+343039	monitors race turning debugging turned ability debugger including deadlock option
+400636	codeassist work appears regression difference debugging view worked Display Java
+53115	support extra logging contribute remote handles jar required build Ant
+396795	background detail breakpoint selection pane toggling sashform panes sash depends
+33534	range supported Bug Ant indication Editor
+144253	force events lookup source behaviour longer CHANGE fire stack frame

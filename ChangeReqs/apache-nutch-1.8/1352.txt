@@ -1,0 +1,2 @@
+Improve regex urlfilters/normalizers synchronization
+I noticed that during fetching a lot of the time the fetcherthreads are blocking on a monitor because of outlink normalizing/filtering. The cause of this: Some of the regex plugins use single lock synchronization. This patch improves throughput by removing synchronization locks and replace them with threadlocals were needed. It has been extensively tested in production. I will commit this later today when no objection.

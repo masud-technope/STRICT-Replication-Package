@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2018 Mohammad Masudur Rahman, Chanchal K. Roy and David Lo
+Copyright (c) 2021 Mohammad Masudur Rahman, Chanchal K. Roy and Foutse Khomh
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

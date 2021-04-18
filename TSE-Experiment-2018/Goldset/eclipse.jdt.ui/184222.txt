@@ -1,3 +1,0 @@
-org.eclipse.jdt.ui/templates/default-templates.properties
-org.eclipse.jdt.ui/templates/default-templates.xml
-org.eclipse.jdt.ui.tests/ui/org/eclipse/jdt/ui/tests/quickfix/AdvancedQuickAssistTest.java

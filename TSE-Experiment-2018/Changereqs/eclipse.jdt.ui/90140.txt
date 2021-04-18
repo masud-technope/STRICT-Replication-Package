@@ -1,1 +1,0 @@
-Bug 90140 – [quick fix] for qualified enum constants in switch-case labels

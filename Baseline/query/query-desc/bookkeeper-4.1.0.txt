@@ -1,0 +1,21 @@
+514	attached logs channel manager test bad callback
+326	Deadlock ledger recovery find attached thread dump
+330	hedwig server bookkeeper BOOKKEEPER
+272	idea build automatic mechanism find bookie failures Setup bookie failure notifications start replication process multiple approaches findout bookie failures refer documents attached BookKeeper Book Keeper
+336	Scenario Start bookies Create ledger ensemblesize quorumsize Add entries ledger bookie read entries Output entry fetch failed bookie waiting bookie connection timeout failure bookie read entry performance Impact Namenode switching time adding failed bookie readTimeOut read Time
+337	Scenario Start Write ledger ensemble quroum size write inprogress bookies Bookies ensemble
+472	option start Autorecovery Bookie servers users load servers start Bookie servers feel Auditor disturb Bookie performance start separate process deployment overhead reduce bit Monitoring process monitor process lifcycles Thoughts
+345	jira detect IOExceptions EntryLogger iterate configured ledger IOException writable dirs move bookie mode mode enabled mode disabled bookie shutdown writable disk Entry Logger
+346	jira detect IOExceptions LedgerCache iterate configured ledger Ledger Cache
+347	jira discuss bookie client bookie running required client choose writable bookies add entries
+355	Scenario Ledger created ensemble quorum size written entry bookie ensemble client fence recover ledger time ensemble change happen bookie bookie connect recovery fail bookie client recover ledger bookie ensemble doRecoveryRead reading bookie NoSuchLedgerException closing ledger Marking ledger empty client written entry Recovery Read Ledger Exception
+299	Replication worker requires LedgerFragmentReplicator replicating actula fragments Ledger checker fragment replication code BookKeeperAdmin refactor LedgerFragmentReplicator Ledger Fragment Replicator Book Keeper Admin Ledger Fragment Replicator
+491	properly doc describing configuration parameters hedwig server
+300	Provide bookie format command admin command machine prepare bookie env Zookeeper paths znodes ledger root path bookie path Directories Journal directories Ledger directories
+431	definitions COOKIES NODE cookie java AbstractZkLedgerManager Ledger Manager
+498	Jenkins build complaining NPE
+55	channelDisconnected envent automatically recover connection subscription users call HedwigSubscriber subscribe time succeed auto recovery auto recovery succeed server report topic busy failure SubscribeReconnectRetryTask retry endlessly auto test easy firstly check channel topic subscribe subscription created don bother recover channel Disconnected Hedwig Subscriber Subscribe Reconnect Retry Task
+247	JIRA discusses bookkeeper system detect underreplication ledger entries
+248	subtask discusses rereplicate underreplicated entries
+318	code Override processResult String path Object ctx successRc LOG error Error multi callback exceptions add tick code process Result success
+447	Bookie steal LedgerCacheImpl grabCleanPage file reflect unacknowledged entries flushLedger Suppose ledger entry fail flush Bookkeeper server crash ledger recovery bookie afterward InterleavedStorageLedger getEntry IOException ackSet bookies experience problem environment ledger recover problem essentially violation WAL reasonable track ledger flush progress ledger entry topic message flush tracks entries ledger log flushed Ledger Cache Impl grab Clean flush Ledger Interleaved Storage Ledger Entry ack Set

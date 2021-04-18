@@ -1,2 +1,0 @@
-org.eclipse.jdt.ui/plugin.xml
-org.eclipse.jdt.ui/ui/org/eclipse/jdt/internal/ui/JavaPerspectiveFactory.java

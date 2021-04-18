@@ -1,0 +1,2 @@
+Will not un-Mute
+If I pause music and mute my system, aTunes mutes as well. When I un mute the system, aTunes still shows muted. Manually un mute aTunes and push play, aTunes interface no longer shows muted and the progress bar continues, yet no sound. Perform a full stop then play again and sound returns. More careful examination reveals that the volume button does not update when system is unmuted (from keyboard at least).

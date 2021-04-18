@@ -1,2 +1,0 @@
-[SLING-5088] sling-mock: Threads created by resource resolver/JCR are not terminated properly - ASF JIRA
-as detected in SLING-5067 threads that are opened during unit test run when setting up resource resolver with JCR mapping for the mocks are not terminated properly and may lead to problems if the number of unit tests increases.

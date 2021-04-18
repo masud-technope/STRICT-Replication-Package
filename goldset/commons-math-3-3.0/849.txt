@@ -1,0 +1,5 @@
+org.apache.commons.math3.special.Gamma:logGamma(double)
+org.apache.commons.math3.special.GammaTest:testLogGammaNegative()
+org.apache.commons.math3.special.Gamma:Gamma()
+org.apache.commons.math3.special.GammaTest:testLogGammaZero()
+org.apache.commons.math3.special.GammaTest:testLogGammaPositive()

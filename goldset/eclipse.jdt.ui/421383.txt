@@ -1,0 +1,1 @@
+JavaPluginImages:createImageDescriptor(Bundle, IPath, boolean)

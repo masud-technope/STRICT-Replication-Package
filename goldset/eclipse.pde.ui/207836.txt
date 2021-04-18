@@ -1,0 +1,1 @@
+PluginExtension:equals(Object)

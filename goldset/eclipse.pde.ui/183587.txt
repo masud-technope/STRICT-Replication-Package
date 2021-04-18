@@ -1,0 +1,1 @@
+SearchablePluginsManager:modelsChanged(PluginModelDelta)

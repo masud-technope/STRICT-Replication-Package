@@ -1,1 +1,4 @@
-tests/bundles/org.eclipse.ecf.tests.filetransfer/src/org/eclipse/ecf/tests/filetransfer/URLRetrievePauseResumeTest.java
+URLRetrieveTest:testReceiveGzipWithGZFile()
+URLRetrieveTest:testReceiveFile1()
+URLRetrieveTest:testReceiveGzipWithGZFileFromMirror()
+URLRetrieveTest:testReceiveNonCanonicalFile()

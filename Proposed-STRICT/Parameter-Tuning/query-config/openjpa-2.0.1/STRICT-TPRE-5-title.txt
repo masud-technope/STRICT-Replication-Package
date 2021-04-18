@@ -1,0 +1,16 @@
+1613	JPA Superclass Access access property	Superclass Data Type Subclass Access	Exception thrown enhancing property access MappedSuperclass annotated properties Mapped Superclass
+1627	Column transaction Transaction TransactionId Transaction String	Column Type	ORderBy ElementJoinColumn EmbeddedId wrong columns SQL ORder Element Join Column Embedded
+1699	Lob support Streaming		Streaming Lob support
+1743	support EMF work anchor configuration		Tool configuration support EMF anchors
+1762	Lock lock scope javax table	Lock Scope Pessimistic	javax persistence lock scope EXTENDED doesn properly lock join tables
+1764	Data Basic args connection databases	Data Basic Driver Source	Automatically enable connection pooling unmanaged environments
+1765	Table problem threads stress testing	Table JDBCSeq Generator	TableGenerator doesn properly utilize heavy stress Table Generator
+1784	String Map Entity map LocalizedString Localized String	String Map Entity Element Manager	Map updates flushed
+1830	External connection connectionPassword connection Password Impl EMF	External Impl Configuration connection	Deserialization EMF connectionPassword overwritten INVISIBLE connection Password
+1837	Collection Embed Argument element blob	Embed Collection Argument Exception Owner	ElementCollection Embeddable blob fails Oracle Element Collection
+1863	Object HSQLDB HSQL dictionary Blobs	Object Blobs	update HSQL dictionary HSQLDB
+1865	Set Bugs iterator enhancements Find	Set Bugs Find entry key	inefficient keySet iterator entrySet iterator key Set entry Set
+1870	column MySQL SQL Column OPENJPA annotation	column Definition SQL	Blob types override column definition Column annotation MySQL SQL
+1888	generics Kernel Add		Add generics Kernel
+1896	record data database OpenJPA Open JPA objects	Pj SQLException JPA location String	OpenJPA store POJOs record exists Open JPA
+1943	Query Impl Manager lock query	Impl Manager Entity Query	Query timeout hint honored consistently pessimistic lock issued database requires multi statements locking scheme

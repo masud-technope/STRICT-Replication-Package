@@ -1,0 +1,2 @@
+NewProjectCreationPage:NewProjectCreationPage(String, AbstractFieldData, boolean, IStructuredSelection)
+NewProjectCreationPage:createControl(Composite)

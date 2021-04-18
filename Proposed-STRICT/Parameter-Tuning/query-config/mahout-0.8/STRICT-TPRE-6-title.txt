@@ -1,0 +1,15 @@
+1030	Vector Weighted Points Classification change distance	Vector Classification Points clustered Weighted Property	Regression Clustered Points WeightedPropertyVectorWritable WeightedVectorWritable Weighted Property Vector Writable Weighted Vector Writable
+1242	hashCode hash Code code function maps hash Functions	Functions Hash Code hash	key redistribution function associative maps
+1261	Vectors Taste MAX Hadoop Similarity Integer	Similarity Hadoop Vectors User	TasteHadoopUtils idToIndex size Integer MAX Taste Hadoop Utils
+1284	Dummy Record DummyRecordWriter Dummy Record Writer Map map Writer	Record Map Reduce Dummy Writer	DummyRecordWriter bug reused Writables Dummy Record Writer
+1301	String Sequential SequentialAccessSparseVector Sequential Access Sparse Vector Access toString String Sparse	Access Sparse String Sequential Vector	toString method SequentialAccessSparseVector excess comma String Sequential Access Sparse Vector
+1308	Candidate Items CandidateItemsStrategy Candidate Items Strategy visibility Strategy custom	Candidate Items Strategy	extend CandidateItemsStrategy restricted visibility Candidate Items Strategy
+1317	Row Similarity check checkArgument check Argument error Preconditions	Similarity Similarities Row Argument check	Clarify messages Preconditions checkArgument check Argument
+1319	Addition argument filter Prefix command Filter	Addition Filter Prefix	seqdirectory filter argument silently
+1345	tests code modules testing bits threads		Enable randomised testing Mahout modules
+1351	Vector Dense Cluster descriptors DenseVector Dense Vector Access	KMeans Access Sparse Seq Job Vector	Adding DenseVector support AbstractCluster Dense Vector Cluster
+1364	Lucene Randomized Runner RandomizedRunner Randomized Runner discussion Carrot	Runner Randomized	Upgrade Mahout codebase Lucene
+1368	Summarizer Online OnlineSummarizer Online Summarizer TDigest quantiles quartile	Summarizer Online	Convert OnlineSummarizer TDigest Online Summarizer
+1379	Summarizer Quality point cluster data Cluster	Quality Summarizer Quartile Cluster Online	ClusterQualitySummarizer fails Digest clusters data point Cluster Quality Summarizer
+1398	Data delimiter users time constructor processLine process	Data Pattern process delimiter Model	FileDataModel provide constructor delimiterPattern File Data Model delimiter Pattern
+1409	Vector Matrix error View check test	Vector Matrix View	MatrixVectorView check error Matrix Vector View

@@ -1,0 +1,17 @@
+31779	file folder exist returns returned assumes Unified system File UnifiedTree Unified Tree resources UnifiedTree ensure file folder exists Unified Tree
+23140	ssh cvs client supports supplied password method eclipse steal modified CVS EXTSSH vulnerable man middle attacks dns poisoning
+19686	hover stops working mousing file Stable Build java file Java Editor Move mouse whitespace file region java file Stay secs mouse text java file expect hover hover longer works file toggling hover button switching editors methods bring hoverhelp close reopen file hover
+13926	JFace Context control BusyIndicator Busy Indicator Busy rectangle position driver screen shot JFace Text Editor Leaves Black Rectangle Content Assist text insertion
+21062	Reusing ConfigureProjectWizardMainPage target mgmt leads incorrect resource string dialog Steps reproduce Bring Site Explorer view start Target site wizard Notice listbox Select repository type reference repositories investigation Mike caused reusing org eclipse team internal ConfigureProjectWizardMainPage Target wizard feel problem solved adding resource string parameter constructor Configure Project Wizard Main Configure Project Wizard Main
+22696	doesn work window open window open works fine open subsequent requests simply Java perspective click Explorer tab title press popup select topics explorer view point window opens selected topic Leave window open Java perspective Hierarchy view press popup appears list topics Hierarchy view selecting close window opened step repeat steps window showing Hierarchy view topic Note WSDD based WSWB
+19976	Dav Choosing add bad site user modify site properties Site Explorer add site bogus url site shouldn hitting Finish inform error site argued feature weren connected internet time CVS offer
+18761	anonymous FTP support user supporting assumes target creating password checkbox support creating anonymous FTP connections
+17707	project Target site overwrite error message Deploy Site Warning target DAV Reselecting location misleading warning
+19307	FTP Valid ftp url rejected enter ott ott oti ftp URL rejected invalid ftp programs enter ftp ott ott oti connect format option ftp option acceptable
+19691	Team Preferences working export Build preferences transfered workspace export preferences feature Ensure settings saved read plug preference store Team Incoming Outgoing Team File Content Add Remove Change Team Resources Add Remove Selected
+13069	memory size contents file place text ing File Session GZIP CVS Core Sending large files result excessive memory usage
+15277	Recreate test suite add suite test suite test cascading tests recreate test suite allowed add suite recursive call suite ends causing stack overflow situtation suite test Suite opposed suite prevented happening prefer behaviour chaining suites easier searched packages suites special handled
+16787	Control control getControl Control method Wizard showPage WizardPage Wizard showStartingPage Starting called Dialog Wizards Wizards recreated returning
+30644	VCM preference cut High Contrast Team preference cut High COntrast Team CVS Ext Connection Method Label Decorations
+12118	connection ssh user server initializes method operate client revision extssh CVS EXTSSH extssh user ssh server compatible protocol
+22809	Properties dialog Repos Properties Info Dialog Labels resize dialog Resource Perspective Navigator pane select file deep directory tree Open Properties dialog file Resize dialog full file Path Location Observe labels resized dialog Gary

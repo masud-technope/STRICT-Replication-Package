@@ -1,3 +1,0 @@
-java/org/apache/tomcat/websocket/WsWebSocketContainer.java
-test/org/apache/tomcat/websocket/TestWsWebSocketContainer.java
-webapps/docs/changelog.xml

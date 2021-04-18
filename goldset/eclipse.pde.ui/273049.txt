@@ -1,0 +1,6 @@
+CSAbstractEditor:handleLinkExitedRegisterCS()
+CSAbstractEditor:createUIListenerImageHyperlinkRegisterCS()
+CSAbstractEditor:createUIImageHyperlinkRegisterCS(Composite)
+CSAbstractEditor:contributeToToolbar(IToolBarManager)
+CSAbstractEditor:handleLinkEnteredRegisterCS(String)
+CSAbstractEditor:handleLinkActivatedRegisterCS()

@@ -1,0 +1,2 @@
+FetchSchedule#getFields is never used by GeneraterJob
+The method of getFields in FetchSchedule if never used, so if user extends the FetchSchedule and want to get some fields of WebPage, it always return null.

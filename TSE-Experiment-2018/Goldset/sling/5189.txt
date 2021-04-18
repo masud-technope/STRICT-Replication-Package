@@ -1,4 +1,0 @@
-tooling/support/provisioning-model/src/main/java/org/apache/sling/provisioning/model/MergeUtility.java
-tooling/support/provisioning-model/src/test/java/org/apache/sling/provisioning/model/MergeUtilityTest.java
-tooling/support/provisioning-model/src/test/resources/merge/startlevel-base.txt
-tooling/support/provisioning-model/src/test/resources/merge/startlevel-merge.txt

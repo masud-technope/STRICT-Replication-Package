@@ -1,0 +1,2 @@
+In the ListPopulation constructor, the check for a negative populationLimit should occur first.
+In the ListPopulation constructor, the check to see whether the populationLimit is positive should occur before the check to see if the number of chromosomes is greater than the populationLimit.

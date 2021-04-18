@@ -1,0 +1,2 @@
+Detection of under replication
+This JIRA discusses how the bookkeeper system will detect underreplication of ledger entries.

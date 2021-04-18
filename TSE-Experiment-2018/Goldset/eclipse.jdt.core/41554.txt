@@ -1,2 +1,0 @@
-org.eclipse.jdt.core/model/org/eclipse/jdt/internal/core/SourceType.java
-org.eclipse.jdt.core/model/org/eclipse/jdt/internal/core/messages.properties

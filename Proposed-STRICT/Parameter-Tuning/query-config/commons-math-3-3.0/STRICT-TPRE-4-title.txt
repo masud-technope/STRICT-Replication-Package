@@ -1,0 +1,16 @@
+641	distance methods Lines segements		Implement distance methods Lines Segments
+718	Probability Binomial method Cumulative	Cumulative Distribution Probability	inverseCumulativeProbability BinomialDistribution returns wrong large trials inverse Cumulative Probability Binomial Distribution
+764	Random sample Distribution Sampler	Random Size Distribution Sampler	sample API accept RandomGenerator parameter Random Generator
+775	Population List population Limit	Population List Limit population	ListPopulation constructor check negative populationLimit occur List Population population Limit
+776	Rate List Population constructors	List Rate Elitism Population	range checks elitismRate ElitisticListPopulation constructors elitism Rate Elitistic List Population
+777	Crossover Point CrossoverPolicy Crossover Policy Policy	Point Crossover Policy	CrossoverPolicy needed Crossover Policy
+778	Field Dfp FieldElement Field Element contract	Field Element	Dfp Dfp multiply comply general contract FieldElement multiply Field Element
+779	List Population list iterator	Population List	ListPopulation Iterator remove chromosomes population List Population
+782	Brent block Optimizer algorithm	Optimizer Brent	BrentOptimizer User defined check block badly Brent Optimizer
+835	percentage method Fraction bug	percentage	Fraction percentageValue rare overflow percentage
+841	test gcd checksum rng	Equals test Utils nano	gcd speed
+849	Gamma implementation values accuracy	Gamma Numerical log NSWC	Precision improvement Gamma
+878	test tests chi Test		Test Log Likelihood ratio LLR test math stat inference
+905	Math exp cosh Jeff	Math Strict Fast	FastMath cosh sinh support range values Math counterparts Fast Math
+915	Data field compatibility Empirical	Data Empirical Distribution random	compatibility broken EmpiricalDistribution Empirical Distribution
+1121	Optimizer Brent Base iteration	Optimizer Optimize Brent Base	Brent optimizer doesn Base optimizer iteration counter

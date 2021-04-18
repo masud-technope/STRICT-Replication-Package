@@ -1,0 +1,4 @@
+org.apache.mahout.cf.taste.impl.model.file.FileDataModelTest:testFile()
+org.apache.mahout.cf.taste.impl.model.file.FileDataModel:FileDataModel(File, boolean, long)
+org.apache.mahout.cf.taste.impl.model.file.FileDataModel:FileDataModel(File)
+org.apache.mahout.cf.taste.impl.model.file.FileDataModel:getDelimiter()

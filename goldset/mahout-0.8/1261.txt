@@ -1,0 +1,2 @@
+org.apache.mahout.cf.taste.hadoop.TasteHadoopUtils:idToIndex(long)
+org.apache.mahout.cf.taste.hadoop.TasteHadoopUtils:readID(String, boolean)

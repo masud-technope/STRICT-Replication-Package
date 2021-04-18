@@ -1,0 +1,2 @@
+ParseUtil use ExecutorService instead of manually thread handling.
+Because ParseUtil manages it's own parser threads by creating a thread for every parse it sometimes happens that specific parsers are very expensive. For example, parsers that have threadlocal fields will initialize them for every item to be parsed. By simply introducing a caching ExecutorService the ParseUtil will be able to cache threads therefore parsing more efficient. See attached patch.

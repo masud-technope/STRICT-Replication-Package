@@ -1,0 +1,8 @@
+JavaModelOpCompundUndoTest:setUpEditor()
+JavaModelOpCompundUndoTest:test1()
+JavaModelOpCompundUndoTest:test2()
+JavaModelOpCompundUndoTest:openJavaEditor(IPath)
+JavaModelOpCompundUndoTest:setUpProject(String)
+JavaModelOpCompundUndoTest:suite()
+JavaModelOpCompundUndoTest:tearDown()
+JavaModelOpCompundUndoTest:setUp()

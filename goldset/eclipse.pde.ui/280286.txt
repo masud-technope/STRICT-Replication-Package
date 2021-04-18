@@ -1,0 +1,5 @@
+ApiSearchEngine:ReferenceExtractor:endVisitPackage(String)
+ApiSearchEngine:ReferenceExtractor:visit(String, IApiTypeRoot)
+ApiSearchEngine:ReferenceExtractor:end(String, IApiTypeRoot)
+ApiSearchEngine:searchReferences(IApiSearchRequestor, IApiElement, IApiSearchReporter, IProgressMonitor)
+ApiSearchEngine:ReferenceExtractor:reportResults()

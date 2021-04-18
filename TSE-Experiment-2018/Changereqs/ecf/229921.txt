@@ -1,2 +1,0 @@
-Bug 229921 – Missing javadoc statements may cause an (compiler) error
-https://bugs.eclipse.org/bugs/show_bug.cgi?id=228882#c10

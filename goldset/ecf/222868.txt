@@ -1,1 +1,5 @@
-providers/bundles/org.eclipse.ecf.provider.msn.ui/src/org/eclipse/ecf/internal/provider/msn/ui/MSNConnectWizardPage.java
+MSNConnectWizardPage:verifyEmail()
+MSNConnectWizardPage:createControl(Composite)
+MSNConnectWizardPage:addListeners()
+MSNConnectWizardPage:verify()
+MSNConnectWizardPage:verifyPassword()

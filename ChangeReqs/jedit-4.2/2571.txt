@@ -1,0 +1,2 @@
+Line number not highlighted when the line is selected
+Using 4.3pre5, jvm 1.6 beta: \- When line of text is selected, or part of that line, the number of line is not highlighted in the gutter. This makes sense when the selection splits accross multiple lines, however on single line I guess the line number should be highlighted.

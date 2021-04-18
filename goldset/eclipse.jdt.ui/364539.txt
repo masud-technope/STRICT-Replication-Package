@@ -1,0 +1,2 @@
+SourceActionDialog:createVisibilityControl(Composite, int)
+SourceActionDialog:close()

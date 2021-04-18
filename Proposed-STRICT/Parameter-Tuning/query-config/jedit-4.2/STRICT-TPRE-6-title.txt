@@ -1,0 +1,10 @@
+2459	display dialog behaviour width tests restored		Size file open save dialogs incorrect dual displays
+2534	Key Event bugs key KeyEventWorkaround Key Event Workaround Num	Event Key Num j Edit Pad	Test NumPad Alt Tab window Num Pad
+2542	text characters type edit user finish		Pasting Text Current Undoable Edit
+2560	Edit jEdit Edit file browser j pre	j Edit	jEdit pre file system browser keyboard handling Edit
+2571	number selection text highlighted sense selected		number highlighted selected
+2595	BSD Free Windows foo views JDK	BSD Free	caret display position multiple views open
+2635	bugs fold Version caret check Java	j Edit	move caret collapsing fold
+2636	jEdit Edit bugs Version Edit check Register	j Edit	Clearing Register doesn work persistently
+2720	Version bugs directory action check Java	j Edit	FSB delete action directory working
+2752	Edit jEdit Edit check version Replace j	j Edit	jEdit freezes regexpr Edit

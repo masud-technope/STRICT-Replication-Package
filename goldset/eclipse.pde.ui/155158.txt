@@ -1,0 +1,3 @@
+PDEFormEditorContributor:addGlobalAction(String, Action)
+PDEFormEditorContributor:PDEFormEditorContributor(String)
+PDEFormEditorContributor:init(IActionBars)

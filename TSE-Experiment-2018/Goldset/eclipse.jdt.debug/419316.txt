@@ -1,2 +1,0 @@
-org.eclipse.jdt.debug/model/org/eclipse/jdt/internal/debug/core/logicalstructures/JDIAllInstancesValue.java
-org.eclipse.jdt.debug/model/org/eclipse/jdt/internal/debug/core/model/JDIReferenceListValue.java

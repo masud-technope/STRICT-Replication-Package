@@ -1,0 +1,33 @@
+33356	Jasper foo set attribute string parsing	Jasper Exception	Incorrect parsing tag attributes
+37326	JSP fragments user NetBeans Net Beans behaviour jsp	Beans HTTPMonitor Filter Error Net	error reported jsp include existent target
+38553	client certificate HTTP user role web	client	Wrong HTTP code failed CLIENT CERT authentication
+41059	Web App variables clearReferences clear References References Loader	App References clear Web Loader	WebAppClassLoader clearReferences code running threads Web App Loader clear References
+42039	Exception Standard UnavailableException Unavailable Exception trace Unavailable Wrapper	Wrapper Exception Unavailable Standard	Tomcat doesn output stack trace UnavailableException Unavailable Exception
+42503	Resource test file resource change contents	Resource Context Servlet Stream	ServletContext getResourceAsStream returns stale data Servlet Context Resource Stream
+42693	menu item error tagfile menuitem submenu	Node Tag	JSP Generation error recursive tagfile structure
+43706	Web copy Webdav litmus resource warnings	Web Webdav DAV Servlet	litmus warning WebdavServlet Webdav Servlet
+43868	MBean Role method Server Bean set	Role MBean set Server Attribute remove	MBeanServer invoke issue MBean Server
+46105	Encoding UTF authentication form request parameter	Encoding Character Boby set URI	URIEncoding doesn affect form authentication redirect
+46915	Bundle String message code file tomcat	Bundle Local String message Strings set	Unable ResourceBundle Tomcat Resource Bundle
+47111	String attachment bug resources Manager StringManager String Manager	String Manager	caching resources docu StringManager String Manager
+47378	file servlet Servlet mapping Faces directory	Servlet Faces	file ignores servlet mapping
+47413	Tomcat snippet outputs string tag undefined		difference composite expressions
+47568	Tomcat Test directory set work delete	Tomcat set tear Test	TestTomcat fails delete work directory Test Tomcat
+47744	test memory zip Tomcat manager method	Control Context Access	Memory leak SSL Java security manager
+47820	instance add method Servlet Tomcat methods	add Servlet	utility methods Tomcat instance methods
+48113	Member Failure MemberImpl Member Impl Impl patch code	Failure Impl Disappeared member Hostname String	Member hostname components printed signed bits
+48117	Source Web filename Context segemnts role	Web Source Xml Context Config Input	misspellings javadoc org apache catalina startup ContextConfig Context Config
+48139	attachment details Javadoc exception Tomcat unthrown		Tomcat Javadoc unthrown exception fixes
+48172	Jsp Reload Runtime code JspRuntimeContext Jsp Runtime Context threads	Reload Jsp Runtime Integer code Atomic	JspRuntimeContext synch problems Jsp Runtime Context
+48387	Header protocolHeaderSslValue protocol Header Ssl Ssl protocol Remote protocolHeaderHttpsValue protocol Header Https	Ip Header Https Ssl Filter	RemoteIpFilter parameters consistent RemoteIpValve Remote Filter Remote Valve
+49118	String Servlet loop attachment Http Trace	Trace Builder Servlet Http String	Inefficient String concatenation loop
+49132	Ctx Context lookup comp initCtx init Ctx init	Ctx Context Initial init	JNDI working
+49144	field object Config Context initialization thread	Context Config Digester context	Incorrect lazy initialization update fields
+49221	pattern set http setDomain set Domain Locale Domain	set Domain	javax servlet http Cookie setDomain charset set Domain
+49290	Dir Context Container process Jar Scanner	Dir Container Context Resource	JarScanner scanAllDirectories Tomcat start Jar Scanner scan Directories
+49340	start webapp tomcat test works war		Webapp unavailable deploy start
+49721	jsp file browser jar test access		Fail access resources jsp files jar file supported servlet
+50127	SimpleTCPCluster Simple TCPCluster attachment method TCPCluster Simple details	TCPCluster Simple	NPEs SimpleTCPCluster Simple TCPCluster
+51641	Nio Socket Connection Http processor socket	Nio Hash Socket Connection Handler recycled	Http NioProcessor correct release Nio Processor
+51972	protocol URLs server foo Redirect URL	Redirect Absolute send	sendRedirect support protocol relative URLs send Redirect
+54115	Http methods attachment Request change bug	Request Http Client send	Minor enhancements HttpClient test helper Http Client

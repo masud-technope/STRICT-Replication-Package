@@ -1,0 +1,1 @@
+LookupEnvironment:LookupEnvironment(ITypeRequestor, CompilerOptions, ProblemReporter, INameEnvironment)

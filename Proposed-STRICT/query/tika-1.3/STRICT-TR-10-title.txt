@@ -1,0 +1,18 @@
+992	Metadata method add Html properties Open meta HtmlHandler Html Handler tags appended OpenGraph meta tags multiple values Open Graph
+1124	PDF Body BodyContentHandler Body Content Handler attachments embedded Matching Content trunk documents solution Nested documents extracted PDF file chain
+1062	lists support detection list cases tests adapted existing formatting patch Add list detection RTFParser
+1126	text tika adds support producing produce html server procuder handler text html procuder tika server
+1193	schema Html access applications HTMLSchema Tag rely quirks suited TIKA access HtmlParser HtmlSchema Html Parser Html Schema
+1130	text docx portions file document Microsoft remain extracts openxmlformats officedocument docx text extract leaves portions text
+1074	exception document embedded visiting Tika app TIKA Spinoff problematic extracts Extraction exception hit visiting embedded document
+1202	PDFParser Parse parameter Text set easier Annotation extract enable ParseContext Parse Context Refactor PDFParser enable easier parameter setting
+820	Locator test unit HTML call unset setDocumentLocator set Document Locator handler Html content Locator unset HTML parser
+1012	comment acronym bmp xml link type uti MimeType Mime Type Type http Add additional fields MimeType reader Mime Type
+1109	content test metadata meta jar title medata pptx documents OOXML Metadata extracted content OOXML pptx
+1014	custom MimeTypesReader Mime Types Reader Reader Mime subclassing XML handling support Types fields custom MimeTypesReader Mime Types Reader
+1110	ChmParser Chm Parser types application declared official type Chm mime Detector SUPPORTED Incorrectly declared SUPPORTED TYPES ChmParser Chm Parser
+1047	meta send TIKA server mediatype data BAD JAX jquery accomplish Provide JAX detect mediatype
+1210	swf TODO files flash String svn tika Mime Type apache Address tika parsers mime TestMimeTypes TODO test flash file Test Mime Types
+1211	multiple start parsing xml parser Document events Documents endDocuments Documents ODF OpenDocument ODF parser produces multiple startDocument events Open Document start Document
+1053	ASM Tika jira issue issues details xwiki XWiki org browse Upgrade Tika Parsers ASM
+991	file duration lyrics bit rates extract audio implement durations functionality Parser extract duration audio file

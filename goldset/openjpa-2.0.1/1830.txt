@@ -1,0 +1,2 @@
+org.apache.openjpa.persistence.simple.TestSerializedFactory:setUp()
+org.apache.openjpa.lib.conf.ConfigurationImpl:toProperties(boolean)

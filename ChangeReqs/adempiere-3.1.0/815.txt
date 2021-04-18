@@ -1,0 +1,2 @@
+In LandedCost Cost Distribution for type "Cost" is not work.
+In landed cost form if we select the "Costs" as our cost distribution type then it is not working i.e. it is not generating any Landed cost allocation records.

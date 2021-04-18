@@ -1,0 +1,4 @@
+JavaWorkingSetPage:JavaWorkingSetPage()
+JavaWorkingSetPage:getInitialTreeSelection()
+JavaWorkingSetPage:getInitialWorkingSetElements(IWorkingSet)
+JavaWorkingSetPage:configureTree(TreeViewer)

@@ -1,0 +1,2 @@
+OpenDocument (ODF) parser produces multiple startDocument() events
+Related to SOLR-4809: Solr receives multiple startDocument events when parsing OpenDocumentFiles. The parser already prevents multiple endDocuments, but not multiple startDocuments. The bug was introduced when we added parsing content.xml and meta.xml (TIKA-736, but both feed elements to the XHTML output, so we get multiple start/endDocuments).

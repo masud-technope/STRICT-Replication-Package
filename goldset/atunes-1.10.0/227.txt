@@ -1,0 +1,5 @@
+net.sourceforge.atunes.Main:main(String[])
+net.sourceforge.atunes.kernel.handlers.MultipleInstancesHandler:MultipleInstancesHandler()
+net.sourceforge.atunes.kernel.handlers.MultipleInstancesHandler:isFirstInstance()
+net.sourceforge.atunes.kernel.Kernel:startKernel(List<String>)
+net.sourceforge.atunes.kernel.handlers.MultipleInstancesHandler:sendArgumentsToFirstInstance(List<String>)

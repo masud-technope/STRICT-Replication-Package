@@ -1,0 +1,1 @@
+PluginImportOperation:collectNonJavaResources(ZipFileStructureProvider, Object, ArrayList)

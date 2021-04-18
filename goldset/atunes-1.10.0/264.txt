@@ -1,0 +1,2 @@
+net.sourceforge.atunes.kernel.modules.player.mplayer.AudioFileMPlayerOutputReader:AudioFileMPlayerOutputReader(MPlayerHandler, Process, AudioFile)
+net.sourceforge.atunes.kernel.modules.player.mplayer.AudioFileMPlayerOutputReader:read(String)

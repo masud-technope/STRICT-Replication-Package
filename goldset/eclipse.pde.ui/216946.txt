@@ -1,0 +1,3 @@
+JUnitLaunchConfigurationDelegate:preLaunchCheck(ILaunchConfiguration, ILaunch, IProgressMonitor)
+JUnitLaunchConfigurationDelegate:getRequiredPlugins(ILaunchConfiguration)
+JUnitLaunchConfigurationDelegate:concatArg(String, String)

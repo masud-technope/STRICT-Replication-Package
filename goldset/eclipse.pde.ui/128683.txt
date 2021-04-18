@@ -1,0 +1,2 @@
+GatherUnusedDependenciesOperation:minimizeDependencies(HashMap, ArrayList, IProgressMonitor)
+GatherUnusedDependenciesOperation:run(IProgressMonitor)

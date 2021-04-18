@@ -1,0 +1,6 @@
+ManifestContentAssistProcessor:handleExportPackageCompletion(String, int)
+ManifestContentAssistProcessor:addPackageCompletions(String, Set, int, ArrayList)
+ManifestContentAssistProcessor:computeHeader(String, int, int)
+ManifestContentAssistProcessor:handleAttrsAndDirectives(String, ArrayList, ArrayList, int)
+ManifestContentAssistProcessor:findFullLine(String, int, boolean)
+ManifestContentAssistProcessor:handleBundleActivationPolicyCompletion(String, int)

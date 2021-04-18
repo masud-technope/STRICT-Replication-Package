@@ -1,0 +1,8 @@
+org.apache.tika.parser.mp3.AudioFrame:getVersion()
+org.apache.tika.parser.mp3.Mp3ParserTest:testID3v2Frame()
+org.apache.tika.parser.mp3.AudioFrame:isAudioHeader(int, int, int, int)
+org.apache.tika.parser.mp3.AudioFrame:AudioFrame(InputStream, ContentHandler)
+org.apache.tika.parser.mp3.ID3v2Frame:ID3v2Frame(int, int, InputStream)
+org.apache.tika.parser.mp3.Mp3ParserTest:testMp3ParsingID3v1()
+org.apache.tika.parser.mp3.AudioFrame:AudioFrame(int, int, int, int, InputStream)
+org.apache.tika.parser.mp3.ID3v2Frame:createFrameIfPresent(InputStream)

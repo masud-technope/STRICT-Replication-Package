@@ -1,0 +1,2 @@
+Backward compatibility broken in "EmpiricalDistribution"
+There is a binary-compatibility problem in {{o.a.c.m.random.EmpiricalDistribution}} (cf. "Clirr" report). Usage of "RandomDataImpl" has been replaced by "RandomDataGenerator". However, unless I'm mistaken, none of those is actually necessary. Moreover, the "randomData" field in this class "shadows" the (deprecated) protected field in the super class. Also, it duplicates functionality (RNG) already present in the super class (through the the "random" protected field).

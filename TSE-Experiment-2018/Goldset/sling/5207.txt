@@ -1,4 +1,0 @@
-bundles/resourceresolver/src/main/java/org/apache/sling/resourceresolver/impl/ResourceResolverImpl.java
-bundles/resourceresolver/src/test/java/org/apache/sling/resourceresolver/impl/ResourceResolverImplTest.java
-bundles/resourceresolver/src/test/java/org/apache/sling/resourceresolver/impl/ResourceResolverImplTest.java
-bundles/resourceresolver/src/test/java/org/apache/sling/resourceresolver/impl/ResourceResolverImplTest.java

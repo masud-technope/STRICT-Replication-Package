@@ -1,2 +1,0 @@
-[SLING-4919] Require configuration for webdav related services - ASF JIRA
-In order to easier enable webdav/davex support, we should make those components require a configuration

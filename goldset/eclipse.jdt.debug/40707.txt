@@ -1,0 +1,2 @@
+JavaBreakpointPage:createSuspendPolicyEditor(Composite)
+JavaBreakpointPage:doStore()

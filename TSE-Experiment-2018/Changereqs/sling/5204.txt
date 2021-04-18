@@ -1,3 +1,0 @@
-[SLING-5204] Implement provider lifecycle methods - ASF JIRA
-The resource provider interface defines some lifecycle methods: activate, deactivate and update.
-These need to be called accordingly

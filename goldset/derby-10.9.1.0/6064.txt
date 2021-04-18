@@ -1,0 +1,4 @@
+org.apache.derbyTesting.functionTests.tests.upgradeTests.helpers.DisposableIndexStatistics:assertStatsCount(int)
+org.apache.derbyTesting.functionTests.tests.upgradeTests.helpers.DisposableIndexStatistics:insertData(Connection)
+org.apache.derbyTesting.functionTests.tests.upgradeTests.helpers.DisposableIndexStatistics:DisposableIndexStatistics(Connection, String)
+org.apache.derbyTesting.functionTests.tests.upgradeTests.helpers.DisposableIndexStatistics:getNumDisposableStats()

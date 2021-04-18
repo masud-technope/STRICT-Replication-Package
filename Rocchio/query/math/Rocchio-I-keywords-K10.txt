@@ -1,0 +1,60 @@
+259	Bugs Frequency API provid secur algorithm frequenc api stat freq prng nosuchproviderexcept getcount
+776	range checks elitismRate ElitisticListPopulation constructors elitism Rate Elitistic List Population elit rate elitismr chromosom popul oldchromosom genetics elitist elitisticlistpopul list
+904	FastMath pow deviates Math pow negative finite base values exponent Fast Math xscale xscalepow shape expon fastmath fast xscalepowshap decimal scale fraction
+393	Method getResult MultiStartUnivariateRealOptimizer Result Multi Start Univariate Real Optimizer optimization optim start evalu total gener max iter totaliter accuraci
+778	Dfp Dfp multiply comply general contract FieldElement multiply Field Element result dfp mant multipli flag newinst radix lostdigit excp time
+779	ListPopulation Iterator remove chromosomes population List Population chromosom popul genetics list limit populationlimit size iter getchromosom unmodifi
+781	SimplexSolver bad Simplex Solver epsilon ulp amount maxulp accept simplex simplexsolv solver error cut
+273	Basic variable correctly simplex tableau variabl basic offset slack decis num artifici row getnumobjectivefunct col
+274	testing symmetric positive definite matrix CholeskyDecomposition Cholesky Decomposition cachedl linear singular definit decomposition cach getlt isnonsingular triangular decomposit
+929	MultivariateNormalDistribution density returns wrong dimension odd Multivariate Normal Distribution covari dim val distribution distribut matrix densiti normal mixtur normalv
+546	Truncation issue KMeansPlusPlusClusterer KMeans Clusterer cluster strategi clustering random empti emptystrategi plu iter distanc kmeanspluspluscluster
+803	Bugs RealVector ebeMultiply RealVector ebeDivide RealVector Real Vector ebe Multiply Real Vector ebe Divide Real Vector ebedivid ebemultipli vector realvector divid real linear multipli realvectorimpl element
+934	Complex reciprocal returns NaN INF complex factor imaginari nth code isinfinit infinit nan root inf
+167	ConvergenceException normal CDF Convergence Exception messag pattern convergenceexcept converg specif context caus exception arg throwabl
+679	Integer overflow OpenMapRealMatrix Open Map Real Matrix openmaprealmatrix open matrix map iter real subtract row col linear
+935	DerivativeStructure atan handle special cases properly Derivative Structure structur derivativestructur deriv compil differentiation unscal checkcompat analysis data dimensionmismatchexcept
+552	MultidimensionalCounter getCounts returns wrong array indices Multidimensional Counter Counts counter multidimension size count unicounteroffset uni offset slot totals copyof
+554	Vector crossProduct sensitive numerical cancellation cross Product vector product crossproduct linearcombin uref threed combin euclidean fieldvector geometry
+942	DiscreteDistribution sample exception element singletons type Discrete Distribution sampl probabl mass distribution random singleton distribut samples list pair
+175	chiSquare expected observed returning incorrect test statistic chi Square squar expect chisquar count inference col observ stat row chisquaretest
+691	Statistics setVarianceImpl getStandardDeviation produce NaN set Variance Impl Standard Deviation stddev std dev standard deviat varianc descriptive varianceimpl stat getstandarddevi
+949	LevenbergMarquardtOptimizer reports iterations Levenberg Marquardt Optimizer toler rel levenbergmarquardtoptim levenberg marquardt checker safe cost optim precis
+567	Dfp toDouble method inf whan Dfp dfp newinst expon flag greaterthan instanc odd rint result pow
+695	Incomplete reinitialization events handling event handler ode manag eventst integratorexcept reset integr convey step
+60	math Function math fraction ProperFractionFormat parse String ParsePosition illogical result Proper Fraction Format Parse Position pars sourc charact whitespac string biginteg parseposit big charat integ
+318	wrong result eigen decomposition matrix eigenvalu decomposit determin eigenvector linear find complex real issymmetr
+704	Variance evaluate methods work correctly moment varianc bia correct isbiascorrect semivari descriptive secondmo semi stat
+322	ODE integration event pair close event detected handler events init ode time eventhandl geteventhandl occurr trigger clear
+835	Fraction percentageValue rare overflow percentage fraction denomin maxdenomin numer percentag max epsilon fractionconversionexcept convers integ
+836	Fraction constructor strange behaviour fraction fractionmatrixconvert singleton convert fractionfield continuedfract bigfractionfield simpl linear continu
+198	java lang StringIndexOutOfBoundsException ComplexFormat parse String source ParsePosition pos String Bounds Exception Complex Format Parse Position pars sourc string parseposit parseobject object ouput endindex posit special
+326	getLInfNorm wrong formula ArrayRealVector OpenMapRealVector ways LInf Norm Array Real Vector Open Map Real Vector inf getlinfnorm iter max norm getlinfdist distanc linear openmaprealvector dimens
+200	AbstractEstimator getCovariances guessParametersErrors crash bound parameters Estimator Covariances guess Parameters Errors problem estim estimation covari estimationexcept paramet error jacobian cost evalu
+329	stat Frequency getPct Object getCumPct Comparable getPct Comparable Pct Cum Pct Pct proport pct freq getpct sumfreq percentag equal lookup sum getsumfreq
+713	Negative restrictNonNegative restrict Negative neg inference dfp flag negative array check mant entri variabl
+716	BracketingNthOrderBrentSolver exceeds maxIterationCount updating boundary Bracketing Nth Order Brent Solver max Iteration Count maximalord maxim order accuraci solvers allowedsolut absolut absoluteaccuraci numberistoosmallexcept analysis
+844	HarmonicFitter ParameterGuesser fails values Harmonic Fitter Parameter Guesser observ omega guess sort aomega fitting weightedobservedpoint phi sampl weight
+209	RealMatrixImpl operate result vector dimensions wrong Real Matrix Impl row nrow col realvectorimpl illegalargumentexcept ncol premultipli illeg pre impl
+338	Wrong parameter step size guess Embedded Runge Kutta methods fsal safeti butcher prototyp ode toler error estimate reduct estim
+722	math Complex Tanh big numbers tanh complex nan plusmn local cosh format hyperbol fraction tangent
+85	math SimpleRegression getSumSquaredErrors Simple Regression Sum Squared Errors sum regression squar slope sumxi code stat sxi deviat sumyy
+727	large step embedded Runge Kutta integrators Dormand Prince prototyp fsal rung butcher initi kutta ode toler interpol embeddedrungekuttaintegr
+344	Brent solver returns wrong bracket endpoint root function min max interv yiniti initi delta upper nobracketingexcept ymin
+859	deprecate isSupportXxxInclusive RealDistribution Support Xxx Inclusive Real Distribution support bound distribution upper code inclus densiti connect method word
+988	NPE calling SubLine intersection intersecting lines segment sublin intersect loc remainingregion remain euclidean locat region point
+221	Result multiplying equals complex numbers wrong pars code root imaginari result parseposit nth nan equal object
+865	Wide bounds CMAESOptimizer result NaN parameters passed fitness function repair direct fitnessfunct isrepairmod valuerang boundari optimization mode variabl fit
+482	FastMath max Fast Math eigenvalu realeigenvalu tabl exp maxabsolutevalu fast fastmath real absolut tmp
+867	CMAESOptimizer bounds fits finely bound coarsely upper bound bin upperbound bincount getupperbound binupperbound clone optimization count direct random
+358	ODE integrator integration range rang ranges rangestart analysis accuraci start size rel setrang getrelativeaccuraci
+362	LevenbergMarquardtOptimizer ignores VectorialConvergenceChecker parameter passed Levenberg Marquardt Optimizer Vectorial Convergence Checker checker toler rel converg leastsquares fitting paramet safe cost parameterrelativetoler
+618	Complex Add Subtract handle NaN arguments differently javadoc contracts complex subtrahend subtract omega code nan imaginari tangent data atan
+1005	ArrayIndexOutOfBoundsException MathArrays linearCombination Array Bounds Exception Math Arrays linear Combination sourc copi copyof array util copy shuffl oper decimal entir
+238	MathUtils gcd fails high power Math Utils lcm odd code neg posit number atwo btwo numberoftrailingzero common
+241	MathUtils binomialCoefficient fails large Math Utils binomial Coefficient binomi code coeffici result subset binomialcoeffici util precondit strong log
+369	BisectionSolver solve UnivariateRealFunction min max initial NullPointerException Bisection Solver Univariate Real Function Pointer Exception fmin solv function analysis maxiterationsexceededexcept solvers univari univariaterealsolverutil univariaterealfunct iter
+371	PearsonsCorrelation getCorrelationPValues precision limited machine epsilon Pearsons Correlation Correlation PValues correl correlation matrix pearsonscorrel pearson correlationmatrix nvar tdistribut nob stat
+631	RegulaFalsiSolver failure Regula Falsi Solver accuraci regula falsi invert approxim absolut absoluteaccuraci solvers side rel
+377	weight sigma AbstractLeastSquares Squares observ jacobian squar weightsqrt residu leastsquares function root matrix fitting
+1021	HypergeometricDistribution sample suffers integer overflow Hypergeometric Distribution distribution size success sampl popul connect access number set support

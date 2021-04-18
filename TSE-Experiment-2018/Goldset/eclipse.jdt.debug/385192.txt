@@ -1,2 +1,0 @@
-org.eclipse.jdt.launching/launching/org/eclipse/jdt/internal/launching/StandardVMRunner.java
-org.eclipse.jdt.launching/launching/org/eclipse/jdt/internal/launching/StandardVMDebugger.java

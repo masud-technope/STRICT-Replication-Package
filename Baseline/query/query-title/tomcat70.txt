@@ -1,0 +1,33 @@
+47744	Memory leak SSL Java security manager
+46915	Unable ResourceBundle Tomcat Resource Bundle
+48387	RemoteIpFilter parameters consistent RemoteIpValve Remote Filter Remote Valve
+51972	sendRedirect support protocol relative URLs send Redirect
+42693	JSP Generation error recursive tagfile structure
+49221	javax servlet http Cookie setDomain charset set Domain
+42503	ServletContext getResourceAsStream returns stale data Servlet Context Resource Stream
+47111	caching resources docu StringManager String Manager
+49290	JarScanner scanAllDirectories Tomcat start Jar Scanner scan Directories
+48139	Tomcat Javadoc unthrown exception fixes
+33356	Incorrect parsing tag attributes
+47820	utility methods Tomcat instance methods
+37326	error reported jsp include existent target
+50127	NPEs SimpleTCPCluster Simple TCPCluster
+47568	TestTomcat fails delete work directory Test Tomcat
+47378	file ignores servlet mapping
+38553	Wrong HTTP code failed CLIENT CERT authentication
+46105	URIEncoding doesn affect form authentication redirect
+43868	MBeanServer invoke issue MBean Server
+49118	Inefficient String concatenation loop
+41059	WebAppClassLoader clearReferences code running threads Web App Loader clear References
+54115	Minor enhancements HttpClient test helper Http Client
+48172	JspRuntimeContext synch problems Jsp Runtime Context
+49132	JNDI working
+48113	Member hostname components printed signed bits
+47413	difference composite expressions
+48117	misspellings javadoc org apache catalina startup ContextConfig Context Config
+42039	Tomcat doesn output stack trace UnavailableException Unavailable Exception
+49144	Incorrect lazy initialization update fields
+49721	Fail access resources jsp files jar file supported servlet
+51641	Http NioProcessor correct release Nio Processor
+43706	litmus warning WebdavServlet Webdav Servlet
+49340	Webapp unavailable deploy start

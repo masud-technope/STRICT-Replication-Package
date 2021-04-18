@@ -1,0 +1,2 @@
+ClassFileDocumentProvider:handleElementContentChanged(IFileEditorInput)
+ClassFileDocumentProvider:createElementInfo(Object)

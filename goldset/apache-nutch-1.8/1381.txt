@@ -1,0 +1,3 @@
+org.apache.nutch.indexer.subcollection.SubcollectionIndexingFilter:SubcollectionIndexingFilter(Configuration)
+org.apache.nutch.indexer.subcollection.SubcollectionIndexingFilter:SubcollectionIndexingFilter()
+org.apache.nutch.indexer.subcollection.SubcollectionIndexingFilter:addSubCollectionField(NutchDocument, String)

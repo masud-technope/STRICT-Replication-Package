@@ -1,0 +1,1 @@
+org.compiere.process.RequisitionPOCreate:newOrder(MRequisitionLine, int)

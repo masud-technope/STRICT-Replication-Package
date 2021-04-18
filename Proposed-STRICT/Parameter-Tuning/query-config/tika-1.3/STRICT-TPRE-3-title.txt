@@ -1,0 +1,18 @@
+820	Locator Document test	Document Html Parser	Locator unset HTML parser
+991	file lyrics audio		Parser extract duration audio file
+992	Metadata Html Graph	Html Graph appended	OpenGraph meta tags multiple values Open Graph
+1012	Mime Type comment	Mime Type	Add additional fields MimeType reader Mime Type
+1014	Reader custom Types	Types Mime Reader	custom MimeTypesReader Mime Types Reader
+1047	meta mediatype TIKA	Modified	Provide JAX detect mediatype
+1053	ASM jira xwiki		Upgrade Tika Parsers ASM
+1062	lists support cases		Add list detection RTFParser
+1074	exception document Tika		Extraction exception hit visiting embedded document
+1109	test content OOXML	test PPT resource	Metadata extracted content OOXML pptx
+1110	Parser mime type	Detect Parser Auto	Incorrectly declared SUPPORTED TYPES ChmParser Chm Parser
+1124	Content Body PDF	Content Body Matching	Nested documents extracted PDF file chain
+1126	text tika html		text html procuder tika server
+1130	text docx document		docx text extract leaves portions text
+1193	Html Tag access	Html Soup Tag	access HtmlParser HtmlSchema Html Parser Html Schema
+1202	Annotation Parse PDFParser	Annotation Context Parse	Refactor PDFParser enable easier parameter setting
+1210	Mime files TODO	Mime Type	Address tika parsers mime TestMimeTypes TODO test flash file Test Mime Types
+1211	Document Documents start	Document Documents start	OpenDocument ODF parser produces multiple startDocument events Open Document start Document

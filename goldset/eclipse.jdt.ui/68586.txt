@@ -1,0 +1,2 @@
+CompilationUnitDocumentProvider:commitWorkingCopy(IProgressMonitor, Object, CompilationUnitInfo, boolean)
+CompilationUnitDocumentProvider:getSubProgressMonitor(IProgressMonitor, int)

@@ -1,0 +1,17 @@
+12118	connection user ssh		CVS EXTSSH extssh user ssh server compatible protocol
+13069	send size memory	send File	CVS Core Sending large files result excessive memory usage
+13926	Context Busy control	Context Text	JFace Text Editor Leaves Black Rectangle Content Assist text insertion
+15277	suite test suites		Recreate test suite add suite
+16787	Control Wizard control	Control Wizard	Wizards Wizards recreated returning
+17707	site project Deploy		DAV Reselecting location misleading warning
+18761	support FTP user		support creating anonymous FTP connections
+19307	ott ftp oti		FTP Valid ftp url rejected
+19686	file java methods		hover stops working mousing file
+19691	Team export plug		Team Preferences working export
+19976	site feature add		Dav Choosing add bad site user modify site properties
+21062	Project Configure string	Project Main Wizard	Reusing ConfigureProjectWizardMainPage target mgmt leads incorrect resource string dialog Configure Project Wizard Main
+22696	window view perspective		doesn work window open
+22809	dialog Properties file		Properties dialog Repos Properties Info Dialog Labels resize dialog
+23140	ssh client cvs		CVS EXTSSH vulnerable man middle attacks dns poisoning
+30644	Method preference Team		VCM preference cut High Contrast
+31779	File Unified list	File System Stat	resources UnifiedTree ensure file folder exists Unified Tree

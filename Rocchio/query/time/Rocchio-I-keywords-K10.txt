@@ -1,0 +1,7 @@
+18	NPE DateTimeZoneBuilder Time Zone Builder isfix getfromyear unus ifromyear suppress warn suppresswarn wall rule gettoyear
+21	DateTimeFormat parseInto miscalculates year Time Format parse posit bucket parseinto parser text newpo expectedpo pars format str
+88	Constructing invalid Partials set februari sampl text sampletext provid partial closest errorpo appropri
+42	DateTimeZone forOffsetHoursMinutes handle negative offset hour Time Zone Offset Hours Minutes minutesoffset minut hoursoffset zone millisoffset buf overlap getoffset earlier datetimezon
+43	Ensure max min valid offset display displayoffset minfield validvalu text separ maxfield print showsepar pars
+28	Questionable behaviour GJChronology dates pass millisecond sole compar base chrono check isaft mindaysinfirstweek isbefor param
+77	addDays MutableDateTime add Days Mutable Time iinstant setmilli mutabl addday number getmilli chain mutabledatetim set getfield

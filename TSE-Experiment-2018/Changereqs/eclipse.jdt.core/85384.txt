@@ -1,3 +1,0 @@
-Bug 85384 – [1.5][assist] "extends" not proposed when writing method declarations
-I20050215-2300
-"extends" is not proposed by content assist when writing method declarations.

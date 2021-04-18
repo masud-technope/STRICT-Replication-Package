@@ -1,0 +1,1 @@
+ProblemsLabelDecorator:getErrorTicksFromMarkers(IResource, int, ISourceReference)

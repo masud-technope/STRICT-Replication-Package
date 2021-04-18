@@ -1,0 +1,16 @@
+641	distance methods Implement method point Segments exists segements lines calculates
+1121	counter iteration iterations optimizer iter BaseOptimizer BrentOptimizer doOptimize count Brent
+835	percentage method rare addition included patch numerator bug Fraction overflow
+775	population occur check populationLimit ListPopulation chromosomes constructor positive greater negative
+776	range elitism constructors elitismRate checks setting setElitismRate ElitisticListPopulation method check
+777	OnePointCrossover Policy needed Ordered CrossoverPolicy Point Crossover Chromosomes
+841	gcd rng testApache nanoTime ArithmeticUtils assertEquals nextInt nano exec slower
+905	sinh cosh values exp overflow infinity StrictMath FastMath range positive
+778	multiply contract general FieldElement values method org commons apache math
+779	iterator ListPopulation chromosomes unmodifiable list remove population wrap method Calling
+718	large trials wrong inverse inverseCumulativeProbability checked method expected returns fixed
+782	block stopping original addition location exit criterion user algorithm BrentOptimizer
+878	tests squared ratio chi LLR test independence goodnes approximation fit
+849	ulps thread http accuracy port tests mil values turn higher
+915	compatibility random broken field binary report EmpiricalDistribution randomData RandomDataImpl RandomDataGenerator
+764	sample RandomGenerator accepted methods create sampler sampleSize RealDistribution createSampler generator

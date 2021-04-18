@@ -1,0 +1,9 @@
+1396	trunk dependency Tika code MimeUtil Mime Copied upgraded Util Upgrade
+1381	subcollection field override configuration filter NUTCH issue introduce globally directive
+1351	missing DomainStatistics tld tool suffix domain host counts TLD Statistics
+1399	closed fails http test TestProtocolHttpClient servers tests Test Http Protocol
+1352	regex patch single replace throughput lot today urlfilters plugins lock
+1356	parsers thread ParseUtil ExecutorService patch handling parsed initialize cache parsing
+1405	entries existing permit injected overwrite reset reducer CrawlDatum metadata Crawl
+1262	application single xhtml Map html types xml mapMimeTypes moreIndexingFilter type
+1407	field domain bit copy host user basic NutchDocument BasicIndexingFilter copyField

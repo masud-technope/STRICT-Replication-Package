@@ -1,0 +1,15 @@
+1345	threads dependencies dependency bits respective spare easier code needed wrote
+1409	correct error check test MatrixVectorView Matrix Vector View
+1379	point digest ClusterQualitySummarizer data single cluster clusters call fails OnlineSummarizer
+1284	bug internal instance recommended fail map object time user MapReduce
+1317	save cases message error code relevant incomplete trivial incorrect negative
+1030	clustered WeightedVectorWritable wrote change centroid distance clusters iterating hope large
+1319	filter argument command expected thrown custom exception parameter PrefixAdditionFilter sequential
+1351	point processing runtime visual DenseVector constructor support clustering document centroid
+1261	fffffff setting large hashes bug size entries exception cardinality values
+1364	version fail code Lucene Mahout RandomizedRunner Runner Carrot upgrade Parallel
+1301	comma code method SequentialAccessSparseVector extra excess bug toString capacity string
+1398	users delimiter push goal framework constructor cost implement FileDataModel processLine
+1368	quartile OnlineSummarizer TDigest accuracy distributions current handles Convert Summarizer extended
+1242	hash maps function key code distribution degenerate bits strong behavior
+1308	extend custom visibility implement order CandidateItemsStrategy AbstractCandidateItemsStrategy doGetCandidateItems Candidate modifier

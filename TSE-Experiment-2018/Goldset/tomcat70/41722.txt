@@ -1,3 +1,0 @@
-java/org/apache/catalina/deploy/SecurityRoleRef.java
-java/org/apache/catalina/startup/WebRuleSet.java
-webapps/docs/changelog.xml

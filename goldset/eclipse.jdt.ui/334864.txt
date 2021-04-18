@@ -1,0 +1,3 @@
+OpenTestAction:extractRealMethodName(String)
+OpenTestAction:extractRealMethodName(TestCaseElement)
+OpenTestAction:OpenTestAction(TestRunnerViewPart, TestCaseElement)

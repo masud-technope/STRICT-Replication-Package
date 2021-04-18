@@ -1,0 +1,16 @@
+641	Segments Implement calculates cal culates Lines
+1121	Optimizer Optimize BrentOptimizer Brent Optimize doOptimize Optimize optimizer optimize Optimize BaseOptimizer Base Optimize Brent ideally ide ally Base iterations iter ations Brent Optimizer Optimize Base Optimizer
+835	overflows flows percentage centage addition add ition numerator num erator multiplying mul lying MAX Fraction Integer percentageValue centage percentage
+775	ListPopulation List Population Population List chromosomes chr omosomes populationLimit pop ulation Limit population pop ulation Limit List Population population Limit
+776	Elitism elitismRate elitism Rate Population List Rate setElitismRate set Elitism Rate ElitisticListPopulation Elitistic List Population Elitistic elitism Rate set Elitism Rate Elitistic List Population
+777	Policy Ordered Point OnePointCrossover Point Cross CrossoverPolicy Cross Policy Crossover Cross Chromosomes Point Crossover Crossover Policy
+841	testApache test Apache approach app roach Random ArithmeticUtils Arithmetic Utils Apache MIN Arithmetic MAX Time System nanoTime nano Time checksum check sum assertEquals Equals nextInt Integer Equals Utils test Apache Arithmetic Utils nano Time Equals
+905	times Math FastMath Fast Math MAX Strict Hain Fast Infinity StrictMath Strict Math counterparts counter parts Jeff Fast Math Strict Math
+778	Element FieldElement Field Element Dfp Field Field Element
+779	Calling ListPopulation List Population Iterator Population List chromosomes chr omosomes population pop ulation List Population
+718	Binomial Bin omial Distribution BinomialDistribution Bin omial Distribution BinomialDistributionImpl Bin omial Distribution Impl System NaN Cumulative Impl cumulativeProbability cumulative Probability Infinity Inf inity Probability inverseCumulativeProbability inverse Cumulative Probability checkedCumulativeProbability checked Cumulative Probability Binomial Distribution Binomial Distribution Impl cumulative Probability inverse Cumulative Probability checked Cumulative Probability
+782	implying impl ying User Optimizer Optimize BrentOptimizer Brent Optimize addition add ition Brent stopping ping Brent Optimizer
+878	increasingly reasingly theoretical oretical Likelihood lihood independence ind ependence Hodge Pearson Test goodness goo dness Expected Bahadur approximation app roximation Log Reasons infinitely inf init ely Observed Observe Implementation LLR wikipedia wiki pedia Reference goodnes good nes fulness Lehman Pitman
+849	Math Gamma Commons RES EARCH proposes prop oses MATH Precision Software Library markmail mark mail Numerical Num erical CNS NumericalNSWC Mathematical Math ematical Functions logGamma log Gamma NSWC ADA Numerical NSWC log Gamma
+915	EmpiricalDistribution Empirical Distribution RNG Random Clirr RandomDataImpl Random Data Impl RandomDataGenerator Random Data Generator Empirical Distribution Generator randomData random Data Usage Impl Data Empirical Distribution Random Data Impl Random Data Generator random Data
+764	Size Random Real sampler sample Specific ally Distribution Sampler Generator sampleSize sample Size RandomGenerator Random Generator RealDistribution Real Distribution createSampler create Sampler Sample API haps sample Size Random Generator Real Distribution create Sampler

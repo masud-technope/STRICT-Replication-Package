@@ -1,0 +1,33 @@
+33356	Jasper foo set	Jasper Exception	Incorrect parsing tag attributes
+37326	JSP fragments user	Beans HTTPMonitor	error reported jsp include existent target
+38553	client certificate HTTP	client	Wrong HTTP code failed CLIENT CERT authentication
+41059	Web App variables	App References	WebAppClassLoader clearReferences code running threads Web App Loader clear References
+42039	Exception Standard UnavailableException Unavailable Exception	Wrapper Exception Unavailable	Tomcat doesn output stack trace UnavailableException Unavailable Exception
+42503	Resource test file	Resource Context	ServletContext getResourceAsStream returns stale data Servlet Context Resource Stream
+42693	menu item error	Node Tag	JSP Generation error recursive tagfile structure
+43706	Web copy Webdav	Web Webdav DAV	litmus warning WebdavServlet Webdav Servlet
+43868	MBean Role method	Role MBean set	MBeanServer invoke issue MBean Server
+46105	Encoding UTF authentication	Encoding Character	URIEncoding doesn affect form authentication redirect
+46915	Bundle String message	Bundle Local String	Unable ResourceBundle Tomcat Resource Bundle
+47111	String attachment bug	String Manager	caching resources docu StringManager String Manager
+47378	file servlet Servlet	Servlet Faces	file ignores servlet mapping
+47413	Tomcat snippet outputs		difference composite expressions
+47568	Tomcat Test directory	Tomcat set	TestTomcat fails delete work directory Test Tomcat
+47744	test memory zip	Control Context Access	Memory leak SSL Java security manager
+47820	instance add method	add Servlet	utility methods Tomcat instance methods
+48113	Member Failure MemberImpl Member Impl	Failure Impl Disappeared	Member hostname components printed signed bits
+48117	Source Web filename	Web Source Xml	misspellings javadoc org apache catalina startup ContextConfig Context Config
+48139	attachment details Javadoc		Tomcat Javadoc unthrown exception fixes
+48172	Jsp Reload Runtime	Reload Jsp Runtime	JspRuntimeContext synch problems Jsp Runtime Context
+48387	Header protocolHeaderSslValue protocol Header Ssl Ssl	Ip Header	RemoteIpFilter parameters consistent RemoteIpValve Remote Filter Remote Valve
+49118	String Servlet loop	Trace Builder Servlet	Inefficient String concatenation loop
+49132	Ctx Context lookup	Ctx Context	JNDI working
+49144	field object Config	Context Config Digester	Incorrect lazy initialization update fields
+49221	pattern set http	set Domain	javax servlet http Cookie setDomain charset set Domain
+49290	Dir Context Container	Dir Container	JarScanner scanAllDirectories Tomcat start Jar Scanner scan Directories
+49340	start webapp tomcat		Webapp unavailable deploy start
+49721	jsp file browser		Fail access resources jsp files jar file supported servlet
+50127	SimpleTCPCluster Simple TCPCluster attachment method	TCPCluster Simple	NPEs SimpleTCPCluster Simple TCPCluster
+51641	Nio Socket Connection	Nio Hash Socket	Http NioProcessor correct release Nio Processor
+51972	protocol URLs server	Redirect Absolute send	sendRedirect support protocol relative URLs send Redirect
+54115	Http methods attachment	Request Http Client	Minor enhancements HttpClient test helper Http Client

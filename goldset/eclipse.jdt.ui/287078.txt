@@ -1,0 +1,5 @@
+AbstractJavaCompletionProposal:unselected(ITextViewer)
+AbstractJavaCompletionProposal:updateStyle(ITextViewer)
+AbstractJavaCompletionProposal:rememberStyleRange(ITextViewer)
+AbstractJavaCompletionProposal:selected(ITextViewer, boolean)
+AbstractJavaCompletionProposal:selected(ITextViewer, boolean)

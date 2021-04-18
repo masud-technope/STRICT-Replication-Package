@@ -1,0 +1,1 @@
+JavaNavigatorContentProvider:init(ICommonContentExtensionSite)

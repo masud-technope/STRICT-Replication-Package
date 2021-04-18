@@ -1,2 +1,0 @@
-[SLING-1608] unsafe cast in AbstractSlingPostOperation - ASF JIRA
-AbstractSlingPostOperation.checkin() assumes that the paths it gets are node paths when they can be property paths as well.

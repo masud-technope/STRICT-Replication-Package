@@ -1,0 +1,16 @@
+227	restart change work press properties version preferences window application aTunes
+259	bug listening submitted submission
+260	work aTunes Screen Full doesn Windows screenshot Tunes
+230	tag property lang edited tags track numbers exception file thrown
+231	image supported version repository add latest older app aTunes isSupportsInternalImage
+264	song player playing songs sound actual time wrong problem correct
+207	screen view click option standard full aTune Full Stefania Tune
+240	lyrics window problem occur fixed windows actual close program task
+212	correct selected picture songs tab song info album artist panel
+276	sound mute system music pause volume update aTunes full play
+213	supported files Xine music rename extension aTunes skip repository engine
+245	playlist stations radios folder add icon label draging Radio Labels
+278	title change click disk Edit step hit enter bug minimum
+281	retrieval entries searchableobjects search mute finished seconds cache feed update
+220	track previous OSD button play displayed pressing jumping appears
+221	work mode window multiple Multiple

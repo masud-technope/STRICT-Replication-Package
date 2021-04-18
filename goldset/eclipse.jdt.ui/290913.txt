@@ -1,0 +1,4 @@
+NewTestSuiteWizardPage:getSuiteMethodString()
+NewTestSuiteWizardPage:updateExistingType(ICompilationUnit, IProgressMonitor)
+NewTestSuiteWizardPage:getSuiteMethodString(IType)
+NewTestSuiteWizardPage:createTypeMembers(IType, ImportsManager, IProgressMonitor)

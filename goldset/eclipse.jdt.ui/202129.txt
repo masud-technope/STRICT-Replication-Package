@@ -1,0 +1,6 @@
+AbstractWorkingSetWizardPage:removeTableSelection()
+AbstractWorkingSetWizardPage:createTable(Composite)
+AbstractWorkingSetWizardPage:validateInput()
+AbstractWorkingSetWizardPage:addTreeSelection()
+AbstractWorkingSetWizardPage:createButtonBar(Composite)
+AbstractWorkingSetWizardPage:finish()

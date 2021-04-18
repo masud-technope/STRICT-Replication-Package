@@ -1,0 +1,2 @@
+solrindex issues
+I ran into a few caveats with solrindex command trying to index documents. Please refer to http://techvineyard.blogspot.com/2010/12/build-nutch-20.html#solrindex that describes my tests.

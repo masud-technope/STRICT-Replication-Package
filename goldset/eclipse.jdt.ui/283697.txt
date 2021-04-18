@@ -1,0 +1,2 @@
+ModifierCorrectionSubProcessor:addOverrideAnnotationProposal(IInvocationContext, IProblemLocation, Collection)
+ModifierCorrectionSubProcessor:addDeprecatedAnnotationProposal(IInvocationContext, IProblemLocation, Collection)

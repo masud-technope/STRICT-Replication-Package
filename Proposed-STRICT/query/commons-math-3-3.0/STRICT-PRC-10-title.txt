@@ -1,0 +1,16 @@
+641	Implement distance exists calculates segements point methods Segments method lines Implement distance methods Lines Segments
+1121	defined Optimizer Optimize Brent Base iteration BrentOptimizer Brent Optimizer count iter BaseOptimizer Base Optimizer Brent optimizer doesn Base optimizer iteration counter
+835	method percentage converting Fraction percentageValue percentage works convert result multiplying overflows Fraction percentageValue rare overflow percentage
+775	occur ListPopulation List Population constructor Population List check Limit populationLimit population Limit population number ListPopulation constructor check negative populationLimit occur List Population population Limit
+776	set elitism elitismRate elitism Rate setting Rate Population List range constructors ElitisticListPopulation Elitistic List Population range checks elitismRate ElitisticListPopulation constructors elitism Rate Elitistic List Population
+777	CrossoverPolicy Crossover Policy Crossover Policy Ordered Point needed OnePointCrossover Point Crossover Chromosomes CrossoverPolicy needed Crossover Policy
+841	gcd checksum System rng Integer test Time start code nano gcd speed
+905	cosh exp sinh Math FastMath Fast Math Infinity log MAX values range FastMath cosh sinh support range values Math counterparts Fast Math
+778	multiply comply FieldElement Field Element Dfp contract Element Field method org math Dfp Dfp multiply comply general contract FieldElement multiply Field Element
+779	list ListPopulation List Population Population List Calling remove iterator method population Iterator ListPopulation Iterator remove chromosomes population List Population
+718	Probability method reproduce checked expected Binomial inverseCumulativeProbability inverse Cumulative Probability returns BinomialDistributionImpl Binomial Distribution Impl Impl inverseCumulativeProbability BinomialDistribution returns wrong large trials inverse Cumulative Probability Binomial Distribution
+782	defined block stopping supposed implementation Brent user algorithm addition implying BrentOptimizer User defined check block badly Brent Optimizer
+878	squared test chi fit tests ratio Observed Test cell Likelihood Test Log Likelihood ratio LLR test math stat inference
+849	http proposes accuracy log implementation tested values set tests NSWC Precision improvement Gamma
+915	Data compatibility replaced EmpiricalDistribution Empirical Distribution field Distribution Impl RandomDataImpl Random Data Impl RandomDataGenerator Random Data Generator deprecated compatibility broken EmpiricalDistribution Empirical Distribution
+764	sample RandomGenerator Random Generator Random RealDistribution Real Distribution accepted Distribution create Generator method generator sample API accept RandomGenerator parameter Random Generator

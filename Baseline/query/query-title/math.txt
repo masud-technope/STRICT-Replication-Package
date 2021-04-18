@@ -1,0 +1,60 @@
+259	Bugs Frequency API
+776	range checks elitismRate ElitisticListPopulation constructors elitism Rate Elitistic List Population
+904	FastMath pow deviates Math pow negative finite base values exponent Fast Math
+393	Method getResult MultiStartUnivariateRealOptimizer Result Multi Start Univariate Real Optimizer
+778	Dfp Dfp multiply comply general contract FieldElement multiply Field Element
+779	ListPopulation Iterator remove chromosomes population List Population
+781	SimplexSolver bad Simplex Solver
+273	Basic variable correctly simplex tableau
+274	testing symmetric positive definite matrix CholeskyDecomposition Cholesky Decomposition
+929	MultivariateNormalDistribution density returns wrong dimension odd Multivariate Normal Distribution
+546	Truncation issue KMeansPlusPlusClusterer KMeans Clusterer
+803	Bugs RealVector ebeMultiply RealVector ebeDivide RealVector Real Vector ebe Multiply Real Vector ebe Divide Real Vector
+934	Complex reciprocal returns NaN INF
+167	ConvergenceException normal CDF Convergence Exception
+679	Integer overflow OpenMapRealMatrix Open Map Real Matrix
+935	DerivativeStructure atan handle special cases properly Derivative Structure
+552	MultidimensionalCounter getCounts returns wrong array indices Multidimensional Counter Counts
+554	Vector crossProduct sensitive numerical cancellation cross Product
+942	DiscreteDistribution sample exception element singletons type Discrete Distribution
+175	chiSquare expected observed returning incorrect test statistic chi Square
+691	Statistics setVarianceImpl getStandardDeviation produce NaN set Variance Impl Standard Deviation
+949	LevenbergMarquardtOptimizer reports iterations Levenberg Marquardt Optimizer
+567	Dfp toDouble method inf whan Dfp
+695	Incomplete reinitialization events handling
+60	math Function math fraction ProperFractionFormat parse String ParsePosition illogical result Proper Fraction Format Parse Position
+318	wrong result eigen decomposition
+704	Variance evaluate methods work correctly
+322	ODE integration event pair close event detected
+835	Fraction percentageValue rare overflow percentage
+836	Fraction constructor strange behaviour
+198	java lang StringIndexOutOfBoundsException ComplexFormat parse String source ParsePosition pos String Bounds Exception Complex Format Parse Position
+326	getLInfNorm wrong formula ArrayRealVector OpenMapRealVector ways LInf Norm Array Real Vector Open Map Real Vector
+200	AbstractEstimator getCovariances guessParametersErrors crash bound parameters Estimator Covariances guess Parameters Errors
+329	stat Frequency getPct Object getCumPct Comparable getPct Comparable Pct Cum Pct Pct
+713	Negative restrictNonNegative restrict Negative
+716	BracketingNthOrderBrentSolver exceeds maxIterationCount updating boundary Bracketing Nth Order Brent Solver max Iteration Count
+844	HarmonicFitter ParameterGuesser fails values Harmonic Fitter Parameter Guesser
+209	RealMatrixImpl operate result vector dimensions wrong Real Matrix Impl
+338	Wrong parameter step size guess Embedded Runge Kutta methods
+722	math Complex Tanh big numbers
+85	math SimpleRegression getSumSquaredErrors Simple Regression Sum Squared Errors
+727	large step embedded Runge Kutta integrators Dormand Prince
+344	Brent solver returns wrong bracket endpoint root
+859	deprecate isSupportXxxInclusive RealDistribution Support Xxx Inclusive Real Distribution
+988	NPE calling SubLine intersection intersecting lines
+221	Result multiplying equals complex numbers wrong
+865	Wide bounds CMAESOptimizer result NaN parameters passed fitness function
+482	FastMath max Fast Math
+867	CMAESOptimizer bounds fits finely bound coarsely upper bound
+358	ODE integrator integration range
+362	LevenbergMarquardtOptimizer ignores VectorialConvergenceChecker parameter passed Levenberg Marquardt Optimizer Vectorial Convergence Checker
+618	Complex Add Subtract handle NaN arguments differently javadoc contracts
+1005	ArrayIndexOutOfBoundsException MathArrays linearCombination Array Bounds Exception Math Arrays linear Combination
+238	MathUtils gcd fails high power Math Utils
+241	MathUtils binomialCoefficient fails large Math Utils binomial Coefficient
+369	BisectionSolver solve UnivariateRealFunction min max initial NullPointerException Bisection Solver Univariate Real Function Pointer Exception
+371	PearsonsCorrelation getCorrelationPValues precision limited machine epsilon Pearsons Correlation Correlation PValues
+631	RegulaFalsiSolver failure Regula Falsi Solver
+377	weight sigma AbstractLeastSquares Squares
+1021	HypergeometricDistribution sample suffers integer overflow Hypergeometric Distribution

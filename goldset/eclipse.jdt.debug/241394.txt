@@ -1,0 +1,3 @@
+ConsoleInputTests:deleteAll(IConsole)
+ConsoleInputTests:testDeleteAllEnteredText()
+ConsoleInputTests:append(IConsole)

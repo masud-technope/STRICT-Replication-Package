@@ -1,0 +1,10 @@
+2560	Edit pre keyboard file letter browser jEdit Edit editor select files jEdit pre file system browser keyboard handling Edit
+2720	delete Java directory Version check bugs action lazy post jEdit Edit FSB delete action directory working
+2752	Replace Search check click Regular expressions jEdit Edit pre Edit regexpr jEdit freezes regexpr Edit
+2595	view views txt pre foo display Windows Free caret bar caret display position multiple views open
+2534	key Key patch bugs window KeyEventWorkaround Key Event Workaround character Num behaviour Alt Test NumPad Alt Tab window Num Pad
+2459	dialog display behaviour restored open width secondary Size file open save dialogs incorrect dual displays
+2571	highlighted selected number selection jvm splits accross beta multiple lines number highlighted selected
+2635	fold Java caret Version bugs check lazy post key visible move caret collapsing fold
+2636	Java jEdit Edit Revision check bugs Version lazy post Register doesn Clearing Register doesn work persistently
+2542	text characters general undo Undoable Text Current type undoable edit Pasting Text Current Undoable Edit

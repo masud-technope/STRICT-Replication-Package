@@ -1,1 +1,0 @@
-Bug 8581 – Switch J Search to StructuredContentProvider

@@ -1,0 +1,17 @@
+1569	upgrade Patch push Maven released artifacts coming Gora Upgrade Upgrade Gora
+1542	param crawl hack urls fetch strong Generator generator reason adddays adddays param generator
+1575	nutch solr authentication support support solr authentication nutch
+1513	Ftp robots plugin nutch txt urls noformat file developers java Support Robots txt Ftp urls
+1514	deprecated mail configuration apache mbox Bdf Gdc VSh removed CCAFKhtFwvM CCAFKht Fwv Phase deprecated configuration properties
+1419	indexchecker org protocol status redirect nutch lucene URL content code parsechecker indexchecker report protocol status
+1453	Indexing agreed discussed NUTCH Test issues test follow justice TestIndexingFilters Test Indexing Filters Substantiate tests IndexingFilters Indexing Filters
+1552	read code org java indexer attempt content apache src Filter possibility NPE plugin
+1393	generate usage GeneratorJob Generator Job Generator nutch generating stdout code lewis auto Display consistent usage GeneratorJob Generator Job
+1493	contentLength content Length string content accept Length NUTCH empty assume adding patch Error adding field contentLength solrindex content Length
+1047	indexing plugins add deduplicating storage backends searching extension reduce generating Pluggable indexing backends
+1370	crawl INFO code urls injected fetching debugging crawldb PluginRepository Plugin Repository number Expose exact number urls injected runtime
+1563	Fields FetchSchedule Fetch Schedule Schedule Fetch WebPage Web getFields Fields GeneraterJob Generater Job Generater Web method FetchSchedule getFields GeneraterJob Fetch Schedule Fields Generater Job
+956	describes solrindex build nutch http techvineyard command refer html blogspot solrindex issues
+1532	field segment replaced mail org mapping archive batchId batch apache reflects Replace segment mapping field batchId batch
+1501	ParserChecker Parser Checker Checker diverged missing Parser trunk issue IndexingFiltersChecker Indexing Filters Checker parsechecker behavior Harmonize behavior parsechecker indexchecker
+1503	conf code fetcher xml nutch FetcherReducer Fetcher Reducer Fetcher host timelimit properties Configuration properties sync FetcherReducer nutch xml Fetcher Reducer

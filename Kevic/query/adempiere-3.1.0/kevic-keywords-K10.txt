@@ -1,0 +1,12 @@
+768	currency required versa vice record tab Wrong debit sum Journal
+113	invoiced shipments func tracker Consolidated net shipment http detail group
+114	voided reversed bug func tracker net http group detail orders
+116	address organization enter users initial sequence change user ZIP Organization
+820	exception price list product pricelist PriceList POCreate RequisitionPOCreate ProductNotOnPriceList create
+37	patch viewer tracker top scrolling func attempt good bad resolution
+1240	balanced tab serial production create globalqss click row botton post
+106	invoices function problem Selection Payment version batch form VPaySelect VPay
+109	drafted invoices process func cancelled range bad Invoices Print tracker
+525	vendors order product current vendor Sales box dialog purchase process
+814	production products quantity items create ProductionLines product BOM generates automatically
+815	cost type working records landed work allocation distribution form LandedCost

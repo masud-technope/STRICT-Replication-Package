@@ -1,0 +1,2 @@
+RandomStringUtils.random(count, 0, 0, false, false, universe, random) always throws java.lang.ArrayIndexOutOfBoundsException
+In commons-lang 2.6 line 250 : {code}ch = chars[random.nextInt(gap) + start];{code} -This line of code takes a random int to fetch a char in the _chars_ array regardless of its size.- -(Besides _start_ is useless here)- -Fixed version would be :- {code}//ch = chars[random.nextInt(gap)%chars.length];{code} When user pass 0 as _end_ or when the array is not null but empty this line ends up with an exception

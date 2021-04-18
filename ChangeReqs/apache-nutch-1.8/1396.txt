@@ -1,0 +1,2 @@
+Upgrade to Tika 1.1
+Copied code from trunk for MimeUtil and upgraded dependency to Tika 1.1

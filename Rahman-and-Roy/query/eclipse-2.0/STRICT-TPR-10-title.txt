@@ -1,0 +1,17 @@
+31779	folder File Unified list file UnifiedTree Unified Tree problem user resource Files resources UnifiedTree ensure file folder exists Unified Tree
+23140	ssh client cvs password authentication user method server access codebase CVS EXTSSH vulnerable man middle attacks dns poisoning
+13926	Context control rectangle Busy screen position showWhile JFace text completion JFace Text Editor Leaves Black Rectangle Content Assist text insertion
+19686	file java methods mouse switching hover Stay bring Build secs hover stops working mousing file
+21062	string Target wizard resource Configure listbox parameter Project Wizard ConfigureProjectWizardMainPage Configure Project Wizard Main Reusing ConfigureProjectWizardMainPage target mgmt leads incorrect resource string dialog Configure Project Wizard Main
+19976	site feature add user CVS time internet shouldn url connected Dav Choosing add bad site user modify site properties
+22696	window view perspective Hierarchy WSDD topics work open WSWB topic doesn work window open
+18761	support FTP user anonymous checkbox target password supporting connection assumes support creating anonymous FTP connections
+17707	site project Deploy Target error Foo select Warning warning overwrite DAV Reselecting location misleading warning
+19307	ott ftp oti option format rejected URL enter url connect FTP Valid ftp url rejected
+19691	Team export plug settings preferences Content preference File Change store Team Preferences working export
+13069	size memory text file files buffers large sendFile send File contents send CVS Core Sending large files result excessive memory usage
+15277	suite test suites tests behaviour call stack chaining causing special Recreate test suite add suite
+16787	Control control getControl Control method Wizard showPage WizardPage Wizard showStartingPage Starting called Dialog Wizards Wizards recreated returning
+30644	Method preference Team Connection Label COntrast Contrast High CVS Ext VCM preference cut High Contrast
+12118	connection user ssh server method client EXTSSH CVS revision servers CVS EXTSSH extssh user ssh server compatible protocol
+22809	dialog Properties file pane tree Info Observe Navigator Labels directory Properties dialog Repos Properties Info Dialog Labels resize dialog

@@ -1,0 +1,16 @@
+207	aTune Tune screen view	Tune	option
+212	song album picture		Context panel
+213	Xine Tunes song	Tunes	supported formats skipped Xine
+220	OSD button play		OSD displayed jumping previous track
+221	work mode window		Multiple window mode work
+227	Tunes aTunes Tunes doesn	Tunes	Request restarting doesn work
+230	Operation tag track	Operation set Tag	tag
+231	image Supports format	Supports Internal Tunes	add image repository read older app version
+240	window lyrics occasion	Tunes	Set lyrics automatically terminated
+245	folder playlist label		Radio Labels playlist
+259	listening submitted bug		submission bug
+260	aTunes Tunes Screen Tunes	Tunes	Full Screen doesn work Windows aTunes Tunes
+264	player songs song		Wrong song duration displayed player
+276	Tunes system aTunes Tunes	Tunes	Mute
+278	title change Edit	Tunes	Edit Titles Fails
+281	INFO START JIntellitype	Searchable JIntellitype Tunes	Mute button

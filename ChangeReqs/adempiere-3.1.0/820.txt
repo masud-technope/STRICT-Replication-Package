@@ -1,0 +1,2 @@
+ProductNotOnPriceList Error when creating PO From Requisitio
+Hi all, When we try to create a Purchase Order from using "Create PO from Requisition" process then it shows product not on price list exception, this is due as in "RequisitionPOCreate.java" we have not set the PriceList of order from Requisition and it choose the default price list and if that product is not on that pricelist than it throws exception.

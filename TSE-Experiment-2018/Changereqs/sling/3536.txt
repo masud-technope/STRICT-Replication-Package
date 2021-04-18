@@ -1,4 +1,0 @@
-[SLING-3536] Sling Models OOME due to DisposalCallbackRegistry - ASF JIRA
-With high load on our servers we get an OutOfMemoryException caused by ModelAdapterFactory which is only releasing one DisposalCallbackRegistry per 30 seconds.
-
- Regards,  Dominik

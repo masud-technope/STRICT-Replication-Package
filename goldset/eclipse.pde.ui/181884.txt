@@ -1,0 +1,3 @@
+ManifestContentAssistProcessor:handleRequireBundleCompletion(String, int)
+ManifestContentAssistProcessor:handleFragmentHostCompletion(String, int)
+ManifestContentAssistProcessor:getBundleVersionCompletions(String, String, int)

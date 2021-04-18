@@ -1,3 +1,0 @@
-bundles/resourceresolver/src/main/java/org/apache/sling/resourceresolver/impl/CommonResourceResolverFactoryImpl.java
-bundles/resourceresolver/src/main/java/org/apache/sling/resourceresolver/impl/ResourceResolverFactoryActivator.java
-bundles/resourceresolver/src/main/java/org/apache/sling/resourceresolver/impl/console/ResourceResolverWebConsolePlugin.java

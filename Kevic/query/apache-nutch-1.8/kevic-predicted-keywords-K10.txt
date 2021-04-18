@@ -1,0 +1,9 @@
+1396	Tika dependency Mime Copied upgraded code Util Upgrade trunk
+1381	subcollection field override configuration introduce globally filter NUTCH issue directive
+1351	DomainStatistics tool suffix domain tld aggregate host missing aggregates Domain
+1399	fails closed servers tests test Test http Http Protocol Client
+1352	regex synchronization lock urlfilters plugins blocking Improve noticed single fetcherthreads
+1356	thread ExecutorService ParseUtil parsed patch specific handling initialize Parse parsers
+1405	overwrite entries existing permit optionally Datum Injector injected reset overwriting
+1262	single Map xhtml application documents type MIME web disabled Office
+1407	field domain bit host copy cumbersome basic Basic optionally Document

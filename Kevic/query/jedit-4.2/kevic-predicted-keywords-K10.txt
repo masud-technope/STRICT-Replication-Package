@@ -1,0 +1,10 @@
+2560	jEdit file system keyboard pre letter appears Edit active worked
+2720	FSB delete directory action Java pre folders lazy recursively bugs
+2752	jEdit click regexpr Replace set Edit check expressions freezes pre
+2595	views open txt view multiple active located switching caret display
+2534	window character objects key KDE Translator enable text press keyboard
+2459	dual dialog display position primary displays dialogs file settings previous
+2571	highlighted number beta text splits multiple single selection lines pre
+2635	caret fold collapsed move Windows visible Edit check remaining bugs
+2636	Clearing work Register pre post Version persistently dupe check Sun
+2542	undo undoable text area separately Mac paste type finish edit

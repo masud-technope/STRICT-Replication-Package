@@ -1,0 +1,30 @@
+29516	Search tests refactoring Engine	Search Engine	Bug SearchEngine regressions Search Engine
+42243	syntax error diagnosis mode		Bug Incorrect syntax diagnosis source mode
+65738	time builder notice save		Bug builder Build automatically save
+79809	Simple Tag tag type	Simple Element Tag Type	Bug dom javadoc support type parameter Javadoc tags
+110797	series review code RULE		Bug multiple task tags single tasks view complete tag
+126180	access NPE compiler String		Bug compiler NPE reporting invalid enclosing type
+145202	element analyzer reference positive		Bug positive reference analyzer negated
+165346	Expression Flow Status OperatorExpression Expression	Expression Status Info Flow	Bug compiler org eclipse jdt internal compiler ast OperatorExpression nullStatus FlowInfo conservative Expression Status Flow Info
+168331	Method Entry Bug List	Entry List Error	Bug compiler AbstractMethodError method Method Error
+228691	Type processing Integer language	Type Primitive Subtype	Bug JDT impl sun mirror util Types isAssignable returns wrapper primitive assignment Assignable
+291322	Windows tests issue lock		Bug Test errors running JDT Core tests Windows
+380501	support lambda libraries connection		Bug compiler Add support methods JSR
+381358	source program Lambda error	Elided Formal	Bug Compiler gracefully reject JSR constructs source levels
+385293	compiler modifiers report type		Bug compiler compiler accepts normal modifiers type arguments
+388634	JDTCore compliance failure Compliance	JDTCore Tests	Bug Test failure Compliance compliance
+396139	Javadoc JRE team JAVA	Test Javadoc	Bug define JRE build targeting BETA JAVA
+396258	Annotation syntax annotations type	Annotation Type Test	Bug adopt syntax annotations qualified type names NullTypeAnnotationTest Type Annotation Test
+399567	Ordered Method Set List	Method Set parallel Ordered	Bug error message reference compiler
+401848	ASTRewrite type attachment Testcase		Bug ASTRewrite type annotations adds additional
+405051	Java IProgress search classpath	Java External	Bug JavaModel refreshExternalArchives happen search primed Java Model refresh External Archives
+405889	Method Java bugs Lang	Java Handles Lang Method	Bug compiler codegen Resilience NPE needed Scope getJavaLangInvokeMethodHandlesLookup Java Lang Invoke Method Handles Lookup
+412882	Classpath Operation Java validation	Classpath Operation Zip Model	Bug Unnecessary validation optional library classpath entries
+413913	failures Investigate Bug		Bug Investigate failures
+415911	NPE Type Element TYPE	Type Element	Bug compiler NPE TYPE annotated method missing type
+417388	Type type Argument Binding	Type Binding Reference Base	Bug TypeBinding TypeReference parameter type annotations Type Binding Type Reference
+417669	Type annotation Marker source	Type Annotatable Parameterized Element	Bug dom Incorrect source ranges annotated SimpleType nested ParameterizedType Simple Type Parameterized Type
+418919	System Options File bindings	Type File System Options	Bug compiler internal Remove forcing creation annotated bindings
+424718	Type compiler compatibility TypeReference Type Reference	Type Annotations dim Reference	Bug compiler API compatibility AST TypeReference Type Reference
+430451	Invocation tests attachment dash	Invocation String Compiler Tests	Bug Tests fail org eclipse jdt compiler tool tests CompilerInvocationTests JRE Compiler Invocation Tests
+456395	code attachment String Map		Bug compile Java code

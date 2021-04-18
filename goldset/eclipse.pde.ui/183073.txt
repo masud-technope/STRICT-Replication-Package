@@ -1,0 +1,2 @@
+ExtensionsSection:fillContextMenu(IMenuManager)
+ExtensionsSection:createClient(Section, FormToolkit)

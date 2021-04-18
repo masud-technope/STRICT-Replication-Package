@@ -1,0 +1,5 @@
+StringManager:StringManager(String)
+StringManager:getManager(String, Locale)
+StringManager:StringManager(ResourceBundle)
+StringManager:getManager(ResourceBundle)
+StringManager:StringManager(String, Locale)

@@ -1,9 +1,0 @@
-parsing of datetime format in HttpClientRetrieveFileTransfer is not complete
-Build ID: M20070921-1145
-
-Steps To Reproduce:
-
-
-More information:
-In addition to the locale problem, the datetime parsing is not complete in terms of RFC 2616. Even though RFC 822/1123 is the dominating format returned by servers, RFC 850/1036 and C asctime() format are also possible and 2616 Section 3.3 describes the handling of these two additional formats as mandatory for both clients and servers. 
-Currently, HttpClientRetrieveFileTransfer does not handle them.

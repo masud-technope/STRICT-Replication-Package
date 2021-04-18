@@ -1,0 +1,68 @@
+125572	Bug ECF provider thread interlock
+242950	Bug IRCChannelContainer NPE disconnect connection timeouts IRCChannel Container
+257926	Bug Discovery SLP JSLPServiceInfo IServiceInfo doesn SecurityException JSLPService Info IService Info Security Exception
+426497	Bug org eclipse ecf internal discovery DiscoveryServiceListener register IServiceTyped listener type wildcards Discovery Service Listener IService Typed
+266120	Bug Discovery JmDNS IServiceTypeID naming authority set DNS IService Type
+199309	Bug IRC Wrong connection click hyperlink
+327060	Bug discovery zookeeper location URI include port
+222868	Bug MSN mail password entered Finish button clicked
+198043	Bug open contacts dialog doesn recognize users groups
+208667	Bug msn MSNContainer sendPresenceUpdate NullPointerException UNAVAILABLE send Presence Update Pointer Exception
+327582	Bug osgi simplify implementation getRemoteServiceReferences Remote Service References
+172958	Bug IRC Patch commands Root Channel Containers
+259233	Bug Discovery JMDNS URI path lost discovery
+328999	Bug Discovery resilient broken hostnames
+328998	Bug Discovery Composite CompositeDiscoveryContainer advertisers set locator Composite Discovery Container
+196007	Bug Presence Hover highlights support pictures
+204329	Bug remoteservice registry updated adapter accessed connect
+282667	Bug remotesrvs osgi parsing exception ethz iks osgi impl CodeAnalyzer Code Analyzer
+296107	Bug Discovery jSLP discard SLP protocol messages version SLP
+332852	Bug Discovery ZooDiscovery Slow Zookeeper startup timeout BundleActivator start Zoo Discovery Bundle Activator
+165815	Bug Local access local remoteservicereference implemented
+406064	Bug Discovery ZooDiscovery high cpu percentage server client zookeeper Zoo Discovery
+316595	Bug Discovery Defer service retrieval unit tests
+419902	Bug OSGi NPE ethz iks osgi impl ChannelEndpointImpl updateTopics String String Channel Endpoint Impl update Topics
+314558	Bug Discovery DNS Add API checks test suite
+464701	Bug Discovery Zookeeper Auto reconnect issue
+258488	NPE status code
+192574	Bug Communications preference isn empty
+90428	Bug Jabber Provider Character allowed Jabber login names
+198334	Bug messages view CTabFolders doesn follow appearance settings CTab Folders
+371768	Bug Zoodiscovery NPE unpublishing service
+259389	Bug Discovery SLP lookup scope insensitive
+302394	Bug Discovery jSLP Test parser bad tags SLP
+328772	Bug org eclipse ecf core status SerializableStatus STATUS exception org eclipse ecf core status SerializableStatus checkForSerializable Throwable Serializable Status Serializable Status check Serializable
+302407	Bug remotesrvs osgi remote method invocation fails mismatch caused parameter type inheritance org eclipse ecf internal provider osgi RemoteServiceImpl callSync Remote Service Impl call Sync
+337345	Bug remoteserviceadmin Service Info publish endpointDescription endpoint Description
+198731	Bug Wrong underline hyperlink recognition
+265551	Bug pause reads entire resource HttpClient provider Http Client
+134483	Bug Standalone ClientApplication breaks ContainerFactory ECFPlugin Client Application Container Factory
+233808	Bug Discovery SLP org eclipse ecf tests discovery DiscoveryTest testAddServiceListenerIServiceTypeIDIServiceListener fails SLP provider Discovery Test test Add Service Listener IService Type IDIService Listener
+342352	Bug TCK RSA exports properties
+327379	Bug IRemoteCallFactory IRemote Call Factory
+420433	Bug OSGi NPE ethz iks osgi impl ChannelEndpointImpl handleMessage RemoteOSGiMessage SERVICE MODIFIED received SERVICE Channel Endpoint Impl handle Message Remote OSGi Message
+199259	Bug discovery ServiceInfo constructors cumbersome Service Info
+408030	Bug RestClientService ignores content encoding Client Service
+331740	Bug Discovery Composite CompositeDiscoveryContainer misses DiscoveryContainers Composite Discovery Container Discovery Containers
+329054	Bug Discovery Composite org eclipse ecf provider discovery CompositeDiscoveryContainer connect IConnectContext handle ContainerConnectExceptions nested discovery providers Composite Discovery Container IConnect Context Container Connect Exceptions
+267481	Bug server supporrt remoteservice container adapter server
+250717	Bug api add IResourceID IResource
+205532	Bug IRC add hyperlinking chat subject box
+255329	Bug Discovery JMDNS Fall hostname IServiceID getServiceName IService Service
+222824	Bug XMPP doesn work port Google Talk Host
+273135	Bug LogService implementation misses details logging Log Service
+485482	Bug remove code org eclipse ecf provider discovery
+337643	Bug remoteserviceadmin classloader proxy creation access IRemoteServiceProxy IRemote Service Proxy
+255347	Bug Discovery SLP optional IServiceID getServiceName isn set service discovery registration IService Service
+327029	Bug OSGi RemoteSrvs Smart Proxy delegate original method Remote Srvs
+254833	Bug Discovery SLP org eclipse ecf internal provider jslp Activator start BundleContext activate jSLP eagerly Bundle Context SLP
+471541	Bug ClassCastException JUnit integration tests Exception
+414448	Bug RemoteServiceAdmin importService robust face matching configs Remote Service Admin Service
+342002	Bug RestClientService invokeRemoteCall exception successful HTTP operation returns HTTP status Client Service invoke Remote Call
+270332	Bug called DocShares ECF group handling Doc Shares
+238970	Bug MSN CPU usage increases connecting
+369023	Bug NullPointerException tracing org eclipse ecf core util Trace catching Pointer Exception
+255352	Bug Discovery JMDNS JMDNS exchanges priority weight
+342782	Bug TCK RSA events set properties incorrectly
+221053	Bug message XMPP Server displayed
+318075	Bug Discovery Whitespaces allowed property

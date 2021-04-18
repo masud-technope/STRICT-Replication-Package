@@ -1,0 +1,2 @@
+Allow to overwrite CrawlDatum's with injected entries
+Injector's reducer does not permit overwriting existing CrawlDatum entries. It is, however, useful to optionally overwrite so users can reset metadata manually.

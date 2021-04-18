@@ -1,0 +1,2 @@
+[Team UI] Preferences not working with import/export
+Build F2 The following preferences were not transfered from one workspace to another using the export/import preferences feature. Ensure that these settings are saved in and read from your plug-in's preference store (if possible). Team - Use Incoming/Outgoing Team>File Content - Add, Remove, Change Team>Ignored Resources - Add, Remove, Selected

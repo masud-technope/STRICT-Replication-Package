@@ -1,1 +1,3 @@
-framework/bundles/org.eclipse.ecf.remoteservice.rest/src/org/eclipse/ecf/remoteservice/rest/client/RestClientService.java
+RestClientService:preparePostMethod(String, IRemoteCall, IRemoteCallable)
+RestClientService:preparePutMethod(String, IRemoteCall, IRemoteCallable)
+RestClientService:getUrlEncodedFormEntity(List, AbstractEntityRequestType)

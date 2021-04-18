@@ -1,4 +1,0 @@
-No tests for WriterAppender.setEncoding
-There were no tests in the log4j test suite that checked whether setEncoding affected the encoding of 
-the produced files.  See http://marc.theaimsgroup.com/?t=111359016700002&r=1&w=2 (topic "to-do 
-list", initial posting 15 April 2005) for discussion on the motivation for writing these tests.

@@ -1,0 +1,9 @@
+1396	Copied code trunk MimeUtil upgraded dependency Tika Mime Util
+1381	subcollection filter subcollection field NUTCH override subcollection issue introduce configuration directive override field globally
+1351	DomainStatistics tool aggregates counts host domain suffix tld missing Domain Statistics
+1399	test fails http servers closed tests
+1352	noticed fetching lot time fetcherthreads blocking monitor outlink normalizing filtering regex plugins single lock synchronization patch improves throughput removing synchronization locks replace threadlocals needed extensively tested production commit today objection
+1356	ParseUtil manages parser threads creating thread parse specific parsers expensive parsers threadlocal fields initialize item parsed simply introducing caching ExecutorService ParseUtil cache threads parsing efficient attached patch Parse Util Executor Service Parse Util
+1405	Injector reducer permit overwriting existing CrawlDatum entries optionally overwrite users reset metadata manually Crawl Datum
+1262	duplicating content types differently application xhtml xml text html impossible single filter select web http lucene nabble application xhtml xml text html html Content Type mapping disabled enabled moreIndexingFilter mapMimeTypes mapping file conf code target MIME type TAB type TAB type Map XHTML HTML text html application xhtml xml Map XHTML HTML Web text html application xhtml xml Map office documents Office document application vnd oasis opendocument text application tika msoffice code Indexing Filter map Mime Types
+1407	basic indexing filter adds host field NutchDocument domain field Solr copyField host field domain field bit cumbersome user friendly Nutch Document copy Field

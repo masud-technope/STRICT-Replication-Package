@@ -1,0 +1,2 @@
+LazyJavaCompletionProposal:apply(ITextViewer, char, int, int)
+LazyJavaCompletionProposal:selected(ITextViewer, boolean)

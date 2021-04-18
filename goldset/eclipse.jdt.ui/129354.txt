@@ -1,0 +1,1 @@
+AbstractJavaEditorTextHover:getTooltipAffordanceString()

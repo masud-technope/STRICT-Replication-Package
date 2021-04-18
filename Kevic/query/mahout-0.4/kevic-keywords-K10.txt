@@ -1,0 +1,16 @@
+576	update delta preference calculation setting remove code lot incorrect table
+641	set calculation hadoop properties method DistributedRowMatrix queue solver Configuration MatrixMultiplicationJob
+610	high form considered obvious SimilarityReducer fact behavior predictions simple change
+580	params base InMemoryDataStore basePath defined adjusted trunk param processed table
+614	work writes clean track control classifier error Hadoop method FileSystem
+678	algorithm positive understand category simple multiple gradient negative larger MixedGradient
+583	chunk files create sequence Loss data file directory overwrite loss
+552	lost names AbstractCluster NamedVectors constructor seq running vectors sparse input
+526	attributes numerical forest DefaultTreeBuilder dataset random StackOverflowError cases enters infinite
+561	handle parameters command TestClassifier source type correctly Test Classifier
+625	support higher patterns incorrect pattern real generated test FPGrowth biggest
+564	parameter distance setting distanceThreshold KMeansClusterer convergence clusters running field method
+565	bit feature series implementation mask sign minhash shift integer array
+631	problem bug datum weighted WeightedRunningAverageAndStdDev add WeightedRunningAverage Std Small Average
+602	exceptions wiki display dataset org apache MAHOUT confluence Implementation operations
+604	training data exception Bayes Classifier tested fails

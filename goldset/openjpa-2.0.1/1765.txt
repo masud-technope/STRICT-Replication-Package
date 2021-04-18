@@ -1,0 +1,2 @@
+org.apache.openjpa.jdbc.kernel.TableJDBCSeq:nextInternal(JDBCStore, ClassMapping)
+org.apache.openjpa.jdbc.kernel.TableJDBCSeq:getStatus(ClassMapping)

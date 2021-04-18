@@ -1,0 +1,1 @@
+OverrideCompletionProposal:updateReplacementString(IDocument, char, int, ImportRewrite)

@@ -1,0 +1,3 @@
+ClasspathEntry:validateClasspathEntry(IJavaProject, IClasspathEntry, IClasspathContainer, boolean, boolean)
+ClasspathEntry:validateLibraryEntry(IPath, IJavaProject, String, IPath, String, boolean)
+ClasspathEntry:validateLibraryEntry(IPath, IJavaProject, String, IPath, String)

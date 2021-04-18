@@ -1,0 +1,2 @@
+Allow to override default subcollection field name
+The subcollection filter by default uses the subcollection field name but since NUTCH-1266 allows to override it per subcollection. This issue should introduce a configuration directive to override the default field name globally.

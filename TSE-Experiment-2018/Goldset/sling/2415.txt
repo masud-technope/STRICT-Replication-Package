@@ -1,4 +1,0 @@
-bundles/servlets/post/src/main/java/org/apache/sling/servlets/post/AbstractPostOperation.java
-launchpad/integration-tests/src/main/java/org/apache/sling/launchpad/webapp/integrationtest/servlets/post/PostServletCopyTest.java
-launchpad/integration-tests/src/main/java/org/apache/sling/launchpad/webapp/integrationtest/servlets/post/PostServletDeleteTest.java
-launchpad/integration-tests/src/main/java/org/apache/sling/launchpad/webapp/integrationtest/servlets/post/PostServletMoveTest.java

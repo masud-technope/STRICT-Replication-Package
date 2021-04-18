@@ -1,0 +1,4 @@
+CopyQualifiedNameAction:isValideElement(Object)
+CopyQualifiedNameAction:run()
+CopyQualifiedNameAction:getQualifiedName(Object)
+CopyQualifiedNameAction:getSelectedElements()

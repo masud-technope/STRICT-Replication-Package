@@ -1,5 +1,0 @@
-48588 – DOMConfigurator does not close input stream when configured based on URL
-DOMConfigurator.doConfigure(final URL url, LoggerRepository repository) opens the configuration file using the equivalent of url.openConnection().getInputStream()).
- However, that input stream is never closed.
-In some situations, when DOMConfigurator.configure(URL) is invoked multiple times, it leads to
-java.io.FileNotFoundException: log4j.xml (Too many open files (errno:24))

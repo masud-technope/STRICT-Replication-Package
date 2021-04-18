@@ -1,4 +1,0 @@
-testing/mocks/sling-mock/src/main/java/org/apache/sling/testing/mock/sling/loader/ContentLoader.java
-testing/mocks/sling-mock/src/test/java/org/apache/sling/testing/mock/sling/loader/AbstractContentLoaderBinaryTest.java
-testing/mocks/sling-mock/src/test/java/org/apache/sling/testing/mock/sling/loader/AbstractContentLoaderJsonDamTest.java
-testing/mocks/sling-mock/src/test/java/org/apache/sling/testing/mock/sling/loader/AbstractContentLoaderJsonTest.java

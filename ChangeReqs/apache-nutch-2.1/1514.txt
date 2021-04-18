@@ -1,0 +1,2 @@
+Phase out the deprecated configuration properties (if possible)
+In reference to [0], the deprecated configuration properties can be removed (only if possible without affecting the functionality). [0] : http://mail-archives.apache.org/mod_mbox/nutch-user/201301.mbox/%3CCAFKhtFwvM7w-cVusGZWKeGdcWrVShPtBdfTdcn1NNpM1Z2-ovA@mail.gmail.com%3E

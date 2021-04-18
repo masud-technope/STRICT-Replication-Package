@@ -1,5 +1,0 @@
-[SLING-1847] Redirect after logout does not work with form authentication - ASF JIRA
-The redirectAfterLogout method of org.apache.sling.auth.core.impl.SlingAuthenticator is looking for a request attribute or parameter named "resource" to decide where to redirect after logout.
-
- But, if there is a request parameter named "resource" on the request, the request never makes it to the LogoutServlet because the authenticationSucceeded method of the FormAuthenticationHandler is also looking for a request parameter with the same name and immediately redirecting to the specified resource which terminates the rest of the request processing.
-The user is never logged out before redirecting to the resource.

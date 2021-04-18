@@ -1,0 +1,1 @@
+AbstractAnnotationHover:AnnotationInformationControl:createAnnotationInformation(Composite)

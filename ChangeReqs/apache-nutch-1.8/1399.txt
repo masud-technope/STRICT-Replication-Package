@@ -1,0 +1,2 @@
+TestProtocolHttpClient fails
+the test fails because the http servers are not closed between tests

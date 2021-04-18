@@ -1,0 +1,2 @@
+NewClassWizardPage:init(IStructuredSelection)
+NewClassWizardPage:createTypeMembers(IType, ImportsManager, IProgressMonitor)

@@ -1,0 +1,16 @@
+526	Infinite Recursion DefaultTreeBuilder cases building random forest dataset numerical attributes DefaultTreeBuilder enters infinite recursion StackOverflowError Tree Builder Tree Builder Stack Overflow Error
+552	RandomAccessSparseVector Random Access Sparse Vector NamedVectors Named Vectors Vectors Cluster Sparse Random AbstractCluster Cluster issues https Access AbstractCluster eliminates NamedVectors replacing RandomAccessSparseVector Cluster Named Vectors Random Access Sparse Vector
+561	Test handle TestClassifier Test Classifier Classifier type command source parameters TestClassifier correctly handle type source command parameters Test Classifier
+564	KMeans Clusterer KMeansClusterer KMeans Clusterer setting running noticed Reduce creating distance distanceThreshold distance Threshold KMeansClusterer distanceThreshold parameter testConvergence Iterable Cluster clusters distanceThreshold method KMeans Clusterer distance Threshold test Convergence distance Threshold
+565	bit operations signature feature Minhash array vector Features implementation hashed Features incorrectly hashed Minhash
+576	remove update Running Item preference AVG Storage updateItemPref update Item Pref making Preference AbstractJDBCDiffStorage updateItemPref updating AVG incorrectly cases JDBCDiff Storage update Item Pref
+580	base Memory basePath base Path Bayes set Classify Store defined InMemoryDataStore Memory Data Store param Missing basePath Bayes job InMemoryDataStore base Path Memory Data Store
+583	Loss data create sequence files directory Loss data create sequence files directory happen output chunk file create chunk chunk file overwrite chunk file chunk file starts creates files sequence chunk chunk chunk chunk chunk chunk loss chunk file create chunk files
+602	Partial Implementation exceptions Partial Implementation wiki Partial Implementation https cwiki apache org confluence display MAHOUT Partial Implementation fails dataset operations
+604	Bayes training Classifier tested data fails exception Bayes Classifier fails data training data
+610	Row cooccurences isn RowPair Row Pair Similarity Mapper RowB Row tests rowpairs column Coocurrences SimilarityReducer Similarity Reducer
+614	Output Record Hadoop FileOutputFormat File Output Format work Attempt File Writer apache classifier org apache mahout classifier baytes MultipleOutputFormat working intended Hadoop Multiple Output Format
+625	support test data occurs calculated attached pattern FPGrowth failing find generated patterns support higher reality
+631	Running Weighted WeightedRunningAverage Weighted Running Average handling add datum Std Dev WeightedRunningAverageAndStdDev Weighted Running Average Std Dev problem Small bug WeightedRunningAverage add WeightedRunningAverageAndStdDev Weighted Running Average Weighted Running Average Std Dev
+641	setConf set Conf DistributedRowMatrix Distributed Row Matrix Matrix hadoop Conf Lanczos method Configuration Job TimesSquaredJob Times Squared Job DistributedRowMatrix hadoop jobs ignore Configuration set setConf Distributed Row Matrix set Conf
+678	Gradient MixedGradient Mixed Gradient Mixed checked understand check assume works created method NullPointerException MixedGradient SGD algorithm Pointer Exception Mixed Gradient

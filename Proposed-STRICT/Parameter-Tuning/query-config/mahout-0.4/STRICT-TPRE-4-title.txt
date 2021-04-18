@@ -1,0 +1,16 @@
+526	Tree Overflow Builder Stack	Tree Overflow Builder Error	Infinite Recursion DefaultTreeBuilder Tree Builder
+552	Sparse Cluster Vectors Access	Access Sparse Named	AbstractCluster eliminates NamedVectors replacing RandomAccessSparseVector Cluster Named Vectors Random Access Sparse Vector
+561	Test Classifier TestClassifier Test Classifier type	Test Classifier	TestClassifier correctly handle type source command parameters Test Classifier
+564	KMeans distance convergence KMeansClusterer KMeans Clusterer	KMeans distance test convergence	KMeansClusterer distanceThreshold parameter testConvergence Iterable Cluster clusters distanceThreshold method KMeans Clusterer distance Threshold test Convergence distance Threshold
+565	bit operations signature feature		Features incorrectly hashed Minhash
+576	Storage Item AVG updateItemPref update Item Pref	Item JDBCDiff Storage	AbstractJDBCDiffStorage updateItemPref updating AVG incorrectly cases JDBCDiff Storage update Item Pref
+580	Bayes Memory base Data	Bayes Data Memory Path	Missing basePath Bayes job InMemoryDataStore base Path Memory Data Store
+583	chunk file files sequence		Loss data create sequence files directory
+602	Implementation org confluence dataset		Partial Implementation exceptions
+604	Classifier data training exception		Bayes Classifier fails data training data
+610	Row Similarity Mapper cooccurences	Row Similarity Coocurrence Mapper	Coocurrences SimilarityReducer Similarity Reducer
+614	Output Record Hadoop FileOutputFormat File Output Format	Output Attempt Record File	org apache mahout classifier baytes MultipleOutputFormat working intended Hadoop Multiple Output Format
+625	test support data pattern		generated patterns support higher reality
+631	Std Weighted WeightedRunningAverage Weighted Running Average Running	Std Running Average	Small bug WeightedRunningAverage add WeightedRunningAverageAndStdDev Weighted Running Average Weighted Running Average Std Dev
+641	Lanczos Job Matrix Conf	Job Lanczos Squared Distributed	DistributedRowMatrix hadoop jobs ignore Configuration set setConf Distributed Row Matrix set Conf
+678	Gradient Pointer Mixed MixedGradient Mixed Gradient	Gradient Pointer Logistic	NullPointerException MixedGradient SGD algorithm Pointer Exception Mixed Gradient

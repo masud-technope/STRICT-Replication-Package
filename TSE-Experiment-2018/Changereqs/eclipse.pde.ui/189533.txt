@@ -1,4 +1,0 @@
-[Preferences][Target] Suggest putting count beside Group check box
-in RC2
-
-The Target Platform pref page has the list of plugins and then a count of selected vs.  available.  Below that is a check box with the label "Group plugins by location".  If you put these two chunks of text beside each other, perhaps right justifying the counts, then we would get another line of text in the plugin list.

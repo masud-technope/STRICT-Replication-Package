@@ -1,0 +1,3 @@
+ConfigureWorkingSetAssignementAction:getActivePackageExplorer()
+ConfigureWorkingSetAssignementAction:selectAndReveal()
+ConfigureWorkingSetAssignementAction:run(IStructuredSelection)

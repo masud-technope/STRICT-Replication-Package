@@ -1,0 +1,12 @@
+768	Journal Debit rate Total tab record field Key currency base Wrong Sum Total Debit Credit Journal
+113	Consolidated Compiere shipment order func group Bug aid sourceforge detail Consolidated shipments invoiced
+114	Invoices header orders Consolidated Compiere group document order aid bug Voiding reversal consolidated Invoices
+116	Country Address address City sequence settings Update organization ZIP users Organization Update Location Address
+820	Price List RequisitionPOCreate Requisition POCreate pricelist Purchase process Order POCreate product Error ProductNotOnPriceList Error creating Requisitio Product Price List
+37	tracker viewer Compiere screen func response attempt patch sourceforge aid Report viewer scrolling broken
+1240	Production row tab product serial Furniture Patio globalqss Layda http Posting balanced producing produc
+106	invoices version column SQL batch problem Selection payment Payment Select invoices Payment Selection
+109	invoices option Garden Compiere documents Bug Invoices process range draft Print Invoices process draft selection
+525	order product box process Sales vendors vendor purchase Start Process Generate Sales order bug
+814	Production products product items quantity fractions production quantities ProductionLines Production Lines Lines Production fractional Qty production
+815	type Cost Distribution distribution cost Costs form work LandedCost Landed Cost LandedCost Cost Distribution type Cost work Landed Cost

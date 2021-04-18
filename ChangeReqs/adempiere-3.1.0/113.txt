@@ -1,0 +1,2 @@
+Consolidated shipments are not invoiced
+Compiere Bug: [ 1255772 ] Consolidated shipments are not invoiced http://sourceforge.net/tracker/index.php?func=detail&aid=1255772&group_id=29057&atid=410215 Only the first order in a consolidated shipment is invoiced.

@@ -1,3 +1,0 @@
-apitools/org.eclipse.pde.api.tools.ee.osgiminimum12/META-INF/MANIFEST.MF
-apitools/org.eclipse.pde.api.tools.generator/src/org/eclipse/pde/api/tools/generator/EEGenerator.java
-apitools/org.eclipse.pde.api.tools.ee.osgiminimum12/src/org/eclipse/pde/api/tools/internal/api_stubs/OSGi_Minimum-1.2.zip

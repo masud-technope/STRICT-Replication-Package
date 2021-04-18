@@ -1,0 +1,17 @@
+1569	push Gora Patch coming Maven upgrade Upgrade released artifacts
+1542	param clear left reason strong adddays generator crawl ported urls
+1575	authentication nutch solr support
+1513	Ftp robots webmasters Robots org clear datum FTP code noformat
+1514	properties deprecated configuration gmail reference Phase org Bdf Gdc apache
+1419	report indexchecker protocol status redirect code tstamp http Open html
+1453	share problem common simply slight test testing indexer follow trunk
+1552	attempt nutch code indexer content Type java plugin Filter read
+1393	usage stdout bin action argument auto code urls ASF generated
+1493	solrindex patch empty solr attached string content accept Length field
+1047	indexing backends backend Elastic confusing extension searching storage plugable hook
+1370	injected urls crawl code Expose trunk crawldb fetching Injected Injector
+1563	user method fields Fetch Generater Fields Web Schedule Job
+956	solrindex nutch documents command describes tests techvineyard html blogspot refer
+1532	field mapping batch msg xml segment Replace mail org archive
+1501	missing open Parser Filters NUTCH Checker issue parsechecker Harmonize behavior
+1503	properties FetcherReducer fetcher timelimit Reducer code Configuration conf java xml

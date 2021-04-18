@@ -1,0 +1,12 @@
+768	currency Journal Debit record Total Credit tab don sum required Wrong Sum Total Debit Credit Journal
+113	invoiced atid shipment Consolidated shipments consolidated func Bug sourceforge tracker Consolidated shipments invoiced
+114	consolidated bug Invoices voided atid http functional document Consolidated Bug Voiding reversal consolidated Invoices
+116	address Address enter Country ZIP PREVIOUS depending ENTRIES initial City Organization Update Location Address
+820	Requisition exception product price list Price Product choose java Create ProductNotOnPriceList Error creating Requisitio Product Price List
+37	viewer patch tracker Compiere small bad jumps attempt resolution scrolling Report viewer scrolling broken
+1240	Production create tab product set production balanced row serial Patio Posting balanced producing produc
+106	function invoices Payment problem payment Selection version form generating correctly invoices Payment Selection
+109	drafted invoices process select document range Invoices Print Bug draft Print Invoices process draft selection
+525	order product process vendor current Sales Generate prepare work purchase Process Generate Sales order bug
+814	fractions production Production BOM product generates automatically fractional quantities products Production fractional Qty production
+815	cost Cost type Landed Costs allocation select work distribution form LandedCost Cost Distribution type Cost work Landed Cost

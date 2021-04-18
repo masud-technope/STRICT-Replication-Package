@@ -1,0 +1,2 @@
+F11 option
+Hi, when I click on "view -> Full screen" or F11 the full screen appear for 1 second and after that aTune back to standard view. Thanks Stefania

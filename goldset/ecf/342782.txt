@@ -1,1 +1,1 @@
-osgi/bundles/org.eclipse.ecf.osgi.services.remoteserviceadmin/src/org/eclipse/ecf/osgi/services/remoteserviceadmin/RemoteServiceAdmin.java
+RemoteServiceAdmin:postEvent(RemoteServiceAdminEvent, EndpointDescription)

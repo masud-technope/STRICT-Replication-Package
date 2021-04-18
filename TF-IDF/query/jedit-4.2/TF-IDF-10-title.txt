@@ -1,0 +1,10 @@
+2560	pre keyboard letter browser beta system active file directories function jEdit pre file system browser keyboard handling Edit
+2720	delete Version directory recursively Sun post Windows pre files action FSB delete action directory working
+2752	Regular Replace pre click version check Search Edit set jEdit jEdit freezes regexpr Edit
+2595	txt views view foo caret active multiple display open Free caret display position multiple views open
+2534	Key character key KeyEventWorkaround inserted Translator KeyEventTranslator objects enable Alt Test NumPad Alt Tab window Num Pad
+2459	dialog display primary lost settings previous position open width size Size file open save dialogs incorrect dual displays
+2571	highlighted selected number beta jvm multiple single guess lines pre number highlighted selected
+2635	fold caret collapsed Version Sun post Windows visible press move move caret collapsing fold
+2636	Register Version Sun work post restart Windows pre check Edit Clearing Register doesn work persistently
+2542	undo Undoable existing undoable general text typed paste pre finish Pasting Text Current Undoable Edit

@@ -1,2 +1,0 @@
-org.eclipse.jdt.junit/src/org/eclipse/jdt/internal/junit/wizards/SuiteClassesContentProvider.java
-org.eclipse.jdt.junit/src/org/eclipse/jdt/internal/junit/wizards/UpdateTestSuite.java

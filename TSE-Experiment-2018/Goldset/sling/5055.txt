@@ -1,2 +1,0 @@
-contrib/extensions/hapi/core/src/main/java/org/apache/sling/hapi/impl/HApiTypeImpl.java
-contrib/extensions/hapi/core/src/main/java/org/apache/sling/hapi/impl/HApiUtilImpl.java

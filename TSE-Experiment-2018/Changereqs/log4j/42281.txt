@@ -1,7 +1,0 @@
-42281 – Unit tests fail on java-gcj and JRockit
-Slight differences in the contents of stack traces cause the unit tests to fail when run under gcj.
- The "at"
-lines in stack traces are preceded by spaces in GCJ where the expectation is that there is an initial tab
-character.
- Also, libgcj.so.7 appears in places where the tests expected either Compiled Code or Native
-Code.

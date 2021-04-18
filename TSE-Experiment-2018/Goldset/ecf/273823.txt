@@ -1,2 +1,0 @@
-providers/bundles/org.eclipse.ecf.provider.irc/META-INF/MANIFEST.MF
-providers/bundles/org.eclipse.ecf.provider.irc/src/org/eclipse/ecf/internal/provider/irc/container/IRCRootContainer.java

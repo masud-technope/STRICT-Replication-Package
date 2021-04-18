@@ -1,0 +1,2 @@
+[Wizards] Wizards are recreated when returning to New page
+The WizardDialog ask's in showPage() or showStartingPage(): if (page.getControl() == null) to support a lazy page control creation. This works fine when the wizard is called first time. After disposing a page page.getControl() still returns a (disposed) control and page.createControl (pageContainer) is not called again. I overwrote the method: public void dispose() { super.dispose(); this.setControl(null); } in all my pages as workaround. I suggest to add this method to WizardPage.

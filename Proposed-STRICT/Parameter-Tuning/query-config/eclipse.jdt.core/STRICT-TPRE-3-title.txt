@@ -1,0 +1,30 @@
+29516	Search tests refactoring	Search Engine	Bug SearchEngine regressions Search Engine
+42243	syntax error diagnosis		Bug Incorrect syntax diagnosis source mode
+65738	time builder notice		Bug builder Build automatically save
+79809	Simple Tag tag	Simple Element Tag	Bug dom javadoc support type parameter Javadoc tags
+110797	series review code		Bug multiple task tags single tasks view complete tag
+126180	access NPE compiler		Bug compiler NPE reporting invalid enclosing type
+145202	element analyzer reference		Bug positive reference analyzer negated
+165346	Expression Flow Status	Expression Status Info	Bug compiler org eclipse jdt internal compiler ast OperatorExpression nullStatus FlowInfo conservative Expression Status Flow Info
+168331	Method Entry Bug	Entry List	Bug compiler AbstractMethodError method Method Error
+228691	Type processing Integer	Type Primitive	Bug JDT impl sun mirror util Types isAssignable returns wrapper primitive assignment Assignable
+291322	Windows tests issue		Bug Test errors running JDT Core tests Windows
+380501	support lambda libraries		Bug compiler Add support methods JSR
+381358	source program Lambda	Elided Formal	Bug Compiler gracefully reject JSR constructs source levels
+385293	compiler modifiers report		Bug compiler compiler accepts normal modifiers type arguments
+388634	JDTCore compliance failure	JDTCore Tests	Bug Test failure Compliance compliance
+396139	Javadoc JRE team	Test Javadoc	Bug define JRE build targeting BETA JAVA
+396258	Annotation syntax annotations	Annotation Type	Bug adopt syntax annotations qualified type names NullTypeAnnotationTest Type Annotation Test
+399567	Ordered Method Set	Method Set parallel	Bug error message reference compiler
+401848	ASTRewrite type attachment		Bug ASTRewrite type annotations adds additional
+405051	Java IProgress search	Java External	Bug JavaModel refreshExternalArchives happen search primed Java Model refresh External Archives
+405889	Method Java bugs	Java Handles Lang	Bug compiler codegen Resilience NPE needed Scope getJavaLangInvokeMethodHandlesLookup Java Lang Invoke Method Handles Lookup
+412882	Classpath Operation Java	Classpath Operation Zip	Bug Unnecessary validation optional library classpath entries
+413913	failures Investigate Bug		Bug Investigate failures
+415911	NPE Type Element	Type Element	Bug compiler NPE TYPE annotated method missing type
+417388	Type type Argument	Type Binding Reference	Bug TypeBinding TypeReference parameter type annotations Type Binding Type Reference
+417669	Type annotation Marker	Type Annotatable Parameterized	Bug dom Incorrect source ranges annotated SimpleType nested ParameterizedType Simple Type Parameterized Type
+418919	System Options File	Type File System	Bug compiler internal Remove forcing creation annotated bindings
+424718	Type compiler compatibility	Type Annotations dim	Bug compiler API compatibility AST TypeReference Type Reference
+430451	Invocation tests attachment	Invocation String Compiler	Bug Tests fail org eclipse jdt compiler tool tests CompilerInvocationTests JRE Compiler Invocation Tests
+456395	code attachment String		Bug compile Java code

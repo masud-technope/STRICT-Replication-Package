@@ -1,0 +1,8 @@
+org.apache.openjpa.lib.conf.Configurations:newInstance(String, Configuration, String, ClassLoader)
+org.apache.openjpa.jdbc.schema.SimpleDriverDataSource:isWrapperFor(Class)
+org.apache.openjpa.jdbc.schema.SimpleDriverDataSource:getConnection(Properties)
+org.apache.openjpa.jdbc.schema.SimpleDriverDataSource:unwrap(Class)
+org.apache.openjpa.jdbc.schema.DriverDataSource:createConnectionDecorators()
+org.apache.openjpa.jdbc.schema.SimpleDriverDataSource:getDriver()
+org.apache.openjpa.jdbc.schema.SimpleDriverDataSource:setConnectionProperties(Properties)
+org.apache.openjpa.jdbc.schema.SimpleDriverDataSource:createConnectionDecorators()

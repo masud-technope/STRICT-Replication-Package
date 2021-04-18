@@ -1,0 +1,3 @@
+ApiAnalysisBuilder:ManifestVisitor:visit(IResourceDelta)
+ApiAnalysisBuilder:build(int, Map, IProgressMonitor)
+ApiAnalysisBuilder:ManifestVisitor:isManifiestModified()

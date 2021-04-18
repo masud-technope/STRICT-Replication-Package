@@ -1,0 +1,2 @@
+Context panel
+When the artist tab is selected, the picture, biography and album info is correct but very often the name is not. It is often from a prior song and will often linger for 2-3 songs

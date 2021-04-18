@@ -1,0 +1,4 @@
+OrganizeManifestsWizardPage:hookListener(SelectionAdapter)
+OrganizeManifestsWizardPage:hookTextListener(ModifyListener)
+OrganizeManifestsWizardPage:hookSelectionListener(SelectionAdapter)
+OrganizeManifestsWizardPage:hookListeners()

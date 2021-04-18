@@ -1,0 +1,2 @@
+org.compiere.apps.form.VPaySelect:loadTableInfo()
+org.compiere.apps.form.VPaySelect:dynInit()

@@ -1,4 +1,0 @@
-org.eclipse.jdt.core/compiler/org/eclipse/jdt/internal/compiler/ast/AllocationExpression.java
-org.eclipse.jdt.core/compiler/org/eclipse/jdt/internal/compiler/ast/ConditionalExpression.java
-org.eclipse.jdt.core/compiler/org/eclipse/jdt/internal/compiler/ast/LambdaExpression.java
-org.eclipse.jdt.core/compiler/org/eclipse/jdt/internal/compiler/ast/ReferenceExpression.java

@@ -1,0 +1,2 @@
+Request of restarting doesn't work
+When I change some properties in the preferences window and aTunes asks me to restart the application, if i press Yes, aTunes isn't restarted, but only closed. The aTunes version is 1.10.0.

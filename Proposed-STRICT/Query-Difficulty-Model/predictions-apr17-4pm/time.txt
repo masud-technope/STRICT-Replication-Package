@@ -1,0 +1,14 @@
+1    1:bestq    1:bestq        0.508 0.492  time-28-bestq 
+     2   2:worstq   2:worstq       0.303  0.697  time-28-worstq 
+     1    1:bestq    1:bestq        1 0  time-77-bestq 
+     2   2:worstq   2:worstq       0  1  time-43-worstq 
+     1    1:bestq    1:bestq        1 0  time-42-bestq 
+     1    1:bestq    1:bestq        1 0  time-21-bestq 
+     1    1:bestq   2:worstq       0.357  0.643  time-88-bestq 
+     1    1:bestq    1:bestq        1 0  time-43-bestq 
+     1    1:bestq    1:bestq        0.579 0.421  time-18-bestq 
+     1   2:worstq   2:worstq       0  1  time-77-worstq 
+     1   2:worstq   2:worstq       0  1  time-88-worstq 
+     1   2:worstq   2:worstq       0.023  0.977  time-42-worstq 
+     1   2:worstq   2:worstq       0.297  0.703  time-21-worstq 
+     1   2:worstq   2:worstq       0.089  0.911  time-18-worstq

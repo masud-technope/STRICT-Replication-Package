@@ -1,0 +1,3 @@
+PropertiesFileEditorActionContributor:setActiveEditor(IEditorPart)
+PropertiesFileEditorActionContributor:contributeToMenu(IMenuManager)
+PropertiesFileEditorActionContributor:PropertiesFileEditorActionContributor()

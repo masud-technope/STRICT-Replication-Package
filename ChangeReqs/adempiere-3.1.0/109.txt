@@ -1,0 +1,2 @@
+Print Invoices process - draft & selection
+Compiere Bug: [ 1529707 ] Print Invoices process - includes drafted documents. http://sourceforge.net/tracker/index.php?func=detail&aid=1529707&group_id=29057&atid=410215 Using Garden World, if you select a date range from somewhere in 2001 to today then ALL invoices are selected regardless of document status OR client!!! Not so bad if you are printing them and posting them to customers but if you use the email option then drafted (and potentially cancelled) invoices are sent too!

@@ -1,3 +1,0 @@
-src/java/org/apache/log4j/PatternLayout.java
-tests/input/pattern/patternLayout16.properties
-tests/src/java/org/apache/log4j/PatternLayoutTestCase.java

@@ -1,0 +1,5 @@
+NewJavaProjectWizardPageOne:LayoutGroup:LayoutGroup()
+NewJavaProjectWizardPageOne:JREGroup:updateEnableState()
+NewJavaProjectWizardPageOne:JREGroup:createControl(Composite)
+NewJavaProjectWizardPageOne:LayoutGroup:dialogFieldChanged(DialogField)
+NewJavaProjectWizardPageOne:LayoutGroup:updateEnableState()

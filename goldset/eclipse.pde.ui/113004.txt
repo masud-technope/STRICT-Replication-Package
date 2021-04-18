@@ -1,0 +1,1 @@
+PersistablePluginObject:getAdapter(Class)

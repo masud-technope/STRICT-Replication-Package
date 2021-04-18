@@ -1,0 +1,2 @@
+org.apache.nutch.parse.ParseUtil:ParseUtil(Configuration)
+org.apache.nutch.parse.ParseUtil:runParser(Parser, Content)

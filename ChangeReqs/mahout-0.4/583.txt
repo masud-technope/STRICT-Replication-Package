@@ -1,0 +1,2 @@
+Loss some data when create sequence files from directory
+Loss some data when create sequence files from directory. It will happen when we need more than one output chunk file. It create chunk-0 twice. The first chunk-0 file is overwrite by the second chunk-0 file. That's because the name of the second chunk file starts from 0 not 1. For example, it creates files in the sequence, chunk-0, chunk-0, chunk-1, chunk-2, chunk-3, chunk-*. So we loss the first chunk-0 file if we create more than one chunk files.

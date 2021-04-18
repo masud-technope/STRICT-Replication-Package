@@ -1,0 +1,2 @@
+ManifestContentAssistProcessor:getBundleVersionCompletions(String, String, int)
+ManifestContentAssistProcessor:getVersionProposal(IPluginModelBase)

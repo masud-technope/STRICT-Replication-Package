@@ -1,0 +1,1 @@
+MoveInstanceMethodProcessor:checkConflictingMethod(IProgressMonitor)

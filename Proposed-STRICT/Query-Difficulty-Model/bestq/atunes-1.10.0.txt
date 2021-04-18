@@ -1,0 +1,16 @@
+207	aTune Tune screen view standard Full full Tune click option
+212	song songs artist picture album biography Context panel tab info Context panel
+213	aTunes Tunes repository files supported formats Xine behaviour play extension Start supported formats skipped Xine
+220	OSD button track play OSD displayed jumping previous track
+221	work mode window Multiple multiple Multiple window mode work
+227	restart restarted asks aTunes Tunes preferences isn change Tunes window press Request restarting doesn work
+230	tag Problem aTunes set tags files investigated file tag doesn tag tag support track number property Subsequently aTunes set property exception thrown tags updated Console output ERROR FILE WRITE TagModifier setInfo edit tag File Users Pawel Music test Error java lang UnsupportedOperationException store track numbers Sample file uploaded workaround works file tag edited simply tag created upload source code check solution Tunes Tunes Tag Modifier set Info Unsupported Operation Exception
+231	repository older image supported version aTunes Tunes Internal file Supports latest add image repository read older app version
+240	window lyrics user occasion windows file tracking action problem Set lyrics automatically terminated
+245	folder playlist Labels Classical add stations label radios draging Radio Radio Labels playlist
+259	submission bug listening submitted
+260	aTunes Tunes Screen work Windows screenshot Tunes doesn Full Screen doesn work Windows aTunes Tunes
+264	Wrong song duration displayed player longer songs bought Amazon player displays wrong song length song playing song Paul Westerberg song starts playing time bottom player time correct info dialog Silent Miles Davis songs minutes player bit rates songs unusual Westerberg song confuses player songs sound problem actual playing
+276	system aTunes Tunes sound play button Tunes mute bar muted volume Mute
+278	title click change reverts file aTunes Tunes mouse edit Edit hit Edit Titles Fails
+281	INFO search play finished Started update Updating Initializing PLAYER HANDLER Mute button

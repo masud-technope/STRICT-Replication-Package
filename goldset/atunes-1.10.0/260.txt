@@ -1,0 +1,1 @@
+net.sourceforge.atunes.gui.views.dialogs.fullScreen.FullScreenDialog:FullScreenDialog(JFrame)

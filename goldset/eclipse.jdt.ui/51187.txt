@@ -1,0 +1,1 @@
+GetterSetterCompletionProposal:evaluateProposals(IType, String, int, int, int, Set, Collection)

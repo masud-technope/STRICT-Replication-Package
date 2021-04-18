@@ -1,1 +1,10 @@
-server-side/bundles/org.eclipse.ecf.server.generic/src/org/eclipse/ecf/server/generic/AbstractGenericServer.java
+Activator:start(BundleContext)
+Activator:getDiscovery()
+AbstractGenericServer:GenericServerContainer:GenericServerContainer(ISharedObjectContainerConfig, TCPServerSOContainerGroup, String, int)
+AbstractGenericServer:GenericServerContainer:IContainerListener()
+AbstractGenericServer:createAndInitializeServer(String, int)
+AbstractGenericServer:GenericServerContainer:dispose()
+GenericServerContainer:IContainerListener()
+GenericServerContainer:GenericServerContainer(AbstractGenericServer, ISharedObjectContainerConfig, TCPServerSOContainerGroup, String, int)
+GenericServerContainer:dispose()
+ServerManager:registerServerForDiscovery(NamedGroup, boolean)

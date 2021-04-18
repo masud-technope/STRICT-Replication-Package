@@ -1,0 +1,16 @@
+641	distance method methods Implement segements lines calculates point Lines Segments Implement distance methods Lines Segments
+1121	Base optimizer defined Optimizer Brent iteration doesn BaseOptimizer Base Optimizer doOptimize Optimize count Brent optimizer doesn Base optimizer iteration counter
+835	method Fraction percentageValue percentage works test MAX convert numerator Integer result Fraction percentageValue rare overflow percentage
+775	populationLimit population Limit check occur List chromosomes constructor positive population number negative ListPopulation constructor check negative populationLimit occur List Population population Limit
+776	Rate constructors elitismRate elitism Rate ElitisticListPopulation Elitistic List Population set method Elitism range check elitism range checks elitismRate ElitisticListPopulation constructors elitism Rate Elitistic List Population
+777	Crossover needed Ordered CrossoverPolicy Crossover Policy Point Chromosomes Policy OnePointCrossover Point Crossover CrossoverPolicy needed Crossover Policy
+841	gcd checksum rng Integer System Random tms test code MAX gcd speed
+905	Math values sinh exp Infinity cosh overflow Fast log MAX FastMath cosh sinh support range values Math counterparts Fast Math
+778	multiply Dfp general Field limitation comply method contract values FieldElement Field Element Dfp Dfp multiply comply general contract FieldElement multiply Field Element
+779	iterator list ListPopulation List Population List method chromosomes remove population unmodifiable Iterator ListPopulation Iterator remove chromosomes population List Population
+718	returns method BinomialDistributionImpl Binomial Distribution Impl inverseCumulativeProbability inverse Cumulative Probability inverse Cumulative Probability Binomial System reproduce inverseCumulativeProbability BinomialDistribution returns wrong large trials inverse Cumulative Probability Binomial Distribution
+782	Brent block defined implying original criterion code additional check stopping BrentOptimizer User defined check block badly Brent Optimizer
+878	test chi sense tests efficient squared fit increasingly infinitely theoretical Test Log Likelihood ratio LLR test math stat inference
+849	http Gamma implementation thread accuracy values ulps dtic tested resolution Precision improvement Gamma
+915	random EmpiricalDistribution Empirical Distribution Data field Random Empirical compatibility deprecated RNG functionality compatibility broken EmpiricalDistribution Empirical Distribution
+764	sample RandomGenerator Random Generator Sampler RealDistribution Real Distribution generator Random Real method create createSampler create Sampler sample API accept RandomGenerator parameter Random Generator

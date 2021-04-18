@@ -1,0 +1,7 @@
+FilteredTypesSelectionDialog:TypeInfoUtil:processVMInstallType(IVMInstallType, List<IPath>, List<String>)
+FilteredTypesSelectionDialog:TypeInfoUtil:getContainerName(TypeNameMatch)
+FilteredTypesSelectionDialog:TypeInfoUtil:TypeInfoUtil(ITypeInfoImageProvider)
+FilteredTypesSelectionDialog:TypeInfoUtil:processLibraryLocation(String)
+FilteredTypesSelectionDialog:TypeSelectionHistory:storeItemToMemento(Object, IMemento)
+FilteredTypesSelectionDialog:ConsistencyRunnable:refreshSearchIndices(IProgressMonitor)
+FilteredTypesSelectionDialog:TypeInfoUtil:processVMInstallType(IVMInstallType, List<String>, List<String>)

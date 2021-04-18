@@ -1,0 +1,4 @@
+org.apache.mahout.text.WholeFileRecordReader:initialize(InputSplit, TaskAttemptContext)
+org.apache.mahout.common.HadoopUtil:buildDirList(FileSystem, FileStatus)
+org.apache.mahout.text.WholeFileRecordReader:WholeFileRecordReader(CombineFileSplit, TaskAttemptContext, Integer)
+org.apache.mahout.text.TestSequenceFilesFromDirectory.ExcludeDotFiles:accept(Path)

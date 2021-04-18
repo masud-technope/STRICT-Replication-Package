@@ -1,0 +1,6 @@
+NewNameQueries:createNewPackageFragmentRootNameQuery(IPackageFragmentRoot, String)
+NewNameQueries:createNewResourceNameQuery(IResource, String)
+NewNameQueries:createStaticQuery(IInputValidator)
+NewNameQueries:createStaticQuery(IInputValidator)
+NewNameQueries:createNewCompilationUnitNameQuery(ICompilationUnit, String)
+NewNameQueries:createNewPackageNameQuery(IPackageFragment, String)

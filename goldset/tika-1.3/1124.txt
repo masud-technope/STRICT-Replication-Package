@@ -1,0 +1,2 @@
+org.apache.tika.parser.pdf.PDFParser:extractEmbeddedDocuments(ParseContext, PDDocument, ContentHandler)
+org.apache.tika.parser.pdf.PDFParser:extractMetadata(PDDocument, Metadata)

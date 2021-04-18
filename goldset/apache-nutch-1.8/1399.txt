@@ -1,0 +1,4 @@
+org.apache.nutch.protocol.httpclient.TestProtocolHttpClient:testNtlmAuth()
+org.apache.nutch.protocol.httpclient.TestProtocolHttpClient:testDefaultCredentials()
+org.apache.nutch.protocol.httpclient.TestProtocolHttpClient:testDigestAuth()
+org.apache.nutch.protocol.httpclient.TestProtocolHttpClient:testNoPreemptiveAuth()

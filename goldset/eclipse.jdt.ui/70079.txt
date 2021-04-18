@@ -1,0 +1,1 @@
+OverrideIndicatorManager:updateAnnotations(CompilationUnit, IProgressMonitor)

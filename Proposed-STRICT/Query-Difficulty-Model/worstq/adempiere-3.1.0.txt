@@ -1,0 +1,12 @@
+37	viewer tracker jumps attempt patch atid Compiere func sourceforge report Report viewer scrolling broken
+106	form tracked determining function invoices batch version problem payment Selection invoices Payment Selection
+109	invoices process Bug status draft Garden Invoices sourceforge option func Print Invoices process draft selection
+113	invoiced Bug Consolidated detail func aid php group atid tracker Consolidated shipments invoiced
+114	Voiding reversal consolidated Invoices Compiere Bug Generate Invoices Consolidated Shipments http sourceforge net tracker php func detail aid group atid bug closely compiere bug http sourceforge net tracker php func detail aid group atid functional logic issue consolidated orders bug consolidated Invoices consolidated invoiced voided reversed order referenced document header voided reversed
+116	enter Country changing address Address City sequence settings ZIP Update Organization Update Location Address
+525	order product box creates selected Sales process vendors Process Generate Process Generate Sales order bug
+768	Journal Debit Total currency don record tab Credit foreing forget Wrong Sum Total Debit Credit Journal
+814	Production products product items quantity fractions production quantities ProductionLines Production Lines Lines Production fractional Qty production
+815	Cost type Landed cost Distribution distribution Costs form allocation select LandedCost Cost Distribution type Cost work Landed Cost
+820	Requisition exception product price list Price Product choose java Create ProductNotOnPriceList Error creating Requisitio Product Price List
+1240	Production row tab product serial Furniture Patio globalqss Layda http Posting balanced producing produc

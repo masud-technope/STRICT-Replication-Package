@@ -1,0 +1,1 @@
+JavaDebugOptionsManager:breakpointHit(IJavaThread, IJavaBreakpoint)

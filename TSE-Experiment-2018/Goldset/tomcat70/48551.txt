@@ -1,2 +1,0 @@
-java/org/apache/catalina/deploy/WebXml.java
-java/org/apache/tomcat/util/buf/StringCache.java

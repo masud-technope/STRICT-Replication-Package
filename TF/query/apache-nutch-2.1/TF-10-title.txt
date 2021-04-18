@@ -1,0 +1,17 @@
+1569	Maven upgrade Gora Upgrade Patch released push coming artifacts Upgrade Gora
+1542	param reason strong clear adddays generator crawl ported hack urls adddays param generator
+1575	solr nutch authentication support support solr authentication nutch
+1513	robots txt Ftp ftp Rules Robot noformat urls protocol java Support Robots txt Ftp urls
+1514	mail configuration deprecated mbox properties gmail archives Phase mod Bdf Phase deprecated configuration properties
+1419	lucene apache org nutch http status content protocol redirect Moved parsechecker indexchecker report protocol status
+1453	Filters Indexing differences Substantiate issues current problem IndexingFilters common Test Substantiate tests IndexingFilters Indexing Filters
+1552	java NPE code read pscars src org indexer attempt happened possibility NPE plugin
+1393	Generator GeneratorJob Job usage code stdout generated generate batch lewis Display consistent usage GeneratorJob Generator Job
+1493	content Length contentLength string empty NUTCH Error accept patch checks Error adding field contentLength solrindex content Length
+1047	indexing backends plugins storage endpoint backend add cleaning deduplicating extension Pluggable indexing backends
+1370	Injector crawl INFO code urls crawldb injected urlDir PluginRepository crawlDb Expose exact number urls injected runtime
+1563	FetchSchedule Fetch Schedule getFields Fields WebPage method GeneraterJob Generater Web FetchSchedule getFields GeneraterJob Fetch Schedule Fields Generater Job
+956	solrindex documents issues caveats command describes tests refer build nutch solrindex issues
+1532	mapping batch batchId field segment msg Replace mail org replaced Replace segment mapping field batchId batch
+1501	NUTCH Checker ParserChecker Behaviour issue parsechecker applied Harmonize diverged trunk Harmonize behavior parsechecker indexchecker
+1503	fetcher timelimit code conf xml Fetcher FetcherReducer nutch Reducer Configuration Configuration properties sync FetcherReducer nutch xml Fetcher Reducer

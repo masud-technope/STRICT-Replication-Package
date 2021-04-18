@@ -1,2 +1,0 @@
-providers/bundles/org.eclipse.ecf.provider.discovery/src/org/eclipse/ecf/provider/discovery/CompositeDiscoveryContainer.java
-providers/bundles/org.eclipse.ecf.provider.discovery/src/org/eclipse/ecf/provider/discovery/CompositeDiscoveryContainer.java

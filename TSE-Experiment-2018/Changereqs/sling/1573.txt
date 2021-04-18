@@ -1,2 +1,0 @@
-[SLING-1573] Support for Versionable nodes in post servlet - ASF JIRA
-SLING-608 mentions versions (and SLING-848 talks about accessing versionable nodes), but we don't have an issue for creating and modifying versionable nodes as well as performing basic checkin and checkout operations.

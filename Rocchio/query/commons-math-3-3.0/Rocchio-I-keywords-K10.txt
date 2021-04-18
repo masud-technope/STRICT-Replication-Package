@@ -1,0 +1,16 @@
+641	Implement distance methods Lines Segments distanc method allfound comput segment segmentsbuild getdeclaredmethod compute avltre avl
+1121	Brent optimizer doesn Base optimizer iteration counter rel iter sqrtx machep increment optim sqrt code univariate toomanyiterationsexcept
+835	Fraction percentageValue rare overflow percentage fraction matharithmeticexcept arithmet integ getdenomin getnumer percentag denomin assertfract subtract
+775	ListPopulation constructor check negative populationLimit occur List Population population Limit popul chromosom populationlimit limit list genetics size elit numberistoolargeexcept rate
+776	range checks elitismRate ElitisticListPopulation constructors elitism Rate Elitistic List Population rate elit chromosom popul elitismr elitist elitisticlistpopul list genetics oldchromosom
+777	CrossoverPolicy needed Crossover Policy crossov polici mutat rate chromosom genetics crossoverpolici crossoverr selectionpolici mutationpolici
+841	gcd speed arithmet arithmeticutil integ util min matharithmeticexcept denomin code prime divisor
+905	FastMath cosh sinh support range values Math counterparts Fast Math plusmn fastmath fast complex nan sin imaginari infin pre maxerr
+778	Dfp Dfp multiply comply general contract FieldElement multiply Field Element dfp newdfp multipli field pinf ninf result flag nan dfpfield
+779	ListPopulation Iterator remove chromosomes population List Population chromosom popul genetics list populationlimit limit chromosomecol bestchromosom size coll
+718	inverseCumulativeProbability BinomialDistribution returns wrong large trials inverse Cumulative Probability Binomial Distribution ret probabl distribution trial logprob log success numberoftri infin inversecumulativeprob
+782	BrentOptimizer User defined check block badly Brent Optimizer rel isminim tol univariatepointvaluepair machep minim code checker threshold univari
+878	Test Log Likelihood ratio LLR test math stat inference likelihood rootloglikelihoodratio log observ root observed count alpha expect col
+849	Precision improvement Gamma gamma log bred digamma loggamma prod equal fastmath fast equals
+915	compatibility broken EmpiricalDistribution Empirical Distribution random bin empiricaldistribut empir gener distribut count load bincount upperbound
+764	sample API accept RandomGenerator parameter Random Generator code random pseudorandom uniformli sequenc seed generator distribut number font

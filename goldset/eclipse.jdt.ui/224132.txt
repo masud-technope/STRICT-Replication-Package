@@ -1,0 +1,2 @@
+JavaEditorBreadcrumb:open(Object)
+JavaEditorBreadcrumb:getCurrentInput()

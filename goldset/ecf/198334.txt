@@ -1,1 +1,3 @@
-framework/bundles/org.eclipse.ecf.presence.ui/src/org/eclipse/ecf/presence/ui/MessagesView.java
+MessagesView:ChatTab:append(ID, String)
+MessagesView:ChatTab:addListeners()
+MessagesView:createPartControl(Composite)

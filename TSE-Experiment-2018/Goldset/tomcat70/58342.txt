@@ -1,3 +1,0 @@
-bin/catalina.sh
-webapps/docs/changelog.xml
-java/org/apache/tomcat/websocket/WsSession.java

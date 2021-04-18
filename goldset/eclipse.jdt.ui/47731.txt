@@ -1,0 +1,2 @@
+JUnitProgressBar:JUnitProgressBar(Composite)
+JUnitProgressBar:dispose()

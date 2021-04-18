@@ -1,0 +1,17 @@
+31779	Bugs CoreFileSystemLibrary Core File System Library UnifiedTree Unified Tree Build Tree Core Linux natives nat ives Library File Windows System getStat Stat Stat Files listFiles list Files Unified Core File System Library Unified Tree Stat list Files
+23140	Eclipse Edit Workaround Mac pagent Close valuable val uable CVS Description Set Open Mandrake Carbon extssh ext ssh codebase code base Reproduce preferably pref erably attacks att acks passwords pass Iall Expected Failed Linux Steps openssh opens Tested SSH attacker att acker notme EXTSSH EXT SSH
+13926	IContext Context Busy Rectangle Widget IContextInformation Context Viewer Black internalShowContextInfo internal Context Info getTextWidget Text Widget Popup BusyIndicator Busy Indicator inserting ins erting Selector showWhile Content Tracing Leaves Control Context Text fViewer Viewer Info hideContextSelector hide Context Selector Indicator JFace Face appearance app earance showContextInformation Context ContextInformationPopup Context Popup Runnable Editor Assist getDisplay Display Display IContext internal Context Info Text Widget Busy Indicator Viewer hide Context Selector Context Context Popup Display
+19686	Build hoverhelp hover Move Stay Java Stable Editor
+21062	ConfigureProjectWizardMainPage Configure Project Wizard Main Notice ice Bring Reusing Project Mike listbox list box Configure Explorer Steps Site Target Select Wizard Main Configure Project Wizard Main
+19976	inform info Choosing shouldn weren Explorer internet ernet Site CVS argued arg ued hitting hit ting Finish Dav
+22696	WSWB Hierarchy Note Explorer Leave Java WSDD
+18761	FTP checkbox check box
+17707	Reselecting Res ele cting Site Warning Deploy Target confirming conf irming Foo Choose DAV delpoyed del poyed STEPS
+19307	acceptable accept FTP URL Valid programs pro grams
+19691	Add Outgoing Remove Build Team Selected Preferences Ensure Incoming Change Content Resources File
+13069	Sending buffered buf fered Core buffers buf fers excessive exc essive File CVS Files sendFile send File GZIP Session send File
+15277	Suite Recreate prevented prev ented
+16787	overwrote wrote Container Dialog Wizards pageContainer Container getControl Control Starting showStartingPage Starting Control createControl create Control showPage setControl set Control WizardPage Wizard Wizard WizardDialog Wizard Dialog Container Control Starting create Control set Control Wizard Wizard Dialog
+30644	High Ext VCM CVS Connection Label COntrast ntrast Method Contrast Decorations Team
+12118	CVS SSH extssh ext ssh initializes initial izes EXTSSH EXT SSH
+22809	Properties Open Repos Perspective resized resize Dialog Path Gary Navigator Resize Resource Labels Info Observe Location

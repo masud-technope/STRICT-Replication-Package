@@ -1,3 +1,0 @@
-[SLING-5211] Display RuntimeService / DTOs in web console - ASF JIRA
-We have a new runtime service which provides the state of the resource providers as DTOs.
-We should display this information in the web console, best would be an inventory printer

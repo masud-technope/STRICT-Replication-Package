@@ -1,0 +1,18 @@
+1    1:bestq    1:bestq        0.898 0.102  apache-nutch-1.8-1262-bestq 
+     2    1:bestq    1:bestq        0.905 0.095  apache-nutch-1.8-1407-bestq 
+     3   2:worstq    1:bestq        0.714 0.286  apache-nutch-1.8-1356-worstq 
+     4   2:worstq    1:bestq        0.861 0.139  apache-nutch-1.8-1262-worstq 
+     1    1:bestq    1:bestq        0.94 0.06  apache-nutch-1.8-1352-bestq 
+     2    1:bestq    1:bestq        0.939 0.061  apache-nutch-1.8-1351-bestq 
+     3   2:worstq   2:worstq       0.165  0.835  apache-nutch-1.8-1352-worstq 
+     4   2:worstq   2:worstq       0.013  0.987  apache-nutch-1.8-1381-worstq 
+     1    1:bestq    1:bestq        0.761 0.239  apache-nutch-1.8-1356-bestq 
+     2    1:bestq    1:bestq        0.785 0.215  apache-nutch-1.8-1399-bestq 
+     3   2:worstq   2:worstq       0.322  0.678  apache-nutch-1.8-1351-worstq 
+     4   2:worstq    1:bestq        0.787 0.213  apache-nutch-1.8-1405-worstq 
+     1    1:bestq   2:worstq       0.465  0.535  apache-nutch-1.8-1396-bestq 
+     2    1:bestq    1:bestq        0.795 0.205  apache-nutch-1.8-1405-bestq 
+     3   2:worstq   2:worstq       0.29  0.71  apache-nutch-1.8-1407-worstq 
+     1    1:bestq    1:bestq        0.659 0.341  apache-nutch-1.8-1381-bestq 
+     2   2:worstq   2:worstq       0.464  0.536  apache-nutch-1.8-1396-worstq 
+     3   2:worstq   2:worstq       0.467  0.533  apache-nutch-1.8-1399-worstq

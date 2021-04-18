@@ -1,0 +1,18 @@
+820	Locator Document test Html setDocumentLocator set Document Locator unit Parser locator content user HTML handler	Document Html Parser Locator set	Locator unset HTML parser
+991	file lyrics audio duration bit rates Parser frames extract functionality tags durations		Parser extract duration audio file
+992	Metadata Html Graph method meta Open appended values add HtmlHandler Html Handler entries tags	Html Graph appended Values Open add Metadata Handler	OpenGraph meta tags multiple values Open Graph
+1012	Mime Type comment bmp acronym MimeType Mime Type wiki code type BMP uti xml	Mime Type	Add additional fields MimeType reader Mime Type
+1014	Reader custom Types Mime MimeTypesReader Mime Types Reader handling error support XML subclassing fields behavior	Types Mime Reader	custom MimeTypesReader Mime Types Reader
+1047	meta mediatype TIKA jquery server endpoint parts JAX fields data Modified query	Modified	Provide JAX detect mediatype
+1053	ASM jira xwiki browse XWiki Tika framework details project issues version bundle		Upgrade Tika Parsers ASM
+1062	lists support cases detection tests formatting list HTML test Word adapted existing		Add list detection RTFParser
+1074	exception document Tika app record embedded log visiting POI TIKA issue bug		Extraction exception hit visiting embedded document
+1109	test content OOXML documents pptx medata title PPT jar presentationml resource presentation	test PPT resource	Metadata extracted content OOXML pptx
+1110	Parser mime type application types Detector Chm Detect metadata http ChmParser Chm Parser iana	Detect Parser Auto Chm	Incorrectly declared SUPPORTED TYPES ChmParser Chm Parser
+1124	Content Body PDF BodyContentHandler Body Content Handler trunk attachments Matching file handler solution PDFParser document	Content Body Matching Handler Simple	Nested documents extracted PDF file chain
+1126	text tika html server support adds resource producing plain produce procuder patch		text html procuder tika server
+1130	text docx document file portions Microsoft wordprocessingml openxmlformats application extracts Word remain		docx text extract leaves portions text
+1193	Html Tag access applications TIKA HTMLSchema HTML schema suit Soup HtmlSchema Html Schema TagSoup Tag Soup	Html Soup Tag Schema Parser	access HtmlParser HtmlSchema Html Parser Html Schema
+1202	Annotation Parse PDFParser parameter extract Context file Text Refactor set ParseContext Parse Context config	Annotation Context Parse extract Text	Refactor PDFParser enable easier parameter setting
+1210	Mime files TODO swf String Test Type tika tests svn repos flash	Mime Type Types Test Data	Address tika parsers mime TestMimeTypes TODO test flash file Test Mime Types
+1211	Document Documents start parser endDocuments Documents ODF events xml feed startDocument start Document multiple elements	Document Documents start Files Open	OpenDocument ODF parser produces multiple startDocument events Open Document start Document

@@ -1,3 +1,0 @@
-Bug 271323 – improve shared object API performance
-The shared object API has some unnecessary synchronization and tracing that significantly reduced performance.
- These should be eliminated.

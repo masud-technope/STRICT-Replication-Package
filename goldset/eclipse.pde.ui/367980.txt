@@ -1,0 +1,5 @@
+PluginVersionPart:getVersion()
+PluginVersionPart:preloadFields()
+PluginVersionPart:getMinumum(VersionRange)
+PluginVersionPart:toString(Version, char)
+PluginVersionPart:getMaximum(VersionRange)

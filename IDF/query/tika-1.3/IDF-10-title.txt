@@ -1,0 +1,18 @@
+992	previous entries appendedValues Graph appended multivalued multiple addHtmlMetadata HtmlHandler values OpenGraph meta tags multiple values Open Graph
+1124	chain attachments documents Nested works BodyContentHandler MatchingContentHandler Matching Simple Body Nested documents extracted PDF file chain
+1062	attaching formatting Nested existing patch newer options supports basic tags Add list detection RTFParser
+1126	patch resource plain server support html text handler tika text html procuder tika server
+1193	Soup handling TagSoup suit schema Schema HtmlParser access table Html access HtmlParser HtmlSchema Html Parser Html Schema
+1130	portion application fine wordprocessingml docx parsing remain vnd zip Word docx text extract leaves portions text
+1074	robust documents caused fine bug save corrupt hit log suppress Extraction exception hit visiting embedded document
+1202	enable extractAnnotationText parameters Annotation PDFParser config extract Parse file ParseContext Refactor PDFParser enable easier parameter setting
+820	Patch Locator setDocumentLocator locator unit user HtmlParser call Html HTML Locator unset HTML parser
+1012	wiki priority sample formats bitmap nice additional Links bmp BMP Add additional fields MimeType reader Mime Type
+1109	documents application processing presentationml title jar pptx testPPT PPT vnd Metadata extracted content OOXML pptx
+1014	handling behavior fields MimeTypesReader tags custom Reader current error support custom MimeTypesReader Mime Types Reader
+1110	htmlhelp declared application ChmParser parsed files simple supports AutoDetectParser reason Incorrectly declared SUPPORTED TYPES ChmParser Chm Parser
+1047	Modified interest bytes BAD returned good fields parts endpoint problem Provide JAX detect mediatype
+1210	sample plugin swf SWF Nutch nutch asf flash files Address Address tika parsers mime TestMimeTypes TODO test flash file Test Mime Types
+1211	SOLR Solr multiple Documents bug Files feed elements startDocument ODF OpenDocument ODF parser produces multiple startDocument events Open Document start Document
+1053	framework bundle project ASM problem jira version http Parsers org Upgrade Tika Parsers ASM
+991	design frames additional Processing lyrics implement tags order audio bit Parser extract duration audio file

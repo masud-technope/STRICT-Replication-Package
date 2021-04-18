@@ -1,0 +1,15 @@
+1345	lingering defines depending upgrading fixed changed code adds testing attached Enable randomised testing Mahout modules
+1409	Matrix error Vector View check MatrixVectorView Matrix Vector View MatrixVectorView check error Matrix Vector View
+1379	point fails Summarizer digest cluster expects Quality data Cluster ClusterQualitySummarizer Cluster Quality Summarizer ClusterQualitySummarizer fails Digest clusters data point Cluster Quality Summarizer
+1284	reuse DummyRecordWriter Dummy Record Writer Dummy Record Reduce fail Writer Writables map testing DummyRecordWriter bug reused Writables Dummy Record Writer
+1317	row Row checkArgument check Argument realized check Preconditions experimenting Argument error time Clarify messages Preconditions checkArgument check Argument
+1030	wrote clustered release written appears Writable Weighted Vector calculate iterating Regression Clustered Points WeightedPropertyVectorWritable WeightedVectorWritable Weighted Property Vector Writable Weighted Vector Writable
+1319	Running argument command filter Addition PrefixAdditionFilter Prefix Addition Filter works custom expected Sequence seqdirectory filter argument silently
+1351	creating updating involves performing derive reduces Vector Cluster improvement clustering Adding DenseVector support AbstractCluster Dense Vector Cluster
+1261	MAX TasteHadoopUtils Taste Hadoop Utils Integer Taste Longs Utils hash set returned Hadoop TasteHadoopUtils idToIndex size Integer MAX Taste Hadoop Utils
+1364	Lucene invokes fail Runner Carrot discussion Mac RandomizedRunner Randomized Runner Randomized API Upgrade Mahout codebase Lucene
+1301	changed string code String toString String set method Access comma Sequential toString method SequentialAccessSparseVector excess comma String Sequential Access Sparse Vector
+1398	vary designed users provide delimiter pattern Mahout spaces demands FileDataModel File Data Model FileDataModel provide constructor delimiterPattern File Data Model delimiter Pattern
+1368	extended provide fails OnlineSummarizer Online Summarizer Summarizer quartile estimation Online quantiles TDigest Convert OnlineSummarizer TDigest Online Summarizer
+1242	hash Hash based Returns hashCode hash Code code Code maps HashFunctions Hash Functions DDE key redistribution function associative maps
+1308	extend Items implement Candidate CandidateItemsStrategy Candidate Items Strategy Strategy visibility AbstractCandidateItemsStrategy Candidate Items Strategy order custom extend CandidateItemsStrategy restricted visibility Candidate Items Strategy

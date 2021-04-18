@@ -1,2 +1,0 @@
-org.eclipse.jdt.core.tests.model/src/org/eclipse/jdt/core/tests/model/JavaSearchBugsTests2.java
-org.eclipse.jdt.core/search/org/eclipse/jdt/internal/core/search/BasicSearchEngine.java

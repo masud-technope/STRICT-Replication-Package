@@ -1,3 +1,0 @@
-apitools/org.eclipse.pde.api.tools/src/org/eclipse/pde/api/tools/internal/problems/ApiProblem.java
-apitools/org.eclipse.pde.api.tools.ui/src/org/eclipse/pde/api/tools/ui/internal/markers/CreateApiFilterOperation.java
-apitools/org.eclipse.pde.api.tools/src/org/eclipse/pde/api/tools/internal/util/Util.java

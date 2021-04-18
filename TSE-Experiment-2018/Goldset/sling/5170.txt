@@ -1,3 +1,0 @@
-tooling/maven/slingstart-maven-plugin/src/main/java/org/apache/sling/maven/slingstart/DependencyLifecycleParticipant.java
-tooling/maven/slingstart-maven-plugin/src/main/java/org/apache/sling/maven/slingstart/ModelPreprocessor.java
-tooling/maven/slingstart-maven-plugin/src/main/java/org/apache/sling/maven/slingstart/ProjectHelper.java

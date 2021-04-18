@@ -1,2 +1,0 @@
-java/org/apache/el/parser/AstValue.java
-test/org/apache/el/TestValueExpressionImpl.java

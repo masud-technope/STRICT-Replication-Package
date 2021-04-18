@@ -1,0 +1,5 @@
+org.apache.nutch.util.MimeUtil:autoResolveContentType(String, String, byte[])
+org.apache.nutch.util.MimeUtil:getMimeType(String)
+org.apache.nutch.util.MimeUtil:MimeUtil(Configuration)
+org.apache.nutch.util.MimeUtil:forName(String)
+org.apache.nutch.util.MimeUtil:getMimeType(File)

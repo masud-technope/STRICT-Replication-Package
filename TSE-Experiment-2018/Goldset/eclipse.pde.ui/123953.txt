@@ -1,3 +1,0 @@
-ui/org.eclipse.pde.runtime/META-INF/MANIFEST.MF
-ui/org.eclipse.pde.runtime/src/org/eclipse/pde/internal/runtime/logview/LogView.java
-ui/org.eclipse.pde.runtime/src/org/eclipse/pde/internal/runtime/logview/OpenLogDialog.java

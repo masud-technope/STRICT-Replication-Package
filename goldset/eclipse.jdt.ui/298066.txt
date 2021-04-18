@@ -1,0 +1,4 @@
+PropertyFileDocumentModel:replace(KeyValuePair, KeyValuePair)
+PropertyFileDocumentModel:KeyValuePairModell:getLength()
+PropertyFileDocumentModel:remove(String)
+PropertyFileDocumentModel:KeyValuePairModell:KeyValuePairModell(KeyValuePair)

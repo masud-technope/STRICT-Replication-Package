@@ -1,0 +1,4 @@
+Feature:computeImports()
+Feature:addNewDependency(String, String, int, List, List)
+Feature:findFeaturePlugin(String, String, int)
+Feature:addPluginImports(List, List, IPluginBase)

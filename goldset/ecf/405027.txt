@@ -1,3 +1,0 @@
-compendium/bundles/org.eclipse.ecf.osgi.services.distribution/src/org/eclipse/ecf/internal/osgi/services/distribution/BasicTopologyManager.java
-compendium/bundles/org.eclipse.ecf.osgi.services.distribution/META-INF/MANIFEST.MF
-compendium/bundles/org.eclipse.ecf.osgi.services.distribution/src/org/eclipse/ecf/internal/osgi/services/distribution/BasicTopologyManager.java

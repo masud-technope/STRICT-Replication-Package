@@ -1,0 +1,1 @@
+JavadocHover:getInfoText(IJavaElement)

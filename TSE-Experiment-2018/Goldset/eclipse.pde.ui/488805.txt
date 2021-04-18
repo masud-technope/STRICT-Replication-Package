@@ -1,1 +1,0 @@
-ds/org.eclipse.pde.ds.annotations/src/org/eclipse/pde/ds/internal/annotations/DSAnnotationCompilationParticipant.java

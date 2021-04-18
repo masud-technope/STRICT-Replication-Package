@@ -1,0 +1,2 @@
+Not supported formats are not skipped under Xine
+Only for not supported file formats. How to reproduce: - Copy a few files (not music) into the repository and rename them to have a supported extension (for example .mp3) - Start aTunes, set Xine as engine, refresh repository and try to play the fake files Expected behaviour: - aTunes should skip to the next song Actual behaviour: - aTunes get stuck

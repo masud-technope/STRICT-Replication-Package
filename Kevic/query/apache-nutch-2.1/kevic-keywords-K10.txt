@@ -1,0 +1,17 @@
+1569	push Maven upgrade Gora Upgrade Patch released coming artifacts
+1542	param reason urls left clear generator fetch crawl strong adddays
+1575	authentication solr nutch support
+1513	robots txt ftp urls Ftp docs bug EmptyRobotRules RobotRules CrawlDatum
+1514	properties mail configuration mod reference deprecated user VSh CCAFKhtFwvM GZWKe
+1419	status report redirect protocol http content points title empty tstamp
+1453	share problem common follow current indexer test IndexingFilters TestIndexingFilters differences
+1552	variable attempt read indexer content code http MoreIndexingFilter contentType java
+1393	stdout generate batch bin runtime script urls params usage auto
+1493	empty patch solrindex content accept solr contentLength field string NUTCH
+1047	indexing backend plugins backends CouchDB ElasticSearch feature resources moment handle
+1370	urls crawl injected crawldb code urlDir PluginRepository crawlDb runtime number
+1563	user fields method WebPage GeneraterJob FetchSchedule getFields Fetch Generater Fields
+956	solrindex build refer command html http nutch documents issues caveats
+1532	segment mapping field batch mail msg user solr xml batchId
+1501	missing behavior open ParserChecker IndexingFiltersChecker NUTCH Checker Behaviour issue parsechecker
+1503	timelimit properties FetcherReducer fetcher xml sync code useHostSettings byIP getConfiguration

@@ -1,1 +1,0 @@
-org.eclipse.jdt.apt.tests/src/org/eclipse/jdt/apt/tests/TestUtil.java

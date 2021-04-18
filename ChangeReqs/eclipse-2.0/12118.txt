@@ -1,0 +1,2 @@
+[CVS EXTSSH] extssh should tell user if ssh server is not of a compatible protocol
+It would be nice if... When the ssh client initializes a connection to the server, it already gets the servers revision. It can throw an exception and tell the user that the connection method can not operate with SSH2.

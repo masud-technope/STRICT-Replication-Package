@@ -1,0 +1,2 @@
+EventDispatcher:dispatchEvent(Event, IJDIEventListener)
+EventDispatcher:dispatch(EventSet)

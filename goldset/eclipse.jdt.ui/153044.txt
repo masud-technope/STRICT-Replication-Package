@@ -1,0 +1,2 @@
+JarEntryEditorInput:getToolTipText()
+JarEntryEditorInput:getFullPath()

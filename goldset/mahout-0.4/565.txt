@@ -1,0 +1,7 @@
+org.apache.mahout.clustering.minhash.MinHashMapper:map(Text, Writable, Context)
+org.apache.mahout.clustering.minhash.TestMinHashClustering:makeArguments(int, int, int, int, String)
+org.apache.mahout.clustering.minhash.TestMinHashClustering:verify(Path)
+org.apache.mahout.clustering.minhash.TestMinHashClustering:testLinearMinHashMRJob()
+org.apache.mahout.clustering.minhash.HashFactory:createHashFunctions(HashType, int)
+org.apache.mahout.clustering.minhash.TestMinHashClustering:setUp()
+org.apache.mahout.clustering.minhash.TestMinHashClustering:testMurmurMinHashMRJob()

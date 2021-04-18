@@ -1,2 +1,0 @@
-Bug 257864 – Turn checked into runtime exceptions
-Throwing checked org.eclipse.ecf.core.util.ECFException in org.eclipse.ecf.discovery.IDiscoveryContainerAdapter should be converted to runtime exceptions instead.

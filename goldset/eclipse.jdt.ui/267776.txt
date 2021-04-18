@@ -1,0 +1,2 @@
+CompletionProposalLabelProvider:createAnonymousTypeLabel(CompletionProposal)
+CompletionProposalLabelProvider:createMethodProposalLabel(CompletionProposal)

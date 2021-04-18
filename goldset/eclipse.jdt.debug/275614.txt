@@ -1,0 +1,4 @@
+JavaDebugTargetProxy:getTargetChildCount(IDebugTarget)
+JavaDebugTargetProxy:doInstalled(Viewer)
+JavaDebugTargetProxy:installed(Viewer)
+JavaDebugTargetProxy:JavaDebugTargetProxy(IDebugTarget)

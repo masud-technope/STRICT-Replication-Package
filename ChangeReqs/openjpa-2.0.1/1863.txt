@@ -1,0 +1,2 @@
+update HSQL dictionary for HSQLDB 2.0
+"useGetObjectForBlobs" should be set to false for HSQLDB 2.0

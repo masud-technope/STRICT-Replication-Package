@@ -1,0 +1,2 @@
+DAV: Reselecting the same location gives misleading warning
+If I choose Deploy -> Target Site... on a project that is already deployed and I select the same target site I get a warning error telling me I am delpoyed to the site and confirming that I want to overwrite. It should just ignore in that case. STEPS 1) Deploy a project to <site>/Foo 2) Choose Deploy-Target Site and select <site>/Foo again 3) Warning message

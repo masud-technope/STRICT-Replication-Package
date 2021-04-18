@@ -1,0 +1,2 @@
+XMLInputContext:insertNode(IDocumentElementNode, ArrayList)
+XMLInputContext:addAttributeOperation(IDocumentAttributeNode, ArrayList, IModelChangedEvent)

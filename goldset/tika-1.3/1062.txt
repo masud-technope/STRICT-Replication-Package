@@ -1,0 +1,4 @@
+org.apache.tika.parser.rtf.TextExtractor:processGroupEnd()
+org.apache.tika.parser.rtf.TextExtractor:end(String)
+org.apache.tika.parser.rtf.RTFParserTest:testBinControlWord()
+org.apache.tika.parser.rtf.TextExtractor:isHexChar(int)

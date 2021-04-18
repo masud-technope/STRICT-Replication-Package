@@ -1,0 +1,1 @@
+ModifierCorrectionSubProcessor:addMethodRequiresBodyProposals(IInvocationContext, IProblemLocation, Collection)

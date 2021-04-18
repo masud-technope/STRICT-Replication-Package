@@ -1,0 +1,1 @@
+SmartSemicolonAutoEditStrategy:computeCharacterPosition(IDocument, ITextSelection, int, char, String)

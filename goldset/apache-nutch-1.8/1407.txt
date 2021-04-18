@@ -1,0 +1,2 @@
+org.apache.nutch.indexer.basic.BasicIndexingFilter:filter(NutchDocument, Parse, Text, CrawlDatum, Inlinks)
+org.apache.nutch.indexer.basic.BasicIndexingFilter:setConf(Configuration)

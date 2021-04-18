@@ -1,0 +1,24 @@
+5955	Java Derby Profile JEP CDC Platform good Profiles Compact libraries Prepare Derby Compact Profiles JEP
+6147	mail mbox gmail archives mod ClosedObjectTest CCADjEm CCADj ZZFFKgapF WJjDwDJ ClosedObjectTest fails branch running Java Closed Object Test
+6053	Server Network Transaction network Exception Isolation set server NetworkServerControl networkServer Client prepared statement regular statement Connection setTransactionIsolation set Transaction Isolation
+6086	connection test methods Statement custom StatementPoolingTest Pooling jdbcapi Test code Factor logic creating custom connection jdbcapi StatementPoolingTest Statement Pooling Test
+6150	connections open locks openDefaultConnection Connection opened Add JDBCBase held affect Add automatic cleanup connections opened openDefaultConnection open Connection
+5927	Add methods utility URL attributes set code determine Embed query Add utility methods query URL attributes EmbedConnection Embed Connection
+5896	file tabs spaces java code drda change orig files server Change java drda source code spaces tabs clean tab creep java client
+6089	Type type data getTypeAsInt registerOutParameter sql client JDBC Statement sqlType CallableStatement registerOutParameter client lacks check legal types Callable Statement register Parameter
+5930	Raw Store setupEncryptionEngines Encryption RawStore Engines setup code correct replace Reformat RawStore setupEncryptionEngines Raw Store setup Encryption Engines
+5996	files database readme users hard time upgrade touching release good Create readme files cautioning users modifying database files database hard upgrade time
+5933	result sorting query morefld SQL condition Hibernate circumstances records simple SQL sorting error
+6094	set Derby Driver Manager ignores DriverManager setLoginTimeout test Timeout Login Derby ignores DriverManager setLoginTimeout Driver Manager set Login Timeout
+6063	variables code access ControlRow Control Row InsertResultSet TabInfoImpl instance Set Access variables TabInfoImpl InsertResultSet ControlRow Tab Info Impl Insert Result Set Control Row
+5232	backup log database directories good directory file seg encourage corrupt stern README file log seg directories warn users corrpution touch files
+6000	JDBC support Derby include rev release unclear Implement appears discussion Implement support JDBC
+6064	upgrade test don older branches tests reason note careful upgradeTests Failures upgradeTests cardinality statistics upgrade Tests
+4279	statement MYTABLE deadlock Thread cache MYCOLUMN lock executes thread prepared Statement cache deadlock
+5911	COF PRICE COFFEES query Colombian select French VALUES rows Roast condition pushed query FETCH
+1400	DERBY DRDAStatement initialize setTypDefValues server code called purpose Values Cleanup Cleanup code network server DRDAStatement
+6008	query term body expression primary spec paren order clause offset ORDER FETCH OFFSET set operands
+5561	Connection Physical check physical set checkForNullPhysicalConnection physicalConnection member prepare Schema Race conditions LogicalConnection checking physical connection Logical Connection
+6009	error column values ORDER order expressions exception numbers errorCode Pointer stricter checking ORDER clause VALUES expressions
+6044	descriptions download table read issue test natural Derby release hyphen poor word breaking table download
+5854	BrokeredCallableStatement methods Statement Brokered Callable issue test Test unused adds Test methods BrokeredCallableStatement Brokered Callable Statement

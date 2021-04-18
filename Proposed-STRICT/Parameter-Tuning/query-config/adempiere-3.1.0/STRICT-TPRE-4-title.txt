@@ -1,0 +1,12 @@
+37	tracker viewer Compiere patch		Report viewer scrolling broken
+106	invoices payment problem Payment	Term Select VPay	invoices Payment Selection
+109	invoices process Bug status		Print Invoices process draft selection
+113	Consolidated Bug func group		Consolidated shipments invoiced
+114	Invoices bug header Bug		Voiding reversal consolidated Invoices
+116	Country address Address organization		Organization Update Location Address
+525	order product process box		Process Generate Sales order bug
+768	Journal Debit Total record		Wrong Sum Total Debit Credit Journal
+814	Production products fractions product	Production Lines	Production fractional Qty production
+815	Cost type Landed cost	Landed Cost	LandedCost Cost Distribution type Cost work Landed Cost
+820	Price Requisition Purchase product	Price Requisition	ProductNotOnPriceList Error creating Requisitio Product Price List
+1240	Production product tab row		Posting balanced producing produc

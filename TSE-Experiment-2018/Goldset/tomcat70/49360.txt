@@ -1,3 +1,0 @@
-java/org/apache/catalina/ha/session/BackupManager.java
-java/org/apache/catalina/ha/session/DeltaManager.java
-java/org/apache/catalina/session/PersistentManagerBase.java

@@ -1,0 +1,16 @@
+227	Request restarting doesn work element config user useworkdir item request getelementsbytagnam folder disc userconfigfold
+259	submission bug split vertic mute pane mplayer player panel rightverticalsplitpan leftverticalsplitpan centerpanel
+260	Full Screen doesn work Windows aTunes Tunes full screen fullscreenbackground background graphic fullscreenfram fullscreen dialogs environ frame
+230	tag field defaulttag comment vorbi newtag imag file vorbiscommenttag jaudiotagg tags
+231	add image repository read older app version marker endian big tags comment getshortbigendian data num tag skip
+264	Wrong song duration displayed player durat max play maxdur pars send parseexcept durationupdat list skip
+207	option export messag dialog file control joptionpan chooser dialogcontrol pane exportoptionsdialogcontrol
+240	Set lyrics automatically terminated context lyric provid url node accept getlyricsprovidernam unescap div setlyr
+212	Context panel inform context contextinformationpanel control scrobbler getcontextinformationpanel objcontrol contextinformationpanelcontrol audioscrobblercontrol obj
+276	Mute mute volum player getvolumebutton muteen enabl send button command getpanelcontrol
+213	supported formats skipped Xine xine xinecontrol player control percent xinelock volum seek lock finish
+245	Radio Labels playlist radio alia xstream str list play stream lastplaylist entri podcast
+278	Edit Titles Fails edit controllers titl dialog control file edittitlesdialogcontrol album tabl listen
+281	Mute button mute volum player getvolumebutton muteen enabl send command getpanelcontrol setmut
+220	OSD displayed jumping previous track osd osddialogcontrol dialog anim osddialog durat showosd control osddur animateosd
+221	Multiple window mode work viewmod view config useworkdir multipl folder user file path userconfigfold

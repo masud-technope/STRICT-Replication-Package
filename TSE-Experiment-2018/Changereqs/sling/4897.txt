@@ -1,8 +1,0 @@
-[SLING-4897] Sling Web Console - Log Tail Plugin - ASF JIRA
-This issue tracks the introduction of a Log Tail Plugin for the Sling Log Web Console under /contrib 
- As the name suggests, the plugin simulates the behaviour of the UNIX shell tail command and follows the server logs outputting on browser allowing for ease of log monitoring in remote systems.
-
- The plugin code depends on logback implementations and is sling independent currently.
-
- Relevant mail archive thread:  http://apache-sling.73963.n3.nabble.com/Sling-Web-Console-Log-Tail-Plugin-td4050756.html 
- External github src link:  https://github.com/vnagpal81/sling-logtail

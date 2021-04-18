@@ -1,2 +1,0 @@
-org.eclipse.jdt.debug.tests/JDT Debug Evaluation Test Suite.launch
-org.eclipse.jdt.debug/eval/org/eclipse/jdt/internal/debug/eval/ast/engine/ASTInstructionCompiler.java

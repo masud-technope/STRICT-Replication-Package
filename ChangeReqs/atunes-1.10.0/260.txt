@@ -1,0 +1,2 @@
+Full Screen doesn't work for Windows aTunes
+aTunes v1.11.0 Full Screen looks like screenshot.

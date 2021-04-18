@@ -1,2 +1,0 @@
-java/org/apache/catalina/session/FileStore.java
-java/org/apache/catalina/session/StandardManager.java

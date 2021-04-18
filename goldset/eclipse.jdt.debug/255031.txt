@@ -1,0 +1,4 @@
+ExecutionEnvironmentAnalyzer:analyze(IVMInstall, IProgressMonitor)
+ExecutionEnvironmentAnalyzer:getTypes(String)
+ExecutionEnvironmentAnalyzer:addEnvironment(ArrayList, String, boolean)
+ExecutionEnvironmentAnalyzer:addEnvironment(ArrayList, IExecutionEnvironment, boolean)

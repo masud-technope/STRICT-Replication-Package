@@ -1,0 +1,9 @@
+1396	Copied Util Tika Upgrade Mime MimeUtil Mime Util Mime Util
+1381	subcollection collection NUTCH introduce roduce
+1351	DomainStatistics Domain Statistics Statistics TLD Domain Domain Statistics
+1399	Http Test TestProtocolHttpClient Test Protocol Http Client Protocol Client Test Protocol Http Client
+1352	threadlocals thread locals improves imp roves throughput urlfilters url filters fetcherthreads fetch erthreads outlink link Improve objection object ion noticed iced normalizers normalize normalizing normal izing extensively ext ensively
+1356	ParseUtil Parse Util Parse times parsers parse Util introducing intro ducing ore Executor Service threadlocal thread local ExecutorService Executor Service Parse Util Executor Service
+1405	Injector reducer reduce overwriting writing Crawl raw Datum CrawlDatum raw Datum permit mit Crawl Datum
+1262	Types documents doc uments HTML office ice MIME Web Content opendocument open document Map mapMimeTypes map Mime Types Office ice duplicating dup licating moreIndexingFilter Indexing Filter Mime Type TAB Filter XHTML Indexing map Mime Types Indexing Filter
+1407	Basic Document Nutch utc Field copyField copy Field NutchDocument utc Document Solr Filter BasicIndexingFilter Basic Indexing Filter Indexing copy Field Nutch Document Basic Indexing Filter

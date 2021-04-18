@@ -1,0 +1,2 @@
+org.apache.mahout.cf.taste.impl.recommender.AbstractCandidateItemsStrategy:doGetCandidateItems(long[], DataModel)
+org.apache.mahout.cf.taste.impl.recommender.AbstractCandidateItemsStrategy:refresh(Collection<Refreshable>)

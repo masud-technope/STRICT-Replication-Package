@@ -1,0 +1,6 @@
+org.apache.tika.parser.html.HtmlParserTest:testBoilerplateDelegation()
+org.apache.tika.parser.html.HtmlParserTest:testBoilerplateRemoval()
+org.apache.tika.parser.html.HtmlParserTest:testBoilerplateWithMarkup()
+org.apache.tika.parser.html.HtmlParserTest:testIdentityMapper()
+org.apache.tika.parser.html.HtmlParserTest:testNewlineAndIndent()
+org.apache.tika.parser.html.HtmlParserTest:testOpenGraphMetadata()

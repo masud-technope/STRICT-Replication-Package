@@ -1,3 +1,0 @@
-[SLING-1691] Improve startup behaviour - ASF JIRA
-The current implementation costs some startup performance as a service tracker is registered which loads all Abdera stuff as soon as the servlet context  is available.
- We could delay this to it's first usage

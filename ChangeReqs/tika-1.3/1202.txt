@@ -1,0 +1,2 @@
+Refactor PDFParser to enable easier parameter setting
+It would be handy to be able to set PDFParser parameters (extractAnnotationText, etc) in a config file and via ParseContext.

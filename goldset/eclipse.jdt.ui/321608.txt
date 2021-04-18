@@ -1,0 +1,3 @@
+NewTestCaseWizardPageOne:createTypeMembers(IType, ImportsManager, IProgressMonitor)
+NewTestCaseWizardPageOne:createTestMethodStubs(IType, ImportsManager)
+NewTestCaseWizardPageOne:createTestMethod(IType, ImportsManager, IMethod, List, List)

@@ -1,1 +1,0 @@
-org.eclipse.jdt.launching/launching/org/eclipse/jdt/internal/launching/environments/ExecutionEnvironmentAnalyzer.java

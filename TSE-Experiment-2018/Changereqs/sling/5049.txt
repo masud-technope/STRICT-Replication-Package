@@ -1,5 +1,0 @@
-[SLING-5049] Scheduled tasks should set a meaningful thread name during execution - ASF JIRA
-It would be useful for log file analysis purposes to set a meaningful thread name during the execution of scheduled tasks (https://sling.apache.org/documentation/bundles/scheduler-service-commons-scheduler.html).
-Both Sling requests and jobs do this already: Requests set Method + URL, Jobs set the name to pool id + queue name + topic.
-For scheduled tasks I would propose to reuse "QuartzJobScheduler.JobName" that is already used internally (and is derived by OSGi service property "scheduler.name").
-This can fairly easily be achieved by a few lines of code in QuartzJobExecutor, see attached patch.

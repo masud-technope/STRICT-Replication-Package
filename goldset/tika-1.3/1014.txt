@@ -1,0 +1,6 @@
+org.apache.tika.mime.MimeTypesFactory:create(InputStream)
+org.apache.tika.mime.MimeTypesReader:read(InputStream)
+org.apache.tika.mime.MimeTypesReader.ClauseRecord:getClauses()
+org.apache.tika.mime.MimeTypesReader:read(Document)
+org.apache.tika.mime.MimeTypesReader:MimeTypesReader(MimeTypes)
+org.apache.tika.TikaIT:testToString()

@@ -1,3 +1,0 @@
-java/org/apache/catalina/core/ContainerBase.java
-java/org/apache/catalina/core/StandardContext.java
-webapps/docs/changelog.xml

@@ -1,0 +1,16 @@
+227	aTunes Tunes work isn Tunes change window press preferences doesn Request Request restarting doesn work
+259	listening submitted bug submission submission bug
+260	aTunes Tunes Screen work screenshot Windows Tunes doesn Full Screen doesn work Windows aTunes Tunes
+230	tag track file property Info Tag setInfo set Info store TagModifier Tag Modifier FILE tag
+231	image Image versions format file aTunes Tunes read version SVN Update add image repository read older app version
+264	player songs time song Westerberg playing Davis Miles duration bit Wrong song duration displayed player
+207	aTune Tune screen view Tune option
+240	window lyrics user occasion windows file tracking action problem Set lyrics automatically terminated
+212	song songs artist picture album biography Context panel tab info Context panel
+276	system sound aTunes Tunes button play keyboard bar Tunes progress returns Mute
+213	Xine song extension music rename engine behaviour aTunes Tunes formats Start supported formats skipped Xine
+245	label folder playlist radios icon Radio draging stations Radio Labels playlist
+278	title change Edit mouse hit list tab aTunes Tunes Marc tanda Edit Titles Fails
+281	INFO engines START lists path HANDLER PLAYER availables seconds cache Mute button
+220	OSD button track play OSD displayed jumping previous track
+221	work mode window Multiple window mode work

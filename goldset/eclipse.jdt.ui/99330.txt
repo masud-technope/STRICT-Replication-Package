@@ -1,0 +1,2 @@
+ASTProvider:hasSource(IJavaElement)
+ASTProvider:createAST(IJavaElement)

@@ -1,0 +1,7 @@
+JspRuntimeContext:incrementJspReloadCount()
+JspRuntimeContext:initSecurity()
+JspRuntimeContext:setJspReloadCount(int)
+JspRuntimeContext:JspRuntimeContext(ServletContext, Options)
+JspRuntimeContext:getJspReloadCount()
+JspRuntimeContext:initClassPath()
+JspRuntimeContext:SecurityHolder:SecurityHolder(CodeSource, PermissionCollection)

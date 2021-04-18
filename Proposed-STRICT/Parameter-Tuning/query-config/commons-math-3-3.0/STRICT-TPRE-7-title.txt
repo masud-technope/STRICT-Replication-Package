@@ -1,0 +1,16 @@
+641	distance methods Lines segements Segments lines point		Implement distance methods Lines Segments
+718	Probability Binomial method Cumulative Distribution inverseCumulativeProbability inverse Cumulative Probability returns	Cumulative Distribution Probability N Impl Binomial	inverseCumulativeProbability BinomialDistribution returns wrong large trials inverse Cumulative Probability Binomial Distribution
+764	Random sample Distribution Sampler RandomGenerator Random Generator RealDistribution Real Distribution method	Random Size Distribution Sampler Real create sample	sample API accept RandomGenerator parameter Random Generator
+775	Population List population Limit constructor check populationLimit population Limit	Population List Limit population	ListPopulation constructor check negative populationLimit occur List Population population Limit
+776	Rate List Population constructors Elitism Elitistic ElitisticListPopulation Elitistic List Population	List Rate Elitism Population Elitistic set elitism	range checks elitismRate ElitisticListPopulation constructors elitism Rate Elitistic List Population
+777	Crossover Point CrossoverPolicy Crossover Policy Policy Ordered OnePointCrossover Point Crossover Chromosomes	Point Crossover Policy	CrossoverPolicy needed Crossover Policy
+778	Field Dfp FieldElement Field Element contract Element multiply math	Field Element	Dfp Dfp multiply comply general contract FieldElement multiply Field Element
+779	List Population list iterator ListPopulation List Population population Iterator	Population List	ListPopulation Iterator remove chromosomes population List Population
+782	Brent block Optimizer algorithm addition user code	Optimizer Brent	BrentOptimizer User defined check block badly Brent Optimizer
+835	percentage method Fraction bug percentageValue percentage result MAX	percentage	Fraction percentageValue rare overflow percentage
+841	test gcd checksum rng Integer System tms	Equals test Utils nano Time Apache	gcd speed
+849	Gamma implementation values accuracy NSWC resolution Commons	Gamma Numerical log NSWC	Precision improvement Gamma
+878	test tests chi Test sense wikipedia ratio		Test Log Likelihood ratio LLR test math stat inference
+905	Math exp cosh Jeff sinh values Hain	Math Strict Fast	FastMath cosh sinh support range values Math counterparts Fast Math
+915	Data field compatibility Empirical EmpiricalDistribution Empirical Distribution random Distribution	Data Empirical Distribution random Impl Random Generator	compatibility broken EmpiricalDistribution Empirical Distribution
+1121	Optimizer Brent Base iteration optimizer count iter	Optimizer Optimize Brent Base	Brent optimizer doesn Base optimizer iteration counter

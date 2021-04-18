@@ -1,0 +1,16 @@
+576	calculation setting lot incorrect DiffStorage RunningAverage updateItemPref table JDBCDiff AbstractJDBCDiffStorage AbstractJDBCDiffStorage updateItemPref updating AVG incorrectly cases JDBCDiff Storage update Item Pref
+641	calculation properties MatrixMultiplicationJob TransposeJob DistributedLanczosSolver Multiplication setConf TimesSquaredJob queue Lanczos DistributedRowMatrix hadoop jobs ignore Configuration set setConf Distributed Row Matrix set Conf
+610	considered obvious SimilarityReducer fact RowPair behavior predictions simple RecommenderJob change Coocurrences SimilarityReducer Similarity Reducer
+580	defined adjusted trunk Missing modelBasePath params processed basePath table problem Missing basePath Bayes job InMemoryDataStore base Path Memory Data Store
+614	getRecordWriter writes Progressable MultipleOutputFormat Multiple clean track control TaskAttemptContext Attempt org apache mahout classifier baytes MultipleOutputFormat working intended Hadoop Multiple Output Format
+678	MixedGradient positive Mixed RankingGradient Ranking understand category Pointer simple OnlineLogisticRegression NullPointerException MixedGradient SGD algorithm Pointer Exception Mixed Gradient
+583	overwrite loss Loss chunk happen directory files sequence create file Loss data create sequence files directory
+552	lost names AbstractCluster constructor Named seq running RandomAccessSparseVector Vectors vectors AbstractCluster eliminates NamedVectors replacing RandomAccessSparseVector Cluster Named Vectors Random Access Sparse Vector
+526	DefaultTreeBuilder Stack attributes Overflow numerical forest Error dataset Builder Tree Infinite Recursion DefaultTreeBuilder Tree Builder
+561	handle TestClassifier source command parameters type Classifier Test TestClassifier correctly handle type source command parameters Test Classifier
+625	biggest incorrect higher project patterns real difference bug unit http generated patterns support higher reality
+564	runKMeansIteration setting testConvergence distanceThreshold convergence Convergence KMeansClusterer Iteration convergenceDelta parameter KMeansClusterer distanceThreshold parameter testConvergence Iterable Cluster clusters distanceThreshold method KMeans Clusterer distance Threshold test Convergence distance Threshold
+565	series implementation mask Features sign Minhash minhash bit feature shift Features incorrectly hashed Minhash
+631	WeightedRunningAverage problem bug Small datum Dev Std Running Weighted weighted Small bug WeightedRunningAverage add WeightedRunningAverageAndStdDev Weighted Running Average Weighted Running Average Std Dev
+602	exceptions Implementation wiki display Partial dataset MAHOUT apache org Partial Implementation exceptions
+604	exception training Bayes Classifier data Bayes Classifier fails data training data

@@ -1,1 +1,0 @@
-compendium/bundles/org.eclipse.ecf.osgi.services.distribution/src/org/eclipse/ecf/internal/osgi/services/distribution/Activator.java

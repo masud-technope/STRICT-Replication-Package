@@ -1,2 +1,0 @@
-ui/org.eclipse.pde.core/src/org/eclipse/pde/internal/core/ClasspathHelper.java
-ui/org.eclipse.pde.core/src/org/eclipse/pde/internal/core/ClasspathHelper.java

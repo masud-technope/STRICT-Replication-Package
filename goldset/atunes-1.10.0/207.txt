@@ -1,0 +1,2 @@
+net.sourceforge.atunes.gui.views.dialogs.fullScreen.FullScreenDialog:setFullScreen(boolean)
+net.sourceforge.atunes.gui.views.dialogs.fullScreen.FullScreenDialog:setVisible(boolean)

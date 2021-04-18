@@ -1,0 +1,1 @@
+NameConventionConfigurationBlock:NameConventionConfigurationBlock(IStatusChangeListener, IProject, IWorkbenchPreferenceContainer)

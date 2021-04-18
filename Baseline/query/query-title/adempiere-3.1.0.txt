@@ -1,0 +1,12 @@
+768	Wrong Sum Total Debit Credit Journal
+113	Consolidated shipments invoiced
+114	Voiding reversal consolidated Invoices
+116	Organization Update Location Address
+820	ProductNotOnPriceList Error creating Requisitio Product Price List
+37	Report viewer scrolling broken
+1240	Posting balanced producing produc
+106	invoices Payment Selection
+109	Print Invoices process draft selection
+525	Process Generate Sales order bug
+814	Production fractional Qty production
+815	LandedCost Cost Distribution type Cost work Landed Cost

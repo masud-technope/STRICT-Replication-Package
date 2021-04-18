@@ -1,2 +1,9 @@
-framework/bundles/org.eclipse.ecf.provider/src/org/eclipse/ecf/provider/generic/ClientSOContainer.java
-framework/bundles/org.eclipse.ecf.provider/src/org/eclipse/ecf/provider/generic/ClientSOContainer.java
+ClientSOContainer:handleViewChangeMessage(ContainerMessage)
+ClientSOContainer:handleLeaveGroupMessage(ContainerMessage)
+ClientSOContainer:handleConnectResponse(ID, Object)
+ClientSOContainer:setStateUnconnected(ISynchAsynchConnection)
+ClientSOContainer:setStateConnected(ID, ISynchAsynchConnection)
+ClientSOContainer:setStateConnecting(ISynchAsynchConnection)
+ClientSOContainer:createConnection(ID, Object)
+ClientSOContainer:connect(ID, IConnectContext)
+ClientSOContainer:disconnect()

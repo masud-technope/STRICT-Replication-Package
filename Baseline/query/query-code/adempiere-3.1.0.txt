@@ -1,0 +1,12 @@
+768	Journal Source Open Credit currency cur rency Debit Thx Accounted Acc ounted Sum Wrong forget Total foreing eing Key
+113	Consolidated Bug Compiere Comp iere consolidated cons olidated sourceforge source
+114	Consolidated Voiding compiere comp iere Shipments invoiced inv oiced Invoices Bug Generate Compiere Comp iere sourceforge source reversed reverse
+116	ZIP Address Update COUNTRY ENTRIES City Country Organization Org anization System PREVIOUS inital ini tal organization org anization Location
+820	Product price pri List Order pricelist price list RequisitionPOCreate ProductNotOnPriceList Product Price List Price Create PriceList Price List Purchase Requisitio Req uisitio Error Requisition Requisition POCreate Product Price List Price List
+37	Tracker indifferent ind iff erent Basically Basic ally Paul posted pos ted Bug Compiere Comp iere Report Adempiere sourceforge source haps
+1240	Furniture Dont globalqss global qss Button Production BOM botton bot ton Gardenworld Header Balanced Balance Postet Pos tet produc prod Set Posting Pos ting Step Salas Create Layda quantity qua ntity Quantity Plan Patio
+106	VPaySelect Pay Select compiere comp iere Selections Select ions Term SQL Payment Selection Invoices Inv oices checkbox check box VPay Pay DueDate Fixed Compiere Comp iere paymentTermDueDate payment Term Select VPay Select payment Term
+109	documents doc uments Print Invoices Bug customers custom ers Compiere Comp iere Garden posting pos ting sourceforge source
+525	Execute Start Complete Process Sales BUG Create Generate Scenario Adempiere Choose
+814	quantities qua ntities Production Product ion Qty ProductionLines Product ion Lines BOM quantity qua ntity Lines Production Lines
+815	Costs osts Cost Landed LandedCost Landed Cost Distribution Landed Cost

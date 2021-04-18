@@ -1,0 +1,3 @@
+org.compiere.print.Viewer:jbInit()
+org.compiere.print.Viewer:dynInit()
+org.compiere.swing.CTable:CTable()

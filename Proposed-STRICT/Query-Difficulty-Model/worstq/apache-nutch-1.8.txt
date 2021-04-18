@@ -1,0 +1,9 @@
+1262	application text Map type html single HTML xml mapping code Map duplicating content types single type
+1351	Domain host DomainStatistics Domain Statistics tool suffix aggregates tld Statistics counts domain DomainStatistics aggregate TLD Domain Statistics
+1352	synchronization replace fetching blocking outlink monitor removing normalizing time threadlocals Improve regex urlfilters normalizers synchronization
+1356	ParseUtil ExecutorService manually thread handling ParseUtil manages parser threads creating thread parse specific parsers expensive parsers threadlocal fields initialize item parsed simply introducing caching ExecutorService ParseUtil cache threads parsing efficient attached patch Parse Util Executor Service Parse Util Executor Service Parse Util
+1381	field override configuration subcollection filter introduce NUTCH directive issue globally override subcollection field
+1396	Upgrade Tika Copied code trunk MimeUtil upgraded dependency Tika Mime Util
+1399	Http Protocol servers Test fails tests closed Client test http TestProtocolHttpClient fails Test Protocol Http Client
+1405	CrawlDatum Crawl Datum Crawl overwrite entries existing Datum metadata overwriting injected users overwrite CrawlDatum injected entries Crawl Datum
+1407	BasicIndexingFilter optionally add domain field basic indexing filter adds host field NutchDocument domain field Solr copyField host field domain field bit cumbersome user friendly Basic Indexing Filter Nutch Document copy Field

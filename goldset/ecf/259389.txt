@@ -1,2 +1,1 @@
-protocols/bundles/ch.ethz.iks.slp/src/main/java/ch/ethz/iks/slp/impl/SLPDaemonImpl.java
-protocols/bundles/ch.ethz.iks.slp/src/main/java/ch/ethz/iks/slp/impl/SLPDaemonImpl.java
+SLPDaemonImpl:handleMessage(SLPMessage)

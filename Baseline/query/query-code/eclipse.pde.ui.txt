@@ -1,0 +1,182 @@
+153093	Archives Map Site vertically ver tically Bug Inconsistent
+232463	Platform Restore PDE Target Bug BUG Build Defaults
+119824	MANIFEST INF Bug Strange Str ange META strange str ange
+405015	Bug Build Unsupported notice ice
+173072	Steps Bug notice ice Wrong
+155158	Bug Product Wassim sim
+138260	Eclipse Ideally Neglecting ENHACEMENT META ENTRY INF OSGi OSG PDE MESSAGE Bug Enforce NOTE Java configurator config urator Plugin
+215579	IPlugin Plugin IPluginModelBase Plugin Model Base Candidate getBestCandidate Candidate ModelEntry Model Entry Entry Bug Base Model IPlugin Model Base Candidate Model Entry
+119843	Deployable Deploy Exporting Compiler File Bug Export javaCompiler java Compiler java Compiler
+202272	Eclipse Exclusive Fragment Build Steps MANIFEST Accessibility Acc essibility PDE Bug Overview Host Inclusive Reproduce
+179238	Eclipse Windows Bug positioned pos itioned theme Extension
+206887	transferred transfer red RUML defect def ect appeared app eared Build internally ernally IES Building Steps CVS Bug Create RMP productive pro ductive Reproduce
+231977	Ljava IPlugin Plugin Build specific ally IPluginElement Plugin Element Object Lorg Steps Element managedbuilder managed builder Bug GCC Definitions Exception ClassCastException Exception buildDefinitions build Definitions Reproduce IPlugin Element Exception build Definitions
+230447	PDE Bug JDT Invalid
+35888	copyright copy Builder Project Problem ncrementatalProjectBuilder ncrementatal Project Builder Attribute Extensions Bug Adding Java Editor ncrementatal Project Builder
+280630	Baseline Created Bug Screenshot API
+163384	respect res pect debugged debug ged Bug Wrong
+251970	Build Declarative Decl arative excesive exc esive Note MANIFEST OSGi OSG Bug Manifest Services
+229441	shouldn Bug flagging flag ging
+150081	ManifestElement Manifest Element Pkg Require ImportPkg Pkg Element Bug Bundle Manifest Manifest Element Pkg
+220235	CVS Plug Properties Bug Compiler Manifest Project
+151112	INF META Manifests Organize Bug Export
+166984	Eclipse Pos sibly Bug SWT Application
+292938	Add Edit Identifier Reproducible Version Build Agent Presto Close Opera pera Steps User extpointname ext point Windows Open Points Bug Extension Reproduce
+164438	Feature Build META Signed confusion conf usion INF MANIFEST PDE Target Bug
+201306	builders build ers Description IFile File XMLError XML Error Time Manager Monitor Bug Path Buffer XMLErrorReporter XML Error Reporter Creation IPath Path IProgress Progress ITextFileBufferManager Text File Buffer Manager Reporter Resource Severity Text IProgressMonitor Progress Monitor getTextFileBuffer Text File Buffer IText Text IFileBufferManager File Buffer Manager File Location XMLError Reporter IText File Buffer Manager IProgress Monitor Text File Buffer IFile Buffer Manager
+201304	builders build ers Description IFile File Time Manager ErrorReporter Error Reporter Monitor Bug Path Buffer Creation IPath Path IProgress Progress ITextFileBufferManager Text File Buffer Manager Reporter Resource Error Severity Text IProgressMonitor Progress Monitor getTextFileBuffer Text File Buffer IText Text IFileBufferManager File Buffer Manager File Location Error Reporter IText File Buffer Manager IProgress Monitor Text File Buffer IFile Buffer Manager
+321624	Xmx Configuration Product Initialize Template Launching Log consoleLog console Log Arguments Pgm RCP Steps Windows Bug Create Launch Xms console Log
+140381	PDE Bug Convert
+185955	Platform Eclipse Plug Repeat Build Reset Project Note Open Target Bug Create Change Good
+210018	Image approach app roach scraping scr api transparency tra nsparency Loader Bug ImageLoader Image Loader Image Loader
+293474	Editing Extensions Created PDE Bug
+218223	Plug CPU Edit enabledWhen enabled Build Search Bring Browse Person Browser Created PDE SHIFT Bug OOME Path Java CTRL BuildId Build enabled Build
+183405	Steps Plug Open Required Bug BUG Create Dependencies Title Overview Manifest Editors Close Editor Reproduce
+154739	PDE Bug
+322672	PDE Bug API
+181883	Fragment Bug Create Bring Host Manifest Content Note Assist Proposal
+216703	Eclipse constantly antly Harder Validate Bundles Note wider wide OSGi OSG PDE Bug resized resize Framework characteristics character istics Today
+181884	Require Bundle Host Manifest Fragment Bug Content Assist
+435321	String MethodRefConstructorTest Method Constructor Test Test MySupplier Supplier Method SuppressWarnings Suppress Warnings Created Bug Supplier Constructor Suppress Warnings Method Constructor Test Supplier Suppress Warnings
+172675	Eclipse Externalization Ext ernalization recieving rec ieving Development Externalize Note Compilers MANIFEST externalization ext ernalization Set Bug Usage Strings Type Select Reproduce Plug Click Notice ice Build General Steps Externalized Windows Create Changed Preferences overview view Bundle Error Overview Provider GeneralInformationSection General modelChanged model Changed General model Changed
+152199	RequiredExecutionEnvironent Required Execution Env ironent Execution Required Bug Bundle Overview Environent Env ironent Content Assist Required Execution Environent
+175756	Configuration Eclipse Plug ECLIPSE Build SDK META RSA signed sig ned File Steps INF PDE Bug Export Manage configurator config urator Choose Reproduce
+209554	HEAD Bug
+173712	Plug Build Project Steps Properties Bug Finish Reproduce
+209046	Build Pressing Wizards Note Press ress Steps Bug Create Extension Select Reproduce
+312466	removeModel remove Model Manager createModel create Model fModels Models Project Models IBundle Bundle PDE WorkspacePluginModelManager Workspace Plugin Model Manager Bug IBundleProjectService Bundle Project Service Service Model initlaize init laize Workspace Plugin remove Model create Model Models Workspace Plugin Model Manager IBundle Project Service
+201369	Add Delete Schema Plug Adam Project Note Save Steps ting Bug Create Point Manifest Extension Editor Deleting
+201880	Eclipse Workbench Runtime identification ide ntification packaged Expand Object Map Browser Suggested Created Open Bug identifes ident ifes Reproduce RegistryBrowserContentProvider Registry Browser Content Provider Plug BundleSymbolicName Bundle Symbolic Build Install Content Symbolic Steps PDE Bundle bundleId bundle Registry Provider BundleId Bundle fPluginMap Plugin Map bugfix bug Plugin Registry Browser Content Provider Bundle Symbolic bundle Bundle Plugin Map
+273049	CheatSheet Cheat Sheet Problem Pointer Occured Cheat Bug NullPointerException Pointer Exception Finish Exception Register Sheet Registering Cheat Sheet Pointer Exception
+295577	Snow Cocoa Notice ice SDK Flip Mac Note Target Bug Create Leopard notice ice SWT Summary JRE
+94366	Feature Bug Move Create notice ice RCP
+221852	Steps Bug Create Export SDK notice ice
+297115	Helps strict str ict Bug beaninfo bean info Turns intuitive uitive
+324773	Click Identifier Reproducible Build Tick Dependencies Reopen Save Steps Open Bug Recompute Reproduce
+134311	Plug Project Bug Finish Java Wizard partially ially
+128683	INF MANIFEST Organize Bug organize org anize META Manifest SWT JFace Face
+217772	Policy Bundle Title Activation ActivationPolicy Activation Policy Provide Bug Activation Policy
+172721	intentional entional Build Steps Open Points Bug Extension Reproduce
+170678	ClassPath Path Bug Path Bundle Dependency Management Path
+116919	Add Plug Build Dependencies addition add ition Dependency Save Close Win WinXP Open Bug Manifest Editor Win
+205493	Status Note Description Open Bug Plug Dependencies BundleDescription Bundle Description Steps Manifests Invalid Bundle Manifest View developer dev eloper Bundle Description
+197817	Add Plug AndExpression Expression Search Libraries app ntly External Navigate Open Bug Java Type Expression Select Expression
+264383	Add experimental exp erimental Result resetting reset ting resets res ets Target Bug Hit
+224447	Bug API
+484548	Eclipse Viewer Feature Intended ended Dependencies Client internalGet internal createClient create Client Requires createFormContent create Form Content displayable display RequiresSection Requires HIDDEN Structured FeatureDependenciesPage Feature Dependencies StructuredViewerSection Structured Viewer Content TableSection Table NPE Form Pointer Bug NullPointerException Pointer Exception EclipsePreferences Eclipse Preferences getBoolean Preferences Table Error Exception internal create Client create Form Content Requires Feature Dependencies Structured Viewer Table Pointer Exception Eclipse Preferences
+248519	Eclipse DSFile File carefully care fully Definition BORDER Group Created Bug Text SWT complicated comp licated DSFileWizardPage File Wizard resolves res olves Fields Win Screen Component windowing win dowing Wizard DSFile Wizard
+436418	numerous num erous Plug hing Bug Plugins Window Regression View References Find Select
+148171	MANIFEST Manifests Open PDE Organize Bug Tools Manifest
+148687	Selection Bug Superclass Point Extension perspectives spec tives interested erested
+229070	PDE launchers launch ers Bug Java API applet app
+113870	Emmanuel PDE improperly imp roperly Unknown Bug
+228044	testApplication test Application Test SessionTest Session Test Application RCP UITestApplication Test Application getApplicationToRun Application Bug UITest Test Session test Application Session Test UITest Application Application
+158418	Creating starndard star ndard OSGi OSG Start Eclipse Bug Framework Lazy LazyStart Lazy Start Equinox Lazy Start
+182483	Plug Open PDE Bug Development Dependencies Change Presentation View Note Press ress
+270549	Eclipse times Reopen Observe Turn Close Steps Screen Source Created Open Bug Change Services XML
+274646	Bug Progress API
+229584	introduced roduced Bug Chris Compute
+203993	CHKPII Schema HTML isv Bug intro compositeContentFile composite Content File introContentFileSpec Content File Spec cheatSheetContentFileSpec cheat Sheet Content File Spec Content Spec Sheet File composite Content File intro Content File Spec cheat Sheet Content File Spec
+280286	Bug Search finishes fin ishes
+199896	Plug express exp ress wasteful teful Fragments wasting ting Created Open Bug Wizard
+158945	MANIFEST PDE Bug NOTE filesystem files ystem
+443114	Regression Created Bug reproduction rep roduction
+201966	Choice Eclipse Schema Click Remove Build Definition Sequence Editors Steps Extensions Open Bug BUG Select Buttons Reproduce EXPECTED
+272107	Editing WinXP Bug Minor Win Win
+209138	Add Bug Build Dependencies Automated Auto mated Management
+274678	Browse Bug Export categorization cat egorization Choose
+229626	Bug API
+496382	Add Eclipse Baseline Bug API
+229624	Resizing Res izing cutted cut ted Text Bug
+191231	AbstractLauncherTab Launcher Tab Bug Space Composite createStartingSpace create Starting Space Tab Starting Launcher API Binary breakage age Launcher Tab create Starting Space
+232706	Organize Mark Bug Manifest initially init ially
+262918	Add Eclipse Apply Plug Click Validate Uncheck Steps Required Bug Select
+139526	preforming pref orming PDE Bug Scenarios Dependency Extra
+272641	Externalization Ext ernalization Externalize externalized external ized MANIFEST Bug OSGI Bundle Strings Wizard
+210181	Add Bug
+272654	Bug overwriting writing Manifest Editors Select
+216840	times warrant war validating valid ating warranted war ted PDE Bug Activator Bundle
+231688	MANIFEST Bug
+212755	approach app roach Test PDE Bug
+197906	Synchronize Plug Development Editors Press ress HEAD Bug Great XML
+206610	Start Bug Load Shutdown STEPS
+181524	Fragment Bug Host Manifest Content Assist
+121622	Bug interesting eresting
+129817	Eclipse Template Build Dependencies Specific ally HEAD programatically program atically Bug ImportWizardTemplate Wizard Template Extension Wizard Wizard Template
+166680	META Compiler INF Bug Export Java JavaCompiler Java Compiler Java Compiler
+461083	Eclipse Edit Definition Locations Site Resolving Res olving Open Target Bug Start Software
+139037	PDE Bug
+274724	Plug Click Build Dialog Development Definition Colors General File Basic Font Bug Preferences Component Window Fonts Change Appearance
+319268	Eclipse importantly antly Plug Manager META Project INF MANIFEST pollute poll ute PDE Bug JUnit Unit WorkspaceModelManager Workspace Model Manager PLUGIN NATURE Model interested erested Workspace Workspace Model Manager
+183587	Add Plug Search Unexpected Libraries Project External incubator ubator Bug Java
+150305	Product Combo Feature Dependencies Linux tabbing tab bin Windows Properties PDE Bug Editor forms
+183073	Add Editors Extensios Ext ensios Bug icularly Manifest
+208164	Bug Regression Extension
+165672	Eclipse selectable select Michael GMF internally ernally minimally min imally GEF Bug EMFT Navigator AJDT Searching EMF spinning spi nning Option Referring erring ting memorize mem orize Error lengthy len gthy dependecies depend ecies definable def inable WSP
+198961	Add Plug Feature Test Details Note calculations cal culations Mark Bug Create Select Editor
+260913	Bug Move
+198965	Add Feature Dependencies Note Match PDE outline Bug Change Compatible Editor
+182075	Bug Version Qualifiers Manifest Content Assist inserts ins erts
+149816	Configuration String javaEditorScope java Editor Scope schemeId scheme defaultAcceleratorConfiguration Acc elerator Configuration Bug contextId context Manifest commandId command Scope Editor Syntax Accelerator Acc elerator java Editor Scope scheme Accelerator Configuration context command
+232771	Unexpected handleStatus handle Status Status SaveScopeResourcesHandler Save Scope Resources Handler Handler Save DebugUIPlugin Resources OSGi OSG Bug Debug preLaunchSave pre Launch Save Launch Scope IResource Resource Plugin handle Status Save Scope Resources Handler Debug UIPlugin pre Launch Save
+97605	maximize max imize Bug Dialog High Contrast Common
+417603	Unjustified Version Build Core Resource Mac AntCorePreferences Ant Core Preferences Win Description Ant Bug Preferences Invalid Path applying app lying reproduced reproduce Type Location Ant Core Preferences
+184644	Included Plug Feature Sorting Bug Features Editor
+308547	Runtime Identifier Reproducible Build Web WEB Content WebContent Web Content Steps INF ClassPath Path Form Bug Path Bundle Manifest Reproduce Web Content Path
+429902	Support Configuration Product Follow installMode install Mode Tycho recommending rec ommending installations install ations Bug FETCH wondered won dered acceptable accept HEAD PDE checkout check Mode install Mode
+252751	Bug
+302928	Eclipse Update Identifier Reproducible Build SDK Helios Definition Site Group Category Target Bug
+201044	Steps Plug Maximum Bug Build Create Finish Host Manifest Choose Enter Editor Reproduce
+221019	Require PDE Bug JDT Duplicated Duplicate Bundle Manifest
+256859	Add Tokens General Steps Warning OSGi OSG Illegal Legal PDE Bug Acc ording Definitions Tools complains comp lains Syntax
+241503	Steps Cycles screenshots screen shots Created Bug Build resizable res izable Dependency View Graph Reproduce Plugin
+187228	Platform Eclipse Plug Templates Click Version Build Compare Surprisingly Application RCP Steps Open Target Bug Framework notice ice OSGI Radio Reproduce
+147298	Require OSGi OSG Plug Bug Bundle Dependency Management Manifest
+181091	Plug PDE ting Bug Dependencies icularly View ant
+261474	Diff rulers rule Editors Numbers Number Bug Quick Manifest
+50018	improves imp roves Ideally Bug comprehension comp rehension
+488805	Compilation buildFinished build Finished Finished Participant DSAnnotationCompilationParticipant Annotation Compilation Participant Bug DSAnnotation Annotation build Finished DSAnnotation Compilation Participant
+321891	Project Created Bug BrokenClass Broken testcase test contrived cont rived testers test ers Missing PDE Broken Broken
+367980	Support VersionRange Version Range variants iants Version Range PluginVersionPart Plugin Version PDE ting Bug Equinox Plugin Version Range Plugin Version
+230248	Plug Created Open Bug Artifact Screenshot initially init ially
+247663	String PDE outline Bug Opening toString String String
+113004	Plug PDE Notice ice Bug Build Create Dependencies notice ice Fragments Explorer
+138093	Add Eclipse Imported nicer nice Version populated pop ulated Minimum Properties Provide Bug Adding Additionally Add itionally
+216946	Eclipse Bug assertTrue Reproduce Junit Plug IDE Test Build Steps Unable JUnit Unit Create endstates ends tates Change Plugin
+203126	Configuration Platform Wizards WorkingSets Working Sets Working forces ces Block Set PDE implementors implement ors Bug Sets JDT WorkingSetConfigurationBlock Working Set Configuration Block Working Sets Working Set Configuration Block
+130424	HOST FRAGMENT Fragments Bug interesting eresting Constants Registry generally gen erally
+482171	Dialog startswith starts Selection PDE Bug JDT haven Manifest subpackages packages interested erested PackageSelectionDialog Selection Dialog Selection Dialog
+154493	Bug
+150916	Plug Bug Export resizes res izes expands exp ands
+138127	Bug Analysis Dependecy Dep ecy
+484244	PDE Activators ivators Bug Remove
+258969	Bug Chances chooser choose Baseline Browse API
+108954	Plug Click META File INF MANIFEST Windows Bug Finish Error
+183708	Plug hing Open Bug Dependencies Dependency View Analysis
+228765	Bug
+220069	Workbench String getLabelProvider Label Provider IDeferredWorkbenchAdapter Deferred Workbench Adapter Root setTitleToolTip set Title Tool getText Text Needless fTreeViewer Tree Viewer Description Open NLS Bug setContentDescription set Content Description Plugins Path Text getInputPath Input Path toString String LabelProvider Label Provider getDeferredTreeRoot Deferred Tree Root Deferred Plug Label Viewer Adapter Input viewName view Build Tree Tool fRoot Root setInput set Input IDeferred Deferred PluginsView Plugins View Content newInput Input Title View Provider perspectives spec tives Label Provider IDeferred Workbench Adapter set Title Tool Text Tree Viewer set Content Description Input Path String Label Provider Deferred Tree Root view Root set Input Plugins View Input
+118694	Eclipse Bug Simplify filesystem files ystem RCP
+204719	Provide Bug IOExceptions Exceptions
+108466	getClass Eclipse String App ntly Resources Steps ClassPath Path OSGi OSG Loader getClassLoader Loader EclipseClassLoader Eclipse Loader Dups Bug getResources Resources ClassLoader Loader Path Bundle jarfiles jar files Path Loader Eclipse Loader Resources Loader
+171962	Add Extensions Bug refreshed res contenttype content type
+155070	Deployable Deploy UTF Exporting Ant Bug
+307149	Imported Edit Identifier Reproducible Build Packages Observe Steps OSGi OSG Restart Bug Create Adding Manifest Reproduce
+109003	subfolder folder rel atively subfolders folders MANIFEST Bug assembly ass embly
+151502	Extensions Bug Change Point
+443338	Delete Eclipse Dialog SDK Install Core Errors Project File Application RCP Steps Created Open PDE Bug Generate assertion ion
+183250	Add Product Bug Features Solution FeaturesSection Features Editor Features
+221655	Add Plug Remove Search useless Open Bug Java interesting eresting realized real ized View perspectives spec tives Filter
+197077	Repositories CVS Schema Open Read Bug Latest Definition Editors Note
+125913	Add Click Extensions Open Bug keyboard key board Keyboard Extension
+199129	Fragment PDE Externalization Ext ernalization Bug Localization Bundle Fragments Manifest MFs
+207836	Search Symbolic SymbolicName Symbolic Bug Create Commands Bundle Symbolic
+146912	AbstractModel Model Helper NLS Bug BundleErrorReporter Bundle Error Reporter NLResource Resource Localization NLResourceHelper Resource Helper Bundle Reporter Error Model Model Bundle Error Reporter NLResource Helper
+168417	Ant ting Bug Build Script Generated Successfull Successful Manifest antrunner ant runner Save
+226788	PDEModelUtility PDE Model Utility Utility Input inputContexts input Contexts File Contexts PDE Bug PDEModel PDE Model FileEditorInput File Editor Input Editor PDEModel Utility input Contexts File Editor Input
+170474	Plug dependancies depend ancies HelloWorld Project Dependancies Dep ancies Note Enter File Steps PDE Bug Activator Generate Finish Choose initially init ially
+228840	Plug Build Development attemp att emp Thai Project File Steps ÒÃì«Õ¾Õ Ò� �ì«Õ¾Õ Bug Invalid Reproduce
+252913	Bug
+465909	Locale Configuration Customization Plug Product Click Truncation Build Definition Browse Problem Steps Description GVT Created Bug Create Preferences Finish Convert refreshed res Strings English
+152054	Extensions appeared app eared Bug
+342512	Eclipse Plug Click Edit Template Identifier Reproducible Version Build SDK Verify ant Project Linux Save Steps RedHat Red Hat Action formats form ats Extensions Open Bug Menu Expressions Sample Manifest Red DBCS Tab Enterprise Enter pri Hat Editor Reproduce Red Hat
+68606	Start Plug MyPlugin Plugin Project Note Bug Plugin Plugin

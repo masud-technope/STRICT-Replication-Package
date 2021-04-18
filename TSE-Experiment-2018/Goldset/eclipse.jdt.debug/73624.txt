@@ -1,2 +1,0 @@
-org.eclipse.jdt.debug.ui/ui/org/eclipse/jdt/internal/debug/ui/launcher/JavaApplicationLaunchShortcut.java
-org.eclipse.jdt.debug.ui/ui/org/eclipse/jdt/internal/debug/ui/launcher/MainMethodSearchEngine.java

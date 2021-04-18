@@ -1,0 +1,10 @@
+2459	Size file open save dialogs incorrect dual displays size open save dialog incorrectly calculated restored dialog displayed display dual display system Windows Basically dialog opens secondary display previous size position lost tests performed explore behaviour dialog appears primary display width correctly calculated restore previous settings adjustments dialog primary display correctly restored opening dialog behaviour expect dialog appears secondary display previous size position settings lost width dialog determined minimum width tree component dialog attachment resizing dialog dialog secondary display lost time open abnormal behaviour dialog opened secondary display resized dragged primary display size position settings restored open
+2534	Key Event bugs key KeyEventWorkaround Key Event Workaround Num patch window Translator Tab Test NumPad Alt Tab window Num Pad
+2542	text characters type edit user finish general undo Undoable undos Pasting Text Current Undoable Edit
+2560	Edit jEdit Edit file browser j pre java keyboard letter editor jEdit pre file system browser keyboard handling Edit
+2571	highlighted selected number selection jvm splits accross beta multiple lines number highlighted selected
+2595	caret display position multiple views open Version pre Windows FreeBSD JDK views open file active foo txt view view buffer views view bar txt view switches foo txt caret display placement view switching bar txt caret view located Free BSD
+2635	move caret collapsing fold caret fold collapsed caret fold remaining visible reexpands fold direction key press dupe bugs post lazy check dupes Windows Java Version Sun Java jEdit Version SVN Revision Edit
+2636	Java jEdit Edit Version doesn restart work persistently lazy Edit check Clearing Register doesn work persistently
+2720	bugs Version action directory folders FSB check dupes Edit Java FSB delete action directory working
+2752	version jEdit Edit Edit regexpr check expressions jEdit freezes regexpr Edit

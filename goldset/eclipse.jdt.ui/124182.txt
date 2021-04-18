@@ -1,0 +1,3 @@
+JavaEditor:gotoAnnotation(boolean)
+JavaEditor:selectionChanged()
+JavaEditor:getAnnotation(int, int)

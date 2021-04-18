@@ -1,0 +1,4 @@
+CompilerInvocationTests:test003_dash_d_option()
+CompilerInvocationTests:compareFileLocations()
+CompilerInvocationTests:test002_dash_d_option()
+CompilerInvocationTests:test005_dash_d_option_custom_file_manager()

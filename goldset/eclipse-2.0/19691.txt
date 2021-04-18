@@ -1,0 +1,6 @@
+org.eclipse.team.core.Team:initializePluginIgnores()
+org.eclipse.team.core.Team:readIgnoreState()
+org.eclipse.team.core.Team:writeIgnoreState(DataOutputStream)
+org.eclipse.team.core.Team:shutdown()
+org.eclipse.team.core.Team:saveIgnoreState()
+org.eclipse.team.core.Team:setAllIgnores(String[], boolean[])

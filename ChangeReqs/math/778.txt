@@ -1,0 +1,2 @@
+Dfp Dfp.multiply(int x) does not comply with the general contract FieldElement.multiply(int n)
+In class {{org.apache.commons.math3.Dfp}}, the method {{multiply(int n)}} is limited to {{0 <= n <= 9999}}. This is not consistent with the general contract of {{FieldElement.multiply(int n)}}, where there should be no limitation on the values of {{n}}.

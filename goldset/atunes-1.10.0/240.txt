@@ -1,0 +1,2 @@
+net.sourceforge.atunes.kernel.executors.processes.AddLyricsToTagProcess:run()
+net.sourceforge.atunes.kernel.modules.contextInformation.Lyrics:setLyrics(String)

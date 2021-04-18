@@ -1,0 +1,5 @@
+MethodProposalInfo:findMethod(String, boolean, IType, , char[]>)
+MethodProposalInfo:isSameMethodSignature(String, boolean, IMethod, , char[]>, IType)
+MethodProposalInfo:findMethod(String, boolean, IType)
+MethodProposalInfo:findMethod(String, boolean, , char[]>)
+MethodProposalInfo:isSameMethodSignature(String, boolean, IMethod, , char[]>)

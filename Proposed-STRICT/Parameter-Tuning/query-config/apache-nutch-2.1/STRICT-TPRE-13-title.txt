@@ -1,0 +1,17 @@
+956	solrindex blogspot http techvineyard html command nutch documents describes build tests issues refer		solrindex issues
+1047	indexing plugins Elastic backends storage backend ElasticSearch Elastic Search Search SOLR add extension Couch hook	Elastic Search Couch DB	Pluggable indexing backends
+1370	INFO code crawl urls Dir url Repository Generator debugging Plugin Plugins injected Injector	Repository Dir Db url crawl Plugin	Expose exact number urls injected runtime
+1393	Generator usage GeneratorJob Generator Job stdout nutch Job willy batch code lewis nutchgora ASF action	Job Generator	Display consistent usage GeneratorJob Generator Job
+1419	content indexchecker org status protocol nutch Jul SSL URL lucene OpenSSL Open SSL apache report	Type SSL content Open	parsechecker indexchecker report protocol status
+1453	Indexing testing Filters trunk Test share test differences problem IndexingFilters Indexing Filters NUTCH justice tests	Indexing Filters Test	Substantiate tests IndexingFilters Indexing Filters
+1493	content Length contentLength content Length string solr checks patch solrindex empty NUTCH adding field Error	Length content	Error adding field contentLength solrindex content Length
+1501	Checker behavior Parser ParserChecker Parser Checker Indexing IndexingFiltersChecker Indexing Filters Checker parsechecker issue Filters NUTCH open trunk Behaviour	Checker Filters Parser Indexing	Harmonize behavior parsechecker indexchecker
+1503	Fetcher Reducer Host FetcherReducer Fetcher Reducer code fetcher nutch conf properties xml host timelimit settings	Host IP Fetcher Reducer Settings Configuration	Configuration properties sync FetcherReducer nutch xml Fetcher Reducer
+1513	Robot Ftp robots Crawl plugin nutch Datum developers noformat Rules ftp java src	Robot Crawl Datum Empty Rules	Support Robots txt Ftp urls
+1514	GZWKe Bdf VSh mail Fwv Gdc Vus configuration Tdcn properties mbox CCAFKht functionality	Fwv M Bdf Vus Pt GZWKe Gdc VSh Wr ov NNp CCAFKht	Phase deprecated configuration properties
+1532	field batch segment apache mail batchId batch org mapping user msg archive xml architecture	batch	Replace segment mapping field batchId batch
+1542	param generator urls adddays strong crawl hack clear ported Generator reason left fetch		adddays param generator
+1552	Indexing content java Filter apache contentType content Type NPE plugin code Type attempt http indexer	Indexing Type content Filter	possibility NPE plugin
+1563	Fields Fetch FetchSchedule Fetch Schedule Generater getFields Fields Web Schedule Job user GeneraterJob Generater Job WebPage Web fields method	Fetch Generater Fields Web Schedule Job	FetchSchedule getFields GeneraterJob Fetch Schedule Fields Generater Job
+1569	Patch push Maven artifacts upgrade Gora Upgrade released coming		Upgrade Gora
+1575	nutch solr authentication support		support solr authentication nutch

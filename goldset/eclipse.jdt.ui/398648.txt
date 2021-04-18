@@ -1,0 +1,1 @@
+JavadocContentAccess2:handleContentElements(ASTNode>, boolean)

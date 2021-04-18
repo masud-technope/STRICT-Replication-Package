@@ -1,4 +1,0 @@
-docs/HISTORY.txt
-src/java/org/apache/log4j/RollingFileAppender.java
-src/xdocs/download.xml
-tests/src/java/org/apache/log4j/RFATestCase.java

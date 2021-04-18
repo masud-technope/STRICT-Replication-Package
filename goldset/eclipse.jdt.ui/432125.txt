@@ -1,0 +1,1 @@
+LocalCorrectionsSubProcessor:addDeprecatedFieldsToMethodsProposals(IInvocationContext, IProblemLocation, Collection<ICommandAccess>)

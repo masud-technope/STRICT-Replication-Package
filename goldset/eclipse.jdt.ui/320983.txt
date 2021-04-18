@@ -1,0 +1,2 @@
+JavaElementLabelComposer:appendTypeSignatureLabel(IJavaElement, String, long)
+JavaElementLabelComposer:getSimpleTypeName(IJavaElement, String)

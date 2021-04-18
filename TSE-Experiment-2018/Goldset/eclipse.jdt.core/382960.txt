@@ -1,2 +1,0 @@
-org.eclipse.jdt.core.tests.builder/src/org/eclipse/jdt/core/tests/builder/PackageInfoTest.java
-org.eclipse.jdt.core/model/org/eclipse/jdt/internal/core/builder/IncrementalImageBuilder.java

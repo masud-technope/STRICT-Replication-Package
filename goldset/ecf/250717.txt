@@ -1,1 +1,6 @@
-framework/bundles/org.eclipse.ecf.identity/src/org/eclipse/ecf/core/identity/URIID.java
+URIID:namespaceCompareTo(BaseID)
+URIID:namespaceEquals(BaseID)
+URIID:namespaceHashCode()
+URIID:toURI()
+URIID:namespaceGetName()
+URIID:URIID(Namespace, URI)

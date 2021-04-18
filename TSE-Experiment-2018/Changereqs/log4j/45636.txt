@@ -1,6 +1,0 @@
-45636 – 2 tests for DateLayout are failing because of ill initialized DateFormat
-Inside org.apache.log4j.helpers.DateLayoutTest, testISO8601Format() and testDateTimeFormat() necessarily result in failures when run through an mvn test in the root directory.
-Indeed the ISO8601DateFormat and DateTimeFormat object responsible for this issue have a memory of the previous date they formatted (kept as a long representing the specified number of milliseconds since the standard base time known as "the epoch", namely January 1, 1970, 00:00:00 GMT) and the resulting String.
-If they are asked again to format the same time, then they just return the corresponding String without having to do the formatting again.
-But both test cases require to format a date precisely corresponding to 01 Jan 1970 00:00, that is to say 0 ms since "the epoch", which is their initial state.
-The problem is the corresponding String is not properly initialized by their constructor so they return a value of "000" and "01 Jan 1970 000" instead of "1970-01-01 00:00:00,000" and "01 Jan 1970 00:00:00,000".

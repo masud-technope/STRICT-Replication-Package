@@ -1,0 +1,4 @@
+RenameMethodWithOverloadPerfTests:test_10_10()
+RenameMethodWithOverloadPerfTests:test_100_10()
+RenameMethodWithOverloadPerfTests:explainDegradation()
+RenameMethodWithOverloadPerfTests:test_1000_10()

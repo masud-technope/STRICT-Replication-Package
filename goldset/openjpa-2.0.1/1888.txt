@@ -1,0 +1,6 @@
+org.apache.openjpa.abstractstore.AbstractStoreManager:flush(Collection)
+org.apache.openjpa.abstractstore.AbstractStoreManager:flush(Collection, Collection, Collection, Collection, Collection)
+org.apache.openjpa.kernel.ManagedCache:copy()
+org.apache.openjpa.kernel.ManagedCache:add(StateManagerImpl)
+org.apache.openjpa.kernel.ManagedCache:clear()
+org.apache.openjpa.abstractstore.AbstractStoreManager:getUnsupportedOptions()

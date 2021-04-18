@@ -1,5 +1,0 @@
-java/javax/el/ExpressionFactory.java
-java/org/apache/jasper/compiler/JspUtil.java
-java/org/apache/jasper/compiler/PageInfo.java
-java/org/apache/jasper/compiler/Validator.java
-java/org/apache/jasper/runtime/JspApplicationContextImpl.java

@@ -1,0 +1,2 @@
+[CVS Core] Sending large files may result in excessive memory usage
+Session.sendFile() buffers entire files in memory when converting line delimiters in text files, and/or GZIP'ing text or binary files. Should place an upper bound on how large a file can be buffered. Files larger than this size should be read from disk twice, once to compute the final size, and once to send the contents.

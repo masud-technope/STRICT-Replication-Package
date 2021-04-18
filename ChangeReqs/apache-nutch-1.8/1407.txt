@@ -1,0 +1,2 @@
+BasicIndexingFilter to optionally add domain field
+The basic indexing filter already adds the host field to a NutchDocument but no domain field. In Solr you can copyField a host field and obtain a domain field but this is a bit cumbersome and not very user friendly.

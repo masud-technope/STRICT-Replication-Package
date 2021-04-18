@@ -1,0 +1,6 @@
+P2Utils:getBundleLocationPath(BundleInfo)
+P2Utils:getBundlesFromFile(URL, URL)
+P2Utils:addLocationDirs(List, Location, boolean)
+P2Utils:findBundle(String, VersionRange, boolean, boolean)
+P2Utils:readBundles(boolean, boolean)
+P2Utils:findBundle(String, VersionRange, boolean)

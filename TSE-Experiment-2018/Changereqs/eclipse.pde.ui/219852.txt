@@ -1,3 +1,0 @@
-Bug 219852 – [refactoring] changing plugin.properties should update Bundle-Localization
-1) refactor plugin.properties to bundle.properties
-2) notice how Bundle-Localization isn't updated :(

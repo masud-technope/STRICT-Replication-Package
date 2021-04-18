@@ -1,0 +1,1 @@
+AdvancedQuickAssistProcessor:getReplaceIfElseWithConditionalProposals(IInvocationContext, ASTNode, Collection)

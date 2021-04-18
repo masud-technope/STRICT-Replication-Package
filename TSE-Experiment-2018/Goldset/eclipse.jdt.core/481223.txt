@@ -1,3 +1,0 @@
-org.eclipse.jdt.core/compiler/org/eclipse/jdt/core/compiler/CharOperation.java
-org.eclipse.jdt.core/search/org/eclipse/jdt/internal/core/search/indexing/BinaryIndexer.java
-org.eclipse.jdt.core/search/org/eclipse/jdt/internal/core/search/matching/MethodDeclarationPattern.java
