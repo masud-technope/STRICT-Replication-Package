@@ -102,7 +102,7 @@ License & Others
 - ```LICENSE```
 
 
-Accepted Papers
+Previously Accepted Papers
 -------------------------------
 ```
 STRICT: Information Retrieval Based Search Term Identification for Concept Location
@@ -121,7 +121,7 @@ Mohammad Masudur Rahman, Chanchal K. Roy
      alt="PDF" heigh="16px" width="16px" />](https://web.cs.dal.ca/~masud/papers/masud-SANER2015.pdf)
 
 
-Please cite our works as
+Please cite our work as
 ------------------------------------------------------------
 ```
 @INPROCEEDINGS{saner2017masud,
