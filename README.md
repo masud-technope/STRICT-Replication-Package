@@ -155,7 +155,7 @@ pages={540-544} }
 
 Something not working as expected?
 --------------------------------------------
-Please contact **Masud Rahman** (masud.rahman@usask.ca) 
+Please contact **Masud Rahman** (masud.rahman@dal.ca) 
 
 or 
 
